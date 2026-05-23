@@ -1,14 +1,154 @@
 {
   "articles": [
     {
-      "title": "生成AIなんでも展示会、想像以上に“なんでも”だった　ホラーもぬいもロボも登場",
-      "url": "https://ascii.jp/elem/000/004/403/4403363/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/19/4468730/s/ee2efd24de9ab237.jpg\" width=\"60\" />2026年5月6日、「生成AIなんでも展示会 vol.5」が開催された。どんな展示があったかを記載したい。</p><br clear=\"left\" />",
+      "title": "ソースネクストのAI議事録、Microsoft 365 Copilot連携で検索、要約を効率化",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2605/23/news017.html",
+      "summary": "ソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を始めた。Microsoft 365 Copilotから過去の会議データを検索、要約、抽出できるようにし、議事録作成や報告業務の効率化を支援する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-05-23T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/kn/articles/2605/23/cover_news017.jpg",
+      "body_ja": "ソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を始めた。Microsoft 365 Copilotから過去の会議データを検索、要約、抽出できるようにし、議事録作成や報告業務の効率化を支援する。\nソースネクストは、AI議事録サービス「AutoMemo」の新機能として、「AutoMemo Copilot エージェント」の提供を開始した。「Microsoft 365 Copilot」と連携することで、AutoMemoに蓄積された会議データを直接活用できるようになる。\n本機能では、AutoMemoアカウントを連携した上で「AutoMemo Copilot エージェント」を起動すると、過去の会議内容を自然な会話形式で検索が可能になる。日付やファイル名を正確に覚えていなくても、話題や発言内容を手掛かりに必要な会議データを見つけ出せる。\nさらに、検索だけでなく、会議データを基にした要約や情報整理にも対応する。会議の議題や"
+    },
+    {
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-05-23T15:08:00",
+      "title_ja": "フェラーリは IBM の AI を使用して F1 のスーパーファンを生み出しています",
+      "summary_ja": "IBM と Scuderia Ferrari HP は、TechCrunch がファン エクスペリエンスをどのように再定義しているかを紹介します。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
+      "body_ja": "2 年前、IBM はスポーツ パートナーシップの名簿に明らかな欠落が 1 つあることに気づきました。それは、F1 です。\nF1 は世界で最も人気のあるスポーツの 1 つとなっており、特に米国では Netflix の「Drive to Survive」が F1 ドライバーの労働生活を記録し、彼らを主流の有名人に変えました。このテクノロジー中心のスポーツは、チームと提携している AWS、Oracle、Anthropic などのテクノロジー企業にとっても注目のスポーツとなっています。"
+    },
+    {
+      "title": "24時間限定で最大8万円オフ！ 最新RTX 5080ゲーミングPCを安く買うチャンス",
+      "url": "https://ascii.jp/elem/000/004/404/4404191/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470324/s/7153fdf2adcff786.png\" width=\"60\" />セブンアールジャパンが5月24日に24時間限定セールを開催し、最新のゲーミングPCが最大80,000円割引される。詳細スペックと特価をチェックしよう。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-05-22T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/19/4468730/s/ee2efd24de9ab237.jpg"
+      "published": "2026-05-23T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/22/4470324/s/7153fdf2adcff786.png"
+    },
+    {
+      "title": "Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-05-23T13:00:00",
+      "title_ja": "イーロン・マスクは太陽光発電（地球上）を諦めた",
+      "summary_ja": "イーロン・ムクスのxAIは天然ガスに全力を注ぐ一方、スペースXは軌道上のデータセンターに夢中だ。彼が約束した「太陽光発電経済」はどうなったのでしょうか？",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275592313.jpg?resize=1200,800",
+      "body_ja": "イーロン・マスクはテスラの基本計画、電化経済、そして私たちが知っている太陽光発電を諦めたのだろうか？今週発表されたSpaceXのIPO申請書を見ると、確かにそのようだ。\nマスクの詩に巻き込まれていない人のために要約すると、テスラは長年にわたって 4 つのマスター プランを発表しており、詳細は異なりますが、一貫したラインは経済の電化でした。マスク氏は初版で次のように述べています。「テスラモーターの最も重要な目的は…"
+    },
+    {
+      "title": "“激安ノーブランド”は不安…。ACEの拡張＆前開きキャリーが1万円台に！",
+      "url": "https://ascii.jp/elem/000/004/404/4404220/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470385/s/b592707465cfe44a.jpg\" width=\"60\" />ACEのスーツケース「エスカレラ No.05651」がAmazonタイムセール対象。参考価格36,300円のところ、46％オフの19,602円で販売中。フロントオープンや容量拡張機能を備えた機内持ち込み対応モデル。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-23T11:30:00",
+      "image_url": "https://ascii.jp/img/2026/05/22/4470385/s/b592707465cfe44a.jpg"
+    },
+    {
+      "title": "アップル、次期Apple WatchでTouch ID搭載を見送りか",
+      "url": "https://ascii.jp/elem/000/004/404/4404439/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470718/s/a0c7a5134fa4e13a.png\" width=\"60\" />アップルの次期Apple Watchには、指紋認証機能「Touch ID」が搭載されない可能性が高いという。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-23T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/22/4470718/s/a0c7a5134fa4e13a.png"
+    },
+    {
+      "title": "アップル、iPhone 18でモデム自社製に統一か　Qualcomm依存を終了へ",
+      "url": "https://ascii.jp/elem/000/004/404/4404438/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470717/s/b0b4f7b1532cf2dc.png\" width=\"60\" />アップルが2026年に発売するiPhone 18シリーズは全モデルにアップル自社製のC2モデムが搭載され、Qualcomm製モデムのサポートが終了する予定だという。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-23T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/22/4470717/s/b0b4f7b1532cf2dc.png"
+    },
+    {
+      "title": "アップル「20周年iPhone」買うなら2028年まで待つべき？　曲面ディスプレーが進化か",
+      "url": "https://ascii.jp/elem/000/004/404/4404437/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470716/s/7e4bcff2d3d94578.png\" width=\"60\" />アップルは2027年に発売するとうわさの20周年記念iPhoneに搭載する曲面ディスプレーを、その翌年の2028年にさらに進化させる方針だという。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-23T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/22/4470716/s/7e4bcff2d3d94578.png"
+    },
+    {
+      "title": "RTX 5060・32GB。有線LANも削ってない16型「TUF Gaming A16」がAmazonでタイムセール中",
+      "url": "https://ascii.jp/elem/000/004/403/4403946/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/21/4469787/s/5c8cef194b03f0c0.jpg\" width=\"60\" />ASUSの16型ゲーミングノートPC「TUF Gaming A16 FA608UM」がAmazonタイムセール対象。参考価格279,800円のところ、11％オフの249,800円で販売中。RTX 5060 Laptop GPUや32GBメモリ、165Hz対応16型ディスプレイに加え、有線LANやUSB4も搭載。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-23T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/21/4469787/s/5c8cef194b03f0c0.jpg"
+    },
+    {
+      "title": "1kg切りで14型、しかも交換式バッテリー対応。dynabook XP/ZAがタイムセール中",
+      "url": "https://ascii.jp/elem/000/004/404/4404201/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470328/s/1a32eec8d9b90082.jpg\" width=\"60\" />dynabookの14型ノートPC「XP/ZA（W6XPZA5CAH）」がAmazonタイムセール対象。過去価格191,620円のところ、6％オフの179,912円で販売中。約958gの軽量ボディに14型ディスプレイを搭載し、セルフ交換バッテリーにも対応する。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-23T10:30:00",
+      "image_url": "https://ascii.jp/img/2026/05/22/4470328/s/1a32eec8d9b90082.jpg"
+    },
+    {
+      "title": "AMD Ryzen AI 7 350搭載の一体型デスクトップ「FMV WF2-L1」がFMV直販でお買い得",
+      "url": "https://ascii.jp/elem/000/004/403/4403298/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-23T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
+    },
+    {
+      "title": "副編集長が「上手なめくり方」まで伝授！ グラドル1年生・えぬちゃんが「Cream」に初登場",
+      "url": "https://ascii.jp/elem/000/004/403/4403070/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/19/4468533/s/0c1dc614559abe13.jpg\" width=\"60\" />芸能活動のため、4月に熊本県から上京してきたばかり。グラドル1年生の「えぬちゃん」が、制服美少女誌「Cream 2026年6月号」の掲載記念イベントを秋葉原の書泉ブックタワーで開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-23T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/19/4468533/s/0c1dc614559abe13.jpg"
+    },
+    {
+      "title": "この夏『リボンの騎士』が『THE RIBBON HERO リボンヒーロー』として生まれ変わる！　漫画の神様・手塚治虫のアニメ作品",
+      "url": "https://ascii.jp/elem/000/004/404/4404531/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/23/4471085/s/63b004b14c4548bf.jpg\" width=\"60\" />これまでアニメ新番組特集で紹介してきた数千に上るアニメ作品。その中から、いま観るべき作品をピックアップしてお届け。第22回は日本初の連続TVアニメ『鉄腕アトム』を生み出した、漫画の神様・手塚治虫の作品を紹介する。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-05-23T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/05/23/4471085/s/63b004b14c4548bf.jpg"
+    },
+    {
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-05-22T23:03:33",
+      "title_ja": "AI は死亡したパイロットの声を復活させるために使用されています",
+      "summary_ja": "人々はコックピットの記録のスペクトログラム画像に AI を使用して再構築し、NTSB がその記録システムへのアクセスを一時的にブロックすることを余儀なくされました。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
+      "body_ja": "AI が多用される時代の最新の兆候として、国家運輸安全委員会は、昨年の UPS 飛行機墜落事故で死亡したパイロットの音声が AI を使用して再作成され、インターネット上で流通していることを発見した後、記録簿システムへのアクセスを一時的に削除しました。\nNTSB は連邦法により、コックピットの音声記録をその文書システムに含めることを禁止されており、そうでない場合、その文書システムには捜査に関する大量のデータが含まれます。"
     },
     {
       "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
@@ -44,7 +184,7 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-05-22T18:17:07",
-      "title_ja": "イーロン・マスクは、1 兆 7,500 億ドルの IPO の音であなたの声が聞こえません |9 月| SpaceX S-1 がついに登場し、それが語るストーリーはロケットよりはるかに先を行っています。提出書類はリスク要因だけで 36 ページに及び、中の数字はリスク要因と一致します。",
+      "title_ja": "イーロン・マスクは、1 兆 7,500 億ドルの IPO の音であなたの声が聞こえません |9 月 | SpaceX S-1 がついに登場し、それが語るストーリーはロケットよりはるかに先を行っています。提出書類はリスク要因だけで 36 ページに及び、中の数字はリスク要因と一致します。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275592313.jpg?resize=1200,800",
       "body_ja": "SpaceX S-1 がついに登場しました。この S-1 が語るストーリーは、ロケットよりもはるかに進んでいます。申請書にはリスク要因だけでも36ページに及ぶが、その中の数字は目標と一致している。対象となる市場総額は28兆ドル、火星植民地の設立に伴う報酬パッケージ、そして米国史上最大のIPOとなる評価目標だ。\nTechCrunch の Equity ポッドキャストのこのエピソードでは、Kirsten Korosec、Anthony Ha、Sean O’Kane が深く掘り下げています。"
@@ -76,16 +216,6 @@
       "body_ja": "今週開催された Google I/O 開発者カンファレンスでは、Google が今後発売する AI 搭載メガネを簡単に体験する機会がありました。同社が今秋に出荷を開始すると発表したオーディオ専用メガネではなく、オーディオとビジュアルを組み合わせた体験を提供するメガネです。\n昨年のイベントで初めて発表されたこれらの Android XR メガネは、レンズ内ディスプレイを備えており、役立つ情報が目の前に表示され、レンズの上に重ねて表示されます。"
     },
     {
-      "title": "ゲーミングPCが大幅値下げ、RTX 5090搭載モデルなど対象の限定セール開催",
-      "url": "https://ascii.jp/elem/000/004/403/4403818/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/21/4469681/s/4f674ed68a159d16.png\" width=\"60\" />セブンアールジャパンが5月23日に24時間限定で、最新ゲーミングPCが最大125,000円オフになるセールを開催。注目商品は高性能な「ZEFT R69F」や優れたコストパフォーマンスの「ZEFT Z57A」など。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-22T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/21/4469681/s/4f674ed68a159d16.png"
-    },
-    {
       "title": "SpaceX files to go public, and the math requires a little faith",
       "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
       "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony,",
@@ -107,79 +237,9 @@
       "lang": "en",
       "published": "2026-05-22T12:10:00",
       "title_ja": "ダウンロード: コーディングの未来、「ステロイド オリンピック」、AI 主導の科学",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。クロードによる人類の規範",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。クロードによる人類の規範",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Katelyn-Lesse-Anthropic-Head-of-Engineering-Claude-Platform-1.jpg?resize=1200,600",
       "body_ja": "ダウンロード: コーディングの未来、「ステロイド オリンピック」、AI 主導の科学\nさらに、トランプ大統領は過剰規制への懸念からAI命令を延期した。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nAnthropic の Code with Claude は、好むと好まざるにかかわらず、コーディングの未来を誇示しました\n今週ロンドンで開催された Anthropic の開発者イベント「Code with Claude」では、参加者は次のようになりました。"
-    },
-    {
-      "title": "宇宙から地球への輸送サービス実現に挑むElevationSpaceが優勝、B Dash Camp 2026 Spring",
-      "url": "https://ascii.jp/elem/000/004/404/4404503/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470882/s/720174c24c327f5f.jpg\" width=\"60\" />「B Dash Camp 2026 Spring in Sapporo」が、2026年5月20日から22日にかけて札幌市内で開催。最終日の22日には「Pitch Arena Final Round（決勝）」が行われ、株式会社ElevationSpaceが優勝した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-22T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/22/4470882/s/720174c24c327f5f.jpg"
-    },
-    {
-      "title": "14型で使いやすいASUSの万能ノート「Vivobook 14」 タイムセールで11万9800円！",
-      "url": "https://ascii.jp/elem/000/004/404/4404480/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470769/s/929f91a5e20e26d4.jpg\" width=\"60\" />Amazon.co.jpにて、ノートPC「ASUS Vivobook 14」がセール中。Windows 11／AMD Ryzen 7 170／メモリ16GB／SSD 512GBモデルで、11万9800円となる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-22T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/22/4470769/s/929f91a5e20e26d4.jpg"
-    },
-    {
-      "title": "この肉抜きデザイン、かなりカッコいい。約49gのGravaStar製ワイヤレスマウスが35％オフ",
-      "url": "https://ascii.jp/elem/000/004/404/4404454/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470745/s/a6c37ce200963cb8.jpg\" width=\"60\" />Amazon.co.jpにて、GravaStarのゲーミングマウス「GravaStar Mercury X」が販売中だ。参考価格は1万5980円だが、タイムセールにより35％オフの1万387円で購入できる（5月22日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-22T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/22/4470745/s/a6c37ce200963cb8.jpg"
-    },
-    {
-      "title": "アップル初の折りたたみ式「iPhone Ultra」、カラーは2色だけ？",
-      "url": "https://ascii.jp/elem/000/004/404/4404436/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470715/s/8e6401f324f65356.png\" width=\"60\" />アップルが今年発売するとうわさの初の折りたたみ式iPhoneは、わずか2色のみのカラー展開になるという。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-22T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/22/4470715/s/8e6401f324f65356.png"
-    },
-    {
-      "title": "アップル製チップ、インテル製に？　TSMC独占に変化の兆し",
-      "url": "https://ascii.jp/elem/000/004/404/4404434/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470704/s/ff27f7eec87f5954.png\" width=\"60\" />アップルはiPhoneやiPad、Macに搭載するチップの一部の製造を、台湾のTSMCだけでなくインテルに任せる準備を進めている可能性が高い。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-22T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/22/4470704/s/ff27f7eec87f5954.png"
-    },
-    {
-      "title": "あえて苦い。だからうまい。「ザ・ビタリスト」500ml缶×24本がタイムセールで13％オフ",
-      "url": "https://ascii.jp/elem/000/004/404/4404333/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470545/s/116a39033734e0fe.jpg\" width=\"60\" />「アサヒ ザ・ビタリスト THE BITTER-IST 500ml×24本」が、現在開催中のAmazonタイムセールで13％オフ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-22T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/22/4470545/s/116a39033734e0fe.jpg"
-    },
-    {
-      "title": "『P5X』に『ペルソナ3 リロード』の主人公「結城 理」が登場！Ver.4.1アップデートを実施",
-      "url": "https://ascii.jp/elem/000/004/404/4404493/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470825/s/15c0d407e6b9ff2e.jpg\" width=\"60\" />セガは、iOS／Android／PC（Google Play Games／Steam）で配信中の『ペルソナ５: The Phantom X』にて、2026年5月21日にVer.4.1アップデートを実施。イベント「月の道を往く・月光まばゆき人工島」を開催している。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-22T10:25:00",
-      "image_url": "https://ascii.jp/img/2026/05/22/4470825/s/15c0d407e6b9ff2e.jpg"
     },
     {
       "title": "Google I/O showed how the path for AI-driven science is shifting",
@@ -195,42 +255,6 @@
       "body_ja": "Google I/O は、AI 主導の科学の道がどのように変化しているかを示しました\n2 年前、ある AI ツールが Google DeepMind にノーベル賞を受賞しました。研究者たちは現在、新たな目標に向かって進んでいます。\n火曜日の Google I/O 基調講演で、Google DeepMind の CEO、デミス・ハサビス氏は、現在私たちは「特異点の麓に立っている」と宣言しました。それは衝撃的な言葉でした。シンギュラリティとは、AI が人間の知性を急速に超える理論上の未来の瞬間です"
     },
     {
-      "title": "OpenAI opens Singapore AI lab as IMDA updates AI framework",
-      "url": "https://www.artificialintelligence-news.com/news/openai-singapore-ai-lab-imda-agentic-ai-framework/",
-      "summary": "<p>OpenAI will open its first Applied AI Lab outside the US in Singapore. The lab is part of a new partnership with the Ministry of Digital Development and Information. The initiative, called OpenAI for Singapore, was announced at the ATx Summit and is backed by a commitment of more than S$300 milli",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-22T10:00:00",
-      "title_ja": "IMDA が AI フレームワークを更新するため、OpenAI がシンガポール AI ラボを開設 |9 月| OpenAIは、米国外初となるApplied AI Labをシンガポールに開設する。このラボは、デジタル開発情報省との新しいパートナーシップの一部です。イニシアチブ",
-      "summary_ja": "",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/OpenAI-opens-Singapore-AI-lab-as-IMDA-updates-AI-framework-scaled-e1779421698570.jpg",
-      "body_ja": "OpenAIは、米国外初となるApplied AI Labをシンガポールに開設する。このラボは、デジタル開発情報省との新しいパートナーシップの一部です。\nOpenAI for Singapore と呼ばれるこの取り組みは、ATx サミットで発表され、3 億シンガポールドル以上の資金提供を受けています。\nこのラボでは、今後数年間でシンガポールを拠点とする 200 以上の技術職を創出する予定です。 OpenAIは、シンガポールも世界的なハブの1つになるだろうと述べた。"
-    },
-    {
-      "title": "China’s AI just mapped its entire renewable energy grid. Here’s why the rest of the world should pay attention",
-      "url": "https://www.artificialintelligence-news.com/news/ai-energy-grid-mapping-china/",
-      "summary": "<p>Every major economy is staring at the same problem right now. Artificial intelligence is consuming electricity at a pace that grids were never designed to handle. In the US, capacity market prices in PJM, the country&#8217;s largest grid operator, have risen more than tenfold in two years, with d",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-22T10:00:00",
-      "title_ja": "中国の AI が再生可能エネルギー網全体をマッピングしたところです。世界の他の国々が注目すべき理由はここにあります",
-      "summary_ja": "現在、どの主要経済国も同じ問題に直面しています。人工知能は、送電網が決して処理できるように設計されていないペースで電力を消費しています。米国では、キャパシ",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/luo-lei-Xa4pTwafe5U-unsplash-scaled.jpg",
-      "body_ja": "現在、どの主要経済国も同じ問題に直面しています。人工知能は、送電網が決して処理できるように設計されていないペースで電力を消費しています。米国では、国内最大の送電事業者である PJM の容量市場価格が 2 年間で 10 倍以上に上昇しており、主な要因としてデータセンターの成長が挙げられています。ヨーロッパでは、電力会社は誇大宣伝に遅れないよう迅速に送電インフラをアップグレードしようと躍起になっている"
-    },
-    {
-      "title": "ホンダのEV、ちょっと楽しそうすぎる 「Super-ONE」は走りと音で気分を上げる小型モデル",
-      "url": "https://ascii.jp/elem/000/004/404/4404481/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/22/4470822/s/ce464b18a6685ae2.png\" width=\"60\" />ホンダは小型EV「Super-ONE」を5月22日から発売。N-ONE e:をベースに、BOOSTモードや仮想7段シフト、専用サウンド演出を搭載。価格は339万200円。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-05-22T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/05/22/4470822/s/ce464b18a6685ae2.png"
-    },
-    {
       "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
       "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
       "summary": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organizers ",
@@ -242,19 +266,6 @@
       "summary_ja": "今週の日曜日、42 人のアスリートのグループがラスベガスに集まり、ちょっと変わったスポーツ大会に出場します。最初のエンハンスド ゲームへの参加者が奨励されています",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/enhanced-swim.jpg?resize=1200,600",
       "body_ja": "強化されたゲームは、2026 年の残りの長寿の雰囲気にぴったりとフィットします\n私たちは明らかに強化の時代に入っています。\n今週の日曜日、42 人のアスリートのグループがラスベガスに集まり、ちょっと変わったスポーツ大会に出場します。第 1 回エンハンスド ゲームの参加者には、パフォーマンスを向上させる薬の摂取が奨励されています。目標は「人間のパフォーマンスの限界を押し上げる」ことです。\nゲームの主催者は、競技者はただのことをするだけだと述べた。"
-    },
-    {
-      "title": "Musk and Zuckerberg convinced Trump to scrap AI executive order",
-      "url": "https://www.artificialintelligence-news.com/news/trump-ai-executive-order-scrapped-musk-zuckerberg-china/",
-      "summary": "<p>The ceremony was scheduled. The CEOs were on the guest list. And then it wasn&#8217;t happening. On Thursday, US President Donald Trump scrapped a planned AI executive order, which had already been delayed multiple times, citing concerns that it might erode America&#8217;s competitive edge over C",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-22T09:00:00",
-      "title_ja": "マスク氏とザッカーバーグ氏はトランプ氏にAI大統領令を廃止するよう説得した",
-      "summary_ja": "式典が予定されていた。 CEOらもゲストリストに名を連ねた。そしてそれは起こらなかった。木曜日、ドナルド・トランプ米大統領は計画されていたAI大統領令を撤回した。",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/P20251029DT-2485.jpg-scaled.webp",
-      "body_ja": "式典が予定されていた。 CEOらもゲストリストに名を連ねた。そしてそれは起こらなかった。\n木曜日、ドナルド・トランプ米大統領は、中国に対する米国の競争力を損なう可能性があるとの懸念を理由に、すでに何度も延期されていた計画されていたAI大統領令を撤回した。\nトランプ大統領はオーバルオー紙で記者団に対し、「われわれは中国をリードしており、すべての人をリードしている。そのリードを邪魔するようなことは何もしたくない」と語った。"
     },
     {
       "title": "「私も2次元しか愛せない人間」　小野田大臣がAIへの恋愛感情に見解示す　依存には懸念",
@@ -379,20 +390,7 @@
       "title_ja": "Spotify とユニバーサル ミュージックがファンメイドの AI カバーとリミックスを許可する契約を締結 |9月| Spotify はユニバーサル ミュージック グループと提携し、プレミアム加入者が AI 生成の曲のカバーとリミックスを作成できるようにし、参加アーティストが収益の一部を受け取ることができます。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063-e1702479483636.jpeg?resize=1200,676",
-      "body_ja": "気をつけろ、スノ。 Spotifyは木曜日、ユニバーサル ミュージック グループ（UMG）と提携し、ファンが生成AI技術を利用してお気に入りの曲のカバーやリミックスを作成できるようにしたと発表した。このツールは、Spotify のプレミアム加入者のみが利用できる有料アドオンとして開始され、参加アーティストに、彼らの作品に基づいて AI が生成した音楽に対する収益分配を提供します。\n同社は新製品の価格や発売日については明らかにしなかった。"
-    },
-    {
-      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-05-21T19:19:05",
-      "title_ja": "Google が本当の Google ではなくなった今、試す価値のある 6 つの検索エンジン",
-      "summary_ja": "Google は大きく変わろうとしています。AI 概要機能のファンでなければ、今後登場するものを気に入らないでしょう。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2151663494.jpg?resize=1200,801",
-      "body_ja": "Google は大きく変わろうとしています。AI 概要機能のファンでなければ、今後登場するものを気に入らないでしょう。\n今週開催されたGoogle I/O 2026の基調講演で同社は、会話型のAI主導型アプローチを採用するために検索を全面的に見直しており、例えばお気に入りのバンドがツアーに出る場合には自動的に通知してくれるAIエージェントの協力をユーザーに求めることも発表した。\n「これは私たちのiconiへの最大のアップグレードです"
+      "body_ja": "気をつけろよ、スノ。 Spotifyは木曜日、ユニバーサル ミュージック グループ（UMG）と提携し、ファンが生成AI技術を利用してお気に入りの曲のカバーやリミックスを作成できるようにしたと発表した。このツールは、Spotify のプレミアム加入者のみが利用できる有料アドオンとして開始され、参加アーティストに、彼らの作品に基づいて AI が生成した音楽に対する収益分配を提供します。\n同社は、新製品の価格や発売日については明らかにしなかった。"
     },
     {
       "title": "Scaling creativity in the age of AI",
@@ -406,30 +404,6 @@
       "summary_ja": "ストーリーテリングは人類の DNA の核であり、理想、警告、希望、経験を表現したいという私たちの衝動から生まれます。テクノロジーは常に媒体を通じて織り込まれ、",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Digital-paper-marble.jpeg?resize=1200,600",
       "body_ja": "スポンサー付き\nAI 時代における創造性の拡大\nブランドに基づいたコンテンツ制作で顧客の信頼を築くことは、戦略上の必須事項となっています。\nアドビ提供\nストーリーテリングは人類の DNA の核であり、理想、警告、希望、経験を表現したいという私たちの衝動から生まれます。テクノロジーは常に媒体と流通を通じて織り込まれてきました。初期の人類による洞窟壁画用の天然顔料や木炭の革新から、文字通りの表現に至るまでです。"
-    },
-    {
-      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-05-21T17:30:45",
-      "title_ja": "トランプ大統領、AIセキュリティに関する大統領令を延期、言葉遣いが「阻害要因になった可能性がある」",
-      "summary_ja": "トランプ大統領は、大統領令の文言への不満を理由に、AIモデルの公開前に政府の安全保障審査を義務付ける大統領令への署名を延期した。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
-      "body_ja": "ドナルド・トランプ大統領は、政府がAIモデルを公開前に評価できるようにする大統領令への署名を遅らせた。\nトランプ大統領は大統領令の文言に満足していないと主張し、「大統領令の特定の側面が気に入らなかった」とホワイトハウスの記者団に語った。 「私たちは中国をリードしており、すべての人をリードしている。その指導を邪魔するようなことは何もしたくない。」\n非公式な理由: テクノロジー系 CEO が足りない"
-    },
-    {
-      "title": "開発現場のAI導入、“リアルな効果”どう測る？　KDDIやDMMなどと検証へ、ファインディ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000015/",
-      "summary": "ITエンジニアの転職支援などを手掛けるファインディが、組織におけるAI活用の効果を測る新指標の検証プロジェクトを始める。詳細や背景を聞いた。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-05-21T16:41:05",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2605/22/2000000015/10000111/2048",
-      "body_ja": "開発現場のAI導入、“リアルな効果”どう測る？ KDDIやDMMなどと検証へ、ファインディ\n「AIを導入したからといって、必ずしも成果が上がるわけではない」――ITエンジニアの転職支援などを手掛けるファインディ（東京都品川区）の西澤恭介氏（執行役員）は、開発現場のAI導入についてこのように指摘する。\nAIの発展に伴い、ソフトウェア開発におけるAIの利用は拡大している。一方、その成果は、AIが参照できるデータやAIを管理する仕組みなど組織の環境に左右される。また、成果が出せたとしても、それ以上にAIツールの利用コストがかさむ可能性もある。AI投資が事業成果につながるとは限らないという。\nこうした背景からファインディは5月22日、組織におけるAI活用の効果を測る新指標の検証プロジェクトを始めると発表した。開発チームの生産性を可視化する同社サービス「Findy Team+」を利用する複数の企業と協力し、指標の妥当性を確かめる予定だ。\n新指標の詳細や背景を西澤氏に聞いた。\n新指標の3つの観点\nフ"
     },
     {
       "title": "生成AIのマーケティング活用方法8選！企業の活用事例もわかりやすく解説",
@@ -452,19 +426,6 @@
       "published": "2026-05-21T15:56:33",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/05/ChatGPT-Image-2026年5月22日-00_55_24.jpg",
       "body_ja": "1人法務や少人数の法務部門ほど案件が回りきらず、生成AIで効率化したいと考える法務担当者は多いのではないでしょうか。\n生成AIは、契約書レビューからドラフト作成、リーガルリサーチまで法務業務の幅広い工程を支援できます。日本経済新聞の調査では、企業の76%が法務領域で生成AIを活用しているとされています。\n>出典：「生成AI、企業の76%が法務で活用 リスク管理が課題」（日本経済新聞）\n活用法を知らないまま手作業を続ければ、AIを使いこなす法務パーソンに差をつけられかねません。一方で、安全策を知らずに機密契約書を入力すれば情報漏洩を招きます。活用法とリスク対策をセットで押さえることが、失敗しない第一歩です。\n本記事では、法務業務での生成AIの活用シーンとプロンプト例を中心に、ツールの選び方や安全に使うための注意点、導入の進め方まで解説します。\n読み終えるころには、自社の法務業務のどこに生成AIを活かせるかを判断でき、安全に使い始める道筋を描ける状態になります。\n目次\n法務業務における生成A"
-    },
-    {
-      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-05-21T15:27:00",
-      "title_ja": "Spotify が AI を利用した Q&A およびブリーフィング生成機能をポッドキャストに追加",
-      "summary_ja": "Spotify では、プロンプトに基づいて毎日または毎週のブリーフを生成できます",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-5.45.05-PM.jpg?resize=1200,675",
-      "body_ja": "ユーザーにとって、Spotify は他のクリエイターが作成したポッドキャストを利用できる場所でした。同社は、AI を使用してアイデアやカスタム プロンプトに基づいてユーザー向けのポッドキャストを生成するパーソナル ポッドキャスト機能を導入することで、この状況を変えたいと考えています。\n今月初め、同社は、ユーザーがポッドキャストを作成して自分の Spotify ライブラリに保存できるようにする、Claude Code および Codex 用の GitHub ベースのコマンドライン ツールをリリースしました。同社は、間もなく使用すると述べました。"
     },
     {
       "title": "生成AIをカスタマーサポートに導入するメリットとできること6選を解説！",
@@ -498,8 +459,8 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-05-21T12:10:00",
-      "title_ja": "ダウンロード: オンラインの安全性の未来と気候変動技術の大きな軸",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。技術研究者らが訴訟を起こしている",
+      "title_ja": "ダウンロード: オンラインの安全性の将来と気候変動技術の大きな軸",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。技術研究者らが訴訟を起こしている",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/knight-case3.jpg?resize=1200,600",
       "body_ja": "ダウンロード: オンラインの安全性の未来と気候変動テクノロジーの大きな軸\nさらに、SpaceX は史上最大規模となると予想される IPO を申請しました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nテクノロジー研究者らがオンラインの安全性の将来をめぐりトランプ政権を訴えている\nトランプ政権は何か月もの間、研究し、情報を提供しようとする研究者らを追及してきた。"
     },
@@ -514,7 +475,7 @@
       "title_ja": "気候変動テクノロジー企業は重要な鉱物に重点を置いています",
       "summary_ja": "ここ米国では第二次トランプ政権が発足して1年以上が経ちますが、気候変動問題への支持は弱くなっています。しかし、気候変動テクノロジー企業は生き残り、さらには繁栄する方法を見つけつつある",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/AdobeStock_621646031.jpg?resize=1200,600",
-      "body_ja": "気候変動テクノロジー企業は重要な鉱物に軸足を移している\n脱炭素化よりもサプライチェーンに重点を置きます。\nここ米国では第二次トランプ政権が発足して1年以上が経ちますが、気候変動問題への支持は弱くなっています。しかし、気候変動テクノロジー企業は、脱炭素化以外の潜在的なメリットに焦点を当てるなど、この新しい環境で生き残り、さらには繁栄する方法を見つけようとしています。\n突然、すべての気候変動テクノロジー企業にストーリーがあるように感じられる"
+      "body_ja": "気候変動テクノロジー企業は重要な鉱物に軸足を移している\n脱炭素化よりもサプライチェーンに重点を置きます。\nここ米国では第二次トランプ政権が発足して1年以上が経ちますが、気候変動問題への支持は弱くなっています。しかし、気候変動テクノロジー企業は、脱炭素化以外の潜在的なメリットに焦点を当てるなど、この新しい環境で生き残り、さらには繁栄する方法を見つけようとしています。\n突然、すべての気候変動テクノロジー企業にストーリーがあるように感じられるようになりました"
     },
     {
       "title": "Tech researchers are suing the Trump administration over the future of online safety",
@@ -530,19 +491,6 @@
       "body_ja": "テクノロジー研究者らがオンラインの安全性の将来をめぐりトランプ政権を訴えている\n独立技術研究連合は訴訟の中で、政府が言論の自由と技術規制を抑圧するために移民政策を利用していると主張した。\nトランプ政権は就任当初から、オンライン上のヘイトスピーチ、ハラスメント、プロパガンダ、偽情報を研究し、それに対抗しようとする研究者を追及してきた。\nさて、そのうちのいくつかは"
     },
     {
-      "title": "Nvidia’s Vera chip is the US$200 billion bet Jensen Huang doesn’t want you to overlook",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
-      "summary": "<p>The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street&#8217;s US$86.84 billion forecast–the ",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-21T08:00:00",
-      "title_ja": "Nvidia の Vera チップは 2,000 億ドルの賭けである Jensen Huang 氏は見逃してほしくない",
-      "summary_ja": "Nvidia Vera チップが収益が予想を上回ったときに見出しになることはめったにありませんが、そうあるべきです。 Nvidiaが水曜日に第1四半期の売上高が816億2,000万米ドルと報告したとき、これはアナリストの予想を上回っていました。",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/vera-cpu-rack.jpg",
-      "body_ja": "Nvidia Vera チップが収益が予想を上回ったときに見出しになることはめったにありませんが、そうあるべきです。 Nvidiaが水曜日に第1四半期の売上高が816億2,000万米ドルとアナリスト予想の788億6,000万米ドルを上回り、第2四半期の見通しを910億米ドルとウォール街予想の868億4,000万米ドルを大幅に上回ったと報告したとき、その数字はNvidiaの数字がいつもやっているように、会場を圧倒した。\nしかし、最高経営責任者（CEO）のジェンスン・ファンとアナリストとの電話会議には、もっと戦略的なことが隠されていた。"
-    },
-    {
       "title": "Green steel startup Boston Metal is doubling down on critical metals",
       "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
       "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts to clean up steel production, an industry that&#8217;s responsible for about 8% of global greenhous",
@@ -551,61 +499,9 @@
       "lang": "en",
       "published": "2026-05-20T13:00:00",
       "title_ja": "環境に優しい鉄鋼のスタートアップ、ボストン メタルは重要な金属の生産を倍増します",
-      "summary_ja": "スタートアップのボストン メタルが重要な金属を生産するために 7,500 万ドルの資金調達ラウンドを調達したと、MIT Technology Review が独占的に報告しています。その会社はよく知られています",
+      "summary_ja": "スタートアップのボストン メタルは、重要な金属を生産するために 7,500 万ドルの資金調達ラウンドを調達したと、MIT Technology Review が独占的に報告しています。その会社はよく知られています",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Image-of-Boston-Metals-subsidiary-in-Brazil.jpg?resize=1200,600",
-      "body_ja": "環境に優しい鉄鋼のスタートアップ、ボストン・メタルは重要な金属の生産を倍増している\n同社は鉄鋼よりもニオブ、タンタル、ニッケルなどの金属に重点を置いている。\nスタートアップのボストン・メタルは、重要な金属を生産するために7,500万ドルの資金調達ラウンドを調達した、とMITテクノロジー・レビューが独占的に報じている。\n同社は主に、世界の温室効果ガス排出量の約8％を占める鉄鋼産業を浄化する取り組みで知られている。"
-    },
-    {
-      "title": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-      "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-      "summary": "<p>Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack rather than just filling a gap left by US export controls. The Z",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-20T10:00:00",
-      "title_ja": "アリババはエージェントを中心とした AI チップを設計しており、それによってレースの実際の内容が変わります",
-      "summary_ja": "アリババは、AI エージェント専用に構築された新しい AI プロセッサを発表し、チップの発表を複数年にわたるシリコン ロードマップと新しい大規模言語モデルと組み合わせて、シグナルを送りました。",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/1769486747290.jpeg",
-      "body_ja": "アリババは、AIエージェント専用に構築された新しいAIプロセッサを発表し、このチップの発表を複数年にわたるシリコンロードマップと新しい大規模言語モデルと組み合わせて、同社が単に米国の輸出規制によって残されたギャップを埋めるのではなく、統合されたAIスタックを構築していることを示した。\nアリババの半導体子会社である T-Head が開発した Zhenwu M890 は、前世代の Zhenwu 810E の 3 倍の性能を発揮するとのことです。"
-    },
-    {
-      "title": "Enterprise AI roadblocks and roadmaps, security and physical AI: Day two at TechEx",
-      "url": "https://www.artificialintelligence-news.com/news/tech-ex-north-america-day-two-roundup-of-themes-issues-discussions/",
-      "summary": "<p>Day two of TechEx North America has been more of a deeper, critical examination of AI in the enterprise, but with a optimistic bent. The AI and Big Data programme opened with reference to what was termed the &#8220;AI graveyard&#8221; – that is, AI projects that seem to perform well in pilot, but",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-19T19:18:00",
-      "title_ja": "エンタープライズ AI の障害とロードマップ、セキュリティと物理 AI: TechEx",
-      "summary_ja": "2 日目TechEx North America の 2 日目は、企業における AI についてより深く批判的な調査でしたが、楽観的な傾向がありました。 AIとビッグデータプログラムは参照で開始されました",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/day-two.png",
-      "body_ja": "TechEx North America の 2 日目は、企業における AI についてより深く批判的な調査でしたが、楽観的な傾向がありました。 AI およびビッグデータ プログラムは、いわゆる「AI の墓場」、つまり試験運用ではうまく機能するように見えても、現実の世界では役に立たないと思われる AI プロジェクトを参照して開始されました。否定的な用語である可能性があるにも関わらず、複数の講演者やセッションが、前向きな姿勢を保つ方法について言及しました。"
-    },
-    {
-      "title": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
-      "summary": "<p>President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that &#8220;something could happen&#8221; on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump&#160;first authorised&#160;the sales in Dece",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-19T10:00:00",
-      "title_ja": "Nvidia H200 中国との契約は、トランプ大統領と習大統領の会談後も存続しましたが、誰もが予想していた形ではありませんでした",
-      "summary_ja": "トランプ大統領は北京に飛び、土壇場でジェンセン・ファンを連れて2日後に出発し、記者団に「何かが起こるかもしれない」と語った。オンチップ輸出",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/P20251029DT-2208.jpg-1024x683.png",
-      "body_ja": "トランプ大統領は北京に飛び、土壇場でジェンセン・ファン氏を連れて2日後に出発し、記者団にチップ輸出で「何かが起こる可能性がある」と語った。何も起こりませんでした。 2025年12月にトランプ大統領が最初に販売を許可して以来、中国にはNVIDIA H200は1台も出荷されておらず、米通商代表のジェイミーソン・グリア氏はブルームバーグに対し、半導体規制は二国間議題にすら上がっていないと語った。\nサミット劇場はさらに重要な部分を覆い隠した"
-    },
-    {
-      "title": "AI is a matter of power, infrastructure and security: TechEx North America",
-      "url": "https://www.artificialintelligence-news.com/news/techex-north-america-day-one-lessons-for-all-around-ai-and-more/",
-      "summary": "<p>Although visitors to an event like TechEx North America will always want to see the cutting edge front and centre stage, the nuance and detail brought to the show by the speakers and exhibitors mean that it&#8217;s sometimes the smaller considerations that need to play big – at least, in the mind",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-19T01:36:26",
-      "title_ja": "AI は電力、インフラストラクチャ、セキュリティの問題です: TechEx North America",
-      "summary_ja": "TechEx North America のようなイベントの訪問者は常に最先端のフロントステージとセンターステージを見たいと思っていますが、スピーカーによってショーにもたらされるニュアンスや詳細は、",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/techex-panel-hero.jpeg",
-      "body_ja": "TechEx North America のようなイベントへの来場者は、常に最先端のフロントステージやセンターステージを見たいと思うでしょうが、講演者や出展者によってショーに持ち込まれるニュアンスや詳細は、少なくとも企業の意思決定者の心の中では、時には重要視する必要がある小さな考慮事項であることを意味します。\nエッジ コンピューティング、IoT、データセンター コングレス、サイバー セキュリティのさまざまな分野にわたって、何が必要かということが問題になりました。"
+      "body_ja": "環境に優しい鉄鋼のスタートアップ、ボストン・メタルは重要な金属の生産を倍増している\n同社は鉄鋼よりもニオブ、タンタル、ニッケルなどの金属に重点を置いている。\nスタートアップのボストン・メタルは、重要な金属を生産するために7,500万ドルの資金調達ラウンドを調達したと、MIT Technology Reviewが独占的に報じている。\n同社は、世界の温室効果ガス排出量の約 8% を占める鉄鋼産業を浄化する取り組みで主に知られています。"
     },
     {
       "title": "生成AIでDXを加速する全体像と推進ステップ！成功事例12社と注意点も解説",
@@ -630,19 +526,6 @@
       "body_ja": "経営層から「総務にも生成AIを入れて効率化しろ」と言われたものの、何から手を付ければよいか優先順位が立てられず手が止まっている方は多いのではないでしょうか。\n総務業務は問い合わせ対応・文書作成・契約書ドラフトなど、生成AIが最も得意な「文章処理」が大半を占めます。\n具体的なイメージを持たないまま放置すると、同業他社に先を越され、「総務はDXから取り残された部門」という社内評価が定着するリスクが高まります。\nこの記事では、生成AIで効率化できる総務業務8選を中心に、企業の活用事例・ツール比較・導入5ステップ・経営層への提案ポイントまで解説します。\n読み終えるころには、自社のどの業務から生成AIを取り入れるべきかの優先順位と、稟議を通すために必要な数値根拠が手に入ります。\n目次\n総務で生成AIを使うべき3つの理由\n総務部門が生成AIを優先的に導入すべき理由は、以下の3つです。\n- 問い合わせ対応・文書作成など定型業務の比率が高い\n- 人手不足でコア業務に集中する時間を作る必要がある\n- 経営"
     },
     {
-      "title": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
-      "url": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
-      "summary": "<p>Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders. It can also handle scheduled shopping actions and eli",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-18T10:00:00",
-      "title_ja": "Rufus が舞台裏で動く中、Amazon が Alexa for Shopping を開始",
-      "summary_ja": "Amazon は、アプリ、ウェブサイト、Echo Show デバイスにわたって、Rufus ショッピング チャットボットと Alexa+ を組み合わせた Alexa for Shopping を導入しました。アシスタントは製品の質問に答えることができます",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/Amazon-launches-Alexa-for-Shopping-as-Rufus-moves-behind-the-scenes-scaled-e1779074999446.jpg",
-      "body_ja": "Amazon は、アプリ、ウェブサイト、Echo Show デバイスにわたって、Rufus ショッピング チャットボットと Alexa+ を組み合わせた Alexa for Shopping を導入しました。\nアシスタントは、製品の質問に答え、商品を比較し、価格を追跡し、ショッピング リマインダーをサポートできます。スケジュールされたショッピング アクションや対象となる自動購入も処理できます。\n同社によると、Alexa for ShoppingはRufusの製品専門知識とAlexa+のパーソナライズされたアシスタントコンテキストを組み合わせたものだという。アマゾンサイ"
-    },
-    {
       "title": "生成AIで効率化できる業務8選！活用事例や注意点まで完全解説",
       "url": "https://ainow.ai/2026/05/16/278083/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25a7%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e6%25a5%25ad%25e5%258b%25998%25e9%2581%25b8%25ef%25bc%2581%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b%25e4%25be%258b%25e3%2582%2584%25e6%25b3%25a8%25e6%2584%258f%25e7%2582%25b9",
       "summary": "<p>&#29983;&#25104;AI&#12434;&#33258;&#20998;&#12398;&#26989;&#21209;&#12395;&#21462;&#12426;&#20837;&#12428;&#12383;&#12356;&#12418;&#12398;&#12398;&#12289;&#12300;&#32080;&#23616;&#12393;&#12398;&#26989;&#21209;&#12395;&#12393;&#12358;&#20351;&#12360;&#12400;&#12356;&#12356;&#12398;&#12363;&#12301",
@@ -652,19 +535,6 @@
       "published": "2026-05-15T17:15:38",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/05/ChatGPT-Image-2026年5月16日-02_14_33.jpg",
       "body_ja": "生成AIを自分の業務に取り入れたいものの、「結局どの業務にどう使えばいいのか」が見えず手が止まっている方は多いのではないでしょうか。生成AIは文書作成・リサーチ・データ分析など、ビジネスの幅広い領域で具体的な成果を出せます。\n使いどころを整理できないまま放置すると、競合企業や同僚に先を越され、推進担当としての提案機会を逃すリスクが高まります。生成AIは「便利だが怖いもの」から「業務成果を出すための実務スキル」へ位置付け直す時期に入っています。\nこの記事では、生成AIで効率化できる業務8選を中心に、企業の活用事例・おすすめツール・業務利用の注意点・導入の5ステップまで解説します。\n読み終えるころには、自部署のどの業務から生成AIを取り入れればよいかが整理でき、社内提案や稟議に使える判断軸が手に入ります。\n目次\n生成AIが業務でできること\n生成AIが業務でできることは、大きく4つの領域に分けられます。\n- テキスト生成：文章作成・要約・翻訳\n- 画像・動画生成：資料素材やマーケ素材の制作\n-"
-    },
-    {
-      "title": "Deloitte: Scale ‘autonomous intelligence’ for real growth",
-      "url": "https://www.artificialintelligence-news.com/news/deloitte-scale-autonomous-intelligence-for-real-growth/",
-      "summary": "<p>Enterprise leaders must progress past generative applications and scale &#8220;autonomous intelligence&#8221; to capture real growth. Generating text or summarising internal communications offers localised productivity improvements, yet these abilities rarely alter the core cost or revenue struct",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-05-15T15:02:00",
-      "title_ja": "Deloitte: 真の成長に向けて「自律型インテリジェンス」を拡張",
-      "summary_ja": "企業のリーダーは、生成アプリケーションを超えて進歩し、「自律型インテリジェンス」を拡張する必要があります。本当の成長を掴むために。テキストの生成または社内コミュニケーションの要約",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/05/deloitte-assistive-intelligence-hero_x1440.webp",
-      "body_ja": "企業のリーダーは、真の成長を獲得するために、これまでの生成アプリケーションを進歩させ、「自律型インテリジェンス」を拡張する必要があります。\nテキストの生成や内部コミュニケーションの要約は、局所的な生産性の向上をもたらしますが、これらの機能が大規模な組織の中核的なコストや収益構造を変えることはほとんどありません。企業は現在、独立して実行できるシステムの導入に重点を置いています。リーダーは、横断できるアプリケーションを要求しています"
     },
     {
       "title": "生成AIを経営戦略に組み込む方法！6つの活用領域と導入5ステップを徹底解説",
@@ -711,6 +581,6 @@
       "body_ja": "「AI導入の稟議を出したのに、ROIや撤退基準を問われて差し戻された」と頭を抱えるAI推進担当者は少なくありません。\n経営層が見ているのは費用ではなく投資対効果と管理可能性のため、稟議を投資提案として書き直さないかぎり、何度起案しても承認は得られないでしょう。\n承認を逃し続ければ、同業他社にAI活用で周回遅れになり、自社の競争力と推進担当としての評価が一気に低下します。\n本記事では、AI稟議を投資判断書として設計する6つの必須項目や経営層を動かす5つの数字、ROIを算出する4ステップなどを解説します。\n読み終える頃には、自社のAI導入計画を「投資案件」として稟議に落とし込め、経営層から「投資判断ができる提案者」と評価される状態になります。\n目次\nなぜAI導入の稟議は「投資判断」として通らないのか\nAI導入の稟議が通らない根本原因は、稟議を「費用申請書」として書いており「投資判断書」として設計していない点にあります。\n経営層が見ているのは「いくらかかるか」ではなく「いくらリターンが見込めて"
     }
   ],
-  "last_updated": "2026-05-23T07:56:46.843165+09:00",
-  "count": 60
+  "last_updated": "2026-05-24T07:51:18.451117+09:00",
+  "count": 50
 }
