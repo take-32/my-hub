@@ -1,6 +1,396 @@
 {
   "articles": [
     {
+      "title": "データに強いマーケターを育てるには？ 知識ゼロから「SQLを操れる組織」を作ったプレイドの工夫3つ",
+      "url": "https://webtan.impress.co.jp/e/2026/06/12/52642",
+      "summary": "<div class=\"field--name-body\">\n<div class=\"narrow2\">\n<p>「データによって人の価値を最大化する」をミッションに掲げ、CX（顧客体験）プラットフォーム「KARTE」シリーズをはじめ、データを起点にさまざまな事業展開をするBtoB企業のプレイド。</p>\n<p>同社は、約15名のマーケター全員がSQLを書いて、データ基盤「KARTE Datahub」からデータを抽出・分析・活用するスキルを持つという。驚くべきことは、それだけではない。フィールドセールスのメンバーにも一定のデータリテラシーを身につけてもらい、データを起点とした会話ができる関係性を",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-11T22:05:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/article2026/plaid/plaid_01.jpg?itok=Wdusobee"
+    },
+    {
+      "title": "WordPressを使う・作る・守る方の交流の場「KUSANAGIサミット2026 WordPress編」6/27土 ハイブリッド開催",
+      "url": "https://webtan.impress.co.jp/n/2026/06/12/52759",
+      "summary": "<div class=\"field--name-field-brief-desc\">WordPressのビジネスユーザー向けのイベント「KUSANAGIサミット2026 WordPress編」が6月27日（土）にハイブリッドで開催される。主催は、GMOプライム・ストラテジー株式会社。</div>\n      \n            <div class=\"field--name-body\">\n<p class=\"narrow2\">GMOプライム・ストラテジーは、WordPressのビジネスユーザー向けの<span class=\"yn-ignore\">イベント</span>「<a href=\"",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-11T22:04:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0605_KUSANAGI2026_wp.png?itok=pgewCAXi"
+    },
+    {
+      "title": "消費者庁が「GEOオンラインストア」に景品表示法に違反する行為が認められたとして措置命令",
+      "url": "https://webtan.impress.co.jp/n/2026/06/12/52799",
+      "summary": "<div class=\"field--name-field-brief-desc\">スマートフォン・タブレットの買い取りサービスで買い取り価格が期間限定で上がるなどと表示</div>\n      \n            <div class=\"field--name-body\">\n<p>消費者庁は、リユース事業のゲオホールディングス傘下でECサイト「GEOオンラインストア」を運営するゲオストアに対し、景品表示法に違反する行為(有利誤認)が認められたとして、再発防止を求めることなどの措置命令を6月11日付で行った、と同日発表した。スマートフォン、タブレットの買い取りサービスで買い取り価格が期間",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-11T22:02:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base_nq/public/images/news2026/0612_caa01.png?itok=cz6ug3Qz"
+    },
+    {
+      "title": "Faber Companyが「ミエルカGEO」「ミエルカSEO」に新機能「AIクエリファンアウト」を搭載",
+      "url": "https://webtan.impress.co.jp/n/2026/06/12/52798",
+      "summary": "<div class=\"field--name-field-brief-desc\">AI検索対策に活用できるクエリの幅広い把握が可能、「ChatGPT」と「Gemini」から一括取得</div>\n      \n            <div class=\"field--name-body\">\n<p>ウェブマーケティング支援事業のFaber Company(ファベルカンパニー)は、同社のGEO(生成AI最適化)プラットフォーム「ミエルカGEO」とSEO(検索エンジン最適化)プラットフォーム「ミエルカSEO」に、生成AIが内部で展開するファンアウトクエリが取得できる機能「AIクエリファンアウト」",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-11T22:01:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0612_faber01.png?itok=bWkJfdLF"
+    },
+    {
+      "title": "セブン-イレブンがリテールメディア事業の共同出資会社「セブン-イレブン・アドコネクト」設立へ",
+      "url": "https://webtan.impress.co.jp/n/2026/06/12/52797",
+      "summary": "<div class=\"field--name-field-brief-desc\">電通・サイバーエージェントとともに、店舗のデジタルサイネージやアプリを使った広告配信を展開</div>\n      \n            <div class=\"field--name-body\">\n<p>コンビニエンスストア大手のセブン-イレブン・ジャパンと、電通、インターネット広告事業のサイバーエージェントの3社は、リテールメディア(小売店が展開する広告媒体)事業を行う共同出資会社「セブン-イレブン・アドコネクト」を設立することで合意した、と6月11日発表した。セブン-イレブン店舗のデジタルサイネージや",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-11T22:00:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/images/news2026/0612_seven01.jpg"
+    },
+    {
+      "title": "We stopped clicking, and AI became the Internet",
+      "url": "https://uxdesign.cc/we-stopped-clicking-and-ai-became-the-internet-df61a0c79d91?source=rss----138adf9c44c---4",
+      "summary": "<h4><em>On convenience, abdication, and the quiet erosion of the open web. The internet isn’t dying. That’s the problem.</em></h4><figure><img alt=\"Three zones trace the internet’s transformation: a dense web of equally connected nodes in 1991, three dominant platform clusters by 2005, and a single ",
+      "source": "UX Collective",
+      "icon": "✏️",
+      "lang": "en",
+      "published": "2026-06-11T21:46:16",
+      "image_url": "https://cdn-images-1.medium.com/max/1024/1*1mqovzJYq__JaQv88RaD-w.png",
+      "title_ja": "私たちはクリックをやめ、AI がインターネットになりました",
+      "summary_ja": "利便性、退位、そしてオープンウェブの静かな侵食について。インターネットは死んでいません。それが問題です。<img alt=\"インターネットの変革を 3 つのゾーンで追跡します: 密集したゾーン"
+    },
+    {
+      "title": "Design for pain: how to make the worst moment better",
+      "url": "https://uxdesign.cc/design-for-pain-how-to-make-the-worst-moment-better-7b1a54a7dd7d?source=rss----138adf9c44c---4",
+      "summary": "<h4>Challenges of designing pain management tech for kids</h4><figure><img alt=\"A child in a hospital gown sits on a bed wearing a VR headset, with a nurse adjusting the device and a parent watching beside them.\" src=\"https://cdn-images-1.medium.com/max/1024/1*SBH9uxPo-bilG3-TIMjsvg.png\" /><figcapti",
+      "source": "UX Collective",
+      "icon": "✏️",
+      "lang": "en",
+      "published": "2026-06-11T21:45:59",
+      "image_url": "https://cdn-images-1.medium.com/max/1024/1*SBH9uxPo-bilG3-TIMjsvg.png",
+      "title_ja": "痛みを考慮したデザイン: 最悪の瞬間を改善する方法",
+      "summary_ja": "子供向けの痛み管理技術を設計する際の課題<figcapti"
+    },
+    {
+      "title": "The gesture and the instruction",
+      "url": "https://uxdesign.cc/the-gesture-and-the-instruction-4f90d5a6b8f5?source=rss----138adf9c44c---4",
+      "summary": "<h4>Making-feel, result-feel: Two kinds of design work, two kinds of tired</h4><figure><img alt=\"An abstract painting done with ink, with stark black gestural brushstrokes on a white canvas.\" src=\"https://cdn-images-1.medium.com/max/1024/0*cXjbS5U0TOQtdAWo.jpg\" /><figcaption>Photo by <a href=\"https:",
+      "source": "UX Collective",
+      "icon": "✏️",
+      "lang": "en",
+      "published": "2026-06-11T21:45:37",
+      "image_url": "https://cdn-images-1.medium.com/max/1024/0*cXjbS5U0TOQtdAWo.jpg",
+      "title_ja": "ジェスチャーと指示",
+      "summary_ja": "作成時の感触、結果の感触: 2 種類のデザイン作業、2 種類の疲れた写真 by <a href=\"https:"
+    },
+    {
+      "title": "ランサムウェアの侵入にかかるコストは6.6万円。一方で復旧コストは2.3億円の理不尽【Halcyon調べ】",
+      "url": "https://webtan.impress.co.jp/n/2026/06/12/52786",
+      "summary": "<div class=\"field--name-field-brief-desc\">ランサムウェア対策専門の米Halcyon、日本市場に本格参入。</div>\n      \n            <div class=\"field--name-body\">\n<p>米サイバーセキュリティ企業Halcyonの日本法人であるHalcyon Japan（ハルシオン）は、「ランサムウェアの侵入コスト」に関する調査結果を発表した。最新レポート「日本を標的とするランサムウェア攻撃の実態2026」を初公開する。</p>\n<figure class=\"image image-box-center\">  \n  ",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-11T21:30:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0608_halcyon_01.jpg?itok=k-TIi4Dy"
+    },
+    {
+      "title": "“賃上げムード”の一方で実感乏しく、「春闘並み」は全体の5%程度【リスモン調べ】",
+      "url": "https://webtan.impress.co.jp/n/2026/06/12/52787",
+      "summary": "<div class=\"field--name-field-brief-desc\">原材料・エネルギー価格の高騰、円安の進行、人件費の上昇など、厳しい背景が続く。</div>\n      \n            <div class=\"field--name-body\">\n<p>リスクモンスター（リスモン）は、「賃金引上げ」に関する調査結果を発表した。全国20代～50代の男女800人が回答している。今回でアンケート調査の第2回。</p>\n<div class=\"kakomi-kami aki-topbottom1 narrow2 yn-delete\">\n<p>関連記事</p>\n<ul cla",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-11T21:30:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0608_riskmonster_01.jpg?itok=R6qPOv2k"
+    },
+    {
+      "title": "企業ロゴ付きメールで開封率アップ？ 4割以上が「好印象・信頼できる」【GMOブランドセキュリティ調べ】",
+      "url": "https://webtan.impress.co.jp/n/2026/06/12/52767",
+      "summary": "<div class=\"field--name-field-brief-desc\">フィッシングメールやなりすましを防ぐ！ BIMIやDMARCの導入状況を調査。</div>\n      \n            <div class=\"field--name-body\">\n<p>GMOブランドセキュリティは、なりすましメールや企業ロゴ付きメール（BIMI）に関するアンケート調査を実施した。メール受信者・メール配信事業者の計1,094人が回答している。</p>\n<div class=\"kakomi narrow2\">\n<p><strong>BIMIとは</strong><br />「Brand",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-11T21:15:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0604_GMO_01.png?itok=1VqJnuB6"
+    },
+    {
+      "title": "転職人気企業ランキング、トヨタが7年連続1位！ 任天堂がトップ5入り、味の素は7位に急浮上【doda調べ】",
+      "url": "https://webtan.impress.co.jp/n/2026/06/12/52785",
+      "summary": "<div class=\"field--name-field-brief-desc\">転職したい企業ランキング2026、トヨタ・グーグル・ソニーが不動の上位。</div>\n      \n            <div class=\"field--name-body\">\n<p>パーソルキャリアが運営する転職サービス「doda」は、22歳〜59歳の正社員5,154人を対象に、「転職人気企業ランキング2026」を発表した。</p>\n<div class=\"kakomi-kami aki-topbottom1 narrow2 yn-delete\">\n<p>関連記事</p>\n<ul class=\"aki",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-11T21:00:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0608_doda_01.png?itok=o-G05KRf"
+    },
+    {
+      "title": "Eleven innovative collections from Chicago Design Week",
+      "url": "https://www.dezeen.com/2026/06/11/chicago-design-week-neocon-2026-round-up/",
+      "summary": "<p>An office chair by Foster + Partners made with reused fishing nets and lightweight aluminium benches designed by Naoto Fukasawa were among the objects displayed at this year's Chicago Design Week. This year's Chicago Design Week, which takes part between the city's sprawling Merchandise Mart (the",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T18:10:33",
+      "image_url": "http://static.dezeen.com/uploads/2026/06/chicago-design-week_dezeen_2364_col_1-411x411.jpg",
+      "title_ja": "シカゴ デザイン ウィークからの 11 の革新的なコレクション",
+      "summary_ja": "フォスター・アンド・パートナーズによる漁網を再利用して作られたオフィスチェアや、深澤直人がデザインした軽量アルミニウムベンチなどが今年のシックに展示されました。"
+    },
+    {
+      "title": "Dezeen Agenda features our Gaudí Centenary series",
+      "url": "https://www.dezeen.com/2026/06/11/antoni-gaudi-centenary-100-years-dezeen-agenda/",
+      "summary": "<p>The latest edition of our weekly Dezeen Agenda newsletter features the launch of our latest editorial series. Subscribe to Dezeen Agenda now. To mark 100 years since the death of Antoni Gaudí, Dezeen has launched the Gaudí Centenary series celebrating his legacy. This week's newsletter also inclu",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T18:00:51",
+      "image_url": "http://static.dezeen.com/uploads/2026/06/b-sagrada-familia-case-study-antoni-gaudi_dezeen_2364_sq-411x411.jpg",
+      "title_ja": "Dezeen Agenda ではガウディ生誕 100 周年シリーズを特集しています",
+      "summary_ja": "週刊 Dezeen Agenda ニュースレターの最新版では、最新の編集シリーズの開始を特集しています。今すぐ Dezeen アジェンダを購読してください。 Aさんの没後100年を記念して"
+    },
+    {
+      "title": "Aeron Gets an Upgrade in Style and System",
+      "url": "https://design-milk.com/aeron-gets-an-upgrade-of-style-and-system/",
+      "summary": "Changes to iconic designs are somewhat rare, and even rarer are they welcomed – Aeron from Herman Miller never stops improving.",
+      "source": "Design Milk",
+      "icon": "🥛",
+      "lang": "en",
+      "published": "2026-06-11T17:54:24",
+      "title_ja": "Aeron がスタイルとシステムをアップグレード",
+      "summary_ja": "象徴的なデザインの変更はやや稀であり、歓迎されることはさらに稀ですが、ハーマンミラー社のアーロンは常に改善を止めません。",
+      "image_url": "https://design-milk.com/images/2026/06/Aeron-Herman-Miller-4.jpg",
+      "body_ja": "持続可能性の実践について考えるとき、何が思い浮かびますか?それは製造業、近接性、物質性、あるいはその 3 つの組み合わせにありますか?全体的なデザインという観点からは、プロセスのあらゆる部分を機転を利かせて検討し、私たちが存在する世界のニュアンスを理解する必要があります。 「オフィスチェア」という言葉とほぼ同義のハーマンミラーのアーロンチェアは、アメリカの最高のオフィスデザインの象徴であり、長い間、高価な贈り物として考えられてきました。"
+    },
+    {
+      "title": "Floating accommodation for London's key workers among projects by University of Westminster students",
+      "url": "https://www.dezeen.com/2026/06/11/floating-accommodation-london-key-workers-university-of-westminster-schoolshows/",
+      "summary": "<p>Dezeen School Shows: a proposal for floating living quarters to house key workers in London is among ten projects by architecture students at the University of Westminster. Also featured is a project that fosters togetherness between fibre artists and the queer community, and a project detailing ",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T15:00:06",
+      "image_url": "http://static.dezeen.com/uploads/2026/06/university-of-westminster-school-show_dezeen_2364_col_10-411x411.jpg",
+      "title_ja": "ウェストミンスター大学の学生によるプロジェクトの中で、ロンドンの主要労働者のための水上宿泊施設を提供",
+      "summary_ja": "Dezeen School Shows: ロンドンの主要労働者を収容する水上居住区の提案は、ウェストミンスター大学の建築学生による 10 のプロジェクトの 1 つです。フェも"
+    },
+    {
+      "title": "New York's art deco icons inform revamped restaurant at The Edge",
+      "url": "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
+      "summary": "<p>Design studio Journey and Tao Hospitality Group have refreshed the interiors of dining venues at The Edge, the triangular observation deck at New York's Hudson Yards. The team has completely redesigned Peak with Priceless, the restaurant located on the 101th floor of the KPF-designed 30 Hudson Ya",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T14:30:49",
+      "image_url": "http://static.dezeen.com/uploads/2026/06/peak_avenue_the-edge_dezeen_sq1ex-411x411.jpg",
+      "title_ja": "ニューヨークのアールデコのアイコンが、The Edge のレストランをリニューアル",
+      "summary_ja": "デザインスタジオのジャーニーとタオ・ホスピタリティ・グループは、ニューヨークのハドソンヤードにある三角形の展望台、ジ・エッジのダイニング会場の内装を一新した。チームは"
+    },
+    {
+      "title": "The creative trends defining World Cup advertising",
+      "url": "https://www.creativebloq.com/design/advertising/the-creative-trends-defining-world-cup-advertising",
+      "summary": "Football legends, Hollywood stars, and fan culture are dominating early World Cup creative, but the smartest brands know celebrity alone won't be enough.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-06-11T14:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/MgHRbBhir4bVzd8f9jMLZH-1280-80.jpg",
+      "title_ja": "ワールドカップ広告を定義するクリエイティブ トレンド",
+      "summary_ja": "フットボールのレジェンド、ハリウッドスター、ファンカルチャーがワールドカップ初期のクリエイティブを支配しているが、最も賢いブランドはセレブだけでは十分ではないことを知っている。"
+    },
+    {
+      "title": "TAKK Welcomes Visitors to MAXXI with a Wild and Wonderful Installation",
+      "url": "https://design-milk.com/takk-welcomes-visitors-to-maxxi-with-a-wild-and-wonderful-installation/",
+      "summary": "Con-Vivere, TAKK's entrance experience at the Rome art museum, expands on the themes — from conviviality to food sovereignty — that the Spanish studio passionately embraces.",
+      "source": "Design Milk",
+      "icon": "🥛",
+      "lang": "en",
+      "published": "2026-06-11T13:00:39",
+      "title_ja": "TAKK がワイルドで素晴らしいインスタレーションで MAXXI への訪問者を歓迎",
+      "summary_ja": "TAKK のローマ美術館への入場体験である「コン・ビヴェレ」は、陽気な雰囲気から食料主権まで、スペインのスタジオが情熱を持って取り組むテーマを拡張します。",
+      "image_url": "https://design-milk.com/images/2026/06/MAXXI-SOFA-01.jpeg",
+      "body_ja": "MAXXIは、マルティナ・ムジがキュレーションした「Entrate」で、建築家を招いてロビーを最大限に活用し、空間に活気を与え、訪問者を真に惹きつけている。昨年、ナチョ・カルボネルは、ローマのザハ・ハディドが記憶をテーマに設計した現代美術館で刺激的な環境を考案し、実際にその空間をデザインした。第 2 版のバトンを受け取ることもスペインの習慣です。ミレイア・ルサラガとアレハンドロ・ムイーニョによってバルセロナに設立された TAKK は、幻想的な作品を生み出しました。"
+    },
+    {
+      "title": "Modular kitchens by Vermland",
+      "url": "https://www.dezeen.com/2026/06/11/modular-kitchens-vermland-dezeen-showroom/",
+      "summary": "<p>Dezeen Showroom: oak surfaces with a timeless appearance define interior design studio Vermland's modular kitchens, which are handmade in Denmark. Founded in Copenhagen by cabinetmakers Joakim Tolf Vulpius and Anton Bak, Vermland aims to make kitchens that are long-lasting in terms of both durabi",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T13:00:07",
+      "image_url": "http://static.dezeen.com/uploads/2026/06/modular-kitchens-vermland-dezeen-showroom_dezeen_2364_sq_0-411x411.jpg",
+      "title_ja": "Vermland のモジュール式キッチン",
+      "summary_ja": "Dezeen ショールーム: 時代を超えた外観を持つオーク材の表面が、デンマークで手作りされたインテリア デザイン スタジオ Vermland のモジュール式キッチンを特徴づけています。キャビネットムによってコペンハーゲンに設立"
+    },
+    {
+      "title": "'When you strip out culture, you get a hollow brand’: why India is killing the design game",
+      "url": "https://www.creativebloq.com/design/branding/when-you-strip-out-culture-you-get-a-hollow-brand-why-india-is-killing-the-design-game",
+      "summary": "Mother Tongue’s Shruti Singhi discusses the danger of neutral branding and the value of authenticity.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-06-11T13:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/tb9tDhxuuhgBXCpWhz8myb-1280-80.jpg",
+      "title_ja": "「文化を取り除くと、空虚なブランドが得られる」: なぜインドはデザインゲームを消滅させているのか",
+      "summary_ja": "Mother Tongue のシュルティ シンギ氏が、中立的なブランディングの危険性と信頼性の価値について語ります。"
+    },
+    {
+      "title": "One of the world's most beautiful pens is the cheapest I've ever seen it right now",
+      "url": "https://www.creativebloq.com/design/product-design/one-of-the-worlds-most-beautiful-pens-is-the-cheapest-ive-ever-seen-it-right-now",
+      "summary": "Less than $60 for the Kaweco Brass Sport is a steal.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-06-11T12:44:29",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FYNvewCbSUHwKjYTYvpeDS-1280-80.jpg",
+      "title_ja": "世界で最も美しいペンの 1 つが、今まで見た中で最も安価です",
+      "summary_ja": "Kaweco Brass Sport の 60 ドル未満はお買い得です。"
+    },
+    {
+      "title": "This spiral logo shows us how branding is done",
+      "url": "https://www.creativebloq.com/design/branding/this-spiral-logo-shows-us-how-branding-is-done",
+      "summary": "The Museum of Narratives identity is simply perfect.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-06-11T12:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/gR9owLrmGDg4XZKi4cENfk-1280-80.jpg",
+      "title_ja": "このスパイラルロゴはブランディングがどのように行われるかを示しています",
+      "summary_ja": "ナラティブ博物館のアイデンティティはまさに完璧です。"
+    },
+    {
+      "title": "I've found my end-game mouse: The Keychron G4 is fast, can switch between 2 PCs and looks great",
+      "url": "https://www.creativebloq.com/photography/cameras-accessories/ive-found-my-end-game-mouse-the-keychron-g4-is-fast-can-switch-between-2-pcs-and-looks-great",
+      "summary": "It's more responsive than the Logitech MX Master 3s, and more reliable than the Sony Inzone Mouse-A.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-06-11T10:36:43",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/Sjs3L7tXzdJoiUmw7F8viN-1280-80.jpg",
+      "title_ja": "エンドゲーム用のマウスを見つけました。Keychron G4 は高速で、2 台の PC 間で切り替えることができ、見た目も優れています",
+      "summary_ja": "Logitech MX Master 3s よりも応答性が高く、Sony Inzone Mouse-A よりも信頼性が高くなります。"
+    },
+    {
+      "title": "Herzog & de Meuron transforms mountain antenna tower into \"iconic sculpture\"",
+      "url": "https://www.dezeen.com/2026/06/11/herzog-de-meuron-titlis-tower/",
+      "summary": "<p>Architecture studio Herzog &#38; de Meuron has transformed the industrial structure of the Titlis Tower in the Swiss Alps into a sculptural tourist destination with dramatic cantilevers and a panoramic viewpoint. Built in the mid-1980s, the former telecommunications tower sits over 3,000 metres a",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T10:30:05",
+      "image_url": "http://static.dezeen.com/uploads/2026/06/titlis-tower-herzog-de-meuron-switzerland-infrastructure-renovations-public-leisure_dezeen_2364_sq-411x411.jpg",
+      "title_ja": "ヘルツォーク＆ド・ムーロン、山のアンテナ塔を「象徴的な彫刻」に変える",
+      "summary_ja": "建築スタジオ ヘルツォーク &#38;ド・ムーロンは、スイスアルプスのティトリス塔の産業構造を、劇的なカンティルを備えた彫刻的な観光地に変えました。"
+    },
+    {
+      "title": "House of Bones proves Gaudí is \"very hard to imitate\"",
+      "url": "https://www.dezeen.com/2026/06/11/casa-batllo-antoni-gaudi-centenary/",
+      "summary": "<p>Continuing our Gaudí Centenary series, we look at Barcelona's House of Bones, Casa Batlló, which Antoni Gaudí covered with mosaics, skeletal shapes and topped with a scaly, reptilian roof. Located on Barcelona's central Passeig de Gràcia boulevard, Casa Batlló is one of Gaudí's best-known and mos",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T10:00:30",
+      "image_url": "http://static.dezeen.com/uploads/2026/06/gaudí-casa-batlló-barcelona_dezeen_2364_col_sq3-411x411.jpg",
+      "title_ja": "ハウス・オブ・ボーンズはガウディが「模倣するのは非常に難しい」ことを証明",
+      "summary_ja": "ガウディ生誕 100 周年シリーズの続きとして、アントニ・ガウディがモザイクや骸骨の形で覆い、鱗状の爬虫類をトッピングしたバルセロナの骨の家、カサ・バトリョを見てみましょう。"
+    },
+    {
+      "title": "Bread and Butter exhibition explores \"deeply private and strangely public\" bathing culture",
+      "url": "https://www.dezeen.com/2026/06/11/bread-and-butter-exhibition-bathing-culture/",
+      "summary": "<p>The latest edition of the Bread and Butter exhibition at 3 Days of Design, Perfect Pair in Bathing, saw designers create product duos related to bathing and sauna culture. Curated by Hee Choi and Myungnyun Kim of design studio Ae Office together with designer Pyeori Jung, Bread and Butter took ov",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T09:45:51",
+      "image_url": "http://static.dezeen.com/uploads/2026/06/bread-and-butter-perfect-pair-in-bathing_dezeen_2364_col_sq-411x411.jpg",
+      "title_ja": "ブレッド アンド バター展は「非常にプライベートでありながら奇妙なほどパブリックな」入浴文化を探求します",
+      "summary_ja": "3 Days of Design でのブレッド アンド バター展示会の最新版、パーフェクト ペア イン バスでは、デザイナーが入浴とサウナの文化に関連した製品デュオを作成しました。厳選された"
+    },
+    {
+      "title": "Theo folding chair by Matteo Thun and Benedetto Fasciana for Plank",
+      "url": "https://www.dezeen.com/2026/06/11/theo-folding-chair-matteo-thun-benedetto-fasciana-plank-dezeen-showroom/",
+      "summary": "<p>Dezeen Showroom: Italian architect Matteo Thun and designer Benedetto Fasciana have collaborated on a wooden chair for Italian furniture brand Plank that can easily be folded away when not in use. Made from moulded plywood with an oak veneer, the Theo folding chair was designed for the contract s",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T09:30:11",
+      "image_url": "http://static.dezeen.com/uploads/2026/06/theo-folding-chair-plank-showroom_dezeen_2364_col_1-411x411.jpg",
+      "title_ja": "マテオ・トゥーンとベネデット・ファシアーナによるプランク用のテオ折りたたみ椅子",
+      "summary_ja": "Dezeen ショールーム: イタリアの建築家マテオ・トゥーンとデザイナーのベネデット・ファシアーナがイタリアの家具ブランド Plank の簡単に折りたためる木製椅子を共同開発しました。"
+    },
+    {
+      "title": "\"IKEA has challenged the rest of the design world\"",
+      "url": "https://www.dezeen.com/2026/06/11/ikea-ps-collection-debika-ray-opinion/",
+      "summary": "<p>With the gap between cheap and expensive furniture wider than ever, IKEA's new PS collection is a timely reminder that affordable design can also be joyful, writes Debika Ray. IKEA didn't invent the notion of \"democratic design\", but it did flat-pack and sell it. In 1995, at Milan design week, th",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-06-11T09:00:14",
+      "image_url": "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0-411x411.jpg",
+      "title_ja": "\"IKEA has challenged the rest of the design world\"",
+      "summary_ja": "安価な家具と高価な家具の差がかつてないほど広がっている中、イケアの新しい PS コレクションは、手頃な価格のデザインも楽しいものであることをタイムリーに思い出させてくれるとデビカ・レイは書いています。イケア"
+    },
+    {
+      "title": "World Cup 2026 sparks nostalgia for FIFA 98 – and a bizarre new horror game",
+      "url": "https://www.creativebloq.com/3d/video-game-design/world-cup-2026-sparks-nostalgia-for-fifa-98-and-a-bizarre-new-horror-game",
+      "summary": "Jacob Jazz's Fear FA 98 is a smorgasbord of retro film, music and game influences.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-06-11T09:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/jcyCoYtPKGpf2nNWvmnGjK-1280-80.jpg",
+      "title_ja": "2026 年ワールドカップは FIFA 98 への郷愁を呼び起こします – そして奇妙な新しいホラー ゲーム",
+      "summary_ja": "Jacob Jazz の Fear FA 98 は、レトロな映画、音楽、ゲームの影響を組み合わせたものです。"
+    },
+    {
+      "title": "From retro to surreal, the best World Cup kit designs of 2026 are works of art",
+      "url": "https://www.creativebloq.com/design/from-the-retro-to-the-surreal-the-best-world-cup-kit-designs-of-2026-are-works-of-art",
+      "summary": "With design Easter eggs and controversial colour palettes, World Cup kits are looking more artistic than ever.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-06-11T08:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/BBcnybxqUSyTQjBJZyAmtn-1280-80.jpg",
+      "title_ja": "レトロからシュールまで、2026 年のワールドカップのベスト キット デザインは芸術作品です",
+      "summary_ja": "イースターエッグのデザインと物議を醸すカラーパレットにより、ワールドカップのキットはこれまで以上に芸術的に見えます。"
+    },
+    {
+      "title": "4PGP review (PS5): a 90s-style arcade racer with a modern edge",
+      "url": "https://www.creativebloq.com/entertainment/gaming/4pgp-review-ps5-a-90s-style-arcade-racer-built-for-with-a-modern-edge",
+      "summary": "More than Sega nostalgia.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-06-11T07:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/FRJ9LLyfTsEGvpLwhcMTLg-1280-80.jpg",
+      "title_ja": "4PGP レビュー (PS5): 現代的なエッジを備えた 90 年代スタイルのアーケード レーサー",
+      "summary_ja": "セガのノスタルジーを超えたもの。"
+    },
+    {
+      "title": "影と遊ぶことで、「子供が自分でさしたくなる傘」登場",
+      "url": "https://www.axismag.jp/posts/2026/06/711465.html",
+      "summary": "デザイン事務所torinokoとオリジナル商品の企画開発やOEM事業を展開するオールスタジアムは、子ども向け晴雨兼用傘「子供が自分でさしたくなる傘」を共同開発し、Makuakeで先行販売を開始している。猛暑化が進むなか、 [&#8230;]",
+      "source": "AXIS Web",
+      "icon": "🎭",
+      "lang": "ja",
+      "published": "2026-06-11T05:45:29",
+      "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/05/831f2c16dcb597b6c31f566e3604c007-scaled.jpg",
+      "body_ja": "NEWS ｜ ビジネス / プロダクト\n18秒前\nデザイン事務所torinokoとオリジナル商品の企画開発やOEM事業を展開するオールスタジアムは、子ども向け晴雨兼用傘「子供が自分でさしたくなる傘」を共同開発し、Makuakeで先行販売を開始している。猛暑化が進むなか、熱中症対策として注目される“子どもの日傘”を、遊びの延長として自然に使いたくなるプロダクトへと再設計した。\n最大の特徴は、晴れた日に傘をさすと地面に“影のおともだち”が現れることである。傘の形状によって、動物のようなユニークな影が路面に浮かび上がり、子どもたちは影を追いかけるように自然と日陰の中を歩く。単なる暑さ対策用品ではなく、「影で遊ぶ」という行為を通じて、日傘を自発的に使いたくなる仕掛けが組み込まれている。\n背景には、近年深刻化する夏の暑さがある。子どもは大人より身長が低く、アスファルトからの照り返しの影響を受けやすい。しかし日傘をさすには「面倒」「恥ずかしい」といった心理的ハードルが存在する。SNSや掲示板上でも、"
+    },
+    {
+      "title": "日本橋髙島屋S.C.のショーウィンドーが“水族館”に。炭酸デザイン室によるインスタレーション「AQUARIUM」",
+      "url": "https://www.axismag.jp/posts/2026/06/713176.html",
+      "summary": "日本橋髙島屋S.C.本館1階の正面ショーウィンドーを、炭酸デザイン室によるインスタレーション作品「AQUARIUM」が彩る。期間は6月15日（月）から7月13日（月）まで。髙島屋の夏季プロモーション「感じる！聞こえる！夏 [&#8230;]",
+      "source": "AXIS Web",
+      "icon": "🎭",
+      "lang": "ja",
+      "published": "2026-06-11T01:43:57",
+      "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/06/main-5.jpg",
+      "body_ja": "NEWS ｜ グラフィック / ビジネス\n4時間前\n日本橋髙島屋S.C.本館1階の正面ショーウィンドーを、炭酸デザイン室によるインスタレーション作品「AQUARIUM」が彩る。期間は6月15日（月）から7月13日（月）まで。髙島屋の夏季プロモーション「感じる！聞こえる！夏のオノマトペ」の一環として制作されたもので、異なる素材のテキスタイルとフェルト作品によって、ショーウィンドウを海中世界へと変貌させる。\n「AQUARIUM ―生き物のめぐる海―」と題された作品は、生命の起源である海をテーマに構想された。大きな潮の流れのなかで生きる海洋生物たちの姿を描きながら、生命が受け継がれ、変化し、循環していく壮大な営みを表現している。\n作品は、複数の素材とプリント技法を組み合わせることで、海中の奥行きや透明感を生み出している。最前面には高い透明性を持つメッシュ素材にDTFプリントを施し、生き物たちが優雅に泳ぐ様子を表現。中層にはオーガンジー素材に海流や生物の影を、背面にはサテン素材に深海をイメージし"
+    },
+    {
       "title": "What you count is what they feel",
       "url": "https://uxdesign.cc/what-you-count-is-what-they-feel-2455e76682e0?source=rss----138adf9c44c---4",
       "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/what-you-count-is-what-they-feel-2455e76682e0?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*CF81ZEgkQ8Gx05_TRG93bg.jpeg\" width=\"5413\" /></a></p><p class=\"medium-feed-snippet\"",
@@ -23,56 +413,6 @@
       "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/article2026/DeNA/DeNA_ogp.jpg?itok=cEAs4wTx"
     },
     {
-      "title": "個人運営のニュースサイトが、検索結果でマスコミに勝つ方法は？",
-      "url": "https://webtan.impress.co.jp/e/2026/06/11/52738",
-      "summary": "<div class=\"field--name-body\">\n<p class=\"narrow2\">ひとりで頑張るSEO担当者さんの悩みに答える本連載。今回の質問は「個人運営のニュースサイトが、検索結果でマスコミに勝つ方法は？」です。</p>\n<p class=\"narrow2\">この回答は「SEOでの集客は厳しいでしょう」です。</p>\n\n<div><figure class=\"image image-box-center\">  \n                  <source height=\"252\" media=\"(max-width: 480px)\" type=\"image/avi",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-10T22:05:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/article2023/sumi_seo/seo73_ogp.png?itok=71FxQWlS"
-    },
-    {
-      "title": "Hakuhodo DY ONEのDMP「AudienceOne」とプレイドのCXプラットフォーム「KARTE」がデータ連携開始",
-      "url": "https://webtan.impress.co.jp/n/2026/06/11/52791",
-      "summary": "<div class=\"field--name-field-brief-desc\">AudienceOneの興味・関心や属性データがKARTEで活用可能、ユーザーに応じてコンテンツを出し分け</div>\n      \n            <div class=\"field--name-body\">\n<p>博報堂DYグループでデジタルマーケティングサービス事業のHakuhodo DY ONEは、同社のDMP(データマネジメントプラットフォーム)「AudienceOne」と、CX(顧客体験)プラットフォーム事業のプレイドが展開する同プラットフォーム「KARTE」がデータ連携を始めた、と6月10",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-10T22:02:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base_nq/public/images/news2026/0611_plaid01.png?itok=3iwfsd-d"
-    },
-    {
-      "title": "インティメート・マージャーとシルバーエッグ・テクノロジーが新レコメンドソリューション開発",
-      "url": "https://webtan.impress.co.jp/n/2026/06/11/52790",
-      "summary": "<div class=\"field--name-field-brief-desc\">ECサイトなどウェブサイトでのコンバージョン率向上へ、約10億件のオーディエンスデータを活用</div>\n      \n            <div class=\"field--name-body\">\n<p>データプラットフォーム事業のインティメート・マージャーと、デジタルマーケティングソリューション事業のシルバーエッグ・テクノロジーは、ECサイトや人材・不動産など幅広い分野のウェブサイトでのコンバージョン(最終成果)率を高めるための新しいレコメンドソリューションを共同開発した、と6月10日発表した。同日に",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-10T22:01:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base_nq/public/images/news2026/0611_im01.png?itok=ABJzbgJa"
-    },
-    {
-      "title": "セールスフォース・ジャパンが「Tableau」の「Agentic Analytics Platform」を日本で展開",
-      "url": "https://webtan.impress.co.jp/n/2026/06/11/52789",
-      "summary": "<div class=\"field--name-field-brief-desc\">次世代エージェント型分析プラットフォーム、AIが自律的にデータ分析、業務実行まで支援</div>\n      \n            <div class=\"field--name-body\">\n<p>CRM(顧客関係管理)ソリューション事業の米国Salesforceの日本法人、セールスフォース・ジャパンは、BI(ビジネスインテリジェンス)プラットフォーム「Tableau」の次世代エージェント型分析プラットフォーム「Agentic Analytics Platform」を日本で展開する、と6月10日発表した。",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-10T22:00:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/images/news2026/0611_salesforce01.jpg"
-    },
-    {
-      "title": "企業のAI活用、「大企業と中小企業」「都市部と地域」で大きな温度差【ラグザス調べ】",
-      "url": "https://webtan.impress.co.jp/n/2026/06/11/52784",
-      "summary": "<div class=\"field--name-field-brief-desc\">中小企業の6割が「AI導入予定なし」。</div>\n      \n            <div class=\"field--name-body\">\n<p>ラグザスは、「企業規模および勤務地別のAI活用状況」に関する調査結果を発表した。全国のビジネスパーソン3000人が回答している。</p>\n<figure class=\"image image-box-center\">  \n                  <source height=\"229\" media=\"(max-width: 480px)\" ty",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-10T21:30:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0608_raxus_date_01.jpg?itok=RdjTC8C4"
-    },
-    {
       "title": "Simone Ferkul Crafts a Wellness Sanctuary at Toronto’s Solis East",
       "url": "https://design-milk.com/simone-ferkul-crafts-a-wellness-sanctuary-at-torontos-solis-east/",
       "summary": "The Pilates studio evokes a sense of ritual — through soft lighting, a warm material palette and sculpted surfaces.",
@@ -84,18 +424,6 @@
       "summary_ja": "ピラティス スタジオは、柔らかな照明、温かみのある素材パレット、彫刻された表面を通して、儀式の感覚を呼び起こします。",
       "image_url": "https://design-milk.com/images/2026/06/Simone-Ferkul_01_Solis-2.0_High-Res.jpeg",
       "body_ja": "ソリス イーストでの旅は、7,750 平方フィートの聖域に足を踏み入れるかなり前から始まります。メンバーはエレベーターで上昇し、セント ローレンス ストリートを眺めながら、スカイ ブリッジを渡って入り口に着きます。トロントのイーストエンドにある最新のピラティス スタジオについて、スタジオ マネージャーのブレッシング アデディーホ氏は「私はこのスタジオをウェルネスの宇宙船だと考えています。」と語ります。ドアのすぐ内側にあるレセプションと共用ラウンジは、温かみのある大理石の素晴らしく幻想的な特質を誇っています。"
-    },
-    {
-      "title": "In Situ Studio and Surface 678 add elevated \"canopy walk\" to North Carolina park",
-      "url": "https://www.dezeen.com/2026/06/10/in-situ-studio-surface-678-north-carolina-beech-bluff-county-park/",
-      "summary": "<p>A wildlife viewing deck and an elevated \"canopy walk\" through the forest are among the features at Beech Bluff County Park, which was designed by local firms In Situ Studio and Surface 678 for an area near Raleigh, USA. The 300-acre (121-hectare) park is located in southeastern Wake County, a sub",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T17:41:13",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/beech-bluff-county-park-north-carolina-in-situ-studio-surface-678_dezeen_2364_col_0-411x411.jpg",
-      "title_ja": "In Situ Studio と Surface 678 がノースカロライナ公園に高台の「キャノピー ウォーク」を追加",
-      "summary_ja": "地元企業の In Situ Studio と Sur が設計したビーチ ブラフ郡立公園には、野生生物の観察デッキや森の中の高いところにある「キャノピー ウォーク」などがあります。"
     },
     {
       "title": "Heath Welcomes Longer Days with the Summer Collection",
@@ -123,18 +451,6 @@
       "summary_ja": "バズ、ジェシー、ウッディの車は驚くほど詳細に作られており、探検するのが楽しいです。"
     },
     {
-      "title": "Furniture informed by stained glass among projects from Savannah College of Art and Design",
-      "url": "https://www.dezeen.com/2026/06/10/furniture-stained-glass-savannah-college-of-art-and-design-schoolshows/",
-      "summary": "<p>Dezeen School Shows: furniture informed by Art Nouveau stained glass is among the projects from Savannah College of Art and Design. Also featured is a support centre for those affected by dementia and an animal shelter based in Los Angeles, USA. Savannah College of Art and Design Institution: Sav",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T15:00:48",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/scad-herosq-dezeen-schoolshows_dezeen_2364_col_0-411x411.jpg",
-      "title_ja": "サバンナ芸術デザイン大学のプロジェクトの中からステンドグラスを取り入れた家具",
-      "summary_ja": "Dezeen School Shows: アールヌーボー様式のステンドグラスを取り入れた家具は、サバンナ芸術デザイン大学のプロジェクトの 1 つです。障害者向けサポートセンターも充実"
-    },
-    {
       "title": "New Universal Music logo strikes all the right chords",
       "url": "https://www.creativebloq.com/design/new-universal-music-rebrand-strikes-all-the-right-chords",
       "summary": "It’s a harmonious new look for the Publishing Group.",
@@ -145,18 +461,6 @@
       "image_url": "https://cdn.mos.cms.futurecdn.net/KogBn6ToWfCmBbiDaJxxyX-1280-80.jpg",
       "title_ja": "ユニバーサル ミュージックの新しいロゴがすべて適切に響きます",
       "summary_ja": "これは出版グループの調和のとれた新しい外観です。"
-    },
-    {
-      "title": "Secretlab make my favourite gaming chair – and they just crashed the office party",
-      "url": "https://www.creativebloq.com/design/secretlab-make-my-favourite-gaming-chair-and-they-just-crashed-the-office-party",
-      "summary": "The new Secretlab ATLAS chair is squarely aimed at creative professionals.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-06-10T14:32:21",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/nZiXBeVutD8wRbpmpQEMNX-1280-80.jpg",
-      "title_ja": "Secretlab は私のお気に入りのゲーミング チェアを作っています – そして彼らはちょうどオフィス パーティーを大盛況にしました |9 月|新しい Secretlab ATLAS チェアは、クリエイティブなプロフェッショナルを真のターゲットとしています。",
-      "summary_ja": ""
     },
     {
       "title": "These Revival Rugs Bring Summer Color Indoors and Out",
@@ -172,18 +476,6 @@
       "body_ja": "家のすべてのエリア間をシームレスに移動できるため、屋内外のラグは、人やペットが集まる交通量の多いエリアに不可欠です。耐久性はありますが、これらのアイテムのほとんどは実用的な範囲にあり、基本的な色合いといくつかのパターンが揃っています。\nRevival Rugs からの 2 つの新製品は、夏にぴったりのカラーと足元に映えるモチーフを豊富に取り揃えています。メンテナンスが簡単で長持ちするように設計されたこれらの多目的ラグは、屋内と屋外の両方を強化します。"
     },
     {
-      "title": "Bomma creates \"crystal cloud\" installation from discarded glass shards in Copenhagen theatre",
-      "url": "https://www.dezeen.com/2026/06/10/fragments-of-light-bomma-lighting-installation-3daysofdesign/",
-      "summary": "<p>Promotion: Czech lighting brand Bomma has unveiled an installation made from upcycled crystal shards inside Copenhagen's newly restored Hofteatret theatre during this year's 3 Days of Design festival. Named Fragments of Light, the installation fills the 18th-century Hofteatret theatre with dozens",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T14:00:06",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/fragments-of-light-bomma-lighting-installation-3daysofdesign-sq_dezeen_2364_col_1-411x411.jpg",
-      "title_ja": "ボンマ、コペンハーゲンの劇場で廃棄されたガラスの破片からインスタレーション「クリスタル クラウド」を制作",
-      "summary_ja": "プロモーション: チェコの照明ブランド Bomma は、今年の 3 日間、コペンハーゲンの新しく復元された Hofteatret 劇場内でアップサイクルされたクリスタルの破片から作られたインスタレーションを発表しました。"
-    },
-    {
       "title": "The “Vibe Coding” Crisis: Is Web Design Becoming a Commodity?",
       "url": "https://webdesignerdepot.com/the-vibe-coding-crisis-is-web-design-becoming-a-commodity/",
       "summary": "We are entering the era of \"Vibe Coding,\" where AI generates the average of everything we’ve ever built, leaving the web beautiful but soulless. To survive, designers must stop being pixel-pushers and start being \"Soul Architects,\" finding the human friction that a machine would never think to inclu",
@@ -197,30 +489,6 @@
       "body_ja": "2026 年は、「死刑執行人」が亡くなった年としてデザイン コミュニティで記憶されるでしょう。何十年もの間、Web デザイナーの価値の大部分は構築という行為に結びついていました。Figma でピクセルを移動し、それらのピクセルを CSS に変換し、フレックスボックスが動作することを確認し、Safari で特定のボタンが「オフ」に見える理由をトラブルシューティングすることです。\nしかし、忠実度の高い「Agentic UI」の登場と、業界関係者が「Vibe」と呼ぶものの台頭により、"
     },
     {
-      "title": "Fatal Fury / Garou Densetsu: The Ultimate History review",
-      "url": "https://www.creativebloq.com/entertainment/books/fatal-fury-garou-densetsu-the-ultimate-history-review",
-      "summary": "This gorgeous retro gaming book explains why Fatal Fury deserves more respect.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-06-10T12:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QJLAeVGLDNm7hq4KZesZsa-1280-80.jpg",
-      "title_ja": "餓狼伝説 / 餓狼伝説 The Ultimate History レビュー",
-      "summary_ja": "この豪華なレトロ ゲーム本は、餓狼伝説がなぜもっと尊敬に値するのかを説明しています。"
-    },
-    {
-      "title": "Don’t pause, Apple’s AirPods 4 are now under $100",
-      "url": "https://www.creativebloq.com/tech/headphones-earbuds/dont-pause-apples-airpods-4-are-now-under-usd100",
-      "summary": "Saving 23%? That’s music to my ears.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-06-10T11:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/S3xHTRSwT8eLrmmaw4yXcS-1280-80.jpg",
-      "title_ja": "立ち止まらないでください。Apple の AirPods 4 は現在 100 ドル以下です |9 月| 23% 節約できますか?それは私の耳には音楽です。",
-      "summary_ja": ""
-    },
-    {
       "title": "Liquid Glass: who gets to decide how an interface looks?",
       "url": "https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4",
       "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2100/1*pJm4WsYuQuCzawpE5BCxCQ.png\" width=\"2100\" /></a></p><p class=",
@@ -230,18 +498,6 @@
       "published": "2026-06-10T10:42:59",
       "image_url": "https://cdn-images-1.medium.com/max/2100/1*pJm4WsYuQuCzawpE5BCxCQ.png",
       "title_ja": "液体ガラス: インターフェイスの見た目は誰が決めるのでしょうか? |9月| <p クラス=",
-      "summary_ja": ""
-    },
-    {
-      "title": "Marta Nowicka self-designs Camber Sands studio using waste materials",
-      "url": "https://www.dezeen.com/2026/06/10/marta-nowicka-dom-studio/",
-      "summary": "<p>Architect Marta Nowicka used an entirely reclaimed palette of scaffolding planks, hollow concrete blocks and wood-wool boards to bring a \"gritty, unrefined\" feel to this small studio in East Sussex. Named DOM Studio, the building was conceived as a \"year-round sanctuary\" alongside Nowicka's own h",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T10:30:07",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/marta-nowicka-dom-studio-retreat-east-sussex-uk-sq2_dezeen_2364_col_0-411x411.jpg",
-      "title_ja": "マルタ・ノヴィッカ、廃材を利用してキャンバー・サンズ・スタジオをセルフデザイン |9月|建築家のマルタ・ノヴィッカは、この小さな間柱に「ザラザラした、洗練されていない」雰囲気をもたらすために、足場板、中空のコンクリートブロック、木毛ボードの完全に再生されたパレットを使用しました。",
       "summary_ja": ""
     },
     {
@@ -257,114 +513,6 @@
       "summary_ja": "探索的なユーザー調査研究から得られた結果は、認知障害を持つ参加者が共有する独自の洞察と実践的な UX の推奨事項に焦点を当てています。"
     },
     {
-      "title": "Why we should be designing for connection, not perfection",
-      "url": "https://www.creativebloq.com/design/why-we-should-be-designing-for-connection-not-perfection",
-      "summary": "And who's doing it right.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-06-10T10:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/mFTTk8BYNLwnfgWBDhATVo-1280-80.jpg",
-      "title_ja": "完璧ではなくつながりを重視してデザインする必要がある理由",
-      "summary_ja": "そして誰がそれを正しくやっているのか。"
-    },
-    {
-      "title": "\"Future challenges\" lie ahead at Sagrada Familia says lead architect Mauricio Cortés",
-      "url": "https://www.dezeen.com/2026/06/10/sagrada-familia-architect-maurici-cortes-interview-gaudi-centenary/",
-      "summary": "<p>Today marks the inauguration of the Tower of Jesus Christ at the Sagrada Familia. In this Gaudí Centenary interview, its lead architect discusses how modern technology helped reach this monumental milestone, but how work on the church is far from finished. \"I've read a few headlines that said tha",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T09:57:36",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/mauricio-cortes-sagrada-familia-portrait-gaudi-centenary_dezeen_1704_sq-411x411.jpg",
-      "title_ja": "主任建築家のマウリシオ・コルテス氏は、サグラダ・ファミリアには「将来の課題」が待ち受けていると語る",
-      "summary_ja": "今日はサグラダ・ファミリアにイエス・キリストの塔の落成式が行われました。このガウディ生誕 100 周年インタビューでは、主任建築家が現代テクノロジーがどのようにしてガウディの到達点に貢献したかについて語ります。"
-    },
-    {
-      "title": "Herzog & de Meuron to revitalise communist-era Palace of Congresses in Tirana",
-      "url": "https://www.dezeen.com/2026/06/10/herzog-de-meuron-palace-congresses-tirana/",
-      "summary": "<p>Swiss architecture studio Herzog &#38; de Meuron has revealed plans to update the Palace of Congresses concert venue in Tirana, Albania, with a 260-metre-tall skyscraper. Herzog &#38; de Meuron will oversee the renovation of the 40-year-old concert venue's existing performance spaces, while intro",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T09:45:25",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/herzog-de-meuron-palace-of-congresses-tirana-sq_dezeen_2364_col_0-411x411.jpg",
-      "title_ja": "ヘルツォーク＆ド・ムーロン、ティラナの共産主義時代の議会宮殿を再活性化",
-      "summary_ja": "スイスの建築スタジオ ヘルツォーク &#38;ド・ムーロン氏は、アルバニアのティラナにあるコングレス宮殿のコンサート会場を高さ260メートルの超高層ビルで更新する計画を明らかにした。ヘルツォーク &#"
-    },
-    {
-      "title": "Blue Ocean quartzite by Eggersmann",
-      "url": "https://www.dezeen.com/2026/06/10/blue-ocean-quartzite-eggersmann-dezeen-showroom/",
-      "summary": "<p>Dezeen Showroom: kitchen brand Eggersmann has added a naturally occurring quartzite with a bluish hue to its catalogue, which can be used to clad its kitchens. Blue Ocean quartzite is named after its blue-hued appearance, as well as the wave-like rhythm created by dramatic natural striations and ",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T09:30:24",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/blue-ocean-quartzite-eggersmann-dezeen-showroom_dezeen_2364_col_0-411x411.jpg",
-      "title_ja": "エガースマンによるブルーオーシャンクォーツァイト",
-      "summary_ja": "Dezeen ショールーム: キッチン ブランドの Eggersmann は、キッチンの外装に使用できる青みがかった色合いの天然珪岩をカタログに追加しました。ブルーオーシャン珪岩"
-    },
-    {
-      "title": "One of the best portable laser engravers is $800 off right now",
-      "url": "https://www.creativebloq.com/creative-inspiration/digital-crafting/one-of-the-best-portable-laser-engravers-is-usd800-off-right-now",
-      "summary": "Who needs Prime Day when this deal is already a perfect Father's Day gift?",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-06-10T09:30:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/Vumo3WdckaBnoAMrDNnQKZ-1280-80.jpg",
-      "title_ja": "最高のポータブル レーザー彫刻機の 1 つが現在 800 ドル引きです |9 月|このセールがすでに完璧な父の日のギフトであるのに、誰がプライムデーを必要とするでしょうか？",
-      "summary_ja": ""
-    },
-    {
-      "title": "Project Materia and Mater showcase furniture made from electronic waste and coffee shells",
-      "url": "https://www.dezeen.com/2026/06/10/project-materia-3-days-design/",
-      "summary": "<p>The latest edition of the exhibition platform Project Materia at 3 Days of Design sees designers and artists transform recycled materials made by design brand Mater into sculptural furniture. The exhibition, on show as part of the annual design festival 3 Days of Design, follows on from last year",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T09:00:13",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/project-materia-mater_dezeen_2364_col_sq-411x411.jpg",
-      "title_ja": "Project Materia と Mater は、電子廃棄物とコーヒーの殻から作られた家具を展示します",
-      "summary_ja": "3 Days of Design の展示プラットフォーム Project Materia の最新版では、デザイナーやアーティストがデザイン ブランド Mater によって作られたリサイクル素材を彫刻に変換します。"
-    },
-    {
-      "title": "Other Matter launches bio-leather made from single-use signage",
-      "url": "https://www.dezeen.com/2026/06/10/other-matter-leather-material-design/",
-      "summary": "<p>Design studio Other Matter has built on its flagship product, a petrochemical-free signage film, by recycling it into an upholstery material called Other Matter Leather, on show this week at 3 Days of Design. Other Matter Leather creates a closed loop for the studio's OM Signage Film, which launc",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T08:00:14",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/other-matter-leather-jessie-french-design_dezeen_2364_sq-411x411.jpg",
-      "title_ja": "Other Matter が使い捨て看板から作られたバイオレザーを発売",
-      "summary_ja": "デザインスタジオのOther Matterは、その主力製品である石油化学物質を含まない看板フィルムを、Other Matter Leatherと呼ばれる室内装飾素材にリサイクルすることで構築し、展示しました。"
-    },
-    {
-      "title": "A-N-D transforms historic Copenhagen printing press into sculptural lighting gallery",
-      "url": "https://www.dezeen.com/2026/06/10/north-quarters-and-lighting-copenhagen-showroom-3daysofdesign/",
-      "summary": "<p>Promotion: Canadian lighting brand A-N-D has opened its permanent Copenhagen headquarters during 3 Days of Design, marking the launch with a multi-level exhibition showcasing its sculptural lighting collections. Named North Quarters, the exhibition occupies the brand's new European flagship showr",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-06-10T07:00:29",
-      "image_url": "http://static.dezeen.com/uploads/2026/06/north-quarters-and-lighting-copenhagen-showroom-3daysofdesign-sq_dezeen_2364_col_8-411x411.jpg",
-      "title_ja": "A-N-D は歴史あるコペンハーゲンの印刷機を彫刻的な照明ギャラリーに変身させます",
-      "summary_ja": "プロモーション: カナダの照明ブランド A-N-D は、3 日間のデザイン期間中にコペンハーゲンの常設本社をオープンし、その立ち上げを記念して、その製品を展示する複数レベルの展示会を開催しました。"
-    },
-    {
-      "title": "Switch 2 Zelda: Ocarina of Time remake has some fans regretting what they wished for",
-      "url": "https://www.creativebloq.com/3d/video-game-design/switch-2-zelda-ocarina-of-time-remake-is-making-some-fans-regret-what-they-wished-for",
-      "summary": "Has Nintendo \"hired this man\" for an Unreal Engine 5 reimagining?",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-06-10T07:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/4GRMSwxhTYRMJJbPvPXimS-1280-80.jpg",
-      "title_ja": "Switch 2 ゼルダ: 時のオカリナのリメイクでは、望んでいたものを後悔しているファンもいる",
-      "summary_ja": "任天堂はアンリアル エンジン 5 の再構築のために「この人を雇った」のでしょうか?"
-    },
-    {
       "title": "イタリア家具ブランド「mdf italia」が日本展開開始。 スノヘッタのソファー「Array」を展示",
       "url": "https://www.axismag.jp/posts/2026/06/712599.html",
       "summary": "インテリア関連事業を手がけるソーシャルインテリアは、イタリアのモダンファニチャーブランド「mdf italia」の日本国内における代理店業務を開始した。これに伴い、東京・南青山のオフィス兼ショールーム「THE MUSEU [&#8230;]",
@@ -373,7 +521,7 @@
       "lang": "ja",
       "published": "2026-06-10T05:00:00",
       "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/06/main.jpg",
-      "body_ja": "NEWS ｜ プロダクト\n1分前\nインテリア関連事業を手がけるソーシャルインテリアは、イタリアのモダンファニチャーブランド「mdf italia」の日本国内における代理店業務を開始した。これに伴い、東京・南青山のオフィス兼ショールーム「THE MUSEUM」にて、新作コレクションの常設展示をスタートしている。\nmdf italiaは、1992年にブルーノ・ファットリーニによって設立されたミラノ発の家具ブランド。「シンプルさ」「形態の軽快さ」「デザインへの挑戦」を軸に、ミニマルで洗練された家具を展開してきた。2007年以降は、Cassina（カッシーナ）一族の持株会社のもとでブランド戦略を強化し、機能性と温かみを併せ持つ現代的なデザインを追求している。\n国内唯一のmdf italia常設展示拠点となるのが、ソーシャルインテリアが運営する「THE MUSEUM」だ。住空間だけでなく、オフィスやホスピタリティ空間まで幅広く対応する同ブランドのコレクションを、実際の空間提案の中で体験できる場とし"
+      "body_ja": "NEWS ｜ プロダクト\n2026.06.10 14:00\nインテリア関連事業を手がけるソーシャルインテリアは、イタリアのモダンファニチャーブランド「mdf italia」の日本国内における代理店業務を開始した。これに伴い、東京・南青山のオフィス兼ショールーム「THE MUSEUM」にて、新作コレクションの常設展示をスタートしている。\nmdf italiaは、1992年にブルーノ・ファットリーニによって設立されたミラノ発の家具ブランド。「シンプルさ」「形態の軽快さ」「デザインへの挑戦」を軸に、ミニマルで洗練された家具を展開してきた。2007年以降は、Cassina（カッシーナ）一族の持株会社のもとでブランド戦略を強化し、機能性と温かみを併せ持つ現代的なデザインを追求している。\n国内唯一のmdf italia常設展示拠点となるのが、ソーシャルインテリアが運営する「THE MUSEUM」だ。住空間だけでなく、オフィスやホスピタリティ空間まで幅広く対応する同ブランドのコレクションを、実際の空間"
     },
     {
       "title": "生成AI時代、新卒研修はどう変わるのか？グッドパッチの26卒研修を大公開｜Blog｜Goodpatch グッドパッチ",
@@ -410,46 +558,6 @@
       "summary_ja": ""
     },
     {
-      "title": "2027年卒 みんなの新卒就職人気企業ランキング、伊藤忠が2年連続首位【週間ランキング】",
-      "url": "https://webtan.impress.co.jp/e/2026/06/10/52779",
-      "summary": "<div class=\"field--name-body\">\n<div>\n<p>2026年6月3日～2026年6月9日にアクセス数の多かった記事のランキングを発表！ 見逃している人気記事はありませんか？</p>\n</div>\n\n<div class=\"ranking\">\n<ol class=\"ranking__list\">\n<li class=\"ranking__item clearfix\" id=\"ranking__item-01\">\n  <div class=\"contextual-region node node-teaser clearfix node--type-article-ne",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-09T23:00:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/icon_200/public/images/news2026/0601_minsyu_01.png?itok=RJreGlOl"
-    },
-    {
-      "title": "「.com」と「.jp」はどちらが有利？ “ドメインパワー”って本当にあるの？ SEO専門家・住太陽氏に聞いた",
-      "url": "https://webtan.impress.co.jp/e/2026/06/10/52748",
-      "summary": "<div class=\"field--name-body\">\n<p class=\"narrow2\">「SEOで勝てないのは、ドメインパワーが足りないから？」</p>\n<p class=\"narrow2\">Google検索で上位表示を目指して施策に取り組む担当者ならば、聞いたことがあるかもしれない「<em>ドメインパワー</em>」という言葉。ドメインとは、Web担当者Forumなら「webtan.impress.co.jp」、Yahoo! JAPANなら「.yahoo.co.jp」という具合に、あらゆるサイトはドメインのもとで運用されているが、それぞれのドメインに対する信用力のようなものが数値",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-09T22:05:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/images/article2026/domain_0610/domain_00_v2.jpg"
-    },
-    {
-      "title": "ストアギークのリテールメディアサービス「ストアギークサイネージ」のカインズへの導入が決定",
-      "url": "https://webtan.impress.co.jp/n/2026/06/10/52783",
-      "summary": "<div class=\"field--name-field-brief-desc\">これまでのドラッグストアチェーン向けから新たな小売り業態への展開開始、対象カテゴリも拡大</div>\n      \n            <div class=\"field--name-body\">\n<p>小売店の店内メディア開発・運用事業のストアギークは、同社のリテールメディア(小売店が展開する広告媒体)サービス「ストアギークサイネージ」が、ホームセンターチェーン大手のカインズに新規導入されることになった、と6月9日発表した。ストアギークサイネージはこれまでドラッグストアチェーンに利用されてきたが、カインズ",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-09T22:02:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0610_storegeek02.png?itok=gSRoFtIX"
-    },
-    {
-      "title": "コムニコのSNSキャンペーンツール「comnico Marketing Suite」をBtoB企業のコベルコ建機が導入",
-      "url": "https://webtan.impress.co.jp/n/2026/06/10/52781",
-      "summary": "<div class=\"field--name-field-brief-desc\">単なる販促ではなく関係者との距離を縮めるためにSNSを活用、効率的に運用できる体制を整備</div>\n      \n            <div class=\"field--name-body\">\n<p>マーケティング企業グループのラバブルマーケティンググループの子会社でSNSマーケティング支援事業のコムニコは、同社のSNSキャンペーンツール「comnico Marketing Suite(コムニコマーケティングスイート)」を神戸製鋼所(KOBELCO)＝コベルコ＝子会社で建設機械を手掛けるコベルコ建機が導",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-09T22:01:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0610_lmg01.jpg?itok=tQNOSjo-"
-    },
-    {
       "title": "Old Wine Tanks Become Suites at this Ionian Sea Resort",
       "url": "https://design-milk.com/old-wine-tanks-become-suites-at-this-ionian-sea-resort/",
       "summary": "Dexamenes Seaside Hotel answers the growing global demand for distinctive design destinations with new sensitively imagined accommodations",
@@ -474,30 +582,6 @@
       "summary_ja": "SIN の FIELD コレクションは、同じ条件下で多数の色合いが変化する、照明内の物質性の広がりを探求します。",
       "image_url": "https://design-milk.com/images/2026/06/Field-Lighting-Collection-SIN-1.jpg",
       "body_ja": "もっと細かく言えば、私たちは皆、環境、選択、そして生得的なプログラミングの産物であるということになります。特異な視点を中心に展開するため、たとえ後でリリースすることを選択したとしても、初期に植え付けられた原則を具体化する以外に選択肢はありません。 SIN の FIELD コレクションは、家庭内でも同様の機能を果たします。原則として日陰の物質性を探求する照明であり、おそらく私たちが本質的にどのように光を拡散するかを探求するよう私たちを誘います。"
-    },
-    {
-      "title": "I'm buying myself a Nintendo Switch 2 because of The Duskbloods",
-      "url": "https://www.creativebloq.com/entertainment/gaming/im-buying-myself-a-nintendo-switch-2-because-of-the-duskbloods",
-      "summary": "It's not on sale, but after a year of waiting, I finally need one.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-06-09T16:01:29",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/cGkczoqHQtkyb7G55YF7T7-1280-80.jpg",
-      "title_ja": "The Duskbloods",
-      "summary_ja": "のため、Nintendo Switch 2 を購入しています。セールではありませんが、1年待って、ようやく必要になりました。"
-    },
-    {
-      "title": "Nostalgic anniversary console shows where Xbox went wrong",
-      "url": "https://www.creativebloq.com/entertainment/gaming/nostalgic-anniversary-console-shows-where-xbox-went-wrong",
-      "summary": "Fans' reactions show the brand needed to bring back the emotion.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-06-09T15:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/kaCEHuazEqvgLUryZ5BBP-1280-80.jpg",
-      "title_ja": "懐かしの記念コンソールが Xbox のどこが間違っていたのかを示す",
-      "summary_ja": "ファンの反応は、ブランドが感情を取り戻す必要があることを示しています。"
     },
     {
       "title": "Strategy in the age of the machine",
@@ -544,7 +628,7 @@
       "lang": "ja",
       "published": "2026-06-09T08:24:29",
       "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/06/E628-8390.jpg",
-      "body_ja": "NEWS ｜ 展覧会\n21時間前\nアーティゾン美術館は、企画展「エットレ・ソットサス —魔法がはじまるとき、デザインは生まれる」を6月23日（火）から10月4日（日）まで開催する。20世紀イタリアデザインを代表するエットレ・ソットサスの創作をたどる日本初の大規模回顧展であり、同館にとって初のデザイン展となる。\nまた本誌「AXIS」vol.237(2026年7月号）では、「エットレ・ソットサスが遺したデザインの方舟」を特集する。ミケーレ・デ・ルッキとアルベルト・アレッシィによる追想対談など、あらためてソットサスとは何だったのか、ポストモダンとはどんな意義を持っていたのか。その人と時代を問いかける記事が構成されている。\nソットサスは、1950年代からオリベッティ社やポルトロノーヴァ社のために数々のプロダクトを手がけ、1981年にはデザイナー集団「メンフィス」を結成。鮮やかな色彩や大胆な造形を特徴とするポストモダンデザインによって国際的な評価を獲得した。合理主義的なデザイン観に疑問を投げかけ、"
+      "body_ja": "NEWS ｜ 展覧会\n2026.06.09 17:24\nアーティゾン美術館は、企画展「エットレ・ソットサス —魔法がはじまるとき、デザインは生まれる」を6月23日（火）から10月4日（日）まで開催する。20世紀イタリアデザインを代表するエットレ・ソットサスの創作をたどる日本初の大規模回顧展であり、同館にとって初のデザイン展となる。\nまた本誌「AXIS」vol.237(2026年7月号）では、「エットレ・ソットサスが遺したデザインの方舟」を特集する。ミケーレ・デ・ルッキとアルベルト・アレッシィによる追想対談など、あらためてソットサスとは何だったのか、ポストモダンとはどんな意義を持っていたのか。その人と時代を問いかける記事が構成されている。\nソットサスは、1950年代からオリベッティ社やポルトロノーヴァ社のために数々のプロダクトを手がけ、1981年にはデザイナー集団「メンフィス」を結成。鮮やかな色彩や大胆な造形を特徴とするポストモダンデザインによって国際的な評価を獲得した。合理主義的なデザイ"
     },
     {
       "title": "ステファノ・ボエリによるローマの都市再生プロジェクト。 旧車両基地を空中庭園のある複合文化拠点に",
@@ -556,30 +640,6 @@
       "published": "2026-06-09T01:46:33",
       "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/06/stefano-boeri-architetti-converts-former-rome-transit-depot-into-multifunctional-civic-space_2.jpg",
       "body_ja": "NEWS ｜ ソーシャル / 建築\n2026.06.09 10:46\n建築家ステファノ・ボエリによるイタリア・ローマの都市再生プロジェクト「デポージティ・デッレ・ヴィットーリエ」が発表された。20世紀初頭に建設され、約20年にわたり使われていなかった旧車両基地を再生し、文化・商業・交流機能を備えた複合拠点へと転換する計画である。\n計画地は、ローマ中心部のプラーティ＝デッレ・ヴィットーリエ地区に位置する約1万6,000㎡の敷地。住宅地として知られるエリアだが、ここに公共空間と緑地を導入することで、地域の新たな多機能ハブとなることを目指している。\nプロジェクトの最大の特徴は、地上15mの高さに設けられる約8,000㎡の空中庭園だ。緑豊かな屋上空間は、周辺の街路や広場を見渡す展望空間として機能するだけでなく、彫刻作品を展示する屋外ミュージアムとしても構想されている。迷路のように巡る動線の中で、来場者は植栽とアートを同時に体験できる。\n一方、地上階では旧車両基地の中庭を都市へ開放し、レジャーや文"
-    },
-    {
-      "title": "AI design isn’t ugly. It’s fluent — and that’s the problem.",
-      "url": "https://uxdesign.cc/ai-design-isnt-ugly-it-s-fluent-and-that-s-the-problem-131b2f4eb78c?source=rss----138adf9c44c---4",
-      "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-design-isnt-ugly-it-s-fluent-and-that-s-the-problem-131b2f4eb78c?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1509/1*WsY4Q3KrpGZyCZkNpPERGA.png\" width=\"1509\" /></a></p><p class=",
-      "source": "UX Collective",
-      "icon": "✏️",
-      "lang": "en",
-      "published": "2026-06-08T22:10:58",
-      "image_url": "https://cdn-images-1.medium.com/max/1509/1*WsY4Q3KrpGZyCZkNpPERGA.png",
-      "title_ja": "AI のデザインは醜いものではありません。流暢です — そしてそれが問題なのです。 |9月| <p クラス=",
-      "summary_ja": ""
-    },
-    {
-      "title": "AI has become the third wheel",
-      "url": "https://uxdesign.cc/ai-has-become-the-third-wheel-ee8e53e06b85?source=rss----138adf9c44c---4",
-      "summary": "<h4>How to navigate the uninvited participant in your next client meeting.</h4><figure><img alt=\"Three glasses of wine with ice in hands, toasting at garden party\" src=\"https://cdn-images-1.medium.com/max/1024/1*CBufeo9Z8zkqmh54B7PFTA.jpeg\" /><figcaption>Image source: <a href=\"https://stock.adobe.co",
-      "source": "UX Collective",
-      "icon": "✏️",
-      "lang": "en",
-      "published": "2026-06-08T22:10:54",
-      "image_url": "https://cdn-images-1.medium.com/max/1024/1*CBufeo9Z8zkqmh54B7PFTA.jpeg",
-      "title_ja": "AIが第三の輪になった",
-      "summary_ja": "次回のクライアント会議で招待されていない参加者をナビゲートする方法。画像ソース: <a href=\"https://stock.adobe.co"
     },
     {
       "title": "Viceroy Los Cabos Emerges as a Series of Floating Monoliths",
@@ -606,18 +666,6 @@
       "summary_ja": "空気中のリボンの動きからインスピレーションを得たアンナ ドーソンは、祖母との思い出を最新の照明コレクションに反映させています。",
       "image_url": "https://design-milk.com/images/2026/06/S26-Lighting-Anna-Dawson-0.jpg",
       "body_ja": "雷は同じ場所に二度落ちます。しかし、イオン化した空気を突き破る電気の爆発的な表現であるボルトは常に異なり、まったく同じ形になることはありません。同じことがガラスにも当てはまります。特定の温度、圧力、形状の配合によって、ガラスのすべてが決まります。作品が作られたテロワールが内部に注入され、泡、テクスチャー、製造時の細かい痕跡が描写されます。それぞれ微妙に違う"
-    },
-    {
-      "title": "The forgotten science behind self-improving companies",
-      "url": "https://uxdesign.cc/the-forgotten-science-behind-self-improving-companies-7af504269d52?source=rss----138adf9c44c---4",
-      "summary": "<h4><em>Cybernetics might just be the most important body of knowledge in 2026 and beyond. But don’t take my word for it. Look at the evidence: from technical staff at Anthropic to a production engineering talk at Factory, and YC founders speaking at Stanford — a pattern keeps emerging. </em><strong",
-      "source": "UX Collective",
-      "icon": "✏️",
-      "lang": "en",
-      "published": "2026-06-08T16:06:34",
-      "image_url": "https://cdn-images-1.medium.com/max/1024/1*Dwr0Jm_Q-jdI0tii0RKm8w.jpeg",
-      "title_ja": "自己改善企業の背後にある忘れ去られた科学",
-      "summary_ja": "サイバネティクスは、2026 年以降、最も重要な知識体系になる可能性があります。しかし、私の言葉を鵜呑みにしないでください。証拠を見てください: Anthropic の技術スタッフから生産者まで"
     },
     {
       "title": "Nordic Knots Brings a Beauty Ritual Home With Its 2026 Season of Grandeur",
@@ -665,32 +713,6 @@
       "image_url": "https://i0.wp.com/cms.goodpatch.com/wp-content/uploads/2026/05/KV.webp?fit=1920%2C1080&ssl=1"
     },
     {
-      "title": "This Eclectic Apartment by Antwe Celebrates Storage",
-      "url": "https://design-milk.com/this-eclectic-apartment-by-antwe-celebrates-storage/",
-      "summary": "In this residence by Antwe, a glossy-lacquered multipurpose volume anchors the space filled with natural light, striking art, and Eileen Gray chairs.",
-      "source": "Design Milk",
-      "icon": "🥛",
-      "lang": "en",
-      "published": "2026-06-05T18:00:01",
-      "title_ja": "Antwe によるこの折衷的なアパートメントはストレージを祝っています",
-      "summary_ja": "アントウェによるこの邸宅では、光沢のある漆塗りの多目的ボリュームが、自然光、印象的なアート、アイリーン グレイの椅子で満たされた空間を支えています。",
-      "image_url": "https://design-milk.com/images/2026/06/Sadovye-home-by-Antwe-7.jpeg",
-      "body_ja": "サンクトペテルブルクのインテリア デザイン会社アントウェは、女性とその娘のために設計した 130 平方メートルの住宅「サドヴィエ」で、「空間内にオブジェクト」を作成するという 1 つの決定的な取り組みから始めました。スタジオは、自然のままのオープンな環境の中心に、深紅のメルバウ化粧板を使用した高光沢の楕円形のボリュームを配置しました。意図的に天井より低く保たれているため、従来のパーティションではなく、自立した挿入物として読み取れます。"
-    },
-    {
-      "title": "Italian and Scandinavian Coffee Culture Coalesce in this Nespresso Vertuo World Pop-Up",
-      "url": "https://design-milk.com/italian-and-scandinavian-coffee-culture-coalesce-in-the-nespresso-vertuo-world-pop-up/",
-      "summary": "Nespresso brought Vertuo World to Stockholm with a design-led pop-up at Francesco to celebrate the newly-launched Vertuo Up machine.",
-      "source": "Design Milk",
-      "icon": "🥛",
-      "lang": "en",
-      "published": "2026-06-05T16:00:05",
-      "title_ja": "イタリアとスカンジナビアのコーヒー文化がこの Nespresso Vertuo World ポップアップで融合",
-      "summary_ja": "ネスプレッソは、新しく発売された Vertuo Up マシンを祝うために、フランチェスコでデザイン主導のポップアップを開催し、Vertuo World をストックホルムにもたらしました。",
-      "image_url": "https://design-milk.com/images/2026/06/Nespresso-Vertuo-World-Pop-Up-Sweden-00.jpg",
-      "body_ja": "イタリア語で「カフェ」。スウェーデン語で「カフェ」。一見対照的な文化にまたがって、「コーヒー」という言葉は儀式、社会的つながり、日々の喜びの重みを持っています。ストックホルムでは、ネスプレッソの Vertuo World ポップアップが、スウェーデンのフィーカ文化とイタリアのエスプレッソ バーの儀式という、表現力豊かな 2 つの伝統の間に足場を築きました。\nブランドは何十年もの間、この家庭での儀式の一部であり続けてきましたが、ネスプレッソはより表現力豊かな時代に入りました。"
-    },
-    {
       "title": "伝統の知恵と環境シミュレーションの融合──SUEP.がSANUの新モデル「ARC」で見せた“おおらかな建築”のかたち",
       "url": "https://www.axismag.jp/posts/2026/06/711269.html",
       "summary": "奄美大島に誕生したSANUの新モデル「ARC」。奄美に伝わる先人たちの知恵に、現代的な環境解析のアプローチを掛け合わせて生まれた空間は、滞在者の心身を解きほぐす“おおらかな建築”だ。設計を務めたSUEP.のふたりにキャビ [&#8230;]",
@@ -724,17 +746,6 @@
       "body_ja": "NEWS ｜ アート / 展覧会\n2026.06.04 18:58\n森美術館では、18年ぶりの大規模個展となる「ロン・ミュエク」展を開催している。6月1日に来館者数10万人を突破したが、会期は9月23日（水）まで。\nオーストラリア生まれで英国を拠点に活動する現代美術作家ロン・ミュエクは、人間を極めて精緻に観察しながら、実物より極端に大きく、あるいは小さくスケールを変化させた彫刻によって知られる作家である。シリコンやファイバーグラスなどを用いた超写実的表現は、強烈なリアリティを持ちながらも、鑑賞者に違和感や不安、存在への問いを投げかける。\n本展では、初期の代表作「エンジェル」（1997）を日本初公開。翼を持つ小さな男性像がスツールに腰掛け、俯きながら物思いに沈む姿は、一般的な“天使”像とは異なる複雑な感情を宿している。作家が注目を集める契機となった初期作品として重要な位置を占める作品だ。\nまた、展覧会の中心となるのが、日本初公開となる大型インスタレーション「マス」（2016-2017）。1"
     },
     {
-      "title": "社会や環境の課題に対して 色とテキスタイルとデザインで挑む藤原 大",
-      "url": "https://www.axismag.jp/posts/2026/06/712628.html",
-      "summary": "「キャッスル」江の島アートフェスティバル（2026） デザイナー、クリエイティブディレクター、プロデューサー、美術家、大学教授と、多彩な顔を持つ藤原 大は、テキスタイルというメディアを駆使して精力的に活動する。近年は、内 [&#8230;]",
-      "source": "AXIS Web",
-      "icon": "🎭",
-      "lang": "ja",
-      "published": "2026-06-04T05:43:57",
-      "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/06/010203.jpg",
-      "body_ja": "デザイナー、クリエイティブディレクター、プロデューサー、美術家、大学教授と、多彩な顔を持つ藤原 大は、テキスタイルというメディアを駆使して精力的に活動する。近年は、内閣府が主導するムーンショットプロジェクトのアウトリーチ活動として量子芸術祭の総合監督を務めたほか、能登半島の復興を祈念して寺院のために暖簾（のれん）を制作したり、住宅建材メーカーとアルミフレームを開発したりとその活動は幅広い。近年のプロジェクトを中心にこれまでの歩みを聞いた。\n湘南の自然のなかで感性を育んだ\n藤原は、1989年に多摩美術大学に入学し、テキスタイルを専攻。「布は普遍的なメディアであり、社会にメッセージが伝わりやすい」と感じ、テキスタイルを選んだという。4年次には、大学を休学し北京の中央美術学院国画系山水画科に留学。島国の日本と異なる、アジア大陸の自然観と地続きの文化に興味を抱き、1年間にわたり山水画を学んだ。\n卒業後、1994年に三宅デザイン事務所（イッセイミヤケの親会社）に入社。「A-POC」プロジェクトに携"
-    },
-    {
       "title": "How To Make Your Design System AI-Ready",
       "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
       "summary": "Practical guide on how to reduce drifts, minimize mistakes, maintain context, and improve the quality of AI-generated prototypes. Brought to you by <a href=\"https://ai-design-patterns.com/\">Design Patterns For AI Interfaces</a>, **friendly video course on UX** and design patterns by Vitaly.",
@@ -745,17 +756,6 @@
       "image_url": "http://files.smashing.media/articles/how-make-design-system-ai-ready/how-make-design-system-ai-ready.jpg",
       "title_ja": "設計システムを AI 対応にする方法",
       "summary_ja": "AI で生成されたプロトタイプのドリフトを減らし、間違いを最小限に抑え、コンテキストを維持し、品質を向上させる方法に関する実践的なガイド。 AI インターフェースのデザインパターンが提供"
-    },
-    {
-      "title": "舞台芸術を平面表現で。京都dddギャラリーで「GRAPHIC CUBE ―シアターポスター」開催",
-      "url": "https://www.axismag.jp/posts/2026/06/711179.html",
-      "summary": "榎本了壱《演劇実験室 天井棧敷 ヨーロッパ公演》1971 京都dddギャラリーでは、第252回企画展「GRAPHIC CUBE ―シアターポスター DNPグラフィックデザイン・アーカイブより」を6月12日（金）から8月1 [&#8230;]",
-      "source": "AXIS Web",
-      "icon": "🎭",
-      "lang": "ja",
-      "published": "2026-06-03T04:29:24",
-      "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/05/E690-9118.jpg",
-      "body_ja": "NEWS ｜ グラフィック / 展覧会\n2026.06.03 13:29\n京都dddギャラリーでは、第252回企画展「GRAPHIC CUBE ―シアターポスター DNPグラフィックデザイン・アーカイブより」を6月12日（金）から8月19日（水）まで開催する。DNPグラフィックデザイン・アーカイブ収蔵作品を軸に展開するシリーズ企画「GRAPHIC CUBE」の第2弾であり、今回は演劇や舞踏、オペラといった舞台芸術のポスターに焦点を当てる。\n「GRAPHIC CUBE」は、グラフィックデザインの多面性を〈立方体＝キューブ〉になぞらえ、表現対象や鑑賞者との関係性を多角的に捉えようとするシリーズだ。本展では、時間の経過とともに変化し、一回性を本質とする舞台芸術を、ポスターという平面表現がどのように再構築してきたのかを検証する。\n近代ポスターの成立は19世紀後半のフランスに遡る。リトグラフ技法の発展によって多色刷りが可能となり、ベル・エポック期の都市空間を彩った華やかなポスターの多くは、劇場や舞"
     },
     {
       "title": "UX Hierarchy: How Users Actually Scan Pages in 2026",
@@ -1050,6 +1050,6 @@
       "body_ja": "私はもう「ロゴのトレンド」をあまり信じていません。\n少なくとも、私たちが彼らについて話していたような方法ではありませんでした。セリフが戻ってきた、ミニマリズムが死んだ、グラデーションが進化しているなど、毎年同じような表面レベルの会話が戻ってきますが、そのどれも、なぜロゴが実際に現在のように見えるのかを説明するものではありません。\n2026 年に私が見ているのは、スタイルの変化ではありません。それはプレッシャーです。インターフェース、AI、注意力の持続時間の短縮、そしてファクターからのプレッシャー"
     }
   ],
-  "last_updated": "2026-06-11T08:25:44.705334+09:00",
+  "last_updated": "2026-06-12T08:20:37.552785+09:00",
   "count": 90
 }
