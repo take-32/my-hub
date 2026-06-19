@@ -1,6 +1,374 @@
 {
   "articles": [
     {
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-06-19T22:40:14",
+      "title_ja": "暗号化、スパイウェア、そして今の神話: サイバー輸出管理が機能しない理由は歴史が示しています",
+      "summary_ja": "過去 30 年間、サイバーセキュリティ関連のソフトウェアの流れを阻止することは効果がないことが証明されています。なぜ今、Anthropic のサイバーセキュリティ モデル Myt で機能するのかは不明です",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+      "body_ja": "先週金曜日、ホワイトハウスは、不特定の国家安全保障上の懸念を理由に、Anthropicに対し、同社の強力なAIモデル「Fable」と「Mythos」の米国外および国内の外国人への輸出を制限するよう命令した。その直後、AI巨人は急いで両方のモデルのプラグを外し、現在は1週間誰も利用できない状態になっている。\nこのエピソードは、米国政府が輸出を利用できるかどうかを試す最初の本当のテストとなる"
+    },
+    {
+      "title": "生成AIを活用した商品開発とは？事例12選とメリットや進め方を解説",
+      "url": "https://ainow.ai/2026/06/20/278188/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2597%25e3%2581%259f%25e5%2595%2586%25e5%2593%2581%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25ba%258b%25e4%25be%258b12%25e9%2581%25b8%25e3%2581%25a8%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583",
+      "summary": "<p>&#29983;&#25104;AI&#12391;&#21830;&#21697;&#38283;&#30330;&#12434;&#21177;&#29575;&#21270;&#12375;&#12383;&#12356;&#12418;&#12398;&#12398;&#12289;&#24066;&#22580;&#35519;&#26619;&#12363;&#12425;&#12450;&#12452;&#12487;&#12450;&#20986;&#12375;&#12289;&#35430;&#20316;&#12414;&#12391;&#12398;&#12393",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-06-19T19:27:54",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/06/thumbnail-19.jpg",
+      "body_ja": "生成AIで商品開発を効率化したいものの、市場調査からアイデア出し、試作までのどの工程に、どう使えばよいのかが掴めず、様子見のままになっている担当者は少なくありません。生成AIを活用した商品開発とは、調査・発想・試作・デザインといった各工程を生成AIで支援し、開発のスピードと発想の幅を広げる取り組みです。\n「どこから使えるか」を掴めないまま手をこまねいていると、開発期間を圧縮し発想を広げる競合に、ヒット商品の数とスピードで差を広げられてしまうでしょう。逆に工程ごとの使いどころと実例を押さえれば、人材が限られていても自社の商品開発を着実に加速できます。\n本記事では、生成AIが商品開発で使える6つの工程と、業界別の実在企業事例12選、自社で始める進め方を中心に、メリットやプロンプト例、著作権などの注意点まで解説します。\n読み終えるころには、自社の商品開発の「どこから生成AIを試すか」を具体的に描き、根拠ある事例でリスクを抑えながら開発を加速できるようになります。生成AIを商品開発の武器にしたい"
+    },
+    {
+      "title": "生成AIを経営企画に活用する方法とメリット！事例とプロンプトも紹介",
+      "url": "https://ainow.ai/2026/06/20/278185/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e7%25b5%258c%25e5%2596%25b6%25e4%25bc%2581%25e7%2594%25bb%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%2595%25e3%2581%25a8%25e3%2583%25a1%25e3%2583%25aa%25e3%2583%2583%25e3%2583%2588%25ef%25bc%2581%25e4%25ba%258b%25e4%25be%258b",
+      "summary": "<p>&#32076;&#21942;&#20225;&#30011;&#12399;&#24066;&#22580;&#35519;&#26619;&#12420;&#36039;&#26009;&#20316;&#25104;&#12395;&#26178;&#38291;&#12434;&#22890;&#12431;&#12428;&#12289;&#26412;&#26469;&#27880;&#21147;&#12377;&#12409;&#12365;&#25126;&#30053;&#12398;&#27083;&#24819;&#12395;&#25163;&#12364;&",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-06-19T18:53:37",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/06/thumbnail-18.jpg",
+      "body_ja": "経営企画は市場調査や資料作成に時間を奪われ、本来注力すべき戦略の構想に手が回らないことが少なくありません。\n「生成AIが経営企画にも使えるらしいが、自部門のどの業務にどう適用すればよいかわからない」と感じている方は多いはずです。使いどころとプロンプトを押さえれば、調査や資料づくりの作業時間を圧縮し、戦略立案に時間を回せます。\n使い方を知らないままでは、マーケや開発が成果を出すなかで経営企画だけが手作業に留まり、AIを使いこなせない部署と見られてしまうでしょう。\n本記事では、経営企画で生成AIを活用できる業務とメリットを軸に、企業事例・そのまま使えるプロンプト例・導入手順・リスク対策まで解説します。\n読み終える頃には、自部門のどの業務にどう生成AIを使うかを判断でき、作業を圧縮して付加価値の高い業務へ集中できるようになります。\n目次\n生成AIは経営企画の業務をどう変えるのか\n生成AIは経営企画を、「作業の自動化」と「思考の高度化」の両面から変えます。\n経営企画の仕事は、調査や資料作成といっ"
+    },
+    {
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since ",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-06-19T16:08:17",
+      "title_ja": "米国政府による人為的禁止令は偶然にもブランドを助けているのでしょうか? |9月|ちょうど先週が終わりかけたとき、米国政府は、アマゾンの後の国家安全保障上の懸念を理由に、Anthropic に 2 つの最新モデル、Fable 5 と Mythos 5 の廃止を強制しました。",
+      "summary_ja": "",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+      "body_ja": "ちょうど先週が終わりかけた頃、Amazonの研究者がFable 5のガードレールを迂回する方法を発見したとされることを受けて、米国政府は国家安全保障上の懸念を理由に、Anthropic社にFable 5とMythos 5という2つの最新モデルの生産中止を強制した。\nその後、サイバーセキュリティ研究者らはこの動きを危険だとする公開書簡に署名しており、Anthropic 自体も他のモデルにも同じジェイルブレイクが存在すると指摘している。では、これは本物のセキュリティ上の懸念なのでしょうか、それとも単に最新の問題なのでしょうか？"
+    },
+    {
+      "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since ",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-06-19T16:01:03",
+      "title_ja": "米国は Anthropic の Fable 5 のリリースを禁止しましたが、数字は気にしていないようです",
+      "summary_ja": "ちょうど先週が終わりかけたとき、米国政府は、アマゾンの後の国家安全保障上の懸念を理由に、Anthropic に 2 つの最新モデル、Fable 5 と Mythos 5 の廃止を強制しました。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
+      "body_ja": "ちょうど先週が終わりかけた頃、Amazonの研究者がFable 5のガードレールを迂回する方法を発見したとされることを受けて、米国政府は国家安全保障上の懸念を理由に、Anthropic社にFable 5とMythos 5という2つの最新モデルの生産中止を強制した。\nその後、サイバーセキュリティ研究者らはこの動きを危険だとする公開書簡に署名しており、Anthropic 自体も他のモデルにも同じジェイルブレイクが存在すると指摘している。では、これは本物のセキュリティ上の懸念なのでしょうか、それとも単に最新の問題なのでしょうか？"
+    },
+    {
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-06-19T15:23:28",
+      "title_ja": "億万長者のアンバーニ氏は、あらゆる通話、アプリ、家庭に AI を導入したい |9 月|リライアンスは、5 億人以上が利用する通信サービスに AI を組み込んでいます。",
+      "summary_ja": "",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?resize=1200,800",
+      "body_ja": "インドが世界的な人工知能競争で自国の競争相手を探している中、億万長者のムケシュ・アンバニ氏はリライアンス・インダストリーズを国内チャンピオンとして位置づけ、通話、モバイルアプリ、コネクテッドホーム向けのAIサービスを展開している。\n金曜日の年次株主総会で、ムンバイに本拠を置くこの複合企業は、電話に参加して会話を文字に起こし、要約を生成し、実行できる AI アシスタントである Jio Call Agent を発表しました。"
+    },
+    {
+      "title": "ゲーミングPCが最大10.6万円引き　パソコンショップSEVENが6月20日限定セール",
+      "url": "https://ascii.jp/elem/000/004/411/4411684/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/18/4485358/s/27d2f2bfc88a515b.png\" width=\"60\" />RTX 5090搭載ゲーミングPCが10万円超値引き。パソコンショップSEVENの24時間限定セールで、最新BTOパソコン全10モデルが特別価格で登場する。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/18/4485358/s/27d2f2bfc88a515b.png"
+    },
+    {
+      "title": "SAP and Google Cloud deploy agentic commerce architecture",
+      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "summary": "<p>SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals fewer than two in fiv",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-06-19T14:02:20",
+      "title_ja": "SAP と Google Cloud がエージェント コマース アーキテクチャを導入 |9 月| SAP と Google Cloud は、マルチエージェントのマーケティングと小売業務をエンタープライズ規模で自動化するために、エージェント コマース アーキテクチャを導入しています。 SAP の調査では、78% が b",
+      "summary_ja": "",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/sap-google-cloud-agentic-ai-commerce-architecture-machine-learning-customer-experience-retail.jpg",
+      "body_ja": "SAP と Google Cloud は、マルチエージェントのマーケティングと小売業務をエンタープライズ規模で自動化するために、エージェント コマース アーキテクチャを導入しています。\nSAP の調査によると、企業の 78% が 2026 年の顧客維持に AI が不可欠であると考えています。しかし、同じデータによると、カスタマー エクスペリエンス (37%) または CRM (39%) プラットフォーム間で顧客データを共有している企業は 5 社に 2 社未満です。\nこの構造データ障害に対処するには、直接インフラストラクチャが必要です"
+    },
+    {
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-06-19T13:00:00",
+      "title_ja": "Allbirds の新しい AI 事業の CEO は計画を立てていますが、チームはありません |9 月|これを単独の創設者と非常に大規模なシードラウンドを持つスタートアップと呼ぶが、次に何が起こるかはそれほど明確ではない。",
+      "summary_ja": "",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=1024",
+      "body_ja": "オールバーズが 4 月に AI に舵を切ったとき、それはテレビから抜け出した「シリコン バレー」のジョークのように感じました。その薄っぺらな履き心地が、私たちが大まかに「シリコン バレー スタイル」と呼ぶものを定義するのに役立った消費者直販の靴の製造業者は、追いかけるべき新しいトレンドを発見しました。\nこの動きは、GameStop が書いたミーム株の戦略からそのまま出てきたものでした。経営不振に陥った上場企業を経営し、最もホットな流行に乗り、小売投資による株価上昇の恩恵を享受するというものです。"
+    },
+    {
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it h",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-06-19T12:10:00",
+      "title_ja": "ダウンロード: AI のボトルネックに関する議論と BCI 試験が始まる |9 月|これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。スタートアップは失敗したと主張する",
+      "summary_ja": "",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
+      "body_ja": "ダウンロード: AI のボトルネックに関する議論と BCI 試験の開始\nさらに、データセンターの制限を支持した Amazon 従業員は解雇される可能性もあります。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nあるスタートアップは、LLM を妨げているボトルネックを突破したと主張しています\nAI スタートアップの Subquadratic は先月、数学的問題を解決したと大々的に主張してステルス状態から脱却した。"
+    },
+    {
+      "title": "【どこでも一緒】375gの軽量ボディでLTE対応。フィリップスの8.7型タブレットが23,980円",
+      "url": "https://ascii.jp/elem/000/004/411/4411382/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/17/4484800/s/f3549c5c2ecdb12d.jpg\" width=\"60\" />PHILIPSの8.7型タブレット「T7335」がAmazonタイムセール対象。参考価格27,980円のところ、14％オフの23,980円で販売中。375gの軽量ボディや4G LTE対応が特徴で、90Hz対応ディスプレーや128GBストレージも搭載。持ち運びやすさを重視するならチェックしたい1台だ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T12:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/17/4484800/s/f3549c5c2ecdb12d.jpg"
+    },
+    {
+      "title": "「Forza Horizon 6」をやるならハンコンも欲しい！ Logicoolの高級モデルが本気すぎる",
+      "url": "https://ascii.jp/elem/000/004/412/4412135/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/19/4486120/s/c4e704c5acbb48c6.jpg\" width=\"60\" />Amazon.co.jpにて、 Logicoolのハンドルコントローラー「RS50」が売れています。日本が舞台で話題のドライビングシミュレーション「Forza Horizon 6」にも対応しています。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/19/4486120/s/c4e704c5acbb48c6.jpg"
+    },
+    {
+      "title": "家にブラックニッカがデカくあるだけで、人は少し強くなれる。Amazonタイムセールで大容量ボトルがお得",
+      "url": "https://ascii.jp/elem/000/004/411/4411997/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/19/4485900/s/6363473090d91202.jpg\" width=\"60\" />ニッカの定番ウイスキー「ブラックニッカクリア 4000ml」がAmazonタイムセールで11％オフ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/19/4485900/s/6363473090d91202.jpg"
+    },
+    {
+      "title": "【価格破壊!?】299万円から狙える日産の新型キックス、第3世代e-POWERを初搭載で走りも燃費も進化！",
+      "url": "https://ascii.jp/elem/000/004/411/4411804/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/18/4485549/s/d3606f6beaca3188.jpg\" width=\"60\" />日産自動車が新型コンパクトSUV「キックス」を発売。価格は299万9700円から。日本初となる「第3世代e-POWER」を搭載し、4WDモデルには高度なモーター制御技術「e-4ORCE」を初採用。ボタン式シフトやヴィーガンレザーの内装など、大人の遊び心を刺激する1台に進化しました。  </p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/18/4485549/s/d3606f6beaca3188.jpg"
+    },
+    {
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has sta",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-06-19T10:40:24",
+      "title_ja": "あるスタートアップは、LLM を妨げているボトルネックを突破したと主張しています",
+      "summary_ja": "マイアミに本拠を置く AI スタートアップ Subquadratic は、先月ステルスモードから抜け出し、巨額の権利を主張した。大規模な開発を妨げていた数学的ボトルネックを解決したと発表した。",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cheetah-speed2a.jpg?resize=1200,600",
+      "body_ja": "あるスタートアップは、LLM を妨げているボトルネックを突破したと主張しています\nSubquadratic は、新しいモデルに関する詳細を共有しました。しかし、まだ懐疑的な人もいます。\nマイアミに本拠を置く AI スタートアップ Subquadratic は、先月ステルスモードから抜け出し、巨額の権利を主張した。約10年にわたって大規模な言語モデルを妨げてきた数学的ボトルネックを解決したと発表した。\n詳細が薄く、多くの人が納得できなかった。でもサブクア"
+    },
+    {
+      "title": "『ソニックレーシング クロスワールド』が初の50％オフ！セガがSteamで「ソニックフランチャイズセール」を開催中",
+      "url": "https://ascii.jp/elem/000/004/412/4412160/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/19/4486150/s/2d54ab0c4c8d029d.jpg\" width=\"60\" />セガは、Steamにて販売中の一部「ソニック」シリーズタイトルを期間限定で特別価格にて販売する、「ソニックフランチャイズセール」を開催中だと2026年9月19日に発表。セール期間は、6月26日まで。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T10:40:00",
+      "image_url": "https://ascii.jp/img/2026/06/19/4486150/s/2d54ab0c4c8d029d.jpg"
+    },
+    {
+      "title": "『ボーダーランズ4』のお尋ね者パック3とエンドゲーム「テイクダウン」が6月25日に配信決定！",
+      "url": "https://ascii.jp/elem/000/004/412/4412154/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/19/4486126/s/14a1b7d4f5c284dd.jpg\" width=\"60\" />2026年6月19日、2KとGearbox Softwareは、発売中の『ボーダーランズ4』にて、無料エンドゲーム・レイド「ハドロン・アビスのテイクダウン」と有料DLC「お尋ね者パック3：イケオジ！ ゼインの名にかけて」を、6月25日に配信予定だと発表。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T10:15:00",
+      "image_url": "https://ascii.jp/img/2026/06/19/4486126/s/14a1b7d4f5c284dd.jpg"
+    },
+    {
+      "title": "800時間遊んだ島を捨てて、また無人島へ。「あつ森」をSwitch 2で怖いくらい楽しんでいる",
+      "url": "https://ascii.jp/elem/000/004/412/4412109/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/19/4486116/s/a3e53a3a2b7d8664.png\" width=\"60\" />Switch 2版「あつまれ どうぶつの森」で新しい島生活を開始。800時間遊んだ納得の島を離れ、映像強化と大型アップデートに釣られて再スタートしたものの、ホテル経営はまだ遠い。積みゲーとの戦いも始まった。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/19/4486116/s/a3e53a3a2b7d8664.png"
+    },
+    {
+      "title": "過去最高傑作の声も！ 「パワフルプロ野球2026-2027」が6940円と安い！",
+      "url": "https://ascii.jp/elem/000/004/412/4412103/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/19/4486097/s/9aa4b9b6fda5a7e6.jpg\" width=\"60\" />Amazon.co.jpにて、シリーズ最新作「パワフルプロ野球2026-2027」が売れています。目玉は「2026 World Baseball Classic（WBC）」を記念したモードやシナリオとなります。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/19/4486097/s/9aa4b9b6fda5a7e6.jpg"
+    },
+    {
+      "title": "とにかく挿せ！ まだ挿せる！ Belkinの16in1ドックでノートPCの接続欲が止まらない",
+      "url": "https://ascii.jp/elem/000/004/412/4412007/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/19/4486048/s/5c551e5f99460cfd.png\" width=\"60\" />Belkinの16in1 USB-Cドックは、4K@60Hzのトリプルディスプレイ、100W PD給電、10Gbps転送、2.5Gb有線LANに対応。ノートPCのポート不足を一気に片付けたい人にうれしい全部盛り系ドックです。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-19T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/19/4486048/s/5c551e5f99460cfd.png"
+    },
+    {
+      "title": "e2e-assure introduces Cumulo, the U.K.’s only sovereign, AI-driven, zero-day SOC platform to secure IT and OT environments",
+      "url": "https://www.artificialintelligence-news.com/news/e2e-assure-introduces-cumulo-the-u-k-s-only-sovereign-ai-driven-zero-day-soc-platform-to-secure-it-and-ot-environments/",
+      "summary": "<p>Built around digital twin technology and customer-dedicated AI models, Cumulo answers the recent announcement by GCHQ for AI Cyber Shield, enabling early identification of threats and vulnerabilities before incidents occur Abingdon, U.K., 19 June, – SOC-as-a-service provider, e2e-assure, today an",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-06-19T09:57:55",
+      "title_ja": "e2e-assure は、IT および OT 環境を保護する英国唯一の主権 AI 主導のゼロデイ SOC プラットフォームである Cumulo を導入 |9 月| Cumulo は、デジタル ツイン テクノロジーと顧客専用の AI モデルを中心に構築されており、AI Cyber​​ Shield に関する GCHQ による最近の発表に応え、脅威の早期特定を可能にします。",
+      "summary_ja": "",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/Picture1.jpg",
+      "body_ja": "デジタル ツイン テクノロジーと顧客専用の AI モデルを中心に構築された Cumulo は、AI Cyber Shield に関する GCHQ による最近の発表に応え、インシデントが発生する前に脅威と脆弱性を早期に特定できるようにします。\n英国アビングドン、6 月 19 日 – SOC-as-a-service プロバイダーである e2e-assure は本日、組織の防御を支援するために設計された英国唯一の主権的 AI ファースト IT/OT 接続 SOC プラットフォームである最新版 Cumulo の発売を発表しました。"
+    },
+    {
+      "title": "The inevitable weakness of metrics",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lo",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-06-19T09:00:00",
+      "title_ja": "メトリクスの避けられない弱点",
+      "summary_ja": "メトリクスから明らかになることはたくさんあります。不明瞭になったり破損したりする可能性のあるものはさらに多くあります。私自身の人生をより詳細に追跡するのに10年以上かかりました。",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Sisyphus_MIT.jpg?resize=1200,600",
+      "body_ja": "メトリクスの避けられない弱点\n私たちの生活を数値化することは、かつてないほど簡単になりました。しかし、ゲームの哲学者は、外部の指標やデータでは本当に重要なものを捉えることはできないと警告しています。\nメトリクスから明らかになることはたくさんあります。不明瞭になったり破損したりする可能性のあるものはさらに多くあります。この二重性を完全に理解するまで、私は自分の人生をこれまで以上に詳細に追跡し、10年以上かかりました。おそらく両方について何かが明らかになります。"
+    },
+    {
+      "title": "Brain-computer interface trials are taking off",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interf",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-06-19T09:00:00",
+      "title_ja": "ブレイン・コンピュータ・インターフェースの試験が始まりつつある",
+      "summary_ja": "今週、私はケーシー・ハレルの話を取り上げました。彼と協力した研究者によれば、彼は脳インプラントの「最初のパワーユーザー」であるALS患者です。ハレルは麻痺している",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/bci-brain2.jpg?resize=1200,600",
+      "body_ja": "ブレイン・コンピューター・インターフェースの試験が始まる\n脳に電極を埋め込まれている人の数は、ここ数年で 2 倍以上になったと考えられています。\n今週、私はケーシー・ハレルの話を取り上げました。彼と協力した研究者によれば、彼は脳インプラントの「最初のパワーユーザー」であるALS患者です。ハレルさんは麻痺しており、この装置がなければ理路整然と話すことができません。彼は現在、ブレイを使用してほぼ3年間を過ごしています"
+    },
+    {
+      "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
+      "summary": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-19T08:00:51",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2606/19/2000000110/10000556/2048",
+      "body_ja": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定 由来は？\n理化学研究所（以下、理研）は6月19日、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。理由は「AI for Scienceの趣旨によく合致しており、茶人の千利休（せんのりきゅう）の『利休』と音が同じで親しみやすいため」としている。\n名称は「社会に役立つ研究に使うスーパーコンピュータであることが伝わること」などの条件のもと、2025年11月20日から12月22日まで公募した。同じ応募者による重複案などを除いた856件から選定した。\n理研は、理究という名称を選んだ背景について、次のように述べる。\n千利休の教えを伝えるとされる「利休道歌」には、有名な「守・破・離（しゅはり）」の語源とされる、「規矩（きく）作法 守り尽くして 破るとも 離るるとても 本を忘るな」という和歌がある。師匠から教わったことをしっかり「守る」ことは"
+    },
+    {
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "summary": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-06-19T07:59:12",
+      "title_ja": "米国は、ASMLのトップチップツールは中国にある可能性があると述べている。 ASMLはそうではないと主張している。 |9月| ASMLが中国の顧客に武器を提供するために輸出許可を危険にさらすという考えに反する商業的論理がある。",
+      "summary_ja": "",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
+      "body_ja": "ブルームバーグによると、ハワード・ラトニック米国商務長官は最近の一連の会議で、オランダのチップメーカーの極紫外線リソグラフィー装置の1つ（最先端の半導体パターンを印刷できる地球上で唯一のツールであるEUVシステム）が中国に行き着いた可能性があることを懸念しているとASML幹部に語ったという。これはASMLによるEUVの販売を禁止する輸出規制への重大な違反となる。"
+    },
+    {
+      "title": "大阪メトロは「月1000件の社内問い合わせを効率化」にAIをどう使った？",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news113.html",
+      "summary": "PKSHA Technologyは、Osaka Metroへの「PKSHA AIヘルプデスク」の導入部署を人事や調達に拡大した。全従業員約5000人の社内問い合わせを一元化し、情報格差の解消や業務効率化、ナレッジの共有資産化を目指す。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-19T07:26:00",
+      "image_url": "https://image.itmedia.co.jp/kn/articles/2606/19/cover_news113.jpg",
+      "body_ja": "PKSHA Technologyは、Osaka Metroへの「PKSHA AIヘルプデスク」の導入部署を人事や調達に拡大した。全従業員約5000人の社内問い合わせを一元化し、情報格差の解消や業務効率化、ナレッジの共有資産化を目指す。\n大阪市高速電気軌道（Osaka Metro）では、社内問い合わせ対応の効率化とナレッジ活用の高度化に向け、PKSHA Technologyの「PKSHA AIヘルプデスク」を活用している。2025年12月に経理部とデジタル推進部で先行導入を開始し、2026年5月からは人事部と調達部へ展開を拡大した。今後は全従業員約5000人が利用できる社内問い合わせ対応基盤の構築を目指す。\nこれまでOsaka Metroでは、経理部やデジタル推進部への問い合わせ対応が担当者による個別対応に依存していた。デジタル推進部では月間約1000件の問い合わせのうち約9割が電話経由で寄せられ、問い合わせ履歴や対応内容の共有が十分に進まない状況だった。また、経理部でも問い合わせ件数や対"
+    },
+    {
+      "title": "GMO傘下、Unitreeの国内正規代理店に　人型ロボの導入から保守まで一気通貫で支援",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/",
+      "summary": "GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-19T07:16:24",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2606/19/2000000109/10000553/2048",
+      "body_ja": "GMO傘下、Unitreeの国内正規代理店に 人型ロボの導入から保守まで一気通貫で支援\nGMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は6月19日、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。Unitree Robotics製の人型ロボットや四足歩行ロボットの販売から導入支援、保守まで一気通貫で手掛ける。\nUnitree Robotics製のロボットと、GMOインターネットグループが持つITインフラや金融サービス、ロボティクス開発などの知見を組み合わせる。同グループのセキュリティ技術も活用し「通信の安全性を担保した導入環境を提供する」という。\nGMO AI＆ロボティクス商事では既に、Unitree Roboticsの人型ロボットを活用する取り組みを実施している。人型ロボットの陸上競技の世界大会優勝を目指すプロジェクトや、羽田空港における手荷物・貨物の積み下ろし業務を省人化する実証実験"
+    },
+    {
+      "title": "画面操作を“録画”→AIが作業代行　Codexに新機能「Record & Replay」",
+      "url": "https://www.itmedia.co.jp/news/articles/2606/19/news102.html",
+      "summary": "米OpenAIは6月18日、「Codex」の新機能「Record & Replay」を公開した。利用者がMac上で作業を一度実演すると、Codexがその操作を再利用できる作業手順に変換・記憶する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-19T05:15:00",
+      "image_url": "https://image.itmedia.co.jp/news/articles/2606/19/cover_news102.jpg",
+      "body_ja": "米OpenAIは6月18日（現地時間）、AIコーディング支援ツール「Codex」の新機能「Record & Replay」を公開した。利用者がMac上で作業を一度実演すると、Codexがその操作を再利用できる作業手順に変換・記憶する。経費精算の提出など、繰り返し発生する作業の自動化を想定する。\nOpenAIは同機能に向いている作業例として、経費報告や休暇申請の提出、駐車スペースの予約、定例レポートのダウンロード、動画の公開などを挙げた。公式Xの紹介動画では、YouTube Studioで動画をアップロードしてタイトルやサムネイルを設定する一連の操作を録画し、次回から「この動画を公開して」と指示するだけでCodexが同じ手順をたどる様子を示した。\n利用者はCodexアプリのプラグイン画面から「Record a skill」（スキルを記録する）を選び、背景情報を入力する。準備が整ったら、録画の許可を与え作業を実演。録画を止めると、その内容をもとにCodexが作業手順の草案を作る。草案には、手"
+    },
+    {
+      "title": "Gartnerが警鐘　プライバシー法執行が本格化、CISOは何を見直すべきか？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news077.html",
+      "summary": "Gartnerは、2025年に米国の州当局が科したプライバシー法違反の罰金総額が34億2500万ドル（約5380億円）に達したと発表。過去5年間の合計を上回り、執行強化を背景に2028年まで加速する見通しを示した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-19T04:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2606/19/cover_news077.jpg",
+      "body_ja": "Gartnerは、2025年に米国の州当局が科したプライバシー法違反の罰金総額が34億2500万ドル（約5380億円）に達したと発表。過去5年間の合計を上回り、執行強化を背景に2028年まで加速する見通しを示した。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\n調査会社Gartnerは2026年4月28日（米国時間）、米国の州および連邦のプライバシー法に関連する執行措置と私訴権を集計し、2025年に米国で科されたプライバシー関連罰金の総額を34億2500万ドル（約5380億円＜1ドル＝約157円の為替レートで換算＞）と推計したと発表した。同推計によると、2025年単年の罰金額は過去5年間の合計を上回っており、この傾向は2028年まで加速する見通しだという。\nGartnerのVPアナリストであるネーダー・ヘネイン氏は、「米国全体でプライバシー法に新たな義務を導入する改正が増加している。これらの義務は、コンピュータが自動で下す『Automated Decision-M"
+    },
+    {
+      "title": "ChatGPTで広告テスト、日本でも開始　非表示にする方法は？",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000108/",
+      "summary": "米OpenAIの日本法人は、ChatGPTでの広告表示テストを日本でも始めたと発表した。広告を非表示にする方法は？",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-19T02:26:50",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2606/19/2000000108/10000549/2048",
+      "body_ja": "ChatGPTで広告テスト、日本でも開始 非表示にする方法は？\n米OpenAIの日本法人は6月19日、ChatGPTでの広告表示テストを日本でも始めたと発表した。無料プランと月額1400円の「Go」プランの成人ユーザーが対象となる。より上位のプラン「Plus」「Pro」と、団体向けの「Business」「Enterprise」、教育機関向けの「Education」ユーザーは対象外。\nChatGPT内での会話内容などを参照し、配信する広告を決定する。広告を非表示にしたい場合、ChatGPTアプリの設定にある「広告の制御」から変更できる。「プランを変更して広告なしにする」をタップし、より上位のプランにアップグレードするか、1日に無料でやりとりできる回数を減らすことで、広告を非表示にできる。\nChatGPTの回答は広告の影響を受けないという。広告主には広告の表示回数やクリック数などのデータのみを提供し、チャット履歴などユーザー個人に関わるデータは渡さないとしている。\nChatGPTでの広告表示"
+    },
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "summary": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-06-19T00:51:11",
+      "title_ja": "出典: Elastic、CRV 支援の Deductive AI を最大 8,500 万ドルで買収することに合意 |9 月| AI を使用してソフトウェアのバグを見つけて解決するスタートアップ、Deductive AI は、わずか 3 年前に設立されました。",
+      "summary_ja": "",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
+      "body_ja": "取引に詳しい関係者によると、AIを利用してソフトウェアのバグを見つけて解決する新興企業Deductive AIが、エンタープライズソフトウェア会社Elasticに最大8500万ドルで売却されることに合意したという。\n2023年に設立されたDeductiveは、昨年11月にCRV主導でDatabricks Ventures、Thomvest Ventures、PrimeSetが参加した750万ドルのシードラウンドを発表し、ひそかに姿を現した。この投資によりスタートアップの価値は ドルに達しました"
+    },
+    {
+      "title": "「ChatGPT広告」日本上陸　無料版と「Go」で表示、電通・博報堂など支援",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/",
+      "summary": "OpenAIは2月に米国でテスト運用を開始。5月には日本など5カ国への拡大を予告していた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-19T00:23:56",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2606/19/2000000107/10000548/2048",
+      "body_ja": "「ChatGPT広告」日本上陸 無料版と「Go」で表示、電通・博報堂など支援\n電通デジタルとHakuhodo DY ONE、サイバーエージェントは6月18日、米OpenAIが提供する「ChatGPT」の広告のパイロット運用を、日本国内で開始したと発表した。3社はそれぞれ国内ローンチパートナーとしてOpenAIと連携し、広告主のChatGPTへの出稿を支援する。\nChatGPTの広告は、無料プランと低価格の「Go」向けで、AIの回答とは区別して表示する。広告は回答に影響を与えず、会話内容や履歴、メモリ、個人情報が広告主に共有されることはないという。\nOpenAIは2月に米国でテスト運用を開始。5月には日本など5カ国への拡大を予告していた。\n電通デジタルはOpenAIと直接連携し、広告主に対し活用方針の策定や効果検証から導入・実装までを一貫して支援する。\nHakuhodo DY ONEは、検索広告とAI領域での運用実績を基盤に、AI対話プラットフォーム上の新たな広告手法の確立を目指す。\nサイ"
+    },
+    {
       "title": "米大企業の7割が導入する「Databricks」とは何者か？　評価額20兆円の「AI向けデータ基盤」",
       "url": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000106/",
       "summary": "評価額約20兆円、Fortune 500の7割が利用するデータ・AI基盤企業Databricks。オープンソースのビッグデータ分散処理エンジン「Apache Spark」開発者らが2013年に創業した同社の軌跡と最新情報を解説する。",
@@ -23,16 +391,6 @@
       "body_ja": "本記事の内容は、フリーが6月16日に開催した「freee 統合ワールド 2026 」内で実施されたセッション「『SaaSデータ×AI』が切り拓く、中小企業融資の未来 〜過去の決算書や担保に縛られず、データの武器で銀行から“伴走”を引き出す次世代経営〜」の内容を要約したもの。\n中小企業の資金調達の在り方が、大きく変わろうとしている。これまでは決算書による財務評価や、担保の有無が融資の主な判断材料だった。SaaSの普及やAI活用により、リアルタイムの「データ」から事業の実態を評価する考え方が登場しているのだ。\n融資特化型デジタルバンクである01（ゼロワン）銀行（大阪府吹田市）の大塚篤史副社長と北國銀行（金沢市）の竹内均氏（常務執行役員マーケティング部長）が、中小企業の経営や資金調達の今後について、見解を語った。\n大塚氏： 中小企業の場合、これまでは事業の実態が社長の頭の中にしか入っておらず、銀行から見るとブラックボックスになっているケースが多々あった。銀行が融資をする上で一番怖いのは「お客さ"
     },
     {
-      "title": "【本日から】肉50g増量！ステーキのどん「肉マシ祭り」4日間限定",
-      "url": "https://ascii.jp/elem/000/004/411/4411753/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/19/4485656/s/d3e9b54e6b13f9a1.png\" width=\"60\" />ステーキのどんは6月19日～22日の期間、父の日特別企画「肉マシ祭り！！」を開催。リブロインステーキ・激アツステーキを50g増量します。ステーキを価格そのまま50g増量！ ステーキのどん「肉マシ祭り」4日間限定で開催</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T23:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/19/4485656/s/d3e9b54e6b13f9a1.png"
-    },
-    {
       "title": "工数「76％」削減　味の素グループが「経理AIエージェント」導入で先陣を切れたワケ",
       "url": "https://www.itmedia.co.jp/business/articles/2606/19/news033.html",
       "summary": "経理人材の不足が深刻化する一方で、経理パーソンが担う業務の幅は急速に広がっている。その解決策として期待されるのがAI活用だ。しかし、誤りが許されない経理業務では導入への慎重論も根強い。そんな中、味の素グループの財務・経理業務を担う味の素フィナンシャル・ソリューションズは、経費精算の承認業務をAIが自律的に実施する経理AIエージェントの運用を開始した。",
@@ -42,59 +400,6 @@
       "published": "2026-06-18T22:00:00",
       "image_url": "https://image.itmedia.co.jp/business/articles/2606/19/cover_news033.jpg",
       "body_ja": "経理人材の人手不足が深刻化している。日商簿記の受験者・合格者は、この15年で大きく減った。経理の実務を担う専門人材が採用できない、育たないという声は、上場企業でも税理士法人でも後を絶たない。\n日本商工会議所が公表している簿記検定データによると、実務レベルとされる2級の実受験者は2010年度から2025年度にかけて約22％減った。より上級の1級は約38％減だ（※）。\n※参照：日本商工会議所「受験者データ」（2002年度〜2025年度の公式公表値）\nデロイト トーマツの調査では、経理・財務・税務部門の35.7％が「人材育成・人材確保」に課題を感じているという結果が出ており、企業の現場でも人材不足が問題視されている様子がうかがえる（※）。\n※参照：デロイト トーマツ「2025年度版 経理・財務・税務部門の課題調査」\n経理人材の確保が難しくなる中、非財務情報の開示やサステナビリティへの対応など、経理部門に求められる役割は広がり続けている。そうした課題への対応策として注目されているのがAI活用だ。"
-    },
-    {
-      "title": "「待ちの営業」はもう限界　ホンダがAIエージェントで挑む、商機を逃さない「濃い商談」の創出",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/19/news064.html",
-      "summary": "顧客の購買行動が変化する中、ホンダが新車販売にAIエージェントを導入した。“濃い商談”を支援し、すでに成約も生まれているという。販売現場の変化を追う。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-18T22:00:00",
-      "image_url": "https://image.itmedia.co.jp/business/articles/2606/19/cover_news064.jpg",
-      "body_ja": "情報過多の現代、顧客の購買行動が変化している。タイパ（タイムパフォーマンス）が重視され、オンラインで製品比較や口コミ確認を済ませるケースが増えた。従来の「待ちの営業」では、顧客の検討プロセスに介入できない可能性がある。\n日本を代表する自動車メーカーの本田技研工業も、新車販売の現場で同じ課題に直面していた。顧客が車を買うまでの行動が様変わりし、従来の売り方では「商機の取りこぼし」が生じ始めているのだ。\nそこで、購買行動の変化をAIエージェントでフォローすることにした。その開発・導入プロジェクトの中心を担うのが、グループ会社のホンダセールスオペレーションジャパン（埼玉県和光市、以下「HSJ」）である。\n同社は、顧客接点となるスマートフォンアプリ「My Honda」にAIエージェントを導入し、車の認知から購入、乗り換えまでの体験を描き直そうとしている。有望顧客の掘り起こしやつなぎ止めに加え、販売現場のやりとりを“濃い商談”にするための下準備にも生かすという。新車販売の現場で何が起きているのか。"
-    },
-    {
-      "title": "AIで要らなくなったSaaS、要るSaaSは、どれ？　日本の「SaaS is dead」の実態",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/19/news056.html",
-      "summary": "エイトレッドが「AI時代に生き残るSaaSの条件に関する実態調査」の結果を公表。8割がSaaS見直しの必要性を実感する一方、AI代替の困難さや導入失敗の要因などが示された。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-18T22:00:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2606/19/cover_news056.jpg",
-      "body_ja": "エイトレッドが「AI時代に生き残るSaaSの条件に関する実態調査」の結果を公表。8割がSaaS見直しの必要性を実感する一方、AI代替の困難さや導入失敗の要因などが示された。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nワークフローシステムを提供するエイトレッドは2026年4月22日、「AI時代に生き残るSaaSの条件に関する実態調査」の結果を公表した。調査は2026年3月31日〜4月3日に実施され、調査対象は従業員100人以上の企業に勤務し、業務でAIを活用している情報システム・DX推進・経営企画部門の担当者107人。\n同調査の結果によると、近年におけるAIの進化を受け、利用中のSaaSについて「現在見直しを検討している」との回答結果が48.6％、「既に見直しを実施した」が15.0％を占めた。その一方、「見直しの必要性は感じているが、まだ検討していない」という回答も16.8％に上った。\n見直しの可能性があるSaaS領域としては、「プロジェクト管理・タスク管理」（"
-    },
-    {
-      "title": "高級セレクトショップ「バーニーズ」が新品と中古の二刀流　富裕層の「初めての中古購入」を狙うワケ",
-      "url": "https://www.itmedia.co.jp/business/articles/2606/19/news024.html",
-      "summary": "原材料高騰や為替の乱高下に苦しむアパレル業界で、高級セレクトショップの雄「バーニーズ」が下した決断は、高級リユース市場への本格参入だった。「街の中古店には行かない」という富裕層の心理を突き、新品とユーズドを同じフロアで融合させる「二刀流」戦略の全貌とは。既存ビジネスとのカニバリを「皆無」と一蹴し、客単価向上や顧客の若返りを実現するロジカルなポートフォリオ経営の勝算を、ペニー・ルオ社長に聞く。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-18T22:00:00",
-      "image_url": "https://image.itmedia.co.jp/business/articles/2606/19/cover_news024.jpg",
-      "body_ja": "「街のブランド中古店には足を運ばない」──そんな富裕層を引き寄せようと、ラグジュアリーセレクトショップ「バーニーズ」は、高級リユース市場に本格参入した。\n同ブランドの運営会社バーニーズ ジャパン（東京都港区）は、シャネルやエルメスなど高級ブランドの中古服を厳選したコンセプトストア「CHELSEA VINTAGE ROOM」（チェルシー ヴィンテージ ルーム）を始動した。同社が成長する上での転換点となったのが、2025年に実施した銀座本店のリニューアルプロジェクト「大人のワンダーランド」だ。ギフトエリアとポップアップスペースを拡充した結果、新規顧客の購買数は前年比で20％増加し、入店客数も伸長。店舗体験の強化が着実な成果につながった。\nそんな同社が、次なる成長の原動力として選んだのは、新品とユーズド（中古品）を組み合わせた「二刀流」の店舗体験だ。\n同社社長のペニー・ルオ（Penny Luo）氏は、既存ビジネスである新品販売とのカニバリゼーション（食い合い）の懸念について「全くない、むしろ相"
-    },
-    {
-      "title": "ラクス、「楽楽精算」にて経費精算の伝票作成を自動化する「伝票作成AIエージェント」提供開始",
-      "url": "https://ascii.jp/elem/000/004/411/4411459/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/17/4485019/s/92dd990989f88ec8.png\" width=\"60\" />株式会社ラクスは6月16日に、同社が提供するクラウド型経費精算システム「楽楽精算」において、経費精算時の伝票作成を自動化する「伝票作成AIエージェント」の提供を開始した。AIが領収書に記載された取引先名や金額、利用日などの情報をもとに、クレジットカードの明細や事前申請、過去の申請データを参照しながら、必要な情報を補完して申請伝票を自動で作成するという。</p><br ",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/17/4485019/s/92dd990989f88ec8.png"
-    },
-    {
-      "title": "空間理解AIとXRを活用し現場課題に合わせたシステムを共同開発、「Spatial AI 導入・PoC支援サービス」提供開始",
-      "url": "https://ascii.jp/elem/000/004/411/4411458/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/17/4485014/s/18a9538601df5675.png\" width=\"60\" />ナレッジワークス株式会社は6月11日に、空間理解AIとXR技術を組み合わせ、顧客の現場課題に合わせたシステムをPoC（実証実験）から共同開発するという伴走支援サービス「Spatial AI 導入・PoC支援サービス」の提供開始を発表した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/17/4485014/s/18a9538601df5675.png"
     },
     {
       "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
@@ -108,17 +413,6 @@
       "summary_ja": "の数か月後に 15 億ドルを調達したと伝えられています。 「推理ゴールドラッシュ」が進む中、新興企業Basetenは15億ドルのラウンドを130億ドルで最終決定に近づいていると伝えられている。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
       "body_ja": "AI推論会社Basetenは、評価額130億ドルで15億ドルという驚異的な資金調達ラウンドの完了に近づいているとウォール・ストリート・ジャーナルが報じた。わずか5か月前、このスタートアップは50億ドルの評価額でシリーズEで3億ドルを調達したと発表した。そしてそのラウンドは、シリーズ D で 1 億 5,000 万ドルを調達してからわずか 9 か月後に行われました。\nこの最新ラウンドが成立すれば、半年以内に評価額が160％上昇することになる。しかし"
-    },
-    {
-      "title": "話題の「Claude Mythos」登場で変わるセキュリティ　AIエージェント時代の防衛策",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2606/19/news009.html",
-      "summary": "AIによる攻撃が、月単位から時間単位で現実化する可能性が高まっている。最新AIモデルの登場で脆弱性発見の能力が広がる一方、企業ではAI利用のルールや管理体制が追い付いていない。AIエージェント時代に求められる新たな防衛策とは何か。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-18T21:00:00",
-      "image_url": "https://image.itmedia.co.jp/kn/articles/2606/19/cover_news009.jpg",
-      "body_ja": "AIによる攻撃が、月単位から時間単位で現実化する可能性が高まっている。最新AIモデルの登場で脆弱性発見の能力が広がる一方、企業ではAI利用のルールや管理体制が追い付いていない。AIエージェント時代に求められる新たな防衛策とは何か。\nAIが脆弱（ぜいじゃく）性を自律的に発見し、悪用する時代が現実味を帯びてきた。こうした中、企業では生成AIの利用拡大に対して管理体制の整備が追い付いていない実態も浮かび上がっている。サイバーセキュリティクラウド（CSC）とDataSignは、AI時代に求められるセキュリティ対策とガバナンス戦略を明かした。\n渡辺氏は、セキュリティ企業Intruderの調査結果を引用し、公開状態にある「Ollama API」の31％が認証なしで運用されていることを指摘した。また、AIに機能を追加する「スキル」と呼ばれる拡張機能についても、公開されている2857件のうち341件（約12％）で不正な挙動が確認されたという。\nこの状況に対し、「十分な検証や管理体制が整わないまま、AIの"
     },
     {
       "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
@@ -144,118 +438,20 @@
       "title_ja": "OpenAI は IPO に向けて大きな武器を投入しています |9 月| OpenAIはIPOを前に規模を拡大しており、Transformerの共同発明者であるGoogle DeepMindのNoam Shazeer氏と元トランプAI政策担当者のDean Ball氏を同じ週に迎え入れた。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?resize=1200,800",
-      "body_ja": "OpenAI は、一般公開に向けて、Google DeepMind AI の伝説的人物である Noam Shazeer 氏と元トランプ大統領の AI 政策担当者 Dean Ball 氏といった著名人をチームに迎え入れています。\nGeminiの共同リーダーであり、AIロールプレイングスタートアップCharacter AIの創設者であるShazeer氏は、水曜日にGoogleからの退職を発表した。彼は 2000 年から同社に在籍していましたが、Character AI を共同設立するために退社したのは 3 年間だけでした。 2年前、Gさん"
+      "body_ja": "OpenAI は、一般公開に向けて、Google DeepMind AI の伝説的人物である Noam Shazeer 氏と元トランプ大統領の AI 政策担当者 Dean Ball 氏といった著名人をチームに迎え入れています。\nGeminiの共同リーダーであり、AIロールプレイングスタートアップCharacter AIの創設者であるShazeer氏は、水曜日にGoogleからの退職を発表した。彼は 2000 年から同社に在籍していましたが、Character AI を共同設立するために退職したのは 3 年間だけでした。 2年前、Gさん"
     },
     {
-      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
-      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-      "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
+      "title": "Computer vision deployments drive retail productivity gains",
+      "url": "https://www.artificialintelligence-news.com/news/computer-vision-deployments-drive-retail-productivity-gains/",
+      "summary": "<p>Computer vision deployments are driving retail productivity gains as operators automate physical shelf tracking to protect eroding margins. This hardware deployment directly addresses the persistent in-store execution failures currently costing the industry billions. A study authored by Coresight",
+      "source": "AI News",
+      "icon": "📰",
       "lang": "en",
-      "published": "2026-06-18T18:51:46",
-      "title_ja": "米国の独身者のほぼ半数がデートにおける AI について否定的に感じている、とマッチ氏が語る",
-      "summary_ja": "独身者の約 47% は、デートにおける AI の使用に否定的な見方をしています。しかし、デート アプリ ユーザーの多くは、AI がプロフィールのアピールや会話のきっかけを手伝ってくれるのを受け入れています。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1131615694.jpg?resize=1200,800",
-      "body_ja": "Tinder、Hinge、OkCupid などのアプリを所有する出会い系アプリ大手の Match Group は、米国の独身者が AI とデートの関係について実際にどう感じているかを調査する調査を実施しました。結局のところ、人々は AI が人間の生活のあらゆる側面に干渉することを望んでいないことがわかりました。\n業界全体で、出会い系アプリが AI の実験を行っています。バンブルはビーという名前のデートアシスタントを導入し、ティンダーはAIツールに多額の費用を費やしているため、採用プロセスが遅れている。自分"
-    },
-    {
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-06-18T18:22:13",
-      "title_ja": "Amazon は、AI チップを販売することで Nvidia にもっと直接的に挑戦したいと考えています",
-      "summary_ja": "AWSは自社のチップを他のデータセンターに販売する交渉を行っている。 CEOのアンディ・ジャシー氏は、これは同社にとって500億ドルのチャンスとなると述べた。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?resize=1200,675",
-      "body_ja": "アマゾン ウェブ サービスが思いどおりになれば、クラウドの巨人は Nvidia 市場にさらに深く進出することになるでしょう。これは、これまで見てきた Nvidia の AI チップの優位性に対する最大の課題の 1 つとなる可能性があります。\nアマゾンのAI責任者ピーター・デサンティス氏はブルームバーグに対し、AWSが自社のAIチップ「Trainium」をデータセンターで使用するために他社に販売する交渉を行っていると語った。デサンティス氏は、どの企業がこうしたチップの買い手となり得るかについては明らかにしなかった。\nチップの販売に関するこのような話"
-    },
-    {
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-06-18T17:49:23",
-      "title_ja": "AI データセンターに、政府が義務付けた送電網への高速レーンが設置されたばかりです",
-      "summary_ja": "FERCは送電網事業者に対し、データセンターに相互接続用の高速レーンを提供するよう指示したが、電力供給不足には対処できなかった。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
-      "body_ja": "連邦エネルギー規制委員会（FERC）は木曜日、送電網事業者に対し、データセンターや他の大規模電力利用者からの相互接続要求を迅速に対応するよう指示した。\nこの命令に基づき、大手送電網事業者6社は、データセンターが「タイムリーかつ秩序ある方法で送電システムに接続できる」ことを証明する必要がある。データセンターは相互接続の費用を支払う責任があります。委員は全会一致で命令を承認した"
-    },
-    {
-      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
-      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-      "summary": "“People just really want to take back control of their time, their lives, their attention... They’re down for whatever helps them do that.”",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-06-18T17:16:30",
-      "title_ja": "スマートフォン時代は注目の危機を引き起こしました。 Slowtech がそれを解決しています",
-      "summary_ja": "「人々はただ、自分の時間、自分の生活、自分の注意力のコントロールを取り戻したいだけなのです...彼らはそれを助けるものなら何でも喜んでいます。」",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238192342.jpg?resize=1200,800",
-      "body_ja": "トニー・ファデルがニューヨーク市の地下鉄 28 番街駅に入ったとき、20 年以上前に自分がデザインした製品の広告に遭遇するとは予想していませんでした。しかしそこには、iPod Shuffle を宣伝する 5 × 4 フィートのポスターがあり、「スクリーンタイムゼロ」の約束で通行人を魅了していました。\n「最初に思ったのは、『ちょっと待って、誰かが広告を変更しなかったのでは？』ということだった」とiPodの父として知られるファデル氏はTechCrunchに語った。 \"のために"
-    },
-    {
-      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-      "summary": "Karamo Brown, famous for his pep talks on Netflix&#8217;s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from fitness and nutrition to meditation, sobriety, relationships, and personal growth—Brown wants to he",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-06-18T16:55:04",
-      "title_ja": "「クィア・アイ」のライフコーチ、カラモ・ブラウン氏が、自身の AI デジタルクローンを搭載したウェルネスアプリ「Kē」をローンチ |9月| Netflix の「クィア・アイ」での叱咤激励で有名なカラモ ブラウン氏が、新しいアプリ Kē でウェルネスと AI の分野に参入しました。 1年半かけて集中的に取り組んだ結果、",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/KaramoBrown-Ke.jpg?resize=1200,800",
-      "body_ja": "Netflix の「クィア・アイ」での叱咤激励で有名なカラモ ブラウン氏が、新しいアプリ Kē でウェルネスと AI の分野に参入しました。フィットネスや栄養学から瞑想、禁酒、人間関係、個人の成長まで、自分自身の旅に集中して 1 年半を費やした後、ブラウンは他の人たちも同じようにできるよう支援したいと考えています。\nKē は、ユーザーの既存のトレーニング能力に応じたパーソナライズされたフィットネス プランなど、ユーザーをサポートするために設計された多数の機能を提供します"
-    },
-    {
-      "title": "現地速報!! 「ASUS Summit 2026」＝ジョニー・シー会長が来日しビジネスノートPCでもNo.1を目指す!!",
-      "url": "https://ascii.jp/elem/000/004/411/4411769/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/18/4485477/s/ae3e1a0fcbd0b92f.jpg\" width=\"60\" />ASUSは東京でビジネス向けイベント「ASUS Summit 2026」を実施し、台湾本社から会長を始めとする首脳陣が来日しました</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T16:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/18/4485477/s/ae3e1a0fcbd0b92f.jpg"
-    },
-    {
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-06-18T15:20:37",
-      "title_ja": "General Intuition が約 20 億ドルの評価額で 3 億ドルを調達する交渉中",
-      "summary_ja": "このスタートアップは、月間アクティブ ユーザー 1,000 万人からの年間 20 億本のビデオを含む Medal のデータセットを使用して、具体化された AI と世界モデルをトレーニングします。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/General-intuition.png?w=880",
-      "body_ja": "AIエージェントに時空を移動する方法を訓練する基礎モデルを構築するニューヨーク拠点の新興企業General Intuitionは、約3億ドルを調達する交渉を行っていると事情に詳しい関係者がTechCrunchに語った。\nこの調達は、General Intuitionがビデオゲームクリップのアップロードと共有のためのプラットフォームであるMedalから1億3,400万ドルのシードラウンドでスピンアウトしてから8か月後に行われた。新たな資金によりスタートアップの評価額はわずかに上がるだろう"
-    },
-    {
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight",
-      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "summary": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-06-18T15:13:21",
-      "title_ja": "ハイテク労働者が支援する PAC が大手テック企業の 1 億ドルの銃撃戦に 500 万ドルのナイフを持ち込む",
-      "summary_ja": "Guardrails は、AI ブームの最前線にいる人々からの少額の寄付で運営されるポピュリスト的な政治運動として自らを位置づけています。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
-      "body_ja": "日々のテクノロジー労働者の間で草の根運動が形成されており、彼らは自社に責任を持って AI を開発し導入することを要求しています。そして、AI 法案の支持に特化した新しいスーパー PAC である Guardrails Alliance は、その不満を利用することを目指しています。\nニューヨーク・タイムズ紙によると、民主党工作員のショーナ・トーマス氏とリア・ハント・ヘンドリックス氏は木曜日、技術系従業員や労働組合、その他団体の支援を得て「ガードレール・アライアンス」を立ち上げたという。"
-    },
-    {
-      "title": "全10モデル対象、最大13.4万円引き　パソコンショップSEVENの大型セール始まる",
-      "url": "https://ascii.jp/elem/000/004/411/4411474/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/18/4485155/s/578a3cf41c76e899.png\" width=\"60\" />セブンアールジャパンが、パソコンショップSEVENで6月19日限定の24時間セールを開催。最大134,000円オフで、最新ゲーミングPCを含む全10商品が対象となる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/18/4485155/s/578a3cf41c76e899.png"
+      "published": "2026-06-18T15:57:46",
+      "title_ja": "コンピューター ビジョンの導入により小売店の生産性向上が促進",
+      "summary_ja": "オペレーターが物理的な棚の追跡を自動化して、侵食しつつあるマージンを保護するため、コンピューター ビジョンの導入により小売店の生産性が向上しています。このハードウェア展開は、次のことに直接対応します。",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/computer-vision-deployments-physical-ai-retail-robotics-intelligence-inventory-control-automation-productivity.jpg",
+      "body_ja": "オペレーターが物理的な棚の追跡を自動化して、侵食しつつあるマージンを保護するため、コンピューター ビジョンの導入により小売店の生産性が向上しています。\nこのハードウェア導入は、現在業界に数十億ドルの損害を与えている永続的な店舗内実行エラーに直接対処します。 Coresight Research が技術プロバイダーの Simbe および RELEX Solutions と協力して執筆した調査では、これらの運用上の不足による正確なコストが計算されています。\n非効率"
     },
     {
       "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
@@ -271,67 +467,6 @@
       "body_ja": "ダウンロード: 暗黒物質の新たな探索とケニアの太陽光発電推進の主張\nさらに：国防総省は、イランへの攻撃にグロクを使用したと述べている。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n暗黒物質の探索は大きく開かれた\n何十年もの間、物理学者は暗黒物質の有力な候補である弱相互作用大質量粒子 (WIMP) を探し求めてきました。でも、"
     },
     {
-      "title": "10万円以下で“ちゃんと使える”ノートPCが欲しい人へ！ Ryzen 7搭載の15.6型Vivobook",
-      "url": "https://ascii.jp/elem/000/004/411/4411771/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/18/4485465/s/1efdf9e44326d298.jpg\" width=\"60\" />Amazon.co.jpにて、ノートPC「ASUS Vivobook 15」がセール中。Windows 11／AMD Ryzen 7 170／メモリ16GB／SSD 512GBモデルで、9万4800円となる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/18/4485465/s/1efdf9e44326d298.jpg"
-    },
-    {
-      "title": "「Forza Horizon 6」をLogicoolのハンドルコントローラーで楽しむ優雅な時間、めっちゃいい……",
-      "url": "https://ascii.jp/elem/000/004/411/4411755/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/18/4485433/s/5a16e067381219b7.jpg\" width=\"60\" />Amazon.co.jpにて、 Logicoolのハンドルコントローラー「G29」が売れています。日本が舞台で話題のドライビングシミュレーション「Forza Horizon 6」にも対応しています。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/18/4485433/s/5a16e067381219b7.jpg"
-    },
-    {
-      "title": "コスパ重視なら16GBメモリ搭載で8万円台のASUSノートPC「Vivobook Go 14」がおすすめ",
-      "url": "https://ascii.jp/elem/000/004/411/4411476/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/18/4485156/s/635278b33be78d93.jpg\" width=\"60\" />ASUSのノートPC「Vivobook Go 14（E1404FA-R5165SIW6）」がAmazonタイムセール対象。参考価格139,800円のところ、36％オフの89,800円で販売中。Ryzen 5プロセッサーや16GBメモリ、512GB SSDを搭載するほか、約1.38kgの軽量ボディも特徴。10万円以下で16GBメモリ搭載のノートPCを探しているならチェッ",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/18/4485156/s/635278b33be78d93.jpg"
-    },
-    {
-      "title": "『信長の野望 出陣』にて映画「黒牢城」とのコラボイベントが開催！",
-      "url": "https://ascii.jp/elem/000/004/411/4411819/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/18/4485571/s/4bf625085f111541.jpg\" width=\"60\" />コーエーテクモゲームスは、iOS／Androidでサービス中の『信長の野望 出陣』にて、映画「黒牢城」が2026年6月19日に公開されることを記念したコラボレーションイベントを本日6月18日より開催。期間は、7月2日12時59分まで。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T11:15:00",
-      "image_url": "https://ascii.jp/img/2026/06/18/4485571/s/4bf625085f111541.jpg"
-    },
-    {
-      "title": "ピラーレス筐体で17万円からのTITAN GAMING製ゲーミングPCを発見！ ケース・CPU・メモリー・SSDはカスタム可能",
-      "url": "https://ascii.jp/elem/000/004/411/4411754/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/18/4485425/s/911e4c06ee7b8577.jpg\" width=\"60\" />Amazon.co.jpにて、TITAN GAMINGのゲーミングデスクトップPC「CX200M ブラック」が販売中だ。AMD「Ryzen 7 5700X」とNVIDIA「GeForce RTX 5060」を搭載するモデルで、価格は17万円から。なお、CPU・メモリー・SSD・ケースはカスタム可能だ</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-18T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/18/4485425/s/911e4c06ee7b8577.jpg"
-    },
-    {
-      "title": "チームみらい安野氏「牧歌的なAI開発の時代が終わった」　“ミュトス停止騒動”受け",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000105/",
-      "summary": "「牧歌的なAI開発の時代が終わった」――チームみらいの安野貴博党首は6月18日の会見で、米AnthropicのAIモデル「Mythos 5」「Fable 5」の提供停止を巡る騒動を受け、このように述べた。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-18T10:39:36",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2606/18/2000000105/10000534/2048",
-      "body_ja": "チームみらい安野氏「牧歌的なAI開発の時代が終わった」 “ミュトス停止騒動”受け\n「牧歌的なAI開発の時代が終わった」――チームみらいの安野貴博党首は6月18日の会見で、米AnthropicのAIモデル「Mythos 5」「Fable 5」の提供停止を巡る騒動を受け、このように述べた。高性能なAIモデルへのアクセス権に関する政治的なリスクが顕在化したと指摘している。\n安野氏は「日本国内のさまざまなAIモデルの開発や、（海外のAIモデルの）アクセス権を得るための外交活動に関しても、こうしたリスクを認識しながら取り組まなければならない」と説明する。また、中国企業がオープンなAIモデルを今後も公開し続けるとは限らないとの見方も示した。\nMythos 5とFable 5は、Anthropicが10日に提供を始めた後、米政府の命令によって13日以降提供を一時停止している。\nCopyright © ITmedia, Inc. All Rights Reserved.\n関連記事\nこんなメディアも見られ"
-    },
-    {
       "title": "Geoengineering still faces major practical challenges",
       "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
       "summary": "Solar geoengineering is often portrayed as a sort of emergency brake. Something along the lines of Pull in case of climate emergency to scatter light-reflecting particles to bounce sunlight out of the atmosphere and cool the planet. But it might be less like a simple brake and more like a complicate",
@@ -345,15 +480,17 @@
       "body_ja": "地球工学は依然として大きな現実的な課題に直面しています\n物議を醸している気候技術については、解明すべきことがたくさんあります。\n太陽地球工学は、一種の緊急ブレーキとして描かれることがよくあります。気候緊急事態の際に光を反射する粒子を散乱させ、大気中から太陽光を反射して地球を冷却するプルのようなもの。\nしかし、それは単純なブレーキというよりは、複雑で完全に未解決のパズルのようなものかもしれません。\nS"
     },
     {
-      "title": "【復旧済み】「Claude」が使いにくい状態に　「動かない」「落ちた？」などの声相次ぐ",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000104/",
-      "summary": "",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-18T09:08:25",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2606/18/2000000104/10000532/2048",
-      "body_ja": "【復旧済み】「Claude」が使いにくい状態に 「動かない」「落ちた？」などの声相次ぐ\n米AnthropicのチャットAI「Claude」に対し、6月18日午後4時ごろ（日本時間、以下同）から、X上で「動かない」「落ちた？」などの声が相次いでいる。ITmedia AI＋編集部内でも、やりとりが途切れたり、チャットの反応が遅れたりすることを確認した。\nなお、Claudeのステータスサイトによると、同日午後4時15分時点で障害などは生じていないという。\n同日午後4時41分に障害を報告\nAnthropicは同日午後4時41分、Claudeで障害が生じているとステータスサイトで報告した。原因を特定し、修正作業中としている。\n障害は復旧\nAnthropicは同日午後5時19分、3時55分から4時40分まで生じていた障害は復旧したと発表した。\n【追記履歴：2026年6月18日午後5時7分】ステータスサイトでの障害報告を追記しました。\n【追記履歴2：2026年6月18日午後6時00分】ステータスサイト"
+      "title": "HSBC expands AI banking partnership with Google Cloud",
+      "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
+      "summary": "<p>HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and internal decision suppor",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-06-18T10:00:00",
+      "title_ja": "HSBC が Google Cloud との AI バンキング パートナーシップを拡大",
+      "summary_ja": "HSBC は、世界中の事業全体にわたって人工知能ツールを開発および展開するために、Google Cloud と複数年にわたるパートナーシップを締結しました。 Google Cloud Summit ロンドで発表",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/HSBC-expands-AI-banking-partnership-with-Google-Cloud-e1781758426514.png",
+      "body_ja": "HSBC は、世界中の事業全体にわたって人工知能ツールを開発および展開するために、Google Cloud と複数年にわたるパートナーシップを締結しました。\nGoogle Cloud Summit London 2026 で発表されたこの契約は、資産管理、金融犯罪リスク管理、社内意思決定支援の分野での取り組みを対象としています。 HSBC は、Gemini モデルと Gemini Enterprise Agent を使用した AI ツールとプログラムについて、Google Cloud および Google DeepMind エンジニアリング チームと協力します。"
     },
     {
       "title": "The search for dark matter has been blown wide open",
@@ -369,15 +506,17 @@
       "body_ja": "暗黒物質の探索は大きく開かれた\n何十年にもわたる研究にもかかわらず、物理学者たちは宇宙の物質の大部分を構成するものをまだ知りません。今、彼らはより広い網を張る必要がある。\nアペニン山塊の下、四川省の金平山脈の下、そしてサウスダコタの鉱山の底で、宇宙の探索が進行中です。\nこれらの岩だらけの盾の下深く隔離され、液体キセノンで満たされた巨大な検出器が初めての直接検出を目指しています。"
     },
     {
-      "title": "「シャドーAI」7割超の企業が対策追い付かず　“会社が選んだAIだけ利用”はもう限界？　ガートナー",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000103/",
-      "summary": "会社が認めていないAIツール・サービスを従業員が業務で使う「シャドーAI」について、日本企業の73％が対策できていない――調査会社の米Gartnerは、このような調査結果を発表した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-18T03:09:50",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2606/18/2000000103/10000530/2048",
-      "body_ja": "「シャドーAI」7割超の企業が対策追い付かず “会社が選んだAIだけ利用”はもう限界？ ガートナー\n会社が認めていないAIツール・サービスを従業員が業務で使う「シャドーAI」について、日本企業の73％が対策できていない――調査会社の米Gartnerは6月18日、このような調査結果を発表した。「IT部門が選定したAIのみ利用を認める」という従来の方針を見直す必要があるとして、今後の対応を提言した。\nGartnerによると、43％の企業が「シャドーAIを把握できていない」、30％の企業が「把握しているが、有効な対策を取れていない」と答えた。「把握し、有効な対策を取れている」と回答した企業は24％にとどまったという。\n一方、IT部門が選定した以外のAIツール・サービスを従業員が利用することに対しては、「自由に認めている」企業が8％、「審査の上、問題なければ認めている」企業は67％を占めたとしている。\n業務で使うAI、どう管理？ ガートナーの提言\nこの調査結果に対し、Gartnerの林宏典氏（デ"
+      "title": "Microsoft sells OpenAI models in China. OpenAI and Anthropic won’t.",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-sells-openai-models-china/",
+      "summary": "<p>Microsoft has quietly become the main supplier of OpenAI models in China, selling the technology to the country&#8217;s largest internet companies even as OpenAI and Anthropic keep their own models out of the market on intellectual-property and misuse grounds. The arrangement, detailed this week ",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-06-18T09:00:00",
+      "title_ja": "Microsoft は中国で OpenAI モデルを販売しています。 OpenAI と Anthropic はそうではありません。 |9月| Microsoft は、OpenAI と Anthropic が維持しているにもかかわらず、ひそかに中国における OpenAI モデルの主要サプライヤーとなり、中国最大のインターネット企業にその技術を販売している",
+      "summary_ja": "",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/dima-solomin-nM3243N4sSY-unsplash-scaled.jpg",
+      "body_ja": "OpenAIとAnthropicが知的財産と悪用を理由に自社のモデルを市場から締め出しているにもかかわらず、Microsoftは密かに中国におけるOpenAIモデルの主要サプライヤーとなり、中国最大のインターネット企業に技術を販売している。ブルームバーグが今週詳述したこの取り決めは、マイクロソフトに他の米国のAIベンダーが持たない立場を与えることになる。つまり、マイクロソフトはGPTシリーズを中国企業に販売し、モデルの作成者自身が取引しないことになる。"
     },
     {
       "title": "The Download: a reality check for geoengineering and the science of interoception",
@@ -391,6 +530,19 @@
       "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。大気をハッキングする: geoeng",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/TR_Geoengineering_r2_layers.jpg?resize=1200,600",
       "body_ja": "ダウンロード: 地球工学と相互受容科学の現実性確認\nさらに、SpaceX は現在、Amazon よりも高く評価されています。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n大気をハッキング: 地球工学が現実性をチェックする\n太陽地球工学、地球温暖化に対抗するために気候システムに意図的に介入できるという物議を醸す考え"
+    },
+    {
+      "title": "Google Cloud generative AI automates council planning operations",
+      "url": "https://www.artificialintelligence-news.com/news/google-cloud-generative-ai-automates-council-planning-operations/",
+      "summary": "<p>Government ministries are deploying Google Cloud generative AI across municipal agencies to automate council planning operations. Public sector administration handles vast volumes of unstructured data that delay infrastructure development. The UK central government established a target to constru",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-06-17T10:59:42",
+      "title_ja": "Google Cloud の生成 AI が議会の計画業務を自動化",
+      "summary_ja": "政府省庁は、地方自治体全体に Google Cloud の生成 AI を導入し、議会の計画業務を自動化しています。公共部門の行政は膨大な量の処理を処理します",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/google-cloud-generative-ai-gemini-uk-government-public-sector-council-services-planning-automation-operations.jpg",
+      "body_ja": "政府省庁は、地方自治体全体に Google Cloud の生成 AI を導入し、議会の計画業務を自動化しています。\n公共部門の行政は、インフラストラクチャ開発を遅らせる膨大な量の非構造化データを処理します。英国中央政府は、2029 年までに 150 万戸の新しい住宅を建設するという目標を設定しました。地方計画当局は、密な事務作業によって引き起こされる事務処理の滞りに直面し、開発時間が遅れています。"
     },
     {
       "title": "生成AIコンサルとは？費用相場と失敗しない選び方を解説",
@@ -414,7 +566,7 @@
       "title_ja": "ナイロビの起業家が太陽光発電の導入を主張",
       "summary_ja": "ケニアの送電網のほとんどは再生可能エネルギーで稼働しています。しかし、コミュニティの 25% に集中型の電力が不足しているため、国は、安全な電力供給を実現するという目標を達成するために、オフグリッド太陽光発電に注目しています。",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Milcah-Wanjiru-a-Agsol-solar-powered-milling_thumb.jpg?resize=1200,600",
-      "body_ja": "ナイロビの起業家が太陽光発電の導入を主張\nある店主にとって、太陽光発電を利用した穀物工場は、繁栄したビジネスを維持する能力を変えています。\nケニアの送電網のほとんどは再生可能エネルギーで稼働しています。しかし、コミュニティの 25% に集中型電力が不足しているため、国は排出量を増加させることなく 2030 年までに誰もが電力を利用できるようにするという目標を達成するために、オフグリッド太陽光発電に注目しています。改善し続ける太陽光発電技術の経済性"
+      "body_ja": "ナイロビの起業家が太陽光発電の導入を主張\nある店主にとって、太陽光発電を利用した穀物工場は、繁盛するビジネスを維持する能力を変えています。\nケニアの送電網のほとんどは再生可能エネルギーで稼働しています。しかし、コミュニティの 25% に集中型電力が不足しているため、国は排出量を増加させることなく 2030 年までに誰もが電力を利用できるようにするという目標を達成するために、オフグリッド太陽光発電に注目しています。改善し続ける太陽光発電技術の経済性"
     },
     {
       "title": "Hacking the atmosphere: Geoengineering gets a reality check",
@@ -425,47 +577,35 @@
       "lang": "en",
       "published": "2026-06-17T09:00:00",
       "title_ja": "大気のハッキング: 地球工学が現実性を確認する",
-      "summary_ja": "ジム・フランケがオフィスのラップアラウンドデスクに置かれたプレゼンテーションの表紙を剥がすと、巨大な翼が伸びた奇妙な外観の航空機のイラストが現れた",
+      "summary_ja": "ジム・フランケは、オフィスのラップアラウンドデスク上にあるプレゼンテーションの表紙を引き剥がし、巨大な翼を伸ばした奇妙な外観の航空機のイラストを明らかにします",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/TR_Geoengineering_r2_layers.jpg?resize=1200,600",
-      "body_ja": "大気をハッキング: 地球工学が現実性をチェックする\n研究者たちは、地球を冷却するために開発する必要があるツールやシステムの探索を始めています。\nジム・フランケは、オフィスのラップアラウンドデスク上にあるプレゼンテーションの表紙を剥がすと、ずっしりとした胴体から巨大な翼が伸びた奇妙な外観の航空機のイラストが現れました。\n無人の飛行機は民間ジェット機が飛行するよりも数千メートル高く舞い上がっています。"
+      "body_ja": "大気をハッキング: 地球工学が現実性をチェックする\n研究者たちは、地球を冷却するために開発する必要があるツールやシステムの探索を始めています。\nジム・フランケは、オフィスのラップアラウンドデスク上にあるプレゼンテーションの表紙を剥がすと、ずっしりとした胴体から巨大な翼が伸びた奇妙な外観の航空機のイラストが現れました。\n無人の飛行機は民間ジェット機が飛ぶよりも数千メートル高く舞い上がっています。"
     },
     {
-      "title": "Exclusive eBook: How AI is becoming the next military advisor",
-      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
-      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. Stories",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
+      "title": "Insurers pivot AI strategy toward core risk underwriting",
+      "url": "https://www.artificialintelligence-news.com/news/insurers-pivot-ai-strategy-toward-core-risk-underwriting/",
+      "summary": "<p>AI investments by insurers are now expected to generate tangible business value beyond mere efficiency. According to findings in the 2026 Evident AI Index, insurers are now embedding AI technologies into workflows that directly influence underwriting discipline and capital allocation. Christian P",
+      "source": "AI News",
+      "icon": "📰",
       "lang": "en",
-      "published": "2026-06-16T20:35:02",
-      "title_ja": "独占電子書籍: AI はどのようにして次の軍事顧問になるのか |9 月|軍隊が意思決定を行うために AI モデルをどのように使用しているかに関するストーリーのコレクション。この購読者限定の電子書籍は、もともと MIT Tec で出版された 6 つのストーリーをパッケージ化したものです",
+      "published": "2026-06-16T15:55:02",
+      "title_ja": "保険会社はコアリスク引受業務に向けて AI 戦略を軸に",
+      "summary_ja": "保険会社による AI への投資は、単なる効率を超えた具体的なビジネス価値を生み出すことが期待されています。 2026 Evident AI Index の調査結果によると、保険会社は現在、",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/insurers-underwriting-ai-risk-insurance-claims-research-report-finance-study-fintech-governance.jpg",
+      "body_ja": "保険会社による AI への投資は、単なる効率を超えた具体的なビジネス価値を生み出すことが期待されています。\n2026 Evident AI Index の調査結果によると、保険会社は現在、保険引受規律と資本配分に直接影響を与えるワークフローに AI テクノロジーを組み込んでいます。\nEvident 社の保険ディレクターであるクリスチャン・プリース氏は次のように述べています。「保険会社は何年にもわたって AI の野心について競争してきましたが、今では保険会社が何を構築するかということに焦点が移ってきています。"
+    },
+    {
+      "title": "EU publishes its AI content labelling playbook ahead of the AI Act’s August deadline",
+      "url": "https://www.artificialintelligence-news.com/news/ai-content-labelling-eu-code-of-practice/",
+      "summary": "<p>The European Union has&#160;published&#160;its AI content labelling playbook, a voluntary Code of Practice meant to help companies meet transparency rules that become law across the bloc on August 2 onwards. The European Commission released the final Code on 10 June, setting out practical steps f",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-06-16T10:00:00",
+      "title_ja": "EU、AI 法の 8 月の期限に先立って AI コンテンツのラベル付けハンドブックを公開 |9 月 |欧州連合は、AI コンテンツ ラベリング ハンドブックを公開しました。これは、企業が世界全体で法律となる透明性ルールを満たすのに役立つことを目的とした自主的な行動規範です。",
       "summary_ja": "",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/military-ai.png?resize=1200,600",
-      "body_ja": "独占電子書籍: AI はどのようにして次の軍事顧問になるのか\n軍が意思決定を行うために Al モデルをどのように使用しているかについてのストーリーを集めた購読者限定の電子書籍にアクセスしてください。\nこの電子ブックは購読者のみが利用できます。\n軍隊が意思決定を行うために AI モデルをどのように使用しているかに関するストーリーのコレクション。\nこの購読者限定の電子書籍は、2025 年 4 月 11 日から 2025 年 4 月 11 日までに MIT Technology Review に掲載された 6 つのストーリーをパッケージ化したものです。"
-    },
-    {
-      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-06-16T12:10:00",
-      "title_ja": "ダウンロード: 初の脳インプラント能力者と韓国の AI への執着",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。このALS患者は初めてである",
-      "body_ja": "ダウンロード: 初の脳インプラント能力者と韓国の AI への執着\nさらに：米国は、外国諜報リスクを理由に Anthropic AI を制限したと述べています。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nこのALS患者の男性は、言語を可能にする脳インプラントの最初の「パワーユーザー」である\nケイシー・ハレルは慈悲のために脳に電極を埋め込まれている"
-    },
-    {
-      "title": "Want to get a data center online quickly? Give it some flex.",
-      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
-      "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Germany, millions of Brits let out a collective sigh and did what they so often do in moments of stress: They made tea. That wave of electric kettles clicking on, however, caused a different&#82",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-06-16T09:00:00",
-      "title_ja": "データセンターをすぐにオンラインにしたいですか?ある程度の柔軟性を与えてください。 |9月|英国男子チームとライバルドイツとのサッカー試合、緊張しながらもスコアレスで終わった前半の終わりに、何百万人もの英国人が集団でため息をつき、自分たちの行動をとった。",
-      "summary_ja": "",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/26-05-25-MIT-TECH-01-Interior-2-thumb.jpg?resize=1200,600",
-      "body_ja": "データセンターをすぐにオンラインにしたいですか?ある程度の柔軟性を与えてください。\nデータセンターのブームが送電網に圧力をかけているため、一部の企業は、その解決策は単に発電所を増やすだけではなく、需要が急増したときにセンターのエネルギーを大量に消費する方法を抑制するソフトウェアであると主張している。\n英国男子チームとライバルドイツとのサッカー試合、緊張しながらもスコアレスの前半が終わったとき、何百万人もの英国人が一斉にため息をつき、彼らがよくやる行動を瞬時にとった。"
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/09/Resham-Kotecha-Open-Data-Institute_How-the-EU-can-lead-in-AI-scaled-e1756964222915.jpg",
+      "body_ja": "欧州連合は、8 月 2 日以降に域内全体で法律となる透明性ルールを満たすために企業を支援することを目的とした自主的な実践規範である AI コンテンツ ラベリング プレイブックを公開しました。欧州委員会は6月10日に最終規範を発表し、生成AIを構築および使用する企業が自社のシステムが生成するものにマークを付け、ラベルを付けるための実践的な手順を定めた。\nコード自体はオプションです。それが指摘する義務はそうではありません。"
     },
     {
       "title": "生成AIで社内問い合わせを自動化する方法！メリットも解説",
@@ -479,17 +619,30 @@
       "body_ja": "「パスワードを忘れた」「経費精算のやり方は」。情シスや人事には毎日同じ社内問い合わせが寄せられ、本来の業務時間が奪われていないでしょうか。生成AIを使えば、こうした定型的な社内問い合わせの一次対応を自動化できます。\nすでに自動化を進めた企業は問い合わせを大幅に削減し、担当者を企画や改善といった本質業務に振り向けています。一方で、仕組みを理解せず導入すると、誤回答や形骸化で「入れたのに使われない」状態に陥りがちです。\n本記事では、生成AIによる社内問い合わせ自動化の仕組みからメリット、導入ステップ、注意点、ツールの選び方、企業の事例までを解説します。\n読み終えれば、失敗しない導入の道筋と、自社に合うツールの選定基準を描けるようになります。\n目次\n【生成AIが注目される背景】社内問い合わせ対応が抱える課題\n生成AIが注目される背景には、社内問い合わせ対応が抱える3つの課題があります。\n- 情シス・人事・総務に問い合わせが集中する\n- 対応工数の増大とナレッジの属人化が負担になる\n- 従来のF"
     },
     {
-      "title": "Why do South Koreans love AI so much?",
-      "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight from San Francisco, I walked through an unmanned immigration checkpoint, where a machine scanned my fa",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
+      "title": "AI Red Teaming Explained: What It Is and Why You Need It",
+      "url": "https://www.artificialintelligence-news.com/news/ai-red-teaming-explained-what-it-is-and-why-you-need-it/",
+      "summary": "<p>With AI adoption accelerating, testing systems under adversarial conditions has become increasingly important. It enables organisations to identify vulnerabilities before deployment and strengthen overall system safety. Explore what AI red teaming is, why it matters and the leading companies offe",
+      "source": "AI News",
+      "icon": "📰",
       "lang": "en",
-      "published": "2026-06-15T18:46:08",
-      "title_ja": "なぜ韓国人はこれほどまでにAIが好きなのでしょうか？ |9月|このストーリーは元々、AI に関する週刊ニュースレター『The Algorithm』に掲載されました。このような記事を受信トレイで受け取るには、まずここから登録してください。グルエリを食べてソウルに降り立ったとき",
-      "summary_ja": "",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/AP26126222060508.jpg?resize=1200,600",
-      "body_ja": "なぜ韓国人はこれほどまでにAIが好きなのでしょうか？\n高齢者介護ロボットから人型僧侶まで、韓国人は AI を十分に活用できません。\nこのストーリーは元々、AI に関する週刊ニュースレター『The Algorithm』に掲載されました。このような記事を受信トレイで受信するには、まずここにサインアップしてください。\nサンフランシスコから12時間の過酷なフライトを経てソウルに到着したとき、私は無人の入国審査場を通り、そこで機械が私の顔とパスポートをスキャンしました。地下鉄でホー"
+      "published": "2026-06-16T08:06:43",
+      "title_ja": "AI レッド チームの説明: それが何なのか、そしてなぜそれが必要なのか",
+      "summary_ja": "AI の導入が加速するにつれ、敵対的な条件下でシステムをテストすることがますます重要になっています。これにより、組織は導入前に脆弱性を特定できるようになります。",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/AI-Red-Teaming.png",
+      "body_ja": "AI の導入が加速するにつれ、敵対的な条件下でシステムをテストすることがますます重要になっています。これにより、組織は展開前に脆弱性を特定し、システム全体の安全性を強化できます。 AI レッド チームとは何か、それが重要な理由、AI レッド チーム コンサルティング サービスを提供する大手企業を調べてください。\nAIレッドチームとは何ですか?\nAI レッド チーミングは、攻撃シナリオを再作成することで人工知能システムをテストします。"
+    },
+    {
+      "title": "How AI-Powered CMS Platforms Are Transforming Enterprise Content Operations",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-powered-cms-platforms-are-transforming-enterprise-content-operations/",
+      "summary": "<p>For years, enterprise content management was largely a publication tool. How do you get the right content, in the right format, to the right channel, without breaking workflows that span dozens of markets and hundreds of contributors? The answer was usually a combination of manual processes, silo",
+      "source": "AI News",
+      "icon": "📰",
+      "lang": "en",
+      "published": "2026-06-16T07:49:07",
+      "title_ja": "AI を活用した CMS プラットフォームがエンタープライズ コンテンツの運用をどのように変革するか",
+      "summary_ja": "長年にわたり、エンタープライズ コンテンツ管理は主に出版ツールでした。ワークフローを中断することなく、適切なコンテンツを適切な形式で適切なチャネルに配信するにはどうすればよいですか?",
+      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/AI-CMS-platform-1024x517.png",
+      "body_ja": "長年にわたり、エンタープライズ コンテンツ管理は主に出版ツールでした。数十の市場と数百の寄稿者にまたがるワークフローを中断することなく、適切なコンテンツを適切なフォーマットで適切なチャネルに配信するにはどうすればよいでしょうか?その答えは通常、手動プロセス、サイロ化されたシステム、歴史的に成長してきた大規模な調整チームの組み合わせであり、機能的ではありましたが、効率的とは程遠いものでした。\nその蓄積された複雑さが今では制限要因になっています"
     },
     {
       "title": "生成AIで資料作成を効率化する方法！おすすめツール8選も解説",
@@ -556,30 +709,8 @@
       "published": "2026-06-09T09:23:41",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/06/thumbnail-10.jpg",
       "body_ja": "生成AIで作った文章や画像をそのまま提案資料や自社サイトに使ってよいのか、判断に迷う企業の担当者は多いのではないでしょうか。「AIが作ったものは著作権フリー」という誤解が現場に広がり、不安を抱えたまま全社展開が進んでいるケースも少なくありません。\n結論として、生成AIの利用自体は違法ではありません。ただし著作権は「学習段階」と「生成・利用段階」でルールが異なり、生成物が既存の著作物に酷似すれば、責任を負うのはAIではなく利用した企業です。判断基準と対策を押さえれば、リスクを抑えて安全に活用を進められます。\n誤解のまま運用を続ければ、差止や損害賠償で活用そのものが止まりかねません。一方でルールを整えた企業は、安心して生成AIを業務に取り入れ成果を出しています。\n本記事では、文化庁見解に基づく2段階の考え方や侵害の判断基準、企業が負う責任、2025年の最新事例、そして企業が取るべき5つの対策まで解説します。\n読み終えるころには、自社の生成AI利用がどこまで安全かを判断でき、ガイドラインやチェ"
-    },
-    {
-      "title": "生成AIを広報業務に活用する方法7選！プロンプト例も紹介",
-      "url": "https://ainow.ai/2026/06/09/278147/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2582%2592%25e5%25ba%2583%25e5%25a0%25b1%25e6%25a5%25ad%25e5%258b%2599%25e3%2581%25ab%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e3%2583%2597%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2597%25e3%2583%2588",
-      "summary": "<p>&#12402;&#12392;&#12426;&#24195;&#22577;&#12420;&#23569;&#20154;&#25968;&#20307;&#21046;&#12391;&#12289;&#12503;&#12524;&#12473;&#12522;&#12522;&#12540;&#12473;&#12398;&#20316;&#25104;&#12420;SNS&#36939;&#29992;&#12289;&#12513;&#12487;&#12451;&#12450;&#23550;&#24540;&#12395;&#36861;&#12431;&#1242",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-06-08T17:29:53",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/06/thumbnail-9.jpg",
-      "body_ja": "ひとり広報や少人数体制で、プレスリリースの作成やSNS運用、メディア対応に追われ、本来注力したい企画に手が回らない方は少なくありません。生成AIを広報業務に取り入れれば、こうした定型作業を圧縮し、企画やメディアリレーションズに時間を振り向けられます。\nすでに広報部門の生成AI導入は進んでおり、使いこなせるかどうかで他社との生産性の差は開いていくでしょう。一方で、使い方を誤れば誤情報や情報漏えいで信頼を損なうリスクもあります。\n本記事では、広報業務での生成AIの活用方法7選と、そのまま使えるプロンプト、事例、ツール、注意点までを体系的に解説します。\n読み終えるころには、自社の広報業務のどこに何を使えばよいかが明確になり、リスクを抑えながら少人数でも質と量を両立できるようになります。広報の負担を減らしたい方は、ぜひ最後までご覧ください。\n目次\n生成AIが広報業務にもたらす変化と導入の現状\n広報部門での生成AI活用は、すでに一部の先進企業だけの話ではありません。日本広報学会の調査では、広報部門"
-    },
-    {
-      "title": "生成AIの人事活用シーン5選！そのまま使えるプロンプト例も紹介",
-      "url": "https://ainow.ai/2026/06/09/278144/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25ae%25e4%25ba%25ba%25e4%25ba%258b%25e6%25b4%25bb%25e7%2594%25a8%25e3%2582%25b7%25e3%2583%25bc%25e3%2583%25b35%25e9%2581%25b8%25ef%25bc%2581%25e3%2581%259d%25e3%2581%25ae%25e3%2581%25be%25e3%2581%25be%25e4%25bd%25bf%25e3%2581%2588%25e3%2582%258b%25e3%2583%2597%25e3%2583%25ad",
-      "summary": "<p>&#29983;&#25104;AI&#12399;&#12289;&#27714;&#20154;&#31080;&#12420;&#12473;&#12459;&#12454;&#12488;&#25991;&#12398;&#20316;&#25104;&#12289;&#30740;&#20462;&#36039;&#26009;&#12398;&#28310;&#20633;&#12289;&#35413;&#20385;&#12467;&#12513;&#12531;&#12488;&#12398;&#19979;&#26360;&#12365;&#12392;&#12356",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-06-08T17:05:35",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/06/thumbnail-8.jpg",
-      "body_ja": "生成AIは、求人票やスカウト文の作成、研修資料の準備、評価コメントの下書きといった人事の定型業務を効率化し、担当者が面談や戦略立案に集中できる状態をつくります。\n「人事でも生成AIを使えと言われたが、どの業務にどう使えばよいかわからない」と悩む担当者は少なくありません。\n活用シーンとリスク対策を整理しないまま放置すると、採用や育成を効率化する他社の人事部門に差をつけられてしまいます。\n本記事では、生成AIの人事業務での活用シーンと事例、そのまま使えるプロンプト例、メリットとリスク、安全な運用ルール、導入手順を解説します。\n読み終える頃には、自分の人事業務に当てはめて生成AIを使い始め、社内導入の旗振り役になれます。\n目次\n生成AIが人事業務にもたらす変化と従来型AIとの違い\n生成AIは、人事業務のなかでも文章を作る仕事や問い合わせ対応を大きく効率化します。指示文を与えるだけで、求人票やメール、研修資料、評価コメントの下書きを短時間で用意できるためです。\n従来型AIと生成AIでは、得意とす"
     }
   ],
-  "last_updated": "2026-06-19T08:43:16.429854+09:00",
-  "count": 50
+  "last_updated": "2026-06-20T07:54:43.861923+09:00",
+  "count": 60
 }
