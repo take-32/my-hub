@@ -1,6 +1,154 @@
 {
   "articles": [
     {
+      "title": "解剖・孫正義氏の「ガチョウ論」　「ソフトバンクG株価が低過ぎ」主張を信じてよいのか",
+      "url": "https://www.itmedia.co.jp/business/articles/2606/29/news034.html",
+      "summary": "孫正義氏が、ソフトバンクGの株価に不満をにじませた。孫氏が「本当の企業価値」として示す「時価純資産」の論理と危うさを解説する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-28T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2606/29/cover_news034.jpg",
+      "body_ja": "FP技能士センター正会員。中央大学卒業後、フィンテックスタートアップにて金融商品取引業者の設立や事業会社向けサービス構築を手がけたのち、広告DX会社を創業。サム・アルトマン氏創立のWorld財団における日本コミュニティスペシャリストを経てX Capital株式会社へ参画。\n「ソフトバンクグループは“金の卵”を生むガチョウだ。（中略）卵の価値は74兆円ある。ガチョウの価値は、それより多いのではないか」――2026年6月、ソフトバンクグループ（SBG）の孫正義氏（会長兼社長）は株主総会で、自社の株価にあらためて不満をにじませた。\n同社の時価総額が、保有する資産の価値より低い水準にとどまっている※1というのだ。具体的な数字も明かしている。孫氏が株主総会で示したSBGの時価純資産（NAV：ネットアセットバリュー）は74兆円。1日にはSBGの時価総額は約49兆円まで急騰してトヨタ自動車を抜き、22年ぶりに国内首位に立った※2が、それでも不満のようだ。\n※1：日経新聞電子版「ソフトバンクG孫正義氏、"
+    },
+    {
+      "title": "海域スキャン「RADAR GRiD」海運業界向けサービス提供開始、海上の障害物を自動で認識し可視化",
+      "url": "https://ascii.jp/elem/000/004/414/4414157/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/28/4490534/s/51976e4b166bd9ae.jpg\" width=\"60\" />アイディア株式会社は6月22日に、独自開発した海域スキャン「RADAR GRiD（レーダーグリッド）」の海運業界向けサービスの提供開始を発表した。「RADAR GRiD」は「海の可視化」をコンセプトに、レーダーやAIS（船舶自動識別装置）、カメラの情報をAIがリアルタイムに統合解析し、AIS非搭載の漁船や小型船、流木などのさまざまな海上障害物を認識し識別して危険度判定",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/28/4490534/s/51976e4b166bd9ae.jpg"
+    },
+    {
+      "title": "OPPO Reno15 Aは7000mAh超長持ちバッテリーが魅力の全部入りスマホ！の巻：スマホ総研定例会384",
+      "url": "https://ascii.jp/elem/000/004/414/4414055/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png\" width=\"60\" />「OPPO Reno15 A」をいち早く実機レビュー。防水・防塵、FeliCaなど全部入りはこれまでと同じで、今回はさらに7000mAhの大容量バッテリーも搭載！ クラウドを活用したAI関連機能など、便利な要素一杯の1台を詳しく紹介！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png"
+    },
+    {
+      "title": "『今週のASCII.jp注目ニュース』生放送（6/20～7/3ぶん）",
+      "url": "https://ascii.jp/elem/000/004/413/4413746/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg\" width=\"60\" />アスキーのNEWSメディア『ASCII.jp』で注目を集めたこの2週間の記事をランキング形式でお届け！　ASCII.jp編集部のオカモト、ムラリン、MCつばさの3人が、自由におしゃべりします。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg"
+    },
+    {
+      "title": "スペースシフト、SAR衛星データとAI解析による「新規建物検知データ」をデータマーケットプレイスで提供開始",
+      "url": "https://ascii.jp/elem/000/004/413/4413679/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/25/4489428/s/b919b45b44bac4b7.jpg\" width=\"60\" />株式会社スペースシフトは6月19日に、SAR衛星データとAI解析によって新たに建設された建物を検知した「新規建物検知データ」を、​「Snowflake マーケットプレイス​​​​」で提供開始したと発表。建設活動の動きを客観的に、広域かつ継続的に捉えることで、都市の成長や経済活動の把握を支援するという。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/25/4489428/s/b919b45b44bac4b7.jpg"
+    },
+    {
+      "title": "Amazonプライムデーで失敗したくない人集合！ GPS告知特番「Amazonプライムセール直前ガジェット紹介〜今週末のイベントで全部触れるぞSP〜」",
+      "url": "https://ascii.jp/elem/000/004/413/4413296/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/25/4489096/s/53bf92d8a4bc0716.png\" width=\"60\" />Amazonプライムデーに向けて、編集部が注目するガジェットやおすすめ製品を90分にわたって紹介する特別番組。セールで狙いたいアイテムの見どころや、買う前にチェックしておきたいポイントを、編集部目線でたっぷりお届け。7月4日開催の「TOKYO Gaming-PC STREET 8」についてもご紹介！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/25/4489096/s/53bf92d8a4bc0716.png"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～究極のブレ低減機能「G-SYNC Pulsar」対応ディスプレーってどんだけスゴイの？～",
+      "url": "https://ascii.jp/elem/000/004/413/4413141/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg\" width=\"60\" />究極のブレ低減機能「G-SYNC Pulsar」対応ディスプレーってどんだけスゴイの？　木曜20:00から放送スタート！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg"
+    },
+    {
+      "title": "需要は増え、供給は細る——熱波が欧州の電力網を圧迫",
+      "url": "https://ascii.jp/elem/000/004/414/4414165/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />画像クレジット:Pablo Blazquez Dominguez/Getty</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T21:39:39",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "世界最長の海底道路トンネル 海面下300mの掘削現場に 本誌記者が潜入",
+      "url": "https://ascii.jp/elem/000/004/414/4414164/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />私たちは、まだこれほどのものを造れるのか——。建設中の海底道路トンネル「ログファスト」は、完成すれば世界最長・最深。全長26.7キロ、最深部は海面下390メートルに達する。岩盤を爆破しては数メートル前進するノルウェーの現場を、本誌記者が訪ねた。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T21:30:46",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-06-28T19:05:39",
+      "title_ja": "フォード、AI の能力不足を受けて「白髪のひげ」エンジニアを再雇用",
+      "summary_ja": "「私たちは人工知能を導入するだけで高品質の製品ができると勘違いしていました。」",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
+      "body_ja": "フォード幹部らは、人工知能や自動化システムが望ましい品質レベルを達成できなかったため、ベテランエンジニア350人を雇用したと発表した。その中には元従業員もおり、サプライヤーで働いていた人もいた。\nブルームバーグの報道によると、同社の最高執行責任者クマール・ガルホトラ氏は記者団に対し、フォードは「自動化された品質システムへの依存度を高め」ており、期待外れの結果となったと語った。そこで同社は「"
+    },
+    {
+      "title": "インテルCoreにRTX50搭載なのに22万円台で買えるHPの最新ゲーミングノート＝「HyperX OMEN 15」実機レビュー",
+      "url": "https://ascii.jp/limit/group/ida/elem/000/004/414/4414075/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/26/4490198/s/5c97724b213bcfc5.jpg\" width=\"60\" />「HyperX OMEN 15」は、多コアプロセッサーにRTX50、180Hzの高速ディスプレーを組み合わせつつお手頃価格のゲーミングノートです</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T16:00:00",
+      "image_url": "https://ascii.jp/img/2026/06/26/4490198/s/5c97724b213bcfc5.jpg"
+    },
+    {
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-06-28T15:00:00",
+      "title_ja": "なぜウォール街は米国のメモリメーカーである Micron が次の Nvidia であると考えているのか",
+      "summary_ja": "ウォール街の投資家は、エヌビディアと同じように成功する可能性のあるAI関連の上場企業をもっと見つけたいと切望しており、マイクロンで勝者を見つけたと考えている。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/micron-GettyImages-2225258783.jpg?resize=1200,800",
+      "body_ja": "アイダホ州ボイシに本拠を置くメモリチップメーカーであるマイクロンは、ウォール街の心を捉えています。この恋愛が長続きするかどうかは、AIによるメモリチップの供給不足がどれくらい続くかに大きく左右される。\nマイクロンは、需要の突然の低下や供給能力の過剰に耐えられるよう、長期的に自社の地位を強化していると約束している。そしてウォール街もこれを信じ、マイクロンが一時的にM社の市場評価を上回ることを支援した。"
+    },
+    {
+      "title": "ノートPC「FMV WU5-K3」がお買い得、16GBメモリーとCore Ultra 5 225U搭載で22万4400円！",
+      "url": "https://ascii.jp/elem/000/004/413/4413757/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-06-28T13:10:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png"
+    },
+    {
+      "title": "ひろゆき氏「SIer衰退予測」、AI代替の「逆転現象」の理由　2026年に生き残るエンジニア“4つの役割”",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/28/news006.html",
+      "summary": "2026年上半期に＠ITで公開された記事の中から、AI系の話題で特に注目を集めた5本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-06-28T04:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2606/28/cover_news006.jpg",
+      "body_ja": "2026年上半期に＠ITで公開された記事の中から、AI系の話題で特に注目を集めた5本をランキング形式で紹介します。何が読者の関心を引いたのでしょうか。\nAIの進化によって「作業」の自動化が進む中、IT業界の構造やエンジニアの役割そのものが大きな転換期を迎えています。「SIerは衰退する」という大胆な予測が注目される一方で、現場ではAIによるエンジニア代替が思わぬ“逆転現象”を引き起こすなど、効率化の理想と現実のギャップが浮き彫りになり始めました。\nこうした中、「Google Gemini」を使いこなすための「構造化プロンプト」や、手元で動かす「ローカルLLM（大規模言語モデル）」の現実的な導入論など、実践的なAI活用術への関心も高まっています。AIと共存する2026年において、ITエンジニアが真に担うべき役割とは何なのか、業界の未来を占うトピックがそろいました。\n本稿では2026年上半期（1月1日〜6月24日）に公開された記事の中から、「AI」分野で特に注目を集めた5本を、記事へのアクセ"
+    },
+    {
       "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
       "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
       "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
@@ -8,10 +156,10 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-06-27T20:42:36",
-      "title_ja": "イーロン・マスク氏の軌道上データセンターの誇大宣伝に疑問を抱いているのはソフトバンクのCEOだけではない",
+      "title_ja": "イーロン・マスク氏の軌道上データセンターの誇大広告に疑問を抱いているのはソフトバンクのCEOだけではない",
       "summary_ja": "軌道上データセンターに関するイーロン・マスクのビジョンを誰もが支持しているわけではありません。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1160112941.jpg?resize=1200,800",
-      "body_ja": "軌道上データセンターに関するイーロン・マスクのビジョンを誰もが支持しているわけではありません。\nソフトバンクの創業者兼最高経営責任者（CEO）である孫正義氏は、最近の株主総会で、宇宙にデータセンターを建設することはコスト削減にはあまり役に立たず、「AIの戦いにおいては、10年ほど後に起こるかもしれないことよりも、今後数年の方がはるかに重要になる」と主張し、時間がかかりすぎると主張した。\nTechCrunch の株式ポッドキャストの最新エピソードについて、キルスティン・コロセック氏、ショーン・オケイン氏、"
+      "body_ja": "軌道上データセンターに関するイーロン・マスクのビジョンを誰もが支持しているわけではありません。\nソフトバンクの創業者兼最高経営責任者（CEO）である孫正義氏は、最近の株主総会で、宇宙にデータセンターを建設することはコスト削減にはあまり役に立たず、「AIの戦いにおいては、10年ほど後に起こるかもしれないことよりも、今後数年の方がはるかに重要である」と主張し、時間がかかりすぎると主張した。\nTechCrunch の株式ポッドキャストの最新エピソードについて、キルスティン・コロセック氏、ショーン・オケイン氏、"
     },
     {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
@@ -27,16 +175,6 @@
       "body_ja": "ブルームバーグのマーク・ガーマン氏によると、ビジョン・プロ・ヘッドセットを担当するアップルの副社長ポール・ミード氏が、OpenAIのハードウェアチームに加わるため退社するという。\nミード氏は、アップルが来年発売予定のAI搭載スマートグラスの開発も主導したと伝えられている。高価なVision Proはヒットしなかったが、Appleはより手頃な価格のスマートグラスがMetaのウェアラブルデバイスとの競争に役立つことを期待している。\nグルマンはこの出発を決めます"
     },
     {
-      "title": "パソコンショップSEVEN、BTOゲーミングPC全10モデルを特価販売　最大7万9000円オフ",
-      "url": "https://ascii.jp/elem/000/004/414/4414057/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/26/4490071/s/73da4a0ff97ebb78.png\" width=\"60\" />パソコンショップSEVENが6月28日に24時間限定セールを開催。RTX 5080搭載モデルをはじめとする最新ゲーミングPC・BTOパソコン全10モデルが最大7万9000円オフで登場。対象機種や価格、セール内容を紹介。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/26/4490071/s/73da4a0ff97ebb78.png"
-    },
-    {
       "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
       "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
@@ -44,40 +182,10 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-06-27T14:00:00",
-      "title_ja": "この部屋で最も適した創設者が癌になった。彼が AI を使って反撃した方法は次のとおりです。 |9月|がんに直面したとき、コナー・クリストは、血液検査結果、スキャンデータ、ウェアラブル出力、日誌エントリなど、自分の体制に関係するあらゆるものをクロードに入力しました。",
+      "title_ja": "この部屋で最も適した創設者が癌になった。彼が AI を使って反撃した方法をご紹介します。 |9月|がんに直面したとき、コナー・クリストは、血液検査結果、スキャンデータ、ウェアラブル出力、日誌エントリなど、自分の体制に関係するあらゆるものをクロードに入力しました。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM-e1782596077369.png?w=1103",
       "body_ja": "コノ・クリストは物事を成り行きに任せません。彼は Whoop バンドで睡眠を追跡し、Oura リングで相互参照し、毎年 100 近くのバイオマーカーの検査を受けています。彼はピーター・アティア氏やロンダ・パトリック氏といった長寿研究者のプロトコールに従い、4年連続で毎年血液検査を行っていた。彼はサプリメント、概日リズム、タンパク質摂取量を最適化していました。\n35 歳で 2 つ目の会社を設立した彼は、"
-    },
-    {
-      "title": "ノートPC「FMV WU5-K3」がお買い得、16GBメモリーとCore Ultra 5 225U搭載で22万円台！",
-      "url": "https://ascii.jp/elem/000/004/413/4413756/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T13:10:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png"
-    },
-    {
-      "title": "AMD Ryzen AI 7 350搭載の一体型デスクトップ「FMV WF3-L1」が、特価で24万5300円！",
-      "url": "https://ascii.jp/elem/000/004/413/4413749/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
-    },
-    {
-      "title": "2023年モデルの50型REGZAが24％オフ。4Kスマートテレビが8万円台前半に",
-      "url": "https://ascii.jp/elem/000/004/413/4413987/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/26/4489955/s/3c436ee26bad44dc.jpg\" width=\"60\" />REGZAの50型4Kスマートテレビ「50M550M」がAmazonで割引対象。参考価格110,000円のところ、24％オフの83,160円で販売中。2023年モデルの4Kスマートテレビだ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T12:30:00",
-      "image_url": "https://ascii.jp/img/2026/06/26/4489955/s/3c436ee26bad44dc.jpg"
     },
     {
       "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
@@ -91,66 +199,6 @@
       "summary_ja": "輸出禁止を恐れることなく、Mythos のような機能を約束する新モデルがアジアで発売されています。米国のAI研究所がこの巨大な市場を取り戻すことは決してないかもしれない。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
       "body_ja": "水曜日、中国のサイバーセキュリティ企業360は、AnthropicのMythosと対決できるAIツールTulongfengを発表したと伝えられている。これは、伝えられるところによれば非常に強力なサイバーセキュリティに焦点を当てた AI モデルであり、トランプ政権は現在、このモデルとそのより制限されたバージョンであるフェイブル 5 を非アメリカ人の手に与えることを禁止している。\n同じ週初め、東京に本拠を置くAIスタートアップ企業Sakana AIは、日本語にちなんで名付けられたモデル「Fugu」を発売した。"
-    },
-    {
-      "title": "Office付きCopilot+ PC。Zenbook 14 OLEDがAmazonで7％オフ",
-      "url": "https://ascii.jp/elem/000/004/413/4413816/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/26/4489787/s/cd1c2912383fc4da.jpg\" width=\"60\" />ASUSの「Zenbook 14 OLED（UX3405CA-TU7161BLWS）」がAmazonで割引対象。参考価格279,800円のところ、7％オフの259,800円で販売中。Office搭載のCopilot+ PCで、有機ELタッチディスプレーを採用した14型ノートPC。AI対応モデルを探しているならチェックしたい。</p><br clear=\"left\" /",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/26/4489787/s/cd1c2912383fc4da.jpg"
-    },
-    {
-      "title": "Amazonタイムセールで13万円台。HDMI入力搭載のASUS 23.8型一体型PC",
-      "url": "https://ascii.jp/elem/000/004/413/4413793/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/26/4489761/s/054298a63b895027.jpg\" width=\"60\" />ASUSの23.8型一体型PC「V400 AiO V440VAK-BPC199W」がAmazonタイムセール対象。参考価格144,800円のところ、5％オフの137,560円で販売中。HDMI入力を搭載した23.8型一体型PCで、自宅用や仕事用のデスクトップPCを探しているなら、比較候補に加えたいモデルだ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T11:30:00",
-      "image_url": "https://ascii.jp/img/2026/06/26/4489761/s/054298a63b895027.jpg"
-    },
-    {
-      "title": "20万円切り、Core Ultra 7・32GBメモリ搭載「HP OmniBook 5 16-af」が9％オフ",
-      "url": "https://ascii.jp/elem/000/004/413/4413677/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/25/4489418/s/634e8ac51420a1f8.jpg\" width=\"60\" />HPの「OmniBook 5 16-af（BF8J1PA-AAAA）」がAmazonで割引対象。過去価格219,800円のところ、9％オフの199,800円で販売中。Core Ultra 7と32GBメモリを搭載した16型タッチ対応ノートPC。仕事用のノートPCを探しているならチェックしたい。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/25/4489418/s/634e8ac51420a1f8.jpg"
-    },
-    {
-      "title": "「褒められることが多い」ツインテールで登場！ 美形グラドルの藤川めいが10th DVDイベント開催",
-      "url": "https://ascii.jp/elem/000/004/413/4413532/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/25/4489256/s/aac55bb01d4c5b79.jpg\" width=\"60\" />透き通るような白い肌と110cm・Kカップが魅力の藤川めいさんが、10th DVD「至近距離の恋」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/25/4489256/s/aac55bb01d4c5b79.jpg"
-    },
-    {
-      "title": "【超コスパ】1.4万円のゲーミングモニター、はじめての高リフレッシュレートモニターに十分！",
-      "url": "https://ascii.jp/elem/000/004/413/4413336/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/26/4489781/s/146840c8afbef0d0.jpg\" width=\"60\" />PCゲーミングデビューにはゲーミングモニターが必須。そして、実際使ってストレスゼロのモニターが登場しました。GIGABYTEの「GS25F14」は、買ってガチで後悔しませんよ！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/26/4489781/s/146840c8afbef0d0.jpg"
-    },
-    {
-      "title": "990円、飲み放題！しかも時間無制限！「日本酒原価酒蔵」で7月開催",
-      "url": "https://ascii.jp/elem/000/004/412/4412942/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/23/4488083/s/7d5c4a9085c9dddc.jpg\" width=\"60\" />日本酒原価酒蔵は7月1日より、時間無制限の飲み放題を期間限定で実施。日本酒や生ビール、ハイボール、サワーなどの飲み放題を990円で提供。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-06-27T08:30:00",
-      "image_url": "https://ascii.jp/img/2026/06/23/4488083/s/7d5c4a9085c9dddc.jpg"
     },
     {
       "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ　米政府が許可",
@@ -171,7 +219,7 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-06-27T01:01:37",
-      "title_ja": "トランプ政権、100社以上の米国企業や代理店が使用できる人類神話をリリース |9月|伝えられるところによると、米国人以外の従業員を含む 100 を超える企業や政府機関が Mythos 5 の使用を許可されています。",
+      "title_ja": "トランプ政権、米国の100社以上の企業や代理店が使用できる人類神話をリリース |9月|伝えられるところによると、米国人以外の従業員を含む 100 を超える企業や政府機関が Mythos 5 の使用を許可されています。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
       "body_ja": "Anthropicが強力なサイバーセキュリティ指向モデルであるMythos 5とFable 5を市場から撤退させる原因となった禁止措置から2週間が経過し、トランプ政権は態度を軟化させている。\nSemaforとロイターの報道によると、Anthropicは現在、100以上の特定の米国政府機関や企業がMythos 5を利用できるようになり、これらの組織の米国人以外の従業員もモデルにアクセスできるようになるという。このリストは私も"
@@ -230,8 +278,8 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-06-26T18:19:36",
-      "title_ja": "OpenAI、米国外の最大市場を率いるためにウーバー・インドの責任者を引き抜く |9月|この雇用は、OpenAIのインドへの最近の進出を示し、オフィス、パートナーシップ、雇用を拡大している。",
-      "summary_ja": "",
+      "title_ja": "OpenAI、Uber India の責任者を引き抜いて米国外の最大市場をリード",
+      "summary_ja": "この雇用は、OpenAIのインドへの最近の進出を示し、オフィス、パートナーシップ、雇用を拡大している。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
       "body_ja": "OpenAI は、インドに対してさらに大きな、目に見える賭けを行っています。米国に次ぐ第2位の市場と称される同国での存在感を拡大するため、同社は元ウーバー・インド・南アジア社長プラブジート・シン氏を同国の初代常務取締役に任命した。\n金曜日にUberからの辞任を発表したシン氏は、9月にOpenAIに入社し、同社のアジア太平洋地域担当マネジングディレクターであるキラン・マニ氏に直属する予定であると同社がTechCに語った。"
     },
@@ -246,33 +294,7 @@
       "title_ja": "OpenAI から SpaceX まで、誰もが独自のチップを開発している理由 (そして Nvidia の熱を上げている)",
       "summary_ja": "Nvidia は長年にわたって AI チップ市場を独占してきましたが、完全に依存する時代は終わりを迎えるかもしれません。 OpenAI はハラペーニョで物事を盛り上げる計画を共有しました。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-      "body_ja": "Nvidia は長年にわたって AI チップ市場を独占してきましたが、完全に依存する時代は終わりを迎えようとしています。\nOpenAIは、Broadcomと共同開発した同社のカスタム推論チップ「Jalapeño」で事態を盛り上げる計画を発表したばかりで、Google、Apple、SpaceXに加え、単一サプライヤーのリスクから抜け出す方法を構築する企業の増加リストに加わることになる。目標はクリーンブレイクではなく、むしろヘッジです。カスタム シリコンは、より多くの制御、特定のニーズに合わせて調整されたハードウェアを意味します。"
-    },
-    {
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-06-26T16:24:47",
-      "title_ja": "もう Anthropic 対 OpenAI の問題ではありません",
-      "summary_ja": "AI モデルは、その機能が現実の政治的影響をもたらす段階まで進歩しました。それらの結果に対処するには、集団的な行動が必要です。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/white-house-conklin.jpg?w=1024",
-      "body_ja": "米国政府は、どの AI モデルがリリースされるかについて、非常に厳しい管理を行うことになる。\n米国政府が Anthropic の Fable モデルと Mythos モデルを廃止してから 2 週間後、OpenAI の新しいモデルも同じ行き止まりに向かっているようです。 The Information は木曜日に、GPT 5.6 は限定的なプレビューとしてのみリリースされ、政府は一般リリースが承認されるまで「顧客ごとに」リリースを承認するというニュースを発表しました。\nもしそれが前なら"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-06-26T14:00:00",
-      "title_ja": "OpenAI の Jalapeño チップは、ビッグテックの Nvidia からの最もスパイシーな動きです",
-      "summary_ja": "Nvidia は長年にわたって AI チップ市場を独占してきましたが、完全に依存する時代は終わりを迎えるかもしれません。 OpenAI はハラペーニョで物事を盛り上げる計画を共有しました。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-      "body_ja": "Nvidia は長年にわたって AI チップ市場を独占してきましたが、完全に依存する時代は終わりを迎えようとしています。\nOpenAIは、Broadcomと共同開発した同社のカスタム推論チップ「Jalapeño」で事態を盛り上げる計画を発表したばかりで、Google、Apple、SpaceXに加え、単一サプライヤーのリスクから抜け出す方法を構築する企業の増加リストに加わることになる。目標はクリーンブレイクではなく、むしろヘッジです。カスタム シリコンは、より多くの制御、特定のニーズに合わせて調整されたハードウェアを意味します。"
+      "body_ja": "Nvidia は長年にわたって AI チップ市場を独占してきましたが、完全に依存する時代は終わりを迎えるかもしれません。\nOpenAIは、Broadcomと共同開発した同社のカスタム推論チップ「Jalapeño」で事態を盛り上げる計画を発表したばかりで、Google、Apple、SpaceXに加え、単一サプライヤーのリスクから抜け出す方法を構築する企業の増加リストに加わることになる。目標はクリーンブレイクではなく、むしろヘッジです。カスタム シリコンは、より多くの制御、特定のニーズに合わせて調整されたハードウェアを意味します。"
     },
     {
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
@@ -345,28 +367,6 @@
       "body_ja": "Amazon Bedrockのトークン処理量、26年1Qだけで過去累計超え AWSが目指す、AIのための「信頼できるインフラ」（1/2 ページ）\nAmazon Bedrockが処理したトークン数は、2026年第1四半期だけで、それ以前の全期間の合計を上回った――。米Amazon Web Services（AWS）のデイブ・ブラウン氏は、6月25日に開幕した「AWS Summit Japan 2026」（幕張メッセ）の基調講演でこう述べ、AI推論が最大のワークロードとなる時代に「信頼できるインフラ」で応える姿勢を鮮明にした。\nAIエージェントは1度の指示に対して、計画を立てたり、作業を検証したり、回答を生成したりといった複数の推論処理を実行する。既に世界で膨大なエージェントが稼働しているため、AI推論は「地球上で最大のワークロードになりつつある」とブラウン氏は指摘する。\nAWSにおけるその受け皿が、23年に提供を開始したAIプラットフォーム「Amazon Bedrock」だ。利用は急拡大し"
     },
     {
-      "title": "企業のAI支出そろそろ“様子見”は終わり？　Gartner予測、本格投資の行方は",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2606/26/news055.html",
-      "summary": "Gartnerは2026年の世界AI支出が前年比47％増の2兆5956億ドルに達するとの予測を発表。2026年は企業によるAI支出が拡大局面へ移行する転換点になるとしている。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-26T02:00:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2606/26/cover_news055.jpg",
-      "body_ja": "Gartnerは2026年の世界AI支出が前年比47％増の2兆5956億ドルに達するとの予測を発表。2026年は企業によるAI支出が拡大局面へ移行する転換点になるとしている。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\n調査会社Gartnerは2026年5月19日（米国時間）、世界のAI（人工知能）支出に関する予測を公表した。2026年の支出総額は前年比47％増の2兆5956億ドル（約412兆円＜1ドル＝159円の為替レートで換算＞、以下同）で、2027年には3兆4933億ドル（約555兆円）まで拡大する見通しだ。AIインフラやAIソフトウェアなど分野別に見た場合の動向や、一般の企業における傾向についても分析している。\nGartnerのディスティングイッシュトVPアナリストであるジョン・デイヴィッド・ラブロック氏は、「今後数年間、処理能力への需要増大によってAIインフラがAI支出全体の最大セグメントとなる」との見方を示す。AI向けに最適化したIaaS、AI向けネ"
-    },
-    {
-      "title": "日本の“眠れるデータ”を競争力へ、日本発のプラットフォーム「xIPF」が始動",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2606/19/news005.html",
-      "summary": "欧州を中心に進むデータ共有圏の動向やその日本へのインパクトについて解説してきた本連載だが、第9回は日本独自のデータ連携エコシステムを創出することを目指す「xIPFコンソーシアム」を取り上げる。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-06-25T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2606/19/cover_news005.jpg",
-      "body_ja": "欧州を中心に進むデータ共有圏の動向やその日本へのインパクトについて解説してきた本連載だが、第9回は日本独自のデータ連携エコシステムを創出することを目指す「xIPFコンソーシアム」を取り上げる。\n本連載では、「加速するデータ共有圏／データスペースの最新動向と日本の産業へのインパクト」をテーマとして、データ共有圏／データスペースの動向やインパクト、IDSA（International Data Space Association）、GAIA-X、Catena-X、Manufacturing-Xなどの鍵となる取り組みを解説してきた。第9回となる今回は、日本独自のデータ連携エコシステムを創出することを目指す「xIPF（クロスアイピーエフ）コンソーシアム」について紹介する。\nデータ共有圏はデータスペース（Data Space）とも呼ばれている。データの共有／交換は、従来はプラットフォームを介したデータ共有が一般的であり、提供されたデータの活用やマネタイズについてはプラットフォーム側が実施し、データ"
-    },
-    {
       "title": "Repositioning retail for the AI era",
       "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
       "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inven",
@@ -377,7 +377,7 @@
       "title_ja": "AI 時代に向けて小売業の位置付けを変える",
       "summary_ja": "人工知能は小売業を急速に再構築していますが、消費者がすぐに気づくような形ではありません。最大の変革は派手なバーチャル試着やチャットボットではないかもしれない",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/05/MITTRIInfosysMacys-social-1200px.png?resize=1200,600",
-      "body_ja": "スポンサー付き\nAI時代に向けて小売業の位置付けを変える\n会話型ショッピングアシスタントから超パーソナライズされたレコメンデーションに至るまで、AI によってデジタル小売体験がより直観的でシームレスで個別化されたものになると、メイシーズのエンジニアリング担当シニアディレクターのムラリ・ムルガン氏は述べています。\nインフォシスとの提携により\n人工知能は小売業を急速に再構築していますが、消費者がすぐに気づくような形ではありません。最大の変革はフロリダではないかもしれない"
+      "body_ja": "スポンサー付き\nAI時代に向けて小売業の位置付けを変える\n会話型のショッピングアシスタントから超パーソナライズされたレコメンデーションに至るまで、AI によってデジタル小売体験がより直観的でシームレスで個別化されたものになると、メイシーズのエンジニアリング担当シニアディレクターのムラリ・ムルガン氏は述べています。\nインフォシスとの提携により\n人工知能は小売業を急速に再構築していますが、消費者がすぐに気づくような形ではありません。最大の変革はフロリダではないかもしれない"
     },
     {
       "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
@@ -400,7 +400,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-06-25T10:00:00",
-      "title_ja": "ヨーロッパの熱波が電力網に与える意味",
+      "title_ja": "ヨーロッパの熱波が電力網に与える影響",
       "summary_ja": "今週はヨーロッパの熱波に関する見出しから目をそらすのが困難でした。気温は大陸全体で記録を更新しており、天気は命を脅かしています、シュウ",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_extremeheat.jpg?resize=1200,600",
       "body_ja": "ヨーロッパの熱波が電力網に与える影響\n夏はますます暑くなっており、公共事業は適応する必要があります。\n今週はヨーロッパの熱波に関する見出しから目をそらすのが困難でした。大陸全土で気温が記録を更新しており、命が脅かされ、学校が閉鎖され、特に皮肉なケースでは、猛暑に関するロンドン気候行動週間のイベントが中止に追い込まれている。\n夏が本格化するにつれて、"
@@ -414,7 +414,7 @@
       "lang": "en",
       "published": "2026-06-25T10:00:00",
       "title_ja": "IBM は、ムーアの法則をさらに 10 年延長するのに役立つ可能性のあるチップ技術を発表しました",
-      "summary_ja": "IBMは、爪ほどの面積に約1000億個のトランジスタを搭載した新しいプロトタイプチップを構築した。これは同社の以前の最先端技術の2倍の密度である。",
+      "summary_ja": "IBMは、爪ほどの面積に約1000億個のトランジスタを搭載した新しいプロトタイプチップを構築した。これは、同社の以前の最先端技術の2倍の密度である。",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260623_sub-1nmnodechip.jpg?resize=1200,600",
       "body_ja": "IBM、ムーアの法則をさらに10年延長するのに役立つ可能性のあるチップ技術を発表\n同社は、他の企業とともに、チップ上により多くのトランジスタを詰め込む、つまり構築するための新しいパラダイムを追求している。\nIBMは、爪ほどの面積に約1,000億個のトランジスタを搭載した新しいプロトタイプチップを構築した。これは、2021年に発表された同社の以前の最先端技術の2倍の密度である。この設計は、より高速でさらなる高速化への道を開く可能性がある。"
     },
@@ -442,7 +442,7 @@
       "title_ja": "ダウンロード: エンジニアリング問題の紹介",
       "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。エンジニアリング i の紹介",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2023/04/MITTR-JA26-Homepage-Thumbnail_9bd56d.png?resize=1200,600",
-      "body_ja": "ダウンロード: エンジニアリングの問題の紹介\nさらに、中国は世界最速のスーパーコンピューターの座を米国から奪いました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n導入: エンジニアリングの問題\nすべてを解決することはできませんが、野心的に取り組むことはできます。私たちは人類の創意工夫によって世界をより良くすることに挑戦することができます。それが新しいEnです"
+      "body_ja": "ダウンロード: エンジニアリングの問題の紹介\nさらに、中国は世界最速のスーパーコンピューターの座を米国から奪いました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n導入: エンジニアリングの問題\nすべてを解決することはできませんが、野心的に取り組むことはできます。私たちは人間の創意工夫によって世界をより良くすることに挑戦することができます。それが新しいEnです"
     },
     {
       "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
@@ -466,9 +466,9 @@
       "lang": "en",
       "published": "2026-06-24T11:59:54",
       "title_ja": "AI向けWebデータインフラストラクチャ層の登場",
-      "summary_ja": "AIは急成長しています。新しいユースケースが毎日登場しています。テクノロジーの可能性を最大限に活用するには、企業は大規模なデータを必要とします。ただし、多くの場合、関連情報は",
+      "summary_ja": "AIは急成長しています。新しいユースケースが日々登場しています。テクノロジーの可能性を最大限に活用するには、企業は大規模なデータを必要とします。ただし、多くの場合、関連情報は",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/iStock-1714934690.jpg?resize=1200,600",
-      "body_ja": "スポンサー付き\nAI用のWebデータインフラストラクチャ層の出現\nAI が進化し続けるにつれて、大規模なリアルタイム情報へのアクセスと配信を可能にするインフラストラクチャも進化する必要があります。\nブライトデータとの提携\nAIは急成長しています。新しいユースケースが毎日登場しています。テクノロジーの可能性を最大限に活用するには、企業は大規模なデータを必要とします。ただし、多くの場合、関連情報はブロックされているか構造化されていないため、その利用が制限されています。"
+      "body_ja": "スポンサー付き\nAI 用の Web データ インフラストラクチャ層の出現\nAI が進化し続けるにつれて、大規模なリアルタイム情報へのアクセスと配信を可能にするインフラストラクチャも進化する必要があります。\nブライトデータとの提携\nAIは急成長しています。新しいユースケースが日々登場しています。テクノロジーの可能性を最大限に活用するには、企業は大規模なデータを必要とします。ただし、多くの場合、関連情報はブロックされているか構造化されていないため、その利用が制限されています。"
     },
     {
       "title": "生成AIベンダーの選定で失敗しない7つの評価ポイント！選び方の手順も",
@@ -581,6 +581,6 @@
       "body_ja": "生成AIガバナンスとは、AI利用にともなうリスクを管理しながら、全社で安全に活用するための統制の仕組みです。\n「全社で生成AIを使えと号令はかかったが、ルールや体制づくりが追いつかない」と頭を抱える担当者は少なくありません。\n統制がないまま現場利用が広がれば、情報漏洩や著作権侵害といった重大インシデントを招き、経営責任を問われかねません。実際、生成AI導入企業の約8割がガバナンス不足を課題に挙げています。\n本記事では、ガバナンスの定義とガイドラインとの違い、準拠すべきフレームワーク、構築手順5ステップ、推進体制、成功のポイント、企業事例までを解説します。\n読み終える頃には、リスク管理と現場の活用を両立する統制体制を、何から着手すべきか迷わず設計できる状態になります。\n目次\n生成AIガバナンスとは企業がAIを安全に活用するための統制の仕組み\n生成AIガバナンスとは、生成AIの利用で生じるリスクを管理し、安全な活用を全社で実現するための統制の枠組みです。ルールづくりだけでなく、運用体制や見直"
     }
   ],
-  "last_updated": "2026-06-28T08:00:01.257825+09:00",
+  "last_updated": "2026-06-29T08:00:07.881293+09:00",
   "count": 50
 }
