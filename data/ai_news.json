@@ -1,6 +1,152 @@
 {
   "articles": [
     {
+      "title": "チーム管理は30人が限界？ 7割が「人数増で負荷」と回答",
+      "url": "https://ascii.jp/elem/000/004/416/4416340/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/05/4494875/s/3b278a4fa96d04fc.jpg\" width=\"60\" />ヌーラボは、“チームの人数増加”に伴う業務負荷とマネジメントに関する実態調査の結果を公表した。チーム参加およびチーム人数の増加経験のある600名を対象に2026年2月に実施している。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:30:00",
+      "image_url": "https://ascii.jp/img/2026/07/05/4494875/s/3b278a4fa96d04fc.jpg"
+    },
+    {
+      "title": "企業の眠れるコンテンツを“価値ある資産”に　Boxが専門エンジニアによる伴走支援サービス",
+      "url": "https://ascii.jp/elem/000/004/416/4416339/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/05/4494873/s/cd2fbf4dd2033f20.jpg\" width=\"60\" />Boxは、専門エンジニアによるAI活用の伴走支援サービスを開始した。コンテンツ管理の専門家である「Box Forward Deployed Engineers」が、Box内のコンテンツの整備からAIワークフローの設計・導入・最適化までを一貫してサポートするプログラムで、日本市場でも展開される。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:30:00",
+      "image_url": "https://ascii.jp/img/2026/07/05/4494873/s/cd2fbf4dd2033f20.jpg"
+    },
+    {
+      "title": "カクヤス「30年物の泥沼システム」をAIでどう解読？　現場が思いついた“ある考え”",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2607/06/news040.html",
+      "summary": "動いてはいるものの、誰もその中身を把握できない。多くの企業が直面する基幹システムの“老い”に、カクヤスは生成AIを使った。鍵となったのは、AIによる解析と現場の業務知見を組み合わせ、「AIを制御する技術」を確立したことだ。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/kn/articles/2607/06/cover_news040.jpg",
+      "body_ja": "動いてはいるものの、誰もその中身を把握できない。多くの企業が直面する基幹システムの“老い”に、カクヤスは生成AIを使った。鍵となったのは、AIによる解析と現場の業務知見を組み合わせ、「AIを制御する技術」を確立したことだ。\n長年の改修を重ねた基幹システムは「動いている理由は分からないが、止めるわけにもいかない存在」となり、多くの企業で刷新を難しくする要因となっている。\n創業100年を超える酒類卸のカクヤスも例外ではなかった。既存システムを人手で解析すると約450人月を要すると試算され、現実的なスケジュールで刷新を進めることは難しかった。だが、同社は人手では長期間を要する解析作業を実質2カ月へと短縮し、約2200あった画面を約800まで整理した。人手では約450人月を要すると試算された基幹システムの解析に使われたのが、ある生成AIだ。\n刷新の対象となる基幹システムは約30年前に構築された。長年にわたり機能追加や改修を繰り返した結果、設計書やソースコードの一部は失われ、システム全体を把握でき"
+    },
+    {
+      "title": "富裕層にいかに金を使わせる？　ダイナースとニューオータニ「18万円超カード」の真意",
+      "url": "https://www.itmedia.co.jp/business/articles/2607/06/news019.html",
+      "summary": "内閣府のデータが示す「85歳でも資産が減らない」というデフレマインドに縛られた日本型富裕層。インフレ時代を迎え「資産を体験に変える」ためのコンパスとして、ダイナースクラブとホテルニューオータニが年会費18万円超のプレミアムカードを解禁した。「全員平等」を守ってきた老舗ホテルの方針転換の裏には、半世紀続く厳格な審査体制と「平均値しか出せないAI」には不可能な人間のおもてなし戦略があった。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2607/06/cover_news019.jpg",
+      "body_ja": "ハイクラスなクレジットカードとして知られている「ダイナースクラブ」。富裕層に手厚いサービスを提供し続ける三井住友トラストクラブが、特にシニア富裕層の購買動向を分析する中で、ある不思議なデータが浮かび上がってきた。\n内閣府の「年次経済報告」によると、リタイア後である60〜64歳の平均資産額は1800万円強。これが85歳でも1500万円強と、2割程度しか減少していないのだ。人生100年時代を迎えた「生活防衛」が背景にあるものの、見方を変えれば、バブル期のインフレを知る世代でありながら、失われた30年の影響で「資産を豊かに使う方法」を忘れてしまったデフレマインドの表れとも言える。\nしかし時代は変わり、金利が付き、インフレが到来した。今後は「何もしなければ資産が目減りする時代」であり、付加価値の高い「体験」にこそお金を払うべき局面を迎えている。\nそんな中、三井住友トラストクラブは、ホテル御三家の一角「ホテルニューオータニ」と提携し、年会費18万1500円の招待制カード「ニューオータニクラブ ダイ"
+    },
+    {
+      "title": "無料の画像生成AI「Krea 2」が話題　実写もアニメもこなす新勢力",
+      "url": "https://ascii.jp/elem/000/004/416/4416343/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/06/4494944/s/f44fdb07634dfa4b.jpg\" width=\"60\" />無料の画像生成AI「Krea 2」は、実写からアニメまで高品質に描ける新モデル。ローカルPCで動作し、プロンプト解釈力やスタイル表現の広さが注目されています。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/06/4494944/s/f44fdb07634dfa4b.jpg"
+    },
+    {
+      "title": "\"買い\"のガチ推し製品はこれだ！〜ガジェット編〜【Amazonプライムデー】ガジェット助成金プレゼント企画あり",
+      "url": "https://ascii.jp/elem/000/004/416/4416243/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4494169/s/31da1445ea622d4d.png\" width=\"60\" />Amazonプライムデー、もう参戦準備はできていますか？ASCII編集部が3日間連続で「このチャンスに買っておきたいガチ推し製品」を大公開！アマプラ本格スタート中の3日目はガジェットDay。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/03/4494169/s/31da1445ea622d4d.png"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送： \"買い\"のガチ推し製品はこれだ！〜ジサトラKTU特別編〜【Amazonプライムデー】ガジェット助成金プレゼント企画あり",
+      "url": "https://ascii.jp/elem/000/004/416/4416238/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4494170/s/e65a701e9b346e97.png\" width=\"60\" />\"買い\"のガチ推し製品はこれだ！〜ジサトラKTU特別編〜【Amazonプライムデー】ガジェット助成金プレゼント企画あり。木曜20:00から放送スタート！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/03/4494170/s/e65a701e9b346e97.png"
+    },
+    {
+      "title": "次回のスマホ総研定例会は2026年7月13日（月）を予定しております！",
+      "url": "https://ascii.jp/elem/000/004/416/4416213/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/10/10/4335051/s/b2f30d4556399a58.jpg\" width=\"60\" />6月8日（月）のスマホ総研定例会はお休みとなります。次回の生放送は2026年6月15日（月）です。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/10/10/4335051/s/b2f30d4556399a58.jpg"
+    },
+    {
+      "title": "対面接客の音声を記録しAIが解析、音声プラットフォーム「MiiTel for Retail」提供開始　接客品質向上やVoC分析など支援",
+      "url": "https://ascii.jp/elem/000/004/416/4416207/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4494084/s/babc7d5a5642f081.png\" width=\"60\" />株式会社RevCommは7月2日に、店舗や窓口における対面接客の音声を記録し、電話やWeb会議と併せて一元的にAIが解析するという音声プラットフォームサービス「MiiTel for Retail（ミーテル・フォー・リテール）」のリリースを発表した。これまでデータ化しきれなかった店舗や窓口、現場での対面会話を記録して解析し、接客品質向上やカスタマーハラスメント対策、Vo",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/03/4494084/s/babc7d5a5642f081.png"
+    },
+    {
+      "title": "契約管理情報を活用し複数の契約をAIがまとめて分析　「LegalOn」、「ファイル分析機能」提供開始",
+      "url": "https://ascii.jp/elem/000/004/416/4416154/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4493940/s/3cf25ec7572e562e.png\" width=\"60\" />株式会社LegalOn Technologiesは7月2日に、法務特化型AIエージェント搭載のProfessional AI for Legal「LegalOn」において、複数の契約書をAIが横断的に分析し表形式で一覧表示する「ファイル分析機能」の提供開始を発表した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/03/4493940/s/3cf25ec7572e562e.png"
+    },
+    {
+      "title": "VRグローブから産業用フィジカルAIへ急拡張。Melt（旧Diver-X）が狙う「手のデータ」",
+      "url": "https://ascii.jp/elem/000/004/416/4416143/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4493917/s/ceaa809365caec11.jpg\" width=\"60\" />Melt Interface Technologies株式会社（旧Diver-X）はロボティクス向けデータグローブ「ContactGlove3 Pro」を発表。高精度なハンドトラッキングや触覚フィードバックに加え、産業用ロボットや次世代ロボット産業への展開も打ち出した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/03/4493917/s/ceaa809365caec11.jpg"
+    },
+    {
+      "title": "言葉の翻訳ではなく「文脈」を世界へ。日本企業の暗黙知を構造化する翻訳サービス",
+      "url": "https://ascii.jp/elem/000/004/416/4416133/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4494146/s/be339222a9c9eae2.jpg\" width=\"60\" />CROSS Business Producers株式会社は6月16日、日本企業が持つ技術や経営ノウハウ、地域資産を海外の投資家や事業会社へ伝える「Context Translation Platform（コンテクスト翻訳プラットフォーム）」の提供を開始した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-05T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/03/4494146/s/be339222a9c9eae2.jpg"
+    },
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-07-05T17:43:36",
+      "title_ja": "AmazonはMechanical Turkの新規顧客の受け付けを停止します |9月| Amazon の Mechanical Turk の最後の日になるかもしれません。",
+      "summary_ja": "",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?resize=1200,840",
+      "body_ja": "Amazon の Mechanical Turk の最後の日になるかもしれません。\nMechanical Turk の Web サイト上の発表によると、2026 年 7 月 30 日にクラウドソーシング サービスは新規顧客の受付を終了するとのことです。アマゾン ウェブ サービスは、この決定は「慎重な検討」の末に行われたと述べ、「既存の顧客は引き続き通常どおりサービスを利用できる。AWS は Mechanical Turk のセキュリティと可用性の向上に投資し続けているが、導入する予定はない」と付け加えた。"
+    },
+    {
+      "title": "マイクロン、AI需要で広島工場増強へ起工式　1.5兆円投資",
+      "url": "https://eetimes.itmedia.co.jp/ee/articles/2607/06/news047.html",
+      "summary": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-07-05T02:00:00",
+      "image_url": "https://image.itmedia.co.jp/ee/articles/2607/06/cover_news047.jpg",
+      "body_ja": "マイクロンメモリ ジャパンは2026年7月、広島工場の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するもので、2028年後半に製造装置の搬入を開始する予定だ。広島工場には今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。\nマイクロンメモリ ジャパンは2026年7月4日、広島工場（広島県東広島市）の生産能力増強に向けた新クリーンルーム建設の起工式を開催した。AI技術の進展に伴うメモリ需要の増加に対応するものだ。同社は広島工場に今後、この新クリーンルーム建設を含めて1兆5000億円を投じる。\n起工式にはMicron Technology 社長兼CEOのSanjay Mehrotra氏、マイクロンメモリ ジャパン 代表取締役の野坂耕太氏、経済産業大臣の赤澤亮正氏、元内閣総理大臣の岸田文雄氏らが登壇した。\n広島工場の生産能力増強は、AIインフラ整備の加速などによるメモリ需要増加に対応するためのものだ。野坂氏は「2004年には"
+    },
+    {
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
       "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
@@ -24,7 +170,7 @@
       "title_ja": "ミッドジャーニーは、ハリウッドのスタジオに対し、AI の使用状況の詳細を明らかにするよう求めています",
       "summary_ja": "ハリウッドの3つのスタジオと進行中の法的紛争の一環として、ミッドジャーニーはこれらのスタジオに対し、自社でAIをどのように使用しているかを明らかにするよう強制しようとしている。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-      "body_ja": "ハリウッドの3つのスタジオと進行中の法的紛争の一環として、AIスタートアップのミッドジャーニーは、これらのスタジオに対し、自社でAIをどのように使用しているかを明らかにするよう強制しようとしている。\nディズニーとユニバーサルは昨年、ミッドジャーニー社を著作権侵害の疑いで訴え、同社の画像生成モデルが両スタジオが所有するバート・シンプソンやダース・ベイダーなどのキャラクターの画像を作成する可能性があると指摘した。数か月後、ワーナー・ブラザースはミッドジャーニーを「W」として訴訟を起こした。"
+      "body_ja": "ハリウッドの3つのスタジオと進行中の法的紛争の一環として、AIスタートアップのミッドジャーニーは、これらのスタジオに対し、自社でAIをどのように使用しているかを明らかにするよう強制しようとしている。\nディズニーとユニバーサルは昨年、ミッドジャーニー社のモデルがスタジオ所有のバート・シンプソンやダース・ベイダーなどのキャラクターの画像を生成する可能性があるとして、著作権侵害の疑いでミッドジャーニー社を訴えた。数か月後、ワーナー・ブラザースもミッドジャーニーを訴えた。\nスタート"
     },
     {
       "title": "Alibaba reportedly bans employees from using Claude Code",
@@ -37,7 +183,7 @@
       "title_ja": "アリババは従業員によるクロード コードの使用を禁止したと伝えられています",
       "summary_ja": "アリババはクロードコードを高リスクソフトウェアとして分類したと伝えられている。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-      "body_ja": "複数の報道によると、中国のアリババは7月10日から従業員によるアンスロピックのプログラミングツール「クロード・コード」の使用を禁止する。\nアンスロピックはすでに、中国企業とその企業が所有する外国法人によるモデルの使用を禁止している。同社は、中国人ユーザーがクロードにアクセスできる抜け穴を塞ぐために取り組んでいると伝えられている。\n最近の Reddit の投稿によると、抜け穴をふさぐ一部のバージョンには、"
+      "body_ja": "複数の報道によると、中国のアリババは7月10日から従業員によるアンスロピックのプログラミングツール「クロード・コード」の使用を禁止する。\nアンスロピックはすでに、中国企業とその企業が所有する外国法人によるモデルの使用を禁止している。同社は、中国人ユーザーがClaudeにアクセスできる抜け穴を塞ぐために取り組んでいると伝えられている。\n最近の Reddit の投稿によると、抜け穴をふさぐ一部のバージョンには、"
     },
     {
       "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
@@ -51,106 +197,6 @@
       "summary_ja": "いくつかのオープンソース AI モデルを提供する Mistral AI は、「フロンティア AI をすべての人の手に」という野望を掲げ、2023 年の設立以来、多額の資金を調達してきました。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
       "body_ja": "Anthropic が最新の AI モデルをオフラインにするきっかけとなったトランプ大統領の指示と、米国への依存を減らす主権技術を求める声の高まりを受けて、Mistral AI は注目の旋風に巻き込まれています。しかし、フランスの AI の寵児はしばしば誤解されており、大規模言語モデル (LLM) を開発しているという事実が状況を曖昧にしています。\nミストラルを「ヨーロッパ発のOpenAI」にどれだけ近づいているかで判断する人は失望することになるだろう"
-    },
-    {
-      "title": "【2026夏アニメまとめ】猛暑の夏はクーラーが利いた部屋でアニメ！ 約80作品の夏アニメを全チェック！",
-      "url": "https://ascii.jp/elem/000/004/416/4416252/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4494283/s/6bbee54599816403.jpg\" width=\"60\" />今年も猛暑の夏がやってくる！　そんな夏は家で夏アニメを鑑賞。今クールも80本近い作品を紹介予定です！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/03/4494283/s/6bbee54599816403.jpg"
-    },
-    {
-      "title": "パソコンショップSEVEN、7月5日限定セール開催　ゲーミングPCが最大7万4000円オフ",
-      "url": "https://ascii.jp/elem/000/004/416/4416214/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4494123/s/9222a5c16185da0b.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、7月5日限定で最大74,000円オフの24時間セールを開催する。Ryzen 9 9900X3DやCore Ultra搭載のゲーミングPCを中心に、全10商品が特価で登場する内容だ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/03/4494123/s/9222a5c16185da0b.png"
-    },
-    {
-      "title": "あの伝説の装備まであるのか!? 人気コスプレイヤーのらいむたそ、5年ぶりにイメージDVD復帰！",
-      "url": "https://ascii.jp/elem/000/004/414/4414957/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/30/4491988/s/b14753335c8d6f2f.jpg\" width=\"60\" />「ミスヤングチャンピオン 2016」でグランプリを受賞。ドラクエシリーズを愛するコスプレイヤーとしても知られる「らいむたそ」さんが、4th DVD「リリック」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/30/4491988/s/b14753335c8d6f2f.jpg"
-    },
-    {
-      "title": "梅雨を吹き飛ばす盛り上がりだった！ 「TOKYO Gaming-PC STREET 8（GPS）」が閉幕",
-      "url": "https://ascii.jp/elem/000/004/416/4416303/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/04/4494557/s/acda46cc78c85c95.png\" width=\"60\" />本日、秋葉原でアスキー主催イベント「TOKYO Gaming-PC STREET 8（GPS）」を開催しました。ご来場の皆さま、ありがとうございました！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/04/4494557/s/acda46cc78c85c95.png"
-    },
-    {
-      "title": "先行販売開始45分で目標金額の約1,000％を達成！ビジネス、イラスト、ゲーム、動画編集等、多用途で使えるモバイルモニターが好発進！「TM-160PW」先行販売中",
-      "url": "https://ascii.jp/elem/000/004/416/4416309/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />先行販売開始45分で目標金額の約1,000％を達成！ビジネス、イラスト、ゲーム、動画編集等、多用途で使えるモバイルモニターが好発進！「TM-160PW」先行販売中</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T07:41:49",
-      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
-    },
-    {
-      "title": "【2026夏アニメ】13世紀のモンゴルが舞台の『天幕のジャードゥーガル』に注目！ オリジナル作品『天幕のジャードゥーガル』『グロウアップショウ ～ひまわりのサーカス団～』も",
-      "url": "https://ascii.jp/elem/000/004/416/4416258/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4494418/s/899e28382ffe130e.jpg\" width=\"60\" />夏アニメ特集第5回は、13世紀のモンゴルが舞台の『天幕のジャードゥーガル』に注目！ オリジナル作品『グロウアップショウ ～ひまわりのサーカス団～』『さよならララ』に、『岩元先輩ノ推薦』『パンの赤ちゃん』と5作品を紹介。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T07:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/03/4494418/s/899e28382ffe130e.jpg"
-    },
-    {
-      "title": "「ゴディバかき氷」が3年目　新作は贅沢ティラミス",
-      "url": "https://ascii.jp/elem/000/004/415/4415162/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/01/4492332/s/83c86499d1c8b207.jpg\" width=\"60\" />ゴディバ ジャパンは、7月22日より一部「ゴディバショップ」および一部「GODIVA café」にて「かき氷 ショコラ エレガンス」「かき氷 ティラミス ショコラ」季節限定にて販売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T07:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/01/4492332/s/83c86499d1c8b207.jpg"
-    },
-    {
-      "title": "多機能コテージ「in 道の駅ほうじょう」誕生 ～防災＆省エネを両立するモバイル建築、鳥取県北栄町にオープン～",
-      "url": "https://ascii.jp/elem/000/004/416/4416302/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />多機能コテージ「in 道の駅ほうじょう」誕生 ～防災＆省エネを両立するモバイル建築、鳥取県北栄町にオープン～</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T06:09:03",
-      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
-    },
-    {
-      "title": "【鼻血レベルの完成度】GRヤリスが「26式」へ進化！ ステアリングとタイヤだけのためにここまでやる!?",
-      "url": "https://ascii.jp/elem/000/004/416/4416257/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4494329/s/299261fe9556e2fe.jpg\" width=\"60\" />トヨタ「GRヤリス」が26式へ進化しました。操作性を極めた新形状ステアリングや専用開発タイヤを採用し、操縦性がさらに向上しています。また、オジエ選手の知見を反映した限定車と、ダウンフォースを高めた「モリゾウRR」も登場。特にモリゾウRRのしなやかで安定した走りは必見です。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T06:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/03/4494329/s/299261fe9556e2fe.jpg"
-    },
-    {
-      "title": "肉最大450gの衝撃！大阪王将の\"暴走メシ\"全国へ",
-      "url": "https://ascii.jp/elem/000/004/416/4416183/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/03/4493959/s/7e207ec74dd8049d.jpg\" width=\"60\" />大阪王将は7月7日から、夏限定「ガリバタ暴走鶏炒飯」を全国の店舗で販売します。圧倒的ボリューム感の一皿が登場！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-04T06:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/03/4493959/s/7e207ec74dd8049d.jpg"
     },
     {
       "title": "AIエージェントで業務効率化する方法！向いている業務の見極め方と事例",
@@ -196,7 +242,7 @@
       "title_ja": "今年必要になる唯一の AI 用語集 |9 月| AI の台頭により、新しい用語や俗語が雪崩のように登場しました。ここでは、遭遇する可能性のあるいくつかの最も重要な単語やフレーズの定義をまとめた用語集を示します。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-      "body_ja": "人工知能は世界を書き換えていると同時に、その動作を説明するまったく新しい言語を発明しています。最近、製品に関するミーティングやピッチ、パネルディスカッションに参加すると、LLM、RAG、RLHF、その他テクノロジー業界の非常に賢明な人々さえ少し不安に感じる可能性のあるその他の用語が飛び交っているのを耳にするでしょう。この用語集は、それを解決するための私たちの試みです。痛み - あなたが最もよく使う AI 用語の英語の定義"
+      "body_ja": "人工知能は世界を書き換えていると同時に、その動作を説明するまったく新しい言語を発明しています。最近、製品に関するミーティング、ピッチ、パネルディスカッションに参加すると、LLM、RAG、RLHF、その他テクノロジー業界の非常に賢明な人々でさえ少し不安を感じる可能性のあるその他の用語が飛び交っているのを耳にするでしょう。この用語集は、それを解決するための私たちの試みです。痛み - あなたが最もよく使う AI 用語の英語の定義"
     },
     {
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
@@ -209,7 +255,7 @@
       "title_ja": "ブラウザ戦争はもはや検索に関するものではありません。Chrome と Safari に代わる最良の選択肢は次のとおりです",
       "summary_ja": "Chrome や Safari に対抗することを目的として、現在利用可能ないくつかの主要な代替ブラウザの概要をまとめました。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
-      "body_ja": "今年、ブラウザ戦争は新たな段階に入った。戦いはもはや検索結果だけを巡るものではなく、ブラウザ内でユーザーに代わってどの企業の AI が機能するかが争点となっている。 Google Chrome と Apple の Safari は依然として市場全体を支配しており、Chrome の優位性は主に検索に生成 AI を積極的に組み込んでいることに由来しています。しかし、2026年には、資金豊富な新興企業からビッグテックまで、新規参入者の波が押し寄せてきた。"
+      "body_ja": "今年、ブラウザ戦争は新たな段階に入った。戦いはもはや検索結果だけを巡るものではなく、ブラウザ内でユーザーに代わってどの企業の AI が機能するかが争点となっている。 Google Chrome と Apple の Safari は依然として市場全体を支配しており、Chrome の優位性は主に検索に生成 AI を積極的に組み込んでいることに由来しています。しかし 2026 年には、資金豊富な新興企業からビッグテックまで、新規参入者の波が押し寄せてきた。"
     },
     {
       "title": "AIエージェントで業務自動化する方法とは？できることや事例を解説",
@@ -232,7 +278,7 @@
       "published": "2026-07-03T17:34:37",
       "title_ja": "死亡したドナーから眼球を蘇生させる装置があれば、眼移植が可能になる可能性がある",
       "summary_ja": "人間の目を丸ごと移植するのは簡単ではありません。手術は難しいです。そして、目自体は体から離れるとすぐに退化が始まります。外科医がそれを試みたとき、",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-1849342868.jpg?resize=1200,600",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-1849342868_6fd97e.jpg?resize=1200,600",
       "body_ja": "死亡したドナーから眼球を蘇生させる装置により眼移植が可能になる可能性がある\nこれは、レシピエントに移植されたときにも目がまだ見えることを意味しているのかもしれない、と研究に携わった科学者たちは言う。\n人間の目を丸ごと移植するのは簡単ではありません。手術は難しいです。そして、目自体は体から離れるとすぐに退化が始まります。数年前に外科医が移植を試みたとき、新しく移植された目は見ることができませんでした。\nでも研究してください"
     },
     {
@@ -244,7 +290,7 @@
       "lang": "en",
       "published": "2026-07-03T12:10:00",
       "title_ja": "ダウンロード: 喫煙可能な「エンドゲーム」と新しいエリザベス ベアのストーリー",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。英国の世代別タバコ",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。英国の世代別タバコ",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/cig-template-new.jpg?resize=1200,600",
       "body_ja": "ダウンロード: 喫煙可能な「エンドゲーム」と新しいエリザベス ベアのストーリー\nさらに、スパイウェアを調査している EU 議員が同じスパイウェアによってハッキングされました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n英国の世代を超えたタバコ禁止は機能しない可能性がある。とにかく応援してます。\n—ジェシカ・ハムゼロウ\n二人の女の子の親として、私はよく彼女たちの幼少期がどのようなものだったのかを考えます。"
     },
@@ -257,9 +303,9 @@
       "lang": "en",
       "published": "2026-07-03T10:00:00",
       "title_ja": "武田薬品工業がインシリコ社と6億米ドルのAI創薬契約を締結",
-      "summary_ja": "武田薬品は、日本の製薬会社の治療薬全体にわたる初期段階の創薬にAIを活用するために、香港に拠点を置くインシリコ・メディシンと戦略的提携を締結した",
+      "summary_ja": "武田薬品は、日本の製薬会社の治療薬全体にわたる初期段階の創薬にAIを活用するため、香港に拠点を置くインシリコ・メディシンと戦略的提携を締結した。",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Takeda-signs-US600M-AI-drug-discovery-deal-with-Insilico-scaled-e1783064231328.jpg",
-      "body_ja": "武田薬品は、日本の製薬会社の治療分野全体で初期段階の創薬にAIを活用するため、香港に拠点を置くインシリコ・メディシンと戦略的提携を結んだ。\n両社は、提携の対象となる治療分野や疾患は明らかにしていない。この契約により、武田薬品は、生物学的標的の同定、分子設計、臨床をサポートする Insilico の Pharma.AI プラットフォームへのアクセスが可能になります。"
+      "body_ja": "武田薬品は、日本の製薬会社の治療分野全体で初期段階の創薬にAIを活用するため、香港に拠点を置くインシリコ・メディシンと戦略的提携を結んだ。\n両社は、どの治療分野や疾患標的が提携の対象となるかは明らかにしていない。この契約により、武田薬品は、生物学的標的の同定、分子設計、臨床をサポートする Insilico の Pharma.AI プラットフォームへのアクセスが可能になります。"
     },
     {
       "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
@@ -330,39 +376,6 @@
       "body_ja": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」 ザッカーバーグ氏、社内集会で発言\n米Metaのマーク・ザッカーバーグCEOは7月2日（現地時間）、社内の集会で、過去4カ月のAIエージェント開発は「想定していたようには加速していない」と述べた。ロイターが録音を確認した。\nザッカーバーグ氏はまた、大規模な人員削減を伴った組織再編について、本来あるべきほど「クリーン」ではなかったとし、経営陣が変更のタイミングを見誤ったと語った。\n同氏をはじめとするMetaの幹部は、2026年の組織変更の一部について、根本的な方針転換はせずに軌道修正を図ろうとしている。同社は5月、世界の従業員の約10％を削減し、約7000人をAI関連チームに配置転換した。この動きは従業員の反発を招き、士気低下への懸念が高まった。\nこうした変更は、AIインフラへの巨額投資の原資を確保するとともに、AI支援業務による効率化の恩恵を取り込むための、より広範な再編の一環だった。ザッカーバーグ氏は5"
     },
     {
-      "title": "「顧客管理システム作って」日本語で指示するだけでシステムが完成する最新AIとは？",
-      "url": "https://kn.itmedia.co.jp/kn/articles/2607/03/news034.html",
-      "summary": "業務システムを開発したくても、費用や人材の確保がネックとなり、なかなか着手できない会社は少なくない。こうした課題に対し、専門知識がなくても開発を進められる手段が広がりつつある。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-03T01:00:00",
-      "image_url": "https://image.itmedia.co.jp/kn/articles/2607/03/cover_news034.jpg",
-      "body_ja": "業務システムを開発したくても、費用や人材の確保がネックとなり、なかなか着手できない会社は少なくない。こうした課題に対し、専門知識がなくても開発を進められる手段が広がりつつある。\n多くの企業がDX（デジタルトランスフォーメーション）の必要性を理解しながら、最初の一歩を踏み出せずにいる。中小企業庁の調査では、DXに本格着手できていない中小企業は95.4％に上る。やらなければいけないと分かっていても踏み出せない背景には、コストの高さ、IT人材の不足、開発にかかる時間という障壁がある。\nAIやデータを組み合わせたコンサルティングサービスを提供するSoloptiLinkの小貫太秀氏は、日本語で指示するだけでシステムを自動構築できるAIサービスを紹介し、中小企業がDXの壁を乗り越えるための実践的なアプローチについて語った。\n小貫氏はまず、中小企業がDXに踏み出せない構造的な要因を整理した。同氏によると、必要性は理解していても行動に移せない原因は、意識の問題ではなく、これまでの選択肢そのものにあるとい"
-    },
-    {
-      "title": "AWSの「静かな」戦略シフト　OpenAIとAnthropic“1日違い登壇”の意味を読み解く",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2607/06/news016.html",
-      "summary": "生成AIで競合するOpenAIとAnthropicを1日違いで基調講演に招く――。「AWS Summit Japan 2026」で浮かび上がったのは、モデルの賢さではなく「別のあるもの」を握ることで、基盤の価値を保ち続けようとするAWSの戦略シフトだ。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-03T00:00:00",
-      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2607/06/cover_news016.jpg",
-      "body_ja": "惗惉AI偱嫞崌偡傞OpenAI偲Anthropic傪1擔堘偄偱婎挷島墘偵彽偔乗乗丅乽AWS Summit Japan 2026乿偱晜偐傃忋偑偭偨偺偼丄儌僨儖偺尗偝偱偼側偔乽暿偺偁傞傕偺乿傪埇傞偙偲偱丄婎斦偺壙抣傪曐偪懕偗傛偆偲偡傞AWS偺愴棯僔僼僩偩丅\n偙偺婰帠偼夛堳尷掕偱偡丅夛堳搊榐偡傞偲慡偰偛棗偄偨偩偗傑偡丅\n丂傾儅僝儞 僂僃僽 僒乕價僗 僕儍僷儞乮埲壓丄AWS僕儍僷儞乯偑2026擭6寧25乣26擔偵枊挘儊僢僙偱奐嵜偟偨乽AWS Summit Japan 2026乿丅摨僀儀儞僩偱徾挜揑偩偭偨偺偼丄AI儀儞僟乕偲偟偰嫞偄崌偆OpenAI偲Anthropic偑1擔栚偲2擔栚偺婎挷島墘偵偦傟偧傟搊抎偟偨偙偲偩丅偙偙偐傜尒偊傞丄AWS偺愴棯揮姺偲偼壗偐丅\n丂1擔栚丄AWS僕儍僷儞偺敀敠徎旻巵乮戙昞幏峴栶堳幮挿乯偑孞傝曉偟尵媦偟偨偺偼丄Amazon.com憂嬈幰偺僕僃僼丒儀僝僗巵偑巻僫僾僉儞偵昤偄偨偲偝傟傞丄乽偁傞奣擮乿偩丅\n丂偦偺奣擮偲偼乽僼儔僀儂僀乕儖乿偩丅價儖僟乕偑屭媞懱尡傪崅傔丄僀僲儀"
-    },
-    {
-      "title": "AIで実機との形状差を学習するプレス成形シミュレーションソフトウェア",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2607/03/news006.html",
-      "summary": "JSOLは、プレス成形シミュレーションソフトウェア「JSTAMP」にAI機能を搭載した。実機トライとシミュレーションの形状差を学習して補正し、高強度鋼板のスプリングバック予測精度を向上させる。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-03T00:00:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2607/03/cover_news006.jpg",
-      "body_ja": "JSOLは、プレス成形シミュレーションソフトウェア「JSTAMP」にAI機能を搭載した。実機トライとシミュレーションの形状差を学習して補正し、高強度鋼板のスプリングバック予測精度を向上させる。\nJSOLは2026年6月17日、プレス成形シミュレーションソフトウェア「JSTAMP」に、同ソフトウェアとして初となるAI（人工知能）機能「JSTAMP-RealSync for Springback」を搭載し、リリースした。実機トライとシミュレーションの形状差を学習して補正し、高強度鋼板のスプリングバック予測精度を向上させる。\n自動車の車体開発では、衝突安全性能と軽量化を両立するため、構造骨格部材への高強度鋼板の採用が拡大している。しかし、高強度鋼板のプレス成形は加工難易度が高く、金型から離型した後に材料の弾性回復によって形状が変化するスプリングバックの予測が難しい。そのため、実機トライの段階でシミュレーションとは異なるスプリングバックが判明し、金型修正を繰り返すことが課題となっていた。\n新たに"
-    },
-    {
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
       "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
@@ -373,7 +386,7 @@
       "title_ja": "マーク・ザッカーバーグ氏はスタッフに、AI エージェントは期待したほど早く進歩していないと語った",
       "summary_ja": "伝えられるところによると、メタCEOは社内会議で、AI開発の取り組みが予想ほど早く進んでいないと述べたという。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
-      "body_ja": "メタを例に挙げると、人間を AI に置き換えることはそれほど簡単ではないようです。\nロイター通信の報道によると、木曜の社内市役所でマーク・ザッカーバーグ最高経営責任者（CEO）はスタッフに対し、AIエージェント開発のペースは幹部らが以前に期待していたほど「加速していない」と語ったという。\n今年初め、メタ社は企業従業員の約10％にあたる約8000人の従業員を解雇し、さらに7000人をさまざまなAIグループに再配置した。"
+      "body_ja": "メタを例に挙げると、人間を AI に置き換えることはそれほど簡単ではないようです。\nロイター通信の報道によると、木曜の社内市役所でマーク・ザッカーバーグ最高経営責任者（CEO）はスタッフに対し、AIエージェント開発のペースは幹部らが以前に期待していたほど「加速していない」と語ったという。\n今年初め、Meta は全社従業員の約 10% に当たる約 8,000 人の従業員を解雇し、さらに 7,000 人をさまざまな AI グループに再配置しました。"
     },
     {
       "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
@@ -400,19 +413,6 @@
       "summary_ja": "Meta は、ユーザーがテキスト プロンプトを使用してインタラクティブなミニ ゲームを生成および共有できる実験的な AI アプリである Pocket を密かにリリースしました。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
       "body_ja": "Meta は、Pocket と呼ばれる新しいアプリのリリースによりゲームに参入しており、AI プロンプトを使用して小規模でインタラクティブなアプリやゲームを生成できるようになります。このソフトウェアは、Meta が今年初めにバイブコーディングされたゲーム プラットフォーム Gizmo のチームを買収した結果であり、自らを「ギズモを作成および共有するためのクリエイティブ プラットフォーム」と説明しており、インタラクティブなエクスペリエンスはそのように呼ばれています。また、再生できるスクロール可能なフィードも提供します。"
-    },
-    {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-07-02T18:31:09",
-      "title_ja": "Anthropic は新しいカスタム チップについて Samsung",
-      "summary_ja": "と話し合っています。このニュースは、OpenAIがBroadcomと提携して独自のカスタムAIチップを発表してから約1週間後に発表された。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "body_ja": "4月にロイター通信は、Anthropicがチップ不足に対応する手段として独自のAIチップを生産するというアイデアを検討していると報じた。現在、同社はこのアイデアに真剣に取り組んでいるようだ。\n木曜日、The Informationは、Anthropicが保留中のチップに関する協力を検討するためにSamsungと連絡を取っていると報じた。ただし、Anthropic は、チップが何に使用されるか、SE にどのように適合するかについてはまだ決定していません。"
     },
     {
       "title": "Achieving operational excellence with AI",
@@ -484,7 +484,7 @@
       "lang": "en",
       "published": "2026-07-02T12:10:00",
       "title_ja": "ダウンロード: 新興企業が AI の集団思考問題の解決策を見つけた",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。 LLM は集団思考に陥っている",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。 LLM は集団思考に陥っている",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
       "body_ja": "ダウンロード: 新興企業が AI の集団思考問題の解決策を見つけた\nさらに: 科学者たちは、初めて細胞をゼロから構築したと言っています。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nLLM は集団思考の溝にはまってしまいます。このスタートアップは彼らを追い出そうとしている。\n選択したチャットボット (Claude、ChatGPT、Gemini) を開き、「乱数を教えてください」と入力します。"
     },
@@ -512,7 +512,7 @@
       "title_ja": "小売 AI を導入してパーソナライゼーションと顧客インサイトを拡張",
       "summary_ja": "小売 AI インフラストラクチャを最適化することで、パーソナライゼーション システムとリアルタイムの顧客インサイトの導入を成功させることができます。リーダーは静的な顧客インタラクションを置き換えています",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/deploying-retail-ai-personalisation-customer-insight-multimodal-strategy-enterprise-automation-edge-computing.jpg",
-      "body_ja": "小売 AI インフラストラクチャを最適化することで、パーソナライゼーション システムとリアルタイムの顧客インサイトの導入を成功させることができます。リーダーたちは、静的な顧客対話パターンを、ライブ セッション中にユーザー環境を変更できるデータ パイプラインに置き換えています。\n静的なレイアウトと広範なセグメンテーション ルールでは、最新のコンバージョン ターゲットを満たすことができません。導入により、従来の人口統計の分類では不十分な結果が生じることが実証されました。"
+      "body_ja": "小売 AI インフラストラクチャを最適化することで、パーソナライゼーション システムとリアルタイムの顧客インサイトの導入を成功させることができます。リーダーたちは、静的な顧客対話パターンを、ライブ セッション中にユーザー環境を変更できるデータ パイプラインに置き換えています。\n静的なレイアウトと広範なセグメンテーション ルールでは、最新のコンバージョン目標を満たせません。導入により、従来の人口統計の分類では不十分な結果が生じることが実証されました。"
     },
     {
       "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
@@ -525,7 +525,7 @@
       "title_ja": "LLM は集団思考の溝にはまってしまいます。このスタートアップは彼らを追い出そうとしている。 |9月|ゲームから始めましょう。選択したチャットボット (Claude、ChatGPT、Gemini) を開き、「1 から 10 までの乱数を教えてください」と入力します。ほぼ常に 7 が得られます。今すぐ入力してください",
       "summary_ja": "",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260626_LLMhallucinations.jpg?resize=1200,600",
-      "body_ja": "LLM は集団思考の溝にはまってしまいます。このスタートアップは彼らを追い出そうとしている。\nチャットボットは、予想よりもはるかに応答を予測しやすいものです。研究やコーディングには問題ありませんが、何か新しいことを探している場合には問題です。\nゲームから始めましょう。選択したチャットボット (Claude、ChatGPT、Gemini) を開き、「1 から 10 までの乱数を教えてください」と入力します。ほぼ常に 7 が得られます。ここで「Another」と入力すると、"
+      "body_ja": "LLM は集団思考の溝にはまってしまいます。このスタートアップは彼らを追い出そうとしている。\nチャットボットは、予想よりもはるかに応答を予測しやすいものです。研究やコーディングには問題ありませんが、何か新しいものを探している場合は問題です。\nゲームから始めましょう。選択したチャットボット (Claude、ChatGPT、Gemini) を開き、「1 から 10 までの乱数を教えてください」と入力します。ほぼ常に 7 が得られます。ここで「Another」と入力すると、"
     },
     {
       "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
@@ -536,9 +536,9 @@
       "lang": "en",
       "published": "2026-07-01T12:10:00",
       "title_ja": "ダウンロード: Anthropic が Claude Science とカリフォルニアの炭素肥料計算を開始",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。クロードの科学は人類のものである",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。クロードの科学は人類のものである",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/06/claude-science3a.jpg?resize=1200,600",
-      "body_ja": "ダウンロード: Anthropic が Claude Science とカリフォルニアの炭素肥料の計算を開始\nさらに: 米国は、Anthropic の Mythos および Fable モデルに対する制限を解除しました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nClaude Science は Anthropic の最新の主力製品です\n昨日の製薬会社幹部、バイオテクノロジー創設者、研究者向けのイベントで、アントロピ氏は"
+      "body_ja": "ダウンロード: Anthropic が Claude Science とカリフォルニアの炭素肥料の計算を開始\nさらに: 米国は、Anthropic の Mythos および Fable モデルに対する制限を解除しました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nClaude Science は Anthropic の最新の主力製品です\n昨日の製薬会社幹部、バイオテクノロジー創設者、研究者向けのイベントで、Anthropi 氏は"
     },
     {
       "title": "Japan’s answer to its worker shortage: An AI model for 10 million robots",
@@ -645,9 +645,9 @@
       "lang": "en",
       "published": "2026-06-29T12:22:45",
       "title_ja": "HP は OpenAI Frontier",
-      "summary_ja": "でエンタープライズ ワークフローを加速しますHP は、エンタープライズ ワークフローを最適化し、出力を加速するために、OpenAI Frontier の統合をグローバルな事業全体に拡張しました。ハードウェア製造元は PL のテストを開始しました",
+      "summary_ja": "でエンタープライズ ワークフローを加速しますHP は、エンタープライズ ワークフローを最適化し、出力を加速するために、OpenAI Frontier の統合をグローバルな事業全体に拡張しました。ハードウェア メーカーは pl のテストを開始しました",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/06/hp-openai-frontier-enterprise-ai-governance-artificial-intelligence-automation-data-device-management.jpg",
-      "body_ja": "HP は、エンタープライズ ワークフローを最適化し、出力を加速するために、OpenAI Frontier の統合をグローバルな事業全体に拡張しました。\nハードウェア メーカーは、2026 年 2 月にプラットフォームのテストを開始しました。初期のパイロット プログラムでは、ソフトウェア エンジニアリングとサイバーセキュリティ修復における運用上の効果が実証されました。これらの初期トライアルを企業全体の運用モデルに拡張するには、アクセス プロトコル、コンテキスト データ、評価を接続する必要があります。"
+      "body_ja": "HP は、エンタープライズ ワークフローを最適化し、出力を加速するために、OpenAI Frontier の統合をグローバルな事業全体に拡張しました。\nハードウェア メーカーは、2026 年 2 月にプラットフォームのテストを開始しました。初期のパイロット プログラムでは、ソフトウェア エンジニアリングとサイバーセキュリティ修復における運用上の効果が検証されました。これらの初期トライアルを企業全体の運用モデルに拡張するには、アクセス プロトコル、コンテキスト データ、評価を接続する必要があります。"
     },
     {
       "title": "Wimbledon adds IBM AI tools for live match coverage",
@@ -686,7 +686,7 @@
       "title_ja": "最新の DevSecOps に最適な自動セキュリティ テスト ツール",
       "summary_ja": "最新の DevSecOps では、リリース日前にセキュリティ チェックを実行する必要があります。チームは現在、手動レビューでは不可能なペースでコードを作成し、サービスを構築し、更新をデプロイしています。それは",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2025/01/AI-News.png",
-      "body_ja": "最新の DevSecOps では、リリース日前にセキュリティ チェックを実行する必要があります。チームは現在、手動レビューでは不可能なペースでコードを作成し、サービスを構築し、更新をデプロイしています。そのため、自動テストを使用するのは、日常的な欠陥を実稼働環境に到達する前に発見するのに役立つからです。\nプレッシャーが大きくなりました。 Verizon の 2025 年のデータ侵害調査レポートでは、初期アクセス ルートとして脆弱性の悪用が侵害の 20 パーセントを引き起こし、34 パーセント増加したことが判明しました"
+      "body_ja": "最新の DevSecOps では、リリース日前にセキュリティ チェックを実行する必要があります。チームは現在、手動レビューでは不可能なペースでコードを作成し、サービスを構築し、更新をデプロイしています。自動テストを使用するのは、実稼働環境に到達する前に日常的な欠陥を発見するのに役立つためです。\nプレッシャーが大きくなりました。 Verizon の 2025 年のデータ漏洩調査報告書では、初期アクセス ルートとしての漏洩の 20% が脆弱性の悪用によって引き起こされ、34% 増加したことが判明しました。"
     },
     {
       "title": "生成AIベンダーの選定で失敗しない7つの評価ポイント！選び方の手順も",
@@ -711,6 +711,6 @@
       "body_ja": "文献や特許の調査、実験条件の検討に時間を奪われ、本来注力したい仮説立案や考察に手が回らない。そう感じている研究開発の担当者は少なくありません。生成AIは、こうした研究開発の各工程を支援し、開発のスピードと成功確率を高める心強いパートナーになります。\n競合他社が生成AIで開発を高速化するなか、従来の手作業に頼り続ければ、開発スピードで後れを取り市場での競争力を失いかねません。一方で使いこなせれば、限られた人員のままでも研究の生産性を大きく引き上げられます。\n本記事では、研究開発における生成AIの活用方法と企業事例、導入の進め方を中心に、メリットや注意点、おすすめツールまで解説します。\n読み終えるころには、自部門のどの工程に生成AIを使えばよいかが明確になり、安全な進め方を踏まえて社内に導入を提案できるようになります。研究開発の競争力を高めたい方は、ぜひ最後までご覧ください。\n目次\n研究開発における生成AIとは\n研究開発における生成AIとは、文献調査や仮説立案、材料探索といった研究の各工程を"
     }
   ],
-  "last_updated": "2026-07-05T07:56:18.225843+09:00",
+  "last_updated": "2026-07-06T07:59:40.439686+09:00",
   "count": 60
 }
