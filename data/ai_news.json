@@ -1,6 +1,157 @@
 {
   "articles": [
     {
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "url": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+      "summary": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-07-25T21:51:00",
+      "image_url": "https://image.itmedia.co.jp/news/articles/2607/26/cover_news014.jpg",
+      "body_ja": "MicrosoftやNVIDIAなどは7月24日（現地時間）、オープンウェイトのAIモデルに対する性急な規制の回避を求める書簡「Open Weights and American AI Leadership」を公開した。米国の政策立案者に向けてAIエコシステムのあり方を提言する内容であり、Meta、IBM、OpenAIなど米国の35の企業や団体が署名に名を連ねている。\nオープンウェイトモデルとは、誰でもダウンロードして検証・改変し、自前のインフラで実行できるもので、書簡ではこれを米国のAIエコシステムの基盤と位置付けている。1980年代のオープンソースソフトウェア運動を引き合いに出し、新興企業や大学、公共機関が一から学習せずに高性能モデルを利用できること、クラウドやチップ、アプリケーション層にも競争が生まれること、企業が特定ベンダーにロックインされずにデータとモデルを自ら管理できることを利点として挙げた。\n安全性について、クローズドモデルだけに依存することが本質的に安全なわけではないと主"
+    },
+    {
+      "title": "AIエージェントの失敗事例4つ！セキュリティ事故と運用トラブルを解説",
+      "url": "https://ainow.ai/2026/07/26/278281/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25a4%25b1%25e6%2595%2597%25e4%25ba%258b%25e4%25be%258b4%25e3%2581%25a4%25ef%25bc%2581%25e3%2582%25bb%25e3%2582%25ad%25e3%2583%25a5%25e3%2583%25aa%25e3%2583%2586%25e3%2582%25a3%25e4%25ba%258b%25e6%2595%2585",
+      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12398;&#23566;&#20837;&#12434;&#36914;&#12417;&#12427;&#20013;&#12391;&#12289;&#22833;&#25943;&#20107;&#20363;&#12364;&#22810;&#12356;&#12392;&#12356;&#12358;&#24773;&#22577;&#12434;&#30446;&#12395;&#12375;&#12289;&#33258;&#31038;&#12399;&#22823",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-07-25T19:07:15",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/07/thumbnail-17.jpg",
+      "body_ja": "AIエージェントの導入を進める中で、失敗事例が多いという情報を目にし、自社は大丈夫かと不安になっている方は少なくないでしょう。\nAIエージェントの失敗には、セキュリティ事故やコスト超過など具体的な原因があり、事例を知ることで同じ失敗を避けられます。\n実際に起きた失敗事例を把握しないまま導入を進めると、想定外の事故や損失を招きかねません。\n本記事では、企業で実際に発生したAIエージェントの失敗事例4つと、そこから学べる回避のポイントを解説します。\n読み終える頃には、自社の導入計画に潜むリスクを具体的にイメージし、対策を講じられるようになります。\n目次\nAIエージェントの失敗事例はなぜ増えているのか\nAIエージェントの失敗事例は、暴走や逸脱行動の急増を背景に増えています。\nAI安全機関やシンクタンクの調査では、AIエージェントの暴走が疑われる報告件数が半年で約5倍に急増したことが明らかになっています。\n参考：AIエージェント暴走700件｜半年で5倍に急増した理由（Uravation）\n一方で"
+    },
+    {
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-07-25T16:00:00",
+      "title_ja": "図書館員は、ビッグテックにうんざりしている人々のために、話題の「AI の回避」ワークショップを主催しています",
+      "summary_ja": "全国各地の図書館で開催される「AI回避」ワークショップは、前例のない需要を呼び起こしている。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+      "body_ja": "「私の番組ではみんな携帯電話を使っています！」南フィラデルフィアの図書館司書チャーリー・ベイリーは冗談めかして言う。彼は、Apple Intelligence と Gemini を無効にする手順を説明するために、視聴者に携帯電話を取り出すように頼んだところです。\nベイリーは、子供向けに整備された図書館の教室の前に立っています。注目のポイントは、彼が立っている鮮やかな敷物で、M が「月」、Z が「シマウマ」を意味していることを思い出させます。しかし、20代"
+    },
+    {
+      "title": "AMD Ryzen 9×RTX 5090搭載PCも対象、最新BTOが最大14.7万円オフ",
+      "url": "https://ascii.jp/elem/000/004/421/4421877/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4504465/s/b392c391fe388c89.png\" width=\"60\" />セブンアールジャパンが運営するパソコンショップSEVENは、7月26日0:00から7月26日23:59までの24時間限定で「2026/7/26 24時間限定セール」を実施する。最新のゲーミングPCやデスクトップPC全10商品が対象で、最大147,000円オフ、送料無料で購入できる。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-25T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/24/4504465/s/b392c391fe388c89.png"
+    },
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-07-25T13:05:00",
+      "title_ja": "1 本の送電線の落下により、AI データセンターの問題が増大していることが明らかになりました。修正方法は次のとおりです。 |9月|バージニア州北部での危機一髪の結果、送電網の混乱に対するデータセンターの対応がいかに劣悪であるかが明らかになった。問題を解決する方法は次のとおりです。",
+      "summary_ja": "",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+      "body_ja": "今週、ワシントンDC郊外で送電線がダウンした。通常、グリッドはこのようなイベントから回復するのに数秒しかかかりません。しかし、3 ギガワットを超えるデータセンターがほぼ同時に電力供給を停止したため、この処理には 10 分以上かかりました。\nIoTセンサーネットワークを運用する新興企業Ting Labsが収集したデータによると、このイベントにより、バージニア北部からシカゴに至るPJM送電網の電圧が急上昇したという。"
+    },
+    {
+      "title": "メイドのご奉仕シーンで本領発揮！ 「NIKKE」のコスプレでも話題のまきほ、待望の1st DVDでグラビア活動開始",
+      "url": "https://ascii.jp/elem/000/004/420/4420778/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/20/4502909/s/c4e13bd2f4e26f8b.jpg\" width=\"60\" />コスプレイヤーとして活躍中の「まきほ」さんが、1st DVD「ナチュラルも恋して」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-25T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/20/4502909/s/c4e13bd2f4e26f8b.jpg"
+    },
+    {
+      "title": "奥浩哉『いぬやしき』｜機械の体を得てヒーローになるという中年男の夢を詰め込んだ全10巻が50%還元【Kindle漫画セール情報】",
+      "url": "https://ascii.jp/elem/000/004/421/4421990/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4504645/s/8d4840c38dc10c39.png\" width=\"60\" />奥浩哉センセイが描く「日常×SF」の傑作『いぬやしき』が、今なら全巻50%ポイント還元中。余命宣告された老人と、無差別殺人を繰り返す少年。同じ機械の体を手に入れた二人が選ぶ対極の運命とは!?</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-25T08:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/24/4504645/s/8d4840c38dc10c39.png"
+    },
+    {
+      "title": "ニンニクがごろごろ！ココス、100％ビーフの夏ハンバーグフェア",
+      "url": "https://ascii.jp/elem/000/004/421/4421414/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/22/4503786/s/3492c99b631c4e64.jpg\" width=\"60\" />ココスは7月31日から、「ビーフハンバーグステーキ ～ガーリック～」など全4品を販売します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-25T08:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/22/4503786/s/3492c99b631c4e64.jpg"
+    },
+    {
+      "title": "「日本経済新聞社」名古屋支社で crack執行役員・豊福⻯大が講演── 企業経営者が日経新聞を読む前に「やるべきこと」とは？",
+      "url": "https://ascii.jp/elem/000/004/422/4422240/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />「日本経済新聞社」名古屋支社で crack執行役員・豊福⻯大が講演── 企業経営者が日経新聞を読む前に「やるべきこと」とは？</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-25T07:53:38",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "東京ポイント、PayPayポイントへ交換可能に　7月27日から",
+      "url": "https://ascii.jp/elem/000/004/422/4422110/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4504928/s/33fc953ef37adbf0.png\" width=\"60\" />PayPayは7月24日、東京都公式アプリ「東京アプリ」で付与される東京ポイントをPayPayポイントに交換できる機能を発表した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-25T07:30:00",
+      "image_url": "https://ascii.jp/img/2026/07/24/4504928/s/33fc953ef37adbf0.png"
+    },
+    {
+      "title": "食べる？飲む？サンマルク新作「カフェ氷」が気になる！",
+      "url": "https://ascii.jp/elem/000/004/421/4421642/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/23/4504264/s/443e2edfbbd7f980.jpg\" width=\"60\" />サンマルクカフェは新デザートシリーズ「カフェ氷」（740円）を、神奈川県内の一部店舗にて7月24日から8月31日までの期間、数量限定で販売します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-25T07:30:00",
+      "image_url": "https://ascii.jp/img/2026/07/23/4504264/s/443e2edfbbd7f980.jpg"
+    },
+    {
+      "title": "株式会社Saix、社内マニュアルの作成・検索・教育・更新を一体化する「Saix AIマニュアル Studio」を発表",
+      "url": "https://ascii.jp/elem/000/004/422/4422237/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />株式会社Saix、社内マニュアルの作成・検索・教育・更新を一体化する「Saix AIマニュアル Studio」を発表</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-25T07:07:09",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "ガッツ、グリフィスのモデルになった人物とは？　ダークファンタジーの傑作『ベルセルク』全巻50%還元【Kindle漫画セール情報】",
+      "url": "https://ascii.jp/elem/000/004/422/4422165/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/01/4444240/s/38a3dbe065f68166.png\" width=\"60\" />ダークファンタジーの最高峰『ベルセルク』が全巻50%還元セール中。三浦健太郎の遺志を継いで連載再開、ガッツの苛烈な旅の終着点を見届ける覚悟があるなら今が好機！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-25T07:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/01/4444240/s/38a3dbe065f68166.png"
+    },
+    {
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-07-25T00:23:11",
+      "title_ja": "OpenAI の新しい AI キーパッドを試してみました。これは一部のプログラマーにとっては楽しいものですが、他の人にとっては少々不可解なものになるでしょう",
+      "summary_ja": "OpenAI の派手な新しい AI キーパッドは、一部の人にとっては非常に楽しいでしょうが、他の多くの人はおそらく触らないでしょう。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
+      "body_ja": "OpenAI は先週、最初のハードウェア、つまり ChatGPT とペアリングするために構築された派手な小さなキーパッドを発売しました。キーボード専門デザイナーの Work Louder と協力して開発された Micro は、本質的には職人技による職場のノベルティであり、多くのテクノロジー愛好家に気に入られるでしょうが、他の人は少し戸惑うかもしれません。\nOpenAI のハードウェア市場への参入は、ドラマなくしては実現しませんでした。数週間前、AppleはAIラボとACを訴えた"
+    },
+    {
       "title": "Anthropic、「Claude Opus 5」公開　Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
       "url": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
       "summary": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。",
@@ -12,8 +163,8 @@
       "body_ja": "米Anthropicは7月24日（現地時間）、最新版LLM「Claude Opus 5」を公開した。同社が6月に投入した最上位級モデル「Claude Fable 5」に迫る知能を、その半額の価格で提供すると謳う。同日から全プラットフォームで利用でき、Claude APIのモデル名は「claude-opus-5」。知識のカットオフは2026年5月だ。\n前世代「Claude Opus 4.8」の後継にあたる。個人向け有料プランでは、上位の「Claude Max」で新たに標準モデルとなり、「Claude Pro」では利用できる最上位モデルとなる（無料プランでは利用できない）。開発者向けのAPI価格は入力100万トークン当たり5ドル、出力100万トークン当たり25ドルで、Opus 4.8と同価格に据え置いた。推論の深さは「effort」パラメータで5段階に調整でき、知能を優先するか、トークンを節約して高速・安価に処理するかを選べる。既定値は「high」で、Claude APIではリクエストごとに"
     },
     {
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
       "source": "TechCrunch AI",
       "icon": "🤖",
@@ -22,27 +173,7 @@
       "title_ja": "プレンティス、リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボ、1億ドル調達交渉中 |9月|ネオラボは、日常的なコンピュータータスクの自動化が、AI の最大のユースケースとしてコーディングをすぐに上回るだろうと賭けている。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
-      "body_ja": "連続起業家のリタンカール・ダス氏とハイテク界の重鎮リード・ホフマン氏とマーク・ピンカス氏が共同設立した、コンピューター利用モデルに焦点を当てた新しいAI研究研究所プレンティスは、10億ドルの評価額で1億ドルを調達する交渉を行っていると、この議論に詳しい2人の関係者が明らかにした。\n4 月に設立された Prentis は、オフィス ワーカーがドキュメントやシステム全体で日常的なワークフローをどのようにナビゲートするかを学習するモデルをトレーニングしています。その目的は、AI エージェントを構築することです。"
-    },
-    {
-      "title": "Anthropic、「Claude Opus 5」発表　Fable 5級の性能を半額で",
-      "url": "https://ascii.jp/elem/000/004/422/4422202/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/25/4505242/s/7a6e6bda3088f32e.jpg\" width=\"60\" />Anthropicは7月24日、新AIモデル「Claude Opus 5」を発表した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T21:25:00",
-      "image_url": "https://ascii.jp/img/2026/07/25/4505242/s/7a6e6bda3088f32e.jpg"
-    },
-    {
-      "title": "NVIDIAジェンスン・ファンCEO、X初投稿で「オープンウェイトAI」支持を表明　25社・団体の共同書簡を公開",
-      "url": "https://ascii.jp/elem/000/004/422/4422201/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/25/4505241/s/2a940e65f6d783cc.png\" width=\"60\" />NVIDIAのジェンスン・ファンCEOは現地時間7月24日、自身初となるXへの投稿で、オープンウェイトAIモデルへの規制に慎重な対応を求める共同書簡を公開した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T21:15:00",
-      "image_url": "https://ascii.jp/img/2026/07/25/4505241/s/2a940e65f6d783cc.png"
+      "body_ja": "連続起業家のリタンカー・ダス氏とハイテク界の重鎮リード・ホフマン氏とマーク・ピンカス氏が共同設立した、コンピュータ利用モデルに焦点を当てた新しいAI研究研究所プレンティスは、10億ドルの評価額で1億ドルを調達する交渉を行っていると、この議論に詳しい2人の関係者が明らかにした。\n4 月に設立された Prentis は、オフィス ワーカーがドキュメントやシステム全体で日常的なワークフローをどのようにナビゲートするかを学習するモデルをトレーニングしています。その目的は、AI エージェントを構築することです。"
     },
     {
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
@@ -82,16 +213,6 @@
       "summary_ja": "Opus 5 は Fable よりも安価で制限も少ないため、ほとんどのユースケースで好まれると思われます。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
       "body_ja": "金曜日、Anthropic は、長年にわたって使用されてきたヘビーウェイト モデルの最新バージョンである Opus 5 モデルを発売しました。このモデルは Fable 5 よりも小さいですが、Fable よりも安価で制限も少ないため、ほとんどのユースケースで好まれると考えられます。\n特に、Opus 5 は、発表に含まれている多くのベンチマークで実際に Fable 5 を上回っています。\nOpus 5 は、5 月 28 日に利用可能になった Opus 4.8 からわずか 2 か月後にリリースされます。 Mythos 5、Fable 5"
-    },
-    {
-      "title": "天井から風、この価格ならアリ。山善の小型シーリングファンライトが5,980円",
-      "url": "https://ascii.jp/elem/000/004/422/4422198/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/06/25/4489091/s/5e607708d6381a56.jpg\" width=\"60\" />山善の「シーリングファンライト（FFLC-S60VR）」がAmazonタイムセール対象。過去価格6,480円のところ、8％オフの5,980円で販売中。天井付近の空気を循環させるファンに加え、人感センサーや導光板LEDを搭載。脱衣所やキッチンでの換気にも適したモデルだ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T17:00:00",
-      "image_url": "https://ascii.jp/img/2026/06/25/4489091/s/5e607708d6381a56.jpg"
     },
     {
       "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
@@ -146,16 +267,6 @@
       "body_ja": "ブルームバーグによると、LLMを利用した画像およびビデオジェネレーターで最もよく知られているAIラボであるMidjourneyが、ソーシャル占星術アプリのCo-Starを買収したという。契約条件は明らかにされていない。\nCo-Star は月間アクティブ ユーザー数が約 430 万人と伝えられており、主に占星術の出生図を決定するのに使用され、アプリ上で他の友人と共有できます。 Co-Star は AI と人間の両方を使用して星占いを作成し、互換性を備えています"
     },
     {
-      "title": "RTX 5080搭載PCも対象！ 7月25日限定で最大6万3000円引きセール",
-      "url": "https://ascii.jp/elem/000/004/421/4421875/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4504462/s/ae8cd6061944df18.png\" width=\"60\" />パソコンショップSEVENが7月25日限定で24時間セールを開催。最新ゲーミングPCやBTOデスクトップPCが最大6万3000円オフに。RTX 5080・RTX 5070 Ti搭載モデルなど対象10製品の価格や注目モデルを紹介します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/24/4504462/s/ae8cd6061944df18.png"
-    },
-    {
       "title": "OpenAI pushes ChatGPT into patient health records",
       "url": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
       "summary": "<p>OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can access it now on web and iOS, across the Free, Go, Plus, and Pro tiers. Users link Apple Health and, where supported,",
@@ -182,69 +293,6 @@
       "body_ja": "中国の AI ラボ Moonshot のオープン モデル Kimi が今週話題になりましたが、その理由はモデル自体とはあまり関係なく、米国の AI 業界の反応に関係していました。一方で、未リリースの OpenAI モデルがテスト環境の外をさまよって、最終的に Hugging Face での実際のセキュリティ侵害に結びつくことになりました。これは、「チャイナ リスク」だけが懸念に値する AI リスクではないことを思い出させます。\nTechCrunchの株式ポッドキャストのこのエピソードでは、"
     },
     {
-      "title": "どこかで見覚えがあるけど中身はXBOX系！ Hyperkinの有線XBOXコントローラーが9900円",
-      "url": "https://ascii.jp/elem/000/004/422/4422186/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4505129/s/95788db16a1a23bb.jpg\" width=\"60\" />Amazon.co.jpにて、HyperkinのXBOXコントローラー「Hyperkin The Competitor」が販売中だ。価格は9900円。PS系の配置でXBOXを遊びたいゲーマーに向けた一台。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T14:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/24/4505129/s/95788db16a1a23bb.jpg"
-    },
-    {
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-07-24T13:36:42",
-      "title_ja": "OpenAI の新しい音声モードが ChatGPT デスクトップ アプリに導入",
-      "summary_ja": "デスクトップ上の ChatGPT Voice は、ChatGPT Work と Codex の両方と連携してタスクを完了し、エージェントを制御できます。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-      "body_ja": "OpenAIは木曜日、ChatGPTデスクトップアプリをアップデートしてChatGPT Voiceのサポートを追加し、ユーザーがアプリに話しかけてAIエージェントを制御したり、コンピューター上でタスクを実行できるようにしたと発表した。\nこの新機能は、OpenAI が今月初めにリリースした ChatGPT-Live と呼ばれる音声モデルの新しいファミリーを活用しています。\nOpenAIによると、ChatGPT VoiceはChatGPT WorkとCodexの両方で動作し、コンピュータの使用スキルを活用してWebサイトやアプリを検索することもできるという。さらに、Macでは"
-    },
-    {
-      "title": "スマホゲームをガッツリ遊びたい人にオススメ！ 冷却ファン付きのスマホコントローラーが1万1182円",
-      "url": "https://ascii.jp/elem/000/004/422/4422180/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4505114/s/bed5064fa69f649e.jpg\" width=\"60\" />Amazon.co.jpにて、GameSirのスマホコントローラー「GameSir X3 Pro」が販売中だ。価格は1万1182円。背面の冷却ファン＆プレートがスマホの熱を抑えてくれる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T13:30:00",
-      "image_url": "https://ascii.jp/img/2026/07/24/4505114/s/bed5064fa69f649e.jpg"
-    },
-    {
-      "title": "Switch 2ユーザー必携！ 本体やアクセサリー、AirTagも収納できるBelkin製収納ケースが3620円",
-      "url": "https://ascii.jp/elem/000/004/422/4422177/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4505112/s/077b1200fada363f.jpg\" width=\"60\" />Amazon.co.jpにて、Belkinの「Nintendo Switch 2 収納ケース」が販売中だ。価格は3620円。本体のほか、AirTagやゲームカードも収納できる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T13:30:00",
-      "image_url": "https://ascii.jp/img/2026/07/24/4505112/s/077b1200fada363f.jpg"
-    },
-    {
-      "title": "ゲームも動画編集もOKなスペックが魅力！ メモリ32GB＆RTX 5060搭載のLenovo製15.6型ゲーミングノート",
-      "url": "https://ascii.jp/elem/000/004/422/4422166/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4505109/s/34d0f550a2816318.jpg\" width=\"60\" />Amazon.co.jpにて、Lenovoの15.6型ゲーミングノートPC「LOQ 15IRX10」が販売中だ。インテル「Core i7-14700HX」とNVIDIA「GeForce RTX 5060」を搭載したモデルで、価格は35万2800円。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/24/4505109/s/34d0f550a2816318.jpg"
-    },
-    {
-      "title": "eスポーツの高みを目指すなら。ゲーミングヘッドセット「Razer BlackShark V2」が1万2400円",
-      "url": "https://ascii.jp/elem/000/004/422/4422136/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4505090/s/dbb05daf7de1d501.jpg\" width=\"60\" />Amazon.co.jpにて、Razerのゲーミングヘッドセット「Razer BlackShark V2」が販売中だ。価格は1万2400円。装着感に定評がある一台だ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/24/4505090/s/dbb05daf7de1d501.jpg"
-    },
-    {
       "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
       "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement”&#160; When it comes to organ donation, time is everything. As soon as",
@@ -253,19 +301,9 @@
       "lang": "en",
       "published": "2026-07-24T12:10:00",
       "title_ja": "ダウンロード: 臓器移植の画期的な進歩と国産の中国チップ",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。過冷却された腎臓は、",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。過冷却された腎臓は、",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/270622_livercooling_v3.jpg?resize=1200,600",
       "body_ja": "ダウンロード: 臓器移植の画期的な進歩と国産の中国製チップ\nさらに、宇宙データセンターはまだ存在していませんが、人々はすでにそれに反対しています。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n過冷却された腎臓がブタに移植され、「画期的な成果」が得られた\n臓器提供に関しては時間がすべてです。臓器ができたらすぐに"
-    },
-    {
-      "title": "7月23日値下げを実施。RTX 3060 Ti搭載ゲーミングPCも対象、ドスパラ大決算「中古PC・パーツ大特価セール」",
-      "url": "https://ascii.jp/elem/000/004/422/4422127/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/07/4496413/s/d71bffabed362b5a.jpg\" width=\"60\" />ドスパラでは現在、「ドスパラ大決算！中古PC・パーツ大特価セール」を開催中。7月23日に一部対象商品の値下げを実施し、中古デスクトップPCやノートPC、PCパーツを特価販売している。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-24T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/07/4496413/s/d71bffabed362b5a.jpg"
     },
     {
       "title": "スーパーに並んだ「ごちゃごちゃ生成AIポップ」が物議　“看板王”こと、きぬた歯科院長「これはアリ」",
@@ -369,43 +407,6 @@
       "body_ja": "Microsoft、GitHub CopilotやExcelで自社AIに切り替えへ――OpenAIやAnthropicのモデルは「引き続き併用」\n米Microsoftは7月23日（現地時間）、GitHub CopilotとExcelで、自社開発AIモデル「MAI」シリーズの本番投入を進めていると発表した。これまで同社製品の中核で使ってきた米OpenAIや米Anthropicのモデルが担ってきたタスクの一部を、より小規模で低コストな自社モデルへ移行させる取り組みだ。\nGitHub Copilotでは、6月に投入した軽量のエージェント型コーディングモデル「MAI-Code-1-Flash」を既に数百万人の開発者が日常的に利用しているという。同社によると、VS Code上でのコード採用率は「GPT-5.4 Mini」や「Claude Haiku 4.5」より約10％高く、トークン消費量の中央値は約10％少ない。複数日にわたって使い続ける開発者の割合も、GPT-5.4 Mini比で6％、Clau"
     },
     {
-      "title": "AIは“声で操作”する時代に？　ChatGPTとClaude、相次ぎ音声機能を強化",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000218/",
-      "summary": "米OpenAIと米Anthropicが相次いで自社AIサービスの音声機能を強化した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-24T02:15:46",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2607/24/2000000218/10001066/2048",
-      "body_ja": "AIは“声で操作”する時代に？ ChatGPTとClaude、相次ぎ音声機能を強化（1/2 ページ）\n米OpenAIは7月23日（現地時間）、「ChatGPT」のデスクトップアプリに、音声でやりとりする機能を追加したと発表した。自律的にタスクをこなすAIエージェントサービス「ChatGPT Work」やAIコーディングツール「Codex」をリアルタイム音声で操作できるようになる。\n同機能のベースは、8日に発表したリアルタイム音声モデル「GPT-Live」。発話中にも相手の話を聞き取れるため、ユーザーがAIの会話に割り込む形で指示できるという。macOS・Windows版ともに、有料プラン「Plus」「Pro」「Business」「Edu」「Enterprise」のユーザー向けに展開する。\n米Anthropicも23日、「Claude」の音声モードを強化したと発表した。最上位のAIモデル「Fable 5」を除く全てのAIモデルと音声でやりとりできるようになり、会話の途中で接続済みの外部ツー"
-    },
-    {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-07-24T01:00:00",
-      "title_ja": "AI ガードレールが攻撃的なサイバーセキュリティ研究者の研究をどのように妨げているか",
-      "summary_ja": "未知の脆弱性を探し、それを悪用するツールを開発している数人のサイバーセキュリティ研究者に、OpenAI と Anthropic のガードレールがどのように影響するかについて話を聞きました。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
-      "body_ja": "AI 大手は何か月もの間、悪意のあるハッカーによる自社モデルの使用を制限するために、精査された特別なプログラムと厳格なガードレールを考案してきました。しかし、これらの制限は現在、攻撃的なサイバーセキュリティ研究者の作業だけでなく、正当なネットワーク防御者の作業も妨げています。\n6月、米国政府はAnthropicの大いに宣伝されたAIモデルMythosとFableに対して輸出管理制限を課した。この動きは、少なくとも部分的には次のように主張する報告書によって引き起こされた。"
-    },
-    {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-07-23T20:33:02",
-      "title_ja": "AMD が Helios AI ラックスケール システム",
-      "summary_ja": "で Nvidia に対抗AMDは、今年後半に顧客への出荷を開始する新しいラックスケールシステムで、チップメーカーのライバルに挑戦している。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
-      "body_ja": "チップメーカー AMD は、世界最大の AI ラボのコンピューティング ニーズに応えるために設計されたラックスケール システムの最新ハードウェア リリースで、競合他社である Nvidia に狙いを定めています。\n木曜日にサンフランシスコで満員となった同社のAdvancing AIカンファレンスで、AMDの会長兼最高経営責任者（CEO）のリサ・スー博士は、同社が今年後半に出荷を準備している中、Heliosとして知られる新しいAIラックシステムと、マイクロソフトを含む増え続ける顧客リストを宣伝した。スアル"
-    },
-    {
       "title": "AIエージェントは法務でどこまで使える？活用法と注意点を解説",
       "url": "https://ainow.ai/2026/07/24/278277/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25af%25e6%25b3%2595%25e5%258b%2599%25e3%2581%25a7%25e3%2581%25a9%25e3%2581%2593%25e3%2581%25be%25e3%2581%25a7%25e4%25bd%25bf%25e3%2581%2588%25e3%2582%258b%25ef%25bc%259f%25e6%25b4%25bb%25e7%2594%25a8%25e6%25b3%2595%25e3%2581%25a8",
       "summary": "<p>&#22865;&#32004;&#26360;&#12524;&#12499;&#12517;&#12540;&#12420;&#31038;&#20869;&#12363;&#12425;&#12398;&#27861;&#21209;&#30456;&#35527;&#23550;&#24540;&#12395;&#36861;&#12431;&#12428;&#12427;&#12394;&#12363;&#12289;&#12300;AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12301;&#12392;&#12356",
@@ -449,7 +450,7 @@
       "lang": "en",
       "published": "2026-07-23T12:10:00",
       "title_ja": "ダウンロード: エネルギー伝送と中国 AI に対する米国の脅威",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。再充電される可能性のある電力線",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。再充電される可能性のある電力線",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/NKT_CHPE-6_2.jpg?resize=1200,600",
       "body_ja": "ダウンロード: エネルギー伝送と中国 AI に対する米国の脅威\nさらに: OpenAI ハッキングがこれまでで最も恐ろしい AI 事故である理由。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nニューヨークの電力網を再構築する可能性のある送電線が行き詰まりを見せている\n7月3日の熱波の間、ニューヨーク州の送電網は総電力量の約9％を満たすのに十分な電力をカナダから輸入した"
     },
@@ -514,7 +515,7 @@
       "lang": "en",
       "published": "2026-07-22T12:10:00",
       "title_ja": "ダウンロード: NASA の新しい宇宙望遠鏡と OpenAI の自律型ハッカー",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。 NASAの形状変化ミラー",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。 NASAの形状変化ミラー",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/260708_RomanCoronagraph.gif?resize=1200,600",
       "body_ja": "ダウンロード: NASA の新しい宇宙望遠鏡と OpenAI の自律型ハッカー\nさらに: フランスは、15 歳未満に対するソーシャルメディアを禁止した最初の EU 加盟国となりました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nNASAの新しい宇宙望遠鏡の形状変化ミラーは、私たちの木星と同じように姿を現す可能性がある\nNASA のナンシー・グレース・ローマン宇宙望遠鏡が打ち上げられると、早くも"
     },
@@ -590,7 +591,7 @@
       "lang": "en",
       "published": "2026-07-21T12:10:00",
       "title_ja": "ダウンロード: 中国の AI がホワイトハウスを二分し、記録的な著作権支払い",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。中国のAIモデルにはトランプ大統領のAIモデルがある",
+      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。中国のAIモデルにはトランプ大統領のAIモデルがある",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/GettyImages-2194586709.jpg?resize=1200,600",
       "body_ja": "ダウンロード: 中国の AI がホワイトハウスを二分し、記録的な著作権料が支払われる\nさらに、Anthropic の記録的な 15 億ドルの著作権和解金が承認されました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n中国の AI モデルにより、トランプ大統領の AI 世界は自らと戦争状態にある\n先週末、AIに関するドナルド・トランプ大統領の現・元顧問数名が公の場でロビー活動を行った。"
     },
@@ -678,6 +679,16 @@
       "body_ja": "生成AIを導入したいものの、紹介される事例は大企業ばかりで、専任の情報システム部門もない自社にどう当てはめればいいかわからず、二の足を踏んでいませんか。\n実は意思決定の速さを強みにできる中小企業のほうが、生成AI導入で成果を出しやすいといえます。大企業のような稟議の手間がなく、小さく試してすぐに軌道修正できるためです。\n本記事では、中小企業が生成AI導入で失敗しないための5ステップと費用相場、使える補助金制度、実際の成功事例までを解説します。\n読み終える頃には、自社の予算・人員規模に合った現実的な導入計画を描き、補助金も活用しながら最初の一歩を迷わず踏み出せる状態になります。\n目次\n中小企業が生成AI導入で今すぐ動くべき理由\n中小企業の生成AI導入は、約8割がまだ本格着手していないのが実情です。今始めれば、この段階で先行者としての差別化を図れます。\n中小企業基盤整備機構が2026年3月に公表した実態調査によると、AIの導入率（全社導入と一部業務導入の合計）は20.4%にとどまります。検討"
     },
     {
+      "title": "普通のオーディオメーカーじゃできない！　スタジオエンジニアが“本気”で追い込んだワイヤレスイヤホン「NEXIEM Limited」の開発に迫る",
+      "url": "https://ascii.jp/elem/000/004/422/4422244/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/26/4505340/s/58241de630fb85ff.jpg\" width=\"60\" />　輸入代理店のエミライが自社ブランドで展開する完全ワイヤレスイヤホン「NEXIEM Limited Studio Master Edition」は「プロのエンジニアが音を作る」製品として企画された斬新なアプローチの製品だ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-07-13T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/26/4505340/s/58241de630fb85ff.jpg"
+    },
+    {
       "title": "プロンプトエンジニアリング研修おすすめ8選！失敗しない選び方も",
       "url": "https://ainow.ai/2026/07/13/278252/?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2583%2597%25e3%2583%25ad%25e3%2583%25b3%25e3%2583%2597%25e3%2583%2588%25e3%2582%25a8%25e3%2583%25b3%25e3%2582%25b8%25e3%2583%258b%25e3%2582%25a2%25e3%2583%25aa%25e3%2583%25b3%25e3%2582%25b0%25e7%25a0%2594%25e4%25bf%25ae%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%25818%25e9%2581%25b8%25ef%25bc%2581%25e5%25a4%25b1",
       "summary": "<p>&#12300;&#12503;&#12525;&#12531;&#12503;&#12488;&#12456;&#12531;&#12472;&#12491;&#12450;&#12522;&#12531;&#12464;&#30740;&#20462;&#12301;&#12391;&#26908;&#32034;&#12377;&#12427;&#12392;&#25968;&#21313;&#31038;&#12398;&#20505;&#35036;&#12364;&#34920;&#31034;&#12373;&#12428;&#12289;&#32080;&#23616;&",
@@ -698,19 +709,8 @@
       "published": "2026-07-11T15:49:39",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/07/thumbnail-8.jpg",
       "body_ja": "AIエージェントの導入を検討しているものの、自社の業務にどう当てはまるのか具体的なイメージを描けずにいる担当者は少なくありません。\nAIエージェントとは、生成AIと連携しながら目標達成に向けたタスクを自律的に実行するAIです。活用イメージが曖昧なまま検討を先送りにすれば、他社との業務効率の差は開く一方でしょう。\n本記事では、実在企業の取り組みをもとに、業務別・業界別のAIエージェント活用事例12選と、導入時の失敗パターン・成功のポイントを解説しています。読み終える頃には、自社のどの業務にAIエージェントを応用できるか、具体的なイメージを持てるようになります。\n自社の業務に置き換えながら、ぜひ最後までご覧ください。\n目次\nAIエージェントとは？生成AIとの違いをわかりやすく解説\n活用事例を理解する前提として、以下2つの視点でAIエージェントの基本を確認します。\n- AIエージェントの定義\n- 生成AIとの違い\nこの2点を押さえておくと、後述する事例の理解が深まります。\nAIエージェントの定"
-    },
-    {
-      "title": "AIエージェントで何ができる？できること・活用事例を解説",
-      "url": "https://ainow.ai/2026/07/12/278246/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bd%2595%25e3%2581%258c%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25ef%25bc%259f%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2581%2593%25e3%2581%25a8%25e3%2583%25bb%25e6%25b4%25bb%25e7%2594%25a8%25e4%25ba%258b",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12392;&#12356;&#12358;&#35328;&#33865;&#12434;&#32819;&#12395;&#12377;&#12427;&#27231;&#20250;&#12364;&#22679;&#12360;&#12383;&#12418;&#12398;&#12398;&#12289;&#29983;&#25104;AI&#12392;&#20309;&#12364;&#36949;&#12358;&#12398;&#12363;&#12434;&#355",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-07-11T15:11:13",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/07/thumbnail-7.jpg",
-      "body_ja": "AIエージェントという言葉を耳にする機会が増えたものの、生成AIと何が違うのかを説明できない担当者は少なくありません。具体的に何を任せられるのかがわからないまま、導入検討だけを任されているケースも見られます。\nAIエージェントとは、目標に対して自ら計画を立て、外部ツールと連携しながらタスクを自律的に実行するAIです。できること・仕組み・限界を、本記事で順を追って解説します。\n機能と限界を理解しないまま導入すると、期待した効果を得られず社内での評価を落としかねません。体系的に理解できれば、自社のどの業務に適用できるかを自分の判断で説明できるようになります。\n本記事では、AIエージェントができること5つ、業務・業界別の活用事例、種類、できないこと・限界までを解説しています。\n自社での導入判断に必要な情報を得るために、ぜひ最後までご覧ください。\n目次\nAIエージェントとは？仕組みと生成AIとの違い\nAIエージェントの基本を理解するために、以下3つの視点を確認します。\n- AIエージェントの仕組"
     }
   ],
-  "last_updated": "2026-07-25T07:59:31.676032+09:00",
+  "last_updated": "2026-07-26T07:52:13.445547+09:00",
   "count": 60
 }
