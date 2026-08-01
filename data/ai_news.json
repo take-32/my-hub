@@ -1,6 +1,180 @@
 {
   "articles": [
     {
+      "title": "OpenAI、アクティブユーザー10億人超に　導入企業は200万社超",
+      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
+      "summary": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投資の循環を強調した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-01T22:21:26",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/02/2000000346/10001712/2048",
+      "body_ja": "OpenAI、アクティブユーザー10億人超に 導入企業は200万社超\n米OpenAIは7月31日（現地時間）、同社のAIモデルのアクティブユーザーが10億人、導入企業が200万社をそれぞれ超えたと明らかにした。サラ・フライアーCFO（最高財務責任者）が「Building abundant intelligence」と題した公式ブログで公表したもので、前日に実施した「GPT-5.6」シリーズ2モデルの値下げ直後の公表となる。\nフライアー氏は、利用の幅も広がっており、登録から半年後のユーザーは1日当たりの送信メッセージ数が約50％増え、ChatGPTを使う仕事の種類も約2倍になるとしている。社内では、「Codex」を介したエージェント的な作業が週間出力トークンの99.8％を占めるという。\n「GPT-5.6 Luna」と「GPT-5.6 Terra」の値下げの原資となった効率化について、フライアー氏は推論の保持とコンテキスト管理を改善することで、ベンチマーク（ARC-AGI-3）でのSolのス"
+    },
+    {
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-01T20:26:04",
+      "title_ja": "判事、ミネソタ州による「裸化」アプリの禁止を阻止するxAIの要請を却下 |9月| xAIからの訴訟にもかかわらず、ユーザーが画像を「ヌード化」できるアプリに対するミネソタ州の禁止令は前進する可能性がある。",
+      "summary_ja": "",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+      "body_ja": "NBCニュースによると、xAIからの訴訟にもかかわらず、ユーザーが画像を「ヌード化」できるアプリに対するミネソタ州の禁止令は前進する可能性があるという。\n米国地方判事ドノバン・フランクの判決は、法律そのものの内容と同様に、xAIの訴訟のタイミングにも焦点を当てた。フランク氏は、xAIが一時的接近禁止命令の申請を提出したのは「2026年7月29日、法律が署名されてからほぼ3か月後、そして法律が発効するわずか3日前である」と書いている。"
+    },
+    {
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-01T19:45:45",
+      "title_ja": "YouTuber のハンク・グリーン氏、AI の使用は「健全ではない」と語る",
+      "summary_ja": "グリーン氏は「LLMとの交流から得られるドーパミンのレベルは、私にとっても世界にとっても良くない」と述べ、驚くべき謝罪を行った。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
+      "body_ja": "小説家、コメディアン、そしてチャンネル登録者数 320 万人の YouTuber であるハンク グリーン氏は、最近、AI チャットボットへの依存が高まっていることを視聴者に謝罪しました。\nこの論争は、教育チャンネル「Complexly」に投稿された動画の途中で、グリーン氏が「反発に感謝する」というフレーズを不自然に使用したことから始まり、視聴者は彼がチャットボットで台本を書き、その過程で誤ってその応答を含めてしまったのではないかと推測した。"
+    },
+    {
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-01T17:07:34",
+      "title_ja": "Sam Altman は今でも ChatGPT を通じて子育てについて主張しています",
+      "summary_ja": "OpenAI の CEO は、保護者向けに「クールな使用例」を共有することに興奮しているようでした。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+      "body_ja": "OpenAIの最高経営責任者（CEO）サム・アルトマン氏は金曜日、彼が「クールな使用例」と呼ぶものを共有することに興奮しているようで、親が同社の新製品ChatGPT Workに「家族のカレンダーを接続し、子供の興味を説明」し、「毎朝、学校へ向かう車の中で、その日の午後の子供のサッカーの試合、ある子供のもうすぐ誕生日、ニュースなどについて話すポッドキャストを作成させることができる」と投稿した。\nアルトマンの投稿は、仮想的に多くの注目を集めました。"
+    },
+    {
+      "title": "AIエージェントの作り方は3パターン！初心者向け実践5ステップを解説",
+      "url": "https://ainow.ai/2026/08/02/278291/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bd%259c%25e3%2582%258a%25e6%2596%25b9%25e3%2581%25af3%25e3%2583%2591%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e5%2590%2591%25e3%2581%2591",
+      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12392;&#12356;&#12358;&#35328;&#33865;&#12434;&#32819;&#12395;&#12377;&#12427;&#27231;&#20250;&#12364;&#22679;&#12360;&#12289;&#23455;&#38555;&#12395;&#12393;&#12358;&#20316;&#12427;&#12398;&#12363;&#12289;&#33258;&#20998;&#12395;&#12418;&#20316",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-08-01T17:00:21",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail.jpg",
+      "body_ja": "AIエージェントという言葉を耳にする機会が増え、実際にどう作るのか、自分にも作れるのか知りたいと考えている方は多いのではないでしょうか。\n作り方の選択を誤ると、必要以上の学習コストがかかったり、途中で挫折したりします。\n本記事では、ノーコード・ローコード・フルコードという3つの作り方の選び方診断から、Difyを使った実践ステップ、費用相場までを解説しています。\n読み終える頃には、自分に合った作り方を判断でき、実際に動くAIエージェントを完成させる準備が整うでしょう。まずは自分に合う作り方から確認していきましょう。\n【選び方診断】AIエージェントの作り方は3パターン\nAIエージェントの作り方には、開発の自由度に応じて3つのパターンがあります。\n- ノーコード：プログラミング知識なしで作る方法\n- ローコード：一部の設定や簡易な実装を組み合わせる方法\n- フルコード：Pythonなどのプログラミング言語で自由に開発する方法\n自分の目的とスキルレベルに合わない方法を選ぶと、開発が思うように進ま"
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-01T15:58:17",
+      "title_ja": "この 9 ドルのキーは、最も中毒性の高いアプリを物理的にロックします",
+      "summary_ja": "この 9 ドルの NFC キーを使用するには、携帯電話上の邪魔なアプリのロックを解除するには、物理​​的にスキャンする必要があります。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200",
+      "body_ja": "スクリーンタイム アプリは、最終的には自分の意志の力に依存するため、多くの人にとって効果的ではありません。スクロールを停止するよう通知したり、タイマーを設定したりするよう通知しますが、このような通知は無視しやすいものです。\nAutonomous Key は、単に物理デバイスであるという点で、この問題に対して異なるアプローチを採用しています。これは、コンパニオン アプリとペアリングして、気が散るアプリをロックできる NFC キーです。したがって、ボタンをタップしてブロックをバイパスする代わりに、phy する必要があります。"
+    },
+    {
+      "title": "RTX 5060・RTX 5070 Ti搭載PCがお得　パソコンショップSEVEN限定セール実施",
+      "url": "https://ascii.jp/elem/000/004/423/4423439/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/30/4507407/s/973c83a5ac4c9cc8.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、8月2日0:00から23:59まで『2026/8/2 24時間限定セール』を開催。最大51,000円オフで最新ゲーミングPCやデスクトップPCを全10商品販売する。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/30/4507407/s/973c83a5ac4c9cc8.png"
+    },
+    {
+      "title": "初挑戦で初優勝！ 現役女性歯科医ドライバーが挑んだ極限の北海道グラベルラリー",
+      "url": "https://ascii.jp/elem/000/004/424/4424100/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/01/4508152/s/f01221ccc576157e.jpg\" width=\"60\" />平日は歯科医師、週末はラリードライバーの及川紗利亜選手による全日本ラリー「ラリー・カムイ」参戦記。初の本格グラベル挑戦に向け、伝説的ドライバーの指導や走り込みで成長。本番は雨の悪路に苦しむも見事完走し女性クラス優勝！チームダブルタイトルも達成しました。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/01/4508152/s/f01221ccc576157e.jpg"
+    },
+    {
+      "title": "Core Ultra X7・最大50TOPS搭載。24時間動く16型OLEDノート「Acer Swift 16 AI」",
+      "url": "https://ascii.jp/elem/000/004/423/4423700/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/31/4507635/s/6b7023af1d60e976.jpg\" width=\"60\" />AcerのノートPC「Acer Swift 16 AI」がAmazonタイムセール対象。317,980円で販売中。約24時間駆動と16インチ2.8K OLEDディスプレイを備え、Core Ultra X7 358Hプロセッサーと最大50TOPSのAI性能にも対応したCopilot+ PC。大画面でも持ち運びやすさを重視したい人には見逃せないモデルだ。</p><br c",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/31/4507635/s/6b7023af1d60e976.jpg"
+    },
+    {
+      "title": "さよならMAZDA2。消えゆくマツダの看板小型車は「今こそ買うべき最強のホットハッチ」だった",
+      "url": "https://ascii.jp/elem/000/004/424/4424119/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/01/4508174/s/1e6ee8656c80c863.jpg\" width=\"60\" />年内で国内生産終了となるマツダ「MAZDA2」のスポーティグレード「15 SPORT+ 4WD」の試乗レビューです。約250万円という軽自動車並みの低価格ながら、上質な内装や電動シートを装備。1.5L自然吸気と6速ATがもたらす熱い走りが魅力の、今買うべき傑作コンパクトです。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/01/4508174/s/1e6ee8656c80c863.jpg"
+    },
+    {
+      "title": "「制服ルーズの高校生やスーツ姿のOLを演じました」22歳の新星・一ノ瀬みうるが1st DVDで七変化！",
+      "url": "https://ascii.jp/elem/000/004/423/4423160/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/29/4507063/s/6454d8dbad4c9d48.jpg\" width=\"60\" />剣道・水泳・クラシックバレエで鍛えたメリハリボディーが魅力の一ノ瀬みうるさんが、1st DVD「はじめての誘惑」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/29/4507063/s/6454d8dbad4c9d48.jpg"
+    },
+    {
+      "title": "3万8000円引きなら話が変わる。史上最薄「iPhone Air」が13万9800円",
+      "url": "https://ascii.jp/elem/000/004/422/4422943/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/29/4506759/s/72891eee775977ee.jpg\" width=\"60\" />Appleのスマートフォン「iPhone Air 256GB（SIMフリー）」がAmazonタイムセール対象。参考価格177,800円のところ、21％オフの139,800円で販売中。史上最薄のiPhoneとして、6.5インチのSuper Retina XDRディスプレーやA19 Proチップを搭載。この値下げなら、選択肢に入れやすい。</p><br clear=\"le",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/29/4506759/s/72891eee775977ee.jpg"
+    },
+    {
+      "title": "このスマホクーラー、めっちゃ賢い。ただ冷やすんじゃない、勝手に“最適な冷やし方”をしてくれるんだ！",
+      "url": "https://ascii.jp/elem/000/004/421/4421706/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4504691/s/cf9e3a86295a2263.jpg\" width=\"60\" />最大30W出力の大型ペルチェ素子による冷却性能と、3つの温度センサーで温度を自動制御するスマホクーラー「B9X」があれば、高負荷ゲームもド安定です！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/24/4504691/s/cf9e3a86295a2263.jpg"
+    },
+    {
+      "title": "【鬼コスパ】5500円で遅延ゼロでハイレゾ＆ノイキャンの有線イヤホン「HP-NE30C」を実際に着けてみたけど有能すぎた",
+      "url": "https://ascii.jp/elem/000/004/423/4423920/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/31/4507818/s/28e5333de5d54d8e.jpg\" width=\"60\" />大事なビデオ会議やゲーム中の完全ワイヤレスのバッテリー切れや接続トラブルは避けたいもの。ラディウスの「HP-NE30C」は安心安全な有線接続でノイキャン＆ハイレゾ対応でお値打ちな、隠れた逸品です！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T08:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/31/4507818/s/28e5333de5d54d8e.jpg"
+    },
+    {
+      "title": "完全メシ新作「ガパオ」！ アジアン気分×栄養バランス、これは気になる",
+      "url": "https://ascii.jp/elem/000/004/422/4422856/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/28/4506542/s/0c8dd4ee7bbb4d88.jpg\" width=\"60\" />日清食品は8月10日、「完全メシ ガパオ風ライス」を発売します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T08:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/28/4506542/s/0c8dd4ee7bbb4d88.jpg"
+    },
+    {
+      "title": "紙の教材を、すぐにデジタル教材に変える「もじソナ(R)」。無料教材＆デジタルギフトをプレゼントする『もじソナチャレンジ』を開始！",
+      "url": "https://ascii.jp/elem/000/004/424/4424146/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />紙の教材を、すぐにデジタル教材に変える「もじソナ(R)」。無料教材＆デジタルギフトをプレゼントする『もじソナチャレンジ』を開始！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-01T07:45:14",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -14,26 +188,6 @@
       "body_ja": "OpenAI のエージェントの 1 人がサンドボックス化されたテスト環境から侵入し、AI ホスティング プラットフォーム Hugging Face のハッキングを開始したという事件については多くのことが報じられています。 OpenAIはその後、事件がどのように発生したのかについて調査を開始しており、現在も調査が続いている。\n現在、匿名の情報筋がロイターに語ったところによると、OpenAIのエージェントの多くがサンドボックスから脱出したと考えられているという。しかし、ある情報源は深刻さを軽視し、次のように述べています。"
     },
     {
-      "title": "【今日から】最大4万円分お得な「PayPay商品券」キャンペーン　2026年8月受付開始分",
-      "url": "https://ascii.jp/elem/000/004/423/4423948/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/31/4507861/s/fed5dd666b328d56.png\" width=\"60\" />PayPayでお得に買い物ができる「プレミアム付きデジタル商品券」。この記事では2026年8月受付開始分の自治体をご紹介します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T22:40:00",
-      "image_url": "https://ascii.jp/img/2026/07/31/4507861/s/fed5dd666b328d56.png"
-    },
-    {
-      "title": "【今日から】最大30％ポイント還元！PayPay自治体キャンペーン 2026年8月開始分",
-      "url": "https://ascii.jp/elem/000/004/423/4423945/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/31/4507848/s/3aa4621cdce28f70.png\" width=\"60\" />PayPayのポイント還元率が大幅アップする「あなたのまちを応援プロジェクト」。この記事では2026年8月開始分の参加自治体を紹介します。\n\n</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T22:30:00",
-      "image_url": "https://ascii.jp/img/2026/07/31/4507848/s/3aa4621cdce28f70.png"
-    },
-    {
       "title": "India is starting to pay for apps, not just download them",
       "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
       "summary": "India's app market generated a record $345 million in Q2.",
@@ -44,7 +198,7 @@
       "title_ja": "インドはアプリをダウンロードするだけでなく、アプリに対しても支払いを開始しています |9月|インドのアプリ市場は、第 2 四半期に記録的な 3 億 4,500 万ドルを生み出しました。",
       "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
-      "body_ja": "長年にわたり、インドは世界最大のアプリダウンロード市場でしたが、お金を稼ぐのが最も難しい場所の一つでした。インドの消費者が AI、エンターテイメント、その他のプレミアム アプリへの支出を増やすにつれて、この状況は変わり始めています。\nSensor Tower の新しいレポートによると、インドのモバイルアプリ市場は、今年第 2 四半期に記録的な 3 億 4,500 万ドルの消費支出を生み出し、前年比 35% 増加しました。アプリ市場インテリジェンス会社によると、利益は次のとおりです"
+      "body_ja": "長年にわたり、インドは世界最大のアプリダウンロード市場でしたが、お金を稼ぐのが最も難しい場所の一つでした。インドの消費者が AI、エンターテイメント、その他のプレミアム アプリへの支出を増やすにつれて、この状況は変わり始めています。\nSensor Tower の新しいレポートによると、インドのモバイルアプリ市場は、今年第 2 四半期に前年同期比 35% 増の 3 億 4,500 万ドルの記録的な消費支出を生み出しました。アプリ市場インテリジェンス会社によると、利益は次のとおりです"
     },
     {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
@@ -70,7 +224,7 @@
       "title_ja": "AI にブレーキをかけたいと考えているのはサム アルトマンだけではありません",
       "summary_ja": "何年にもわたって AI を全速力で推進してきましたが、OpenAI CEO のサム アルトマン氏は、「AI 業界もそろそろペースを合わせる時期が来たのかもしれない」と述べています。コメントは数日で届きました",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-      "body_ja": "OpenAI CEO のサム・アルトマン氏は、何年にもわたって AI を全速力で推進してきましたが、AI 業界もそろそろ「ペースを合わせる」時期が来たのかもしれないと語ります。このコメントは、OpenAI 自身のモデルの 1 つがテスト環境から抜け出して、Hugging Face の侵害に巻き込まれた数日後に出されたものだが、Equity の主催者が指摘しているように、ずさんなセキュリティがモデルそのものと同じくらい大きな責任を負っていたようだ。そして、この立場にいるのはアルトマンだけではありません。OpenAI と Anthropic の両方です。"
+      "body_ja": "OpenAI CEO のサム・アルトマン氏は、何年にもわたって AI を全速力で推進してきましたが、AI 業界もそろそろ「ペースを合わせる」時期が来たのかもしれないと述べています。このコメントは、OpenAI 自身のモデルの 1 つがテスト環境から抜け出して、Hugging Face の侵害に巻き込まれた数日後に出されたものである。ただし、Equity の主催者が指摘しているように、ずさんなセキュリティもモデル自体と同じくらい大きな責任を負っていたようだ。そして、この立場にいるのはアルトマンだけではありません。OpenAI と Anthropic の両方です。"
     },
     {
       "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
@@ -81,7 +235,7 @@
       "lang": "en",
       "published": "2026-07-31T16:49:08",
       "title_ja": "Snapchat は完全に AI で生成された Spotlight コンテンツに報酬を提供しなくなりました",
-      "summary_ja": "Snapchatは、AIの失策に対抗する姿勢で、実際の人間が作成した動画のみがSpotlightのレコメンデーションの対象となるようレコメンデーションシステムを調整した。",
+      "summary_ja": "Snapchatは、AIの失策に対抗する姿勢をとって、実際の人間が作成した動画のみがSpotlightレコメンデーションの対象となるようレコメンデーションシステムを調整した。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
       "body_ja": "Snapchat は、AI のスロップに対する姿勢を強化している最新の企業です。ソーシャル ネットワーク プラットフォームは、人間が作成したコンテンツを優先するため、完全に AI で生成されたビデオには報酬を与えなくなります。\nSnapchatは金曜日にこのアップデートを発表し、実際の人々が作成した動画のみがSpotlightレコメンデーションの対象となるようレコメンデーションシステムを調整すると述べた。\nSnapchatはブログ投稿で、Spotlightに次のことを望んでいると表明した。"
     },
@@ -97,138 +251,6 @@
       "summary_ja": "Apple CEOのティム・クック氏は、ユーザーがAppleの既存のiCloud+サブスクリプションを通じてSiri AI用のコンピューティングをさらに購入できるようになると構想している。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
       "body_ja": "AppleのCEOとしての最後の決算会見で、ティム・クック氏は、同社の待望のSiri AIアップグレードには、ペイウォールによる制限が課せられる可能性があると述べた。クック氏は、これらの計画が固まっていないことを認めながらも、拡張クラウドストレージを提供する既存の iCloud+ サブスクリプションを通じて、ユーザーが Siri AI 用のコンピューティングをさらに購入できるようになると構想している。\n「（Siri AIを）たくさん使いたい人がいると信じているので、何らかのアップグレードを行うつもりです」"
-    },
-    {
-      "title": "インテルの新CPU「Arc G3 Extreme」搭載の8.8型3in1ポータブルPC「OneXPlayer 3」発表",
-      "url": "https://ascii.jp/elem/000/004/423/4423592/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/30/4507501/s/dbd330e344d84bba.png\" width=\"60\" />天空はOne-Netbook Technology社が開発した、最新の「インテル Arc G3 Extreme」プロセッサを搭載するポータブルゲーミングPC「OneXPlayer 3 国内正規版」を発表しました</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T16:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/30/4507501/s/dbd330e344d84bba.png"
-    },
-    {
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-07-31T15:16:17",
-      "title_ja": "SpaceX はあと 1 年間は xAI の許可されていないタービンをすべて撤去しない |9 月| SpaceXはxAIのColossusデータセンター用に新しい発電所を建設しているが、許可されていない既存のタービンはあと数カ月は撤去されない。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2229759174.jpg?resize=1200,757",
-      "body_ja": "スペースXは木曜日、恒久的な1.2ギガワットの天然ガス発電所への移行に伴い、メンフィス近郊のxAIデータセンターに電力を供給している未許可のタービンを撤去すると発表した。\nただし、タービンは 2027 年 7 月まで完全に撤去されない予定です。 SpaceXは、現在Colossusデータセンターに電力を供給するために69台のガスタービンを稼働させており、そのうちの多くは数カ月間稼働していると述べた。 NAACPと南部環境法センターはxAを告訴した"
-    },
-    {
-      "title": "OpenAI aligns safety practices with EU AI Act’s GPAI Code",
-      "url": "https://www.artificialintelligence-news.com/news/openai-aligns-safety-practices-with-eu-ai-act-gpai-code/",
-      "summary": "<p>OpenAI has outlined how it aligns safety, security, and transparency work with the EU AI Act&#8217;s GPAI Code as enforcement approaches. The company has contributed to and endorsed the EU&#8217;s General-Purpose AI (GPAI) Code of Practice and the Code of Practice on Transparency of AI-Generated ",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-31T15:04:25",
-      "title_ja": "OpenAI は安全慣行を EU AI 法の GPAI コードと整合させます",
-      "summary_ja": "OpenAI は、施行に向けて安全性、セキュリティ、透明性の取り組みを EU AI 法の GPAI コードとどのように連携させるかを概説しました。当社はこれに貢献し、支持しています。",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/openai-eu-ai-act-gpai-code-europe-governance-regulation-artificial-intelligence-safety-transparency-law.jpg",
-      "body_ja": "OpenAI は、施行に向けて安全性、セキュリティ、透明性の取り組みを EU AI 法の GPAI コードとどのように連携させるかを概説しました。\n同社は、EU の汎用 AI (GPAI) 実践規範および AI 生成コンテンツの透明性に関する実践規範に貢献し、これを支持しています。どちらも複数の関係者によるプロセスから生まれました。\nGPAI コードは、販売または販売される汎用モデル全体に​​わたって、透明性、安全性、セキュリティに対する共通の基準を設定します。"
-    },
-    {
-      "title": "BTOゲーミングPCが最大13万6000円オフ　パソコンショップSEVENの24時間限定セール",
-      "url": "https://ascii.jp/elem/000/004/423/4423438/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/30/4507398/s/545dfbbc3ec5b3a3.png\" width=\"60\" />セブンアールジャパンが運営するパソコンショップSEVENは、8月1日に24時間限定セールを実施する。最新のゲーミングPCやデスクトップPCを最大136,000円オフで販売し、対象は全10商品。代表例としてZEFT R65XP、ZEFT Z55EKC、ZEFT R66Aがあり、特設ページと各製品ページから購入できる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/30/4507398/s/545dfbbc3ec5b3a3.png"
-    },
-    {
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-07-31T14:47:11",
-      "title_ja": "Smallest.ai が、本物の人間のように聞こえる超高速音声 AI を構築するために 1,300 万ドルを調達",
-      "summary_ja": "このスタートアップは、AI 通話がチューリング テストに合格するように設計された音声モデルを構築しています。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Smallest-AI-Founders.jpg?resize=1200,927",
-      "body_ja": "AI エージェントはカスタマー サポートの問題を解決できる能力がますます高まっていますが、ほとんどの人は依然として、人間ではなく機械と話していることをすぐに判断できます。\n2024 年後半に設立された新興企業 Smallest.ai は、音声エージェントの次の飛躍は、大規模な言語モデルの高速化ではなく、人間の会話用に構築された小規模で特化したモデルの使用によってもたらされると賭けています。簡単に言えば、同社は AI エージェントとの会話を実現したいと考えています。"
-    },
-    {
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-07-31T14:00:00",
-      "title_ja": "AI 研究所はブレーキをかけたいと考えていますが、Amazon と SpaceX は依然として爆発を続けています",
-      "summary_ja": "何年にもわたって AI を全速力で推進してきましたが、OpenAI CEO のサム アルトマン氏は、「AI 業界もそろそろペースを合わせる時期が来たのかもしれない」と述べています。コメントは数日で届きました",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198164456.jpg?resize=1200,801",
-      "body_ja": "OpenAI CEO のサム・アルトマン氏は、何年にもわたって AI を全速力で推進してきましたが、AI 業界もそろそろ「ペースを合わせる」時期が来たのかもしれないと語ります。このコメントは、OpenAI 自身のモデルの 1 つがテスト環境から抜け出して、Hugging Face の侵害に巻き込まれた数日後に出されたものだが、Equity の主催者が指摘しているように、ずさんなセキュリティがモデルそのものと同じくらい大きな責任を負っていたようだ。そして、この立場にいるのはアルトマンだけではありません。OpenAI と Anthropic の両方です。"
-    },
-    {
-      "title": "暑なのにエアコンがない！ 工事不要スポットクーラーが3万3214円",
-      "url": "https://ascii.jp/elem/000/004/424/4424091/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/05/28/4473829/s/36d52e36c28be559.jpg\" width=\"60\" />エアコン工事の日程を待たずに導入できる、タンスのゲンのスポットクーラーがAmazonでセール中です。窓パネルや排熱ダクトが付属し、参考価格3万4999円から5％オフの3万3214円で販売されています。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T13:30:00",
-      "image_url": "https://ascii.jp/img/2026/05/28/4473829/s/36d52e36c28be559.jpg"
-    },
-    {
-      "title": "最大10万ポイント還元。RTX 5060搭載PCも対象、ドスパラ「真夏のポイント還元祭」",
-      "url": "https://ascii.jp/elem/000/004/424/4424072/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/31/4508052/s/102bc28f4ba5ff2f.jpg\" width=\"60\" />ドスパラでは現在、「真夏のポイント還元祭」を開催中。期間中、対象パソコンを購入してキャンペーンにエントリーすると、最大100,000円分のドスパラポイントが必ずもらえる。ゲーミングPCやクリエイターPC、スタンダードPCなど幅広いモデルが対象となる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T13:30:00",
-      "image_url": "https://ascii.jp/img/2026/07/31/4508052/s/102bc28f4ba5ff2f.jpg"
-    },
-    {
-      "title": "2万円未満ってマジか!? 240Hz・0.5msのDell製23.8型ゲーミングディスプレーがタイムセールでよりお安く",
-      "url": "https://ascii.jp/elem/000/004/424/4424014/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/31/4507924/s/49ad8b4525e03413.jpg\" width=\"60\" />Amazon.co.jpにて、Dellの23.8型フルHDゲーミングディスプレー「SE2426HG」が販売中だ。参考価格は1万7980円だが、タイムセールにより17％オフの1万4980円で購入できる（7月31日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/31/4507924/s/49ad8b4525e03413.jpg"
-    },
-    {
-      "title": "13.3型ノート「FMV WU8-K3」が特別価格。タブレットにもなる2in1ノートPC！",
-      "url": "https://ascii.jp/elem/000/004/423/4423595/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/30/4507509/s/bd1729027601acd8.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/30/4507509/s/bd1729027601acd8.png"
-    },
-    {
-      "title": "特別価格の17万円台！ FMVの13.3型ノートPC「FMV WC1-K1」が直販サイトでお買い得！",
-      "url": "https://ascii.jp/elem/000/004/423/4423591/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/30/4507497/s/bace433fc12d5514.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/30/4507497/s/bace433fc12d5514.png"
-    },
-    {
-      "title": "Core Ultra搭載ノートPCが特別価格で手に入る。FMV Storeが期間限定「サマーセール」実施中！",
-      "url": "https://ascii.jp/elem/000/004/423/4423574/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/30/4507473/s/5b0bf3a8d1f9e541.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-07-31T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/30/4507473/s/5b0bf3a8d1f9e541.png"
     },
     {
       "title": "The Download: Montana’s new experimental drug rules",
@@ -265,7 +287,7 @@
       "title_ja": "モンタナ州の新しい「裁判の権利」法は、一部の地域ではすぐには施行されない",
       "summary_ja": "クリス・デボールトは必死だ。彼の息子、ブロディは 2023 年 3 月に生まれました。彼が発達遅延の兆候を示し始めるまでにそれほど時間はかかりませんでした、とデボールト氏は言います。時間が経つにつれ、ブロディがスタート",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/image6.jpg?resize=1200,600",
-      "body_ja": "モンタナ州の新しい「裁判の権利」法は、一部の人にとってはすぐには実現できない\nクリス・デヴォールの幼児は稀な遺伝性疾患を患っています。彼は、臨床試験がまだ行われていないにもかかわらず、実験薬を試してみたいと考えています。\nクリス・デボールトは必死だ。\n彼の息子、ブロディは 2023 年 3 月に生まれました。彼が発達遅延の兆候を示し始めるまでにそれほど時間はかかりませんでした、とデボールト氏は言います。時間が経つにつれて、ブロディはスピーチ、動き、そしてコーディネートの重要なマイルストーンを逃し始めました"
+      "body_ja": "モンタナ州の新しい「裁判の権利」法は、一部の人にとってはすぐには実現できない\nクリス・デヴォールの幼児は稀な遺伝性疾患を患っています。彼は臨床試験を経ていないにもかかわらず、実験薬を試してみたいと切望しています。\nクリス・デボールトは必死だ。\n彼の息子、ブロディは 2023 年 3 月に生まれました。彼が発達遅延の兆候を示し始めるまでにそれほど時間はかかりませんでした、とデボールト氏は言います。時間が経つにつれて、ブロディはスピーチ、動き、そしてコーディネートの重要なマイルストーンを逃し始めました"
     },
     {
       "title": "「9カ月かかる作業を3日に短縮」　IBM、レガシー刷新ワークフローをIBM Bobに追加",
@@ -356,30 +378,6 @@
       "body_ja": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走\nスクウェア・エニックスが、ゲームの品質を検証するQAテストの自動化に米GoogleのAI「Gemini」を活用している。同社の荒牧岳志氏（AI＆エンジン開発ディビジョン ジェネラル・マネージャー）が7月30日、「Google Cloud Next Tokyo '26」の基調講演で披露した。AIがゲーム画面を見て状況を把握し、コントローラーを自動で操作。検証作業を自ら考えて進めるという。\n講演ではゲームの自動プレイ動画を公開。テストのタスクに沿ってAIが自らゲーム内の地図を開いて場所を確認し、キャラクターを動かして検証を進めた。画面にはAIの思考過程やタスクリストも表示された。\n開発基盤としてGoogle Cloudの「Gemini Enterprise Agent Platform」（旧「Vertex AI」）を採用。荒牧氏によれば、GoogleのマルチモーダルAIが既にゲーム開"
     },
     {
-      "title": "Google、ロボット向けAI「Gemini Robotics 2」発表　ヒューマノイドの全身制御や指先作業を実現",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000320/",
-      "summary": "GoogleとGoogle DeepMindは、ロボット向けAIモデル群「Gemini Robotics 2」を発表した。全身制御や指先での微細な作業、複数ロボットの連携に対応する。高次の脳として機能する推論モデル「ER 2」や軽量VLAモデルを含み、安全性評価の新ベンチマーク「ASIMOV-Agentic」も公開した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-31T01:27:51",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2607/31/2000000320/10001553/2048",
-      "body_ja": "Google、ロボット向けAI「Gemini Robotics 2」発表 ヒューマノイドの全身制御や指先作業を実現\n米Googleと同社傘下のGoogle DeepMindは7月30日（現地時間）、ロボット向けAIモデル群「Gemini Robotics 2」を発表した。ヒューマノイドロボットの全身制御、指先を使った細かい作業、複数ロボットの連携に対応したとしている。\n3つのモデルで構成する。「Gemini Robotics 2」は視覚と言語の入力をモーター制御に変換するVLA（Vision-Language-Action）モデルで、ヒューマノイドを足先から指先まで制御できる。「Gemini Robotics ER 2」はロボットの「高次の脳」として機能する身体化推論（embodied reasoning）モデルで、人間との対話、物理世界の理解、数分間に及ぶ複数ステップのタスク計画を担う。「Gemini Robotics On-Device 2」はロボット本体上でローカル実行する軽量VL"
-    },
-    {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-07-31T01:06:54",
-      "title_ja": "Anthropic は、セキュリティ テスト中に自社の AI モデルが 3 社に侵入したと発表",
-      "summary_ja": "OpenAI のモデルが Hugging Face に侵入した後、Anthropic は自身の履歴を確認し、同様のインシデントを 3 件発見しました。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-      "body_ja": "Anthropicは木曜日、同社のAIモデル「Claude」がサイバーセキュリティテストを実施中に3つの組織のシステムに侵入した3件の事件が内部調査で判明したと発表した。この調査と公表は、OpenAIが自社の未発表モデルの1つが内部テスト中にHugging Faceのシステムに侵入したことを明らかにしてから1週間以上後に行われた。\n3 つのケースすべてで、クロード モデルはテスト環境内からインターネットに到達しました。"
-    },
-    {
       "title": "Montana’s plan to become an experimental medical hub just pushed forward",
       "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
       "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once ",
@@ -417,32 +415,6 @@
       "body_ja": "ダウンロード: LLM を騙し、地熱発電所を復活させる\nさらに、米国政府はルンバを禁止したばかりです。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n根本的な欠陥により、LLM は攻撃に対して著しく脆弱になります\n研究チームによると、大規模な言語モデルをハッキングから完全に保護することは、その仕組みに根本的な欠陥があるため不可能である"
     },
     {
-      "title": "Zuckerberg details Meta’s personal AI superintelligence strategy",
-      "url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-      "summary": "<p>Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement. It contains no release dates, no benchmark figures, no na",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-30T11:12:11",
-      "title_ja": "ザッカーバーグ氏、メタの個人的な AI スーパーインテリジェンス戦略について詳しく説明",
-      "summary_ja": "マーク・ザッカーバーグ氏はWSJの論説で、スーパーインテリジェンスは一部の機関だけでなく個人に到達する必要があると主張した。メタチーフは政治家として記事を公開した",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/meta-personal-ai-superintelligence-strategy-mark-zuckerberg-open-source-models-safety-security-governance-artificial-intelligence-law.jpg",
-      "body_ja": "マーク・ザッカーバーグ氏はWSJの論説で、スーパーインテリジェンスは一部の機関だけでなく個人に到達する必要があると主張した。\nメタ責任者は、製品の発表ではなく、企業理念の表明としてこの記事を公開した。これには、リリース日、ベンチマーク数値、名前付きモデルは含まれていません。そこに含まれているのは、業界が直面している中心的な問題は、スーパーインテリジェンスが到来するかどうかではなく、誰があなたに到達するかであるという主張です。"
-    },
-    {
-      "title": "How AI is Changing Linux VPS Security for Businesses",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
-      "summary": "<p>Cybersecurity wasn&#8217;t really something small and mid-sized businesses worried about too much a few years back. That&#8217;s changed fast. Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional. And attacks aren&#8217;",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-30T10:41:02",
-      "title_ja": "AI は企業向け Linux VPS セキュリティをどのように変える",
-      "summary_ja": "サイバーセキュリティは、数年前まで中小企業にとってそれほど心配するものではありませんでした。それは急速に変化しました。顧客データ、アプリを取得したら、",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/gabriel-heinzer-4Mw7nkQDByk-unsplash-scaled.jpg",
-      "body_ja": "数年前まで、サイバーセキュリティは中小企業にとってそれほど心配するものではありませんでした。それは急速に変わりました。顧客データ、アプリ、内部ツールがすべてオンラインになると、その背後にあるサーバーの保護はオプションでなくなります。また、攻撃も簡単になっていません。これは、旧来のセキュリティ手法に固執することの問題の一部です。\nビジネスが安全な Linux VPS で実行されている場合、"
-    },
-    {
       "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
       "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
       "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the saf",
@@ -451,7 +423,7 @@
       "lang": "en",
       "published": "2026-07-30T10:15:19",
       "title_ja": "根本的な欠陥により、LLM は攻撃に対して著しく脆弱になります",
-      "summary_ja": "大規模な言語モデルをハッキングから完全に保護することは不可能である、その仕組みには根本的な欠陥がある、と研究者チームが国際学術会議で発表された論文で主張している。",
+      "summary_ja": "大規模な言語モデルをハッキングから完全に保護することは、その仕組みに根本的な欠陥があるため不可能である、と研究者チームが国際学術会議で発表された論文で主張している。",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chain-link.jpg?resize=1200,600",
       "body_ja": "根本的な欠陥により、LLM は攻撃に対して著しく脆弱になります\nこれにより、航空機のナビゲーション システムを妨害する方法を教えるなど、してはいけないことを簡単に騙すことができます。\n大規模な言語モデルをハッキングから完全に保護することは、その動作方法に根本的な欠陥があるため、不可能であると研究者チームが、今月開催される AI のトップカンファレンスである機械学習に関する国際会議で発表された論文の中で主張しています"
     },
@@ -466,7 +438,7 @@
       "title_ja": "見過ごされてきた地熱発電所がいかにして二度目のチャンスを掴んだのか",
       "summary_ja": "2024 年 6 月、ザンスカールという中小企業が、急速に故障していたニューメキシコ州の地熱発電所を購入しました。地下貯水池から来る水は冷たくなってきました",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Lightning-Dock-NM-Zanskar.jpg?resize=1200,600",
-      "body_ja": "見過ごされてきた地熱発電所が二度目のチャンスを掴んだ方法\n地熱スタートアップのザンスカールがニューメキシコ州の発電所を引き継ぎ復活させた\n2024 年 6 月、ザンスカールという中小企業が、急速に故障していたニューメキシコ州の地熱発電所を購入しました。地下貯水池から来る水は日ごとに冷たくなり、プラントを稼働させるのは不経済になりました。\n2 年後の今、そのプラントは新しいシステムのおかげで再びフル稼働で稼働しています。"
+      "body_ja": "見過ごされてきた地熱発電所が二度目のチャンスを掴んだ方法\n地熱スタートアップのザンスカールがニューメキシコ州の発電所を引き継ぎ復活させた\n2024 年 6 月、ザンスカールという中小企業が、急速に故障していたニューメキシコ州の地熱発電所を購入しました。地下貯水池から来る水は日ごとに冷たくなり、プラントを稼働させるのは不経済になりました。\n2 年後の今、その工場は新しいシステムのおかげで再びフル稼働で稼働しています。"
     },
     {
       "title": "The Download: a chip talent battle, and deflating AI hype",
@@ -480,32 +452,6 @@
       "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。サムスンのチップ従業員はひどい",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
       "body_ja": "ダウンロード: チップ人材の争いと萎縮する AI の誇大広告\nさらに: OpenAI の不正エージェントが別の顧客を侵害しました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nサムスンのチップ従業員がライバルのSKハイニックスに飛びついている\nサムスンの半導体部門のエンジニアであるリーさんは、いつも遅くまで働いていました。でも最近、彼は定時で退社し、真っすぐに向かっていくようになりました。"
-    },
-    {
-      "title": "OpenAI report links coding agents to faster science software builds",
-      "url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-      "summary": "<p>OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic&#8217;s Claude Code in three others. Worth flagging upfront: this i",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-29T10:53:39",
-      "title_ja": "OpenAI レポートは、コーディング エージェントをより高速な科学ソフトウェアの構築に結び付けます |9 月| OpenAI は、コーディング エージェントがランタイムを短縮した 8 つの科学技術コンピューティング プロジェクトを追跡する新しいフィールド レポートをリリースしました。このレポートには、Fi で Codex を単独で使用したプロジェクトが文書化されています。",
-      "summary_ja": "",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/openai-report-coding-agents-codex-ai-artificial-intelligence-programming-developers-open-source-claude-code-science-software-engineering.jpg",
-      "body_ja": "OpenAI は、コーディング エージェントがランタイムを短縮した 8 つの科学技術コンピューティング プロジェクトを追跡する新しいフィールド レポートをリリースしました。\nこのレポートには、5 つのケースで Codex を単独で使用し、他の 3 つのケースで Codex と Anthropic のクロード コードを組み合わせたプロジェクトが記録されています。事前に報告する価値があります。これは、関与した寄稿者によって書かれたケーススタディに基づいて構築された、研究現場での自社製品のアプリケーションに関する調査を公開しているベンダーです。\nそれはありません"
-    },
-    {
-      "title": "Google AI Overviews become more common in search",
-      "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
-      "summary": "<p>Google’s AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm’s 2026 Generative AI Landscape report. AI Overviews display generated summaries within conventional Google results, while AI Mode provides a",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-29T10:00:00",
-      "title_ja": "Google AI の概要が検索でより一般的になる",
-      "summary_ja": "マーケットインテリジェンス会社の2026 Generative AI Laによると、Similarwebが測定した米国の検索の43%にGoogleのAIが生成した概要が表示され、前年の15%から増加した。",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/Google-AI-Overviews-become-more-common-in-search-scaled-e1785304615119.jpg",
-      "body_ja": "マーケットインテリジェンス会社の 2026 年ジェネレーティブ AI ランドスケープレポートによると、Similarweb が測定した米国の検索の 43% に、Google の AI が生成した概要が表示され、前年の 15% から増加しました。\nAI 概要では、従来の Google 検索結果内に生成された概要が表示されますが、AI モードでは、長い質問やフォローアップ プロンプトに対する会話型インターフェイスが提供されます。ユーザーは、AI のコンテキストを保持したまま、AI 概要から AI モードに移行できます。"
     },
     {
       "title": "The AI Hype Index: Unsexy AI",
@@ -534,19 +480,6 @@
       "body_ja": "ダウンロード: OpenAI の予測可能なハッキングと AI 株の急落\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nOpenAIは、Hugging Face攻撃を前例のないものだと呼んだ。しかし、私たちは前にもここに来たことがあります。\n—Will Douglas Heaven、AI 上級編集者\n先週、OpenAI の一部のモデルがどのように封じ込めを破り、H のコンピュータ システムにハッキングしたかについての OpenAI の報告を読んでいます。"
     },
     {
-      "title": "Guardoc Health processes clinical documentation using Amazon Nova models",
-      "url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
-      "summary": "<p>Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation. Get it wrong and the errors compound into denied Medicare claims under the Patient-Driven",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-28T11:30:47",
-      "title_ja": "Guardoc Health は、Amazon Nova モデルを使用して臨床文書を処理します",
-      "summary_ja": "Guardoc Health は、Bedrock を通じて Amazon Nova モデルを使用して毎日 100 万件を超える臨床文書を処理していると述べています。 AI を臨床文書に導入するには、具体的な点が重要です。",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/guardoc-health-processes-clinical-documentation-Amazon-Nova-models-healthcare-ai-rag-pipeline-bedrock-medical.jpg",
-      "body_ja": "Guardoc Health は、Bedrock を通じて Amazon Nova モデルを使用して毎日 100 万件を超える臨床文書を処理していると述べています。\nAI を臨床文書に導入するには、特定の種類のリスク計算が必要になります。誤解を招くと、その誤りが重なり、患者主導支払いモデルに基づくメディケア請求の拒否、監査上の罰金、訴訟の危険にさらされ、最悪の場合には、患者の治療方法を変える条件の欠落につながる可能性があります。\nただし、リグを入手してください"
-    },
-    {
       "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
       "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
       "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer hours, going the extra mile to excel at his projects. But lately, he’s been coming straight home to work on his job application for the chipmaker’s South Korean rival SK Hynix, sharing tips w",
@@ -555,48 +488,9 @@
       "lang": "en",
       "published": "2026-07-28T09:18:57",
       "title_ja": "サムスンのチップ従業員がライバルの SK ハイニックスに飛びついている",
-      "summary_ja": "サムスンの半導体部門のエンジニアであるリー氏は、勤務が終わると退勤する。彼はかつて、自分のプロジェクトで優れた成果を上げるために、より長い時間働いていました。でも最近の彼は、",
+      "summary_ja": "サムスンの半導体部門のエンジニアであるリーさんは、勤務が終わると退勤する。彼はかつて、自分のプロジェクトで優れた成果を出すために、より長い時間働いていました。でも最近の彼は、",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
-      "body_ja": "サムスンのチップ従業員がライバルのSKハイニックスに飛びついている\nAI チップの将来をめぐる戦いが展開されるにつれ、優秀な人材をめぐる争いも激化しています。\nサムスンの半導体部門のエンジニアであるリー氏は、勤務が終わると退勤する。彼はかつて、自分のプロジェクトで優れた成果を上げるために、より長い時間働いていました。しかし最近、彼は半導体メーカーの韓国のライバルであるSKハイニックスへの求職申請書を作成するためにまっすぐ家に帰ってきて、次のように語った。"
-    },
-    {
-      "title": "Armenia’s AI Bet Is Not Chip Manufacturing. It Is Compute Sovereignty",
-      "url": "https://www.artificialintelligence-news.com/news/armenias-ai-bet-is-not-chip-manufacturing-it-is-compute-sovereignty/",
-      "summary": "<p>Armenia is not a big country. It’s not a wealthy country. It’s not a famous country. And yet, it has become not only a consumer of different AI products akin to Clideo subtitles generator for video editing, or giants like OpenAI, but also entered the headlines of global news for several reasons, ",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-28T08:52:46",
-      "title_ja": "アルメニアの AI への賭けはチップ製造ではない。それはコンピューティング主権です",
-      "summary_ja": "アルメニアは大きな国ではありません。裕福な国ではありません。有名な国ではありません。しかし、それは、Clideo の字幕に似たさまざまな AI 製品の消費者になっただけではありません。",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/gor-davtyan-a0nX79KYqNo-unsplash-scaled.jpg",
-      "body_ja": "アルメニアは大きな国ではありません。裕福な国ではありません。有名な国ではありません。それにもかかわらず、ビデオ編集用の Crideo 字幕ジェネレーターや OpenAI のような巨人に似たさまざまな AI 製品の消費者になっただけでなく、いくつかの理由で世界的なニュースの見出しにも取り上げられました。その理由の中でも特に政治が挙げられます。もう 1 つの理由は、技術の進歩、正確に言えば「NVIDIA 向けチップの製造」であるとされています。後者はビッグネームだよ"
-    },
-    {
-      "title": "How AI is shortening drug discovery timelines in China",
-      "url": "https://www.artificialintelligence-news.com/news/ai-drug-discovery-china/",
-      "summary": "<p>Insilico Medicine has reduced the time needed to produce some drug development candidates to about one year by combining artificial intelligence with laboratory research in China, according to CEO Alex Zhavoronkov. The Hong Kong-listed company’s fastest programme reached candidate nomination in n",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-27T10:00:00",
-      "title_ja": "AI が中国でいかに創薬スケジュールを短縮しているか",
-      "summary_ja": "Insilico Medicine は、人工知能と中国の実験室研究を組み合わせることで、一部の医薬品開発候補の生成に必要な時間を約 1 年に短縮しました。",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/How-AI-is-shortening-drug-discovery-timelines-in-China-scaled-e1785133067484.jpg",
-      "body_ja": "CEOのAlex Zhavoronkov氏によると、Insilico Medicineは人工知能と中国の実験室研究を組み合わせることで、一部の医薬品開発候補の生産に必要な時間を約1年に短縮したという。\nザボロンコフ氏によると、香港上場企業の最速プログラムは9カ月で候補者指名に達したが、通常のスケジュールは約13カ月である。同氏は、従来のアプローチでは通常、解決までに約4年半かかると述べた。"
-    },
-    {
-      "title": "America’s AI Investment Boom Is Reshaping the Economy",
-      "url": "https://www.artificialintelligence-news.com/news/americas-ai-investment-boom-is-reshaping-the-economy/",
-      "summary": "<p>America&#8217;s AI Investment Boom Is Reshaping the Economy Artificial intelligence has become one of the defining investment stories in the United States, and the numbers continue to grow. Microsoft, Meta, Amazon and Alphabet are collectively committing hundreds of billions of dollars to AI infr",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-27T09:18:53",
-      "title_ja": "アメリカの AI 投資ブームが経済を再構築",
-      "summary_ja": "米国の AI 投資ブームが経済を再形成中 人工知能は米国における投資ストーリーを決定づける要素の 1 つとなっており、その数は増え続けています",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/ai-infrastrucure.jpg",
-      "body_ja": "アメリカのAI投資ブームが経済を再構築中\n人工知能は米国における投資ストーリーを決定づける要素の 1 つとなっており、その数は増え続けています。 Microsoft、Meta、Amazon、Alphabet は合わせて AI インフラストラクチャに数千億ドルを投入しており、その一方で高度なチップの需要により NVIDIA は世界で最も価値のある企業の 1 つに成長しました。\n明らかに、開発競争として始まったのは、"
+      "body_ja": "サムスンのチップ従業員がライバルのSKハイニックスに飛びついている\nAI チップの将来をめぐる戦いが展開されるにつれ、優秀な人材をめぐる争いも激化しています。\nサムスンの半導体部門のエンジニアであるリーさんは、勤務が終わると退勤する。彼はかつて、自分のプロジェクトで優れた成果を出すために、より長い時間働いていました。しかし最近、彼は半導体メーカーの韓国のライバルであるSKハイニックスへの求職活動に取り組むために真っすぐ家に帰ってきて、こう語った。"
     },
     {
       "title": "AIエージェントのセキュリティリスクとは？事例から学ぶ実践的な対策まで解説",
@@ -619,19 +513,6 @@
       "published": "2026-07-25T19:07:15",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/07/thumbnail-17.jpg",
       "body_ja": "AIエージェントの導入を進める中で、失敗事例が多いという情報を目にし、自社は大丈夫かと不安になっている方は少なくないでしょう。\nAIエージェントの失敗には、セキュリティ事故やコスト超過など具体的な原因があり、事例を知ることで同じ失敗を避けられます。\n実際に起きた失敗事例を把握しないまま導入を進めると、想定外の事故や損失を招きかねません。\n本記事では、企業で実際に発生したAIエージェントの失敗事例4つと、そこから学べる回避のポイントを解説します。\n読み終える頃には、自社の導入計画に潜むリスクを具体的にイメージし、対策を講じられるようになります。\nAIエージェントの失敗事例はなぜ増えているのか\nAIエージェントの失敗事例は、暴走や逸脱行動の急増を背景に増えています。\nAI安全機関やシンクタンクの調査では、AIエージェントの暴走が疑われる報告件数が半年で約5倍に急増したことが明らかになっています。\n参考：AIエージェント暴走700件｜半年で5倍に急増した理由（Uravation）\n一方で企業の"
-    },
-    {
-      "title": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
-      "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
-      "summary": "<p>Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business model: Meta, Microso",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-07-24T16:18:30",
-      "title_ja": "Meta、Microsoft、Nvidia、IBM などが無差別 AI を支持",
-      "summary_ja": "20の企業と組織が、米国の政策立案者に無差別AIモデルを保護するよう求める公開書簡に署名した。本日公開された書簡 (PDF) には、李氏の署名が含まれている。",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/07/meta-microsoft-nvidia-ibm-open-source-ai-open-weight-policy-regulation-security-artificial-intelligence-distillation-security.jpg",
-      "body_ja": "20の企業と組織が、米国の政策立案者に無差別AIモデルを保護するよう求める公開書簡に署名した。\n本日公開された書簡 (PDF) には、ビジネス モデルに明らかな重複がほとんどない直接の商業的ライバルや組織にわたるリストからの署名が記載されています: Meta、Microsoft、Nvidia、IBM、Dell Technologies、CrowdStrike、Palantir、ServiceNow、Hugging Face、Perplexity、Mistral、Andreessen Horowitz、Y Combinator、Linux Fo"
     },
     {
       "title": "AIエージェントは法務でどこまで使える？活用法と注意点を解説",
@@ -698,19 +579,8 @@
       "published": "2026-07-20T16:39:06",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/07/thumbnail-11.jpg",
       "body_ja": "経営層から「うちも生成AI研修を導入しよう」と指示されたものの、何を基準に研修会社を選べばよいのか迷っている方も多いのではないでしょうか。\n選定基準を誤ると、費用をかけても現場でほとんど使われず、一過性のイベントで終わってしまうでしょう。対象層・研修形式・目的の3つの視点で選べば、自社に合った研修を効率よく絞り込めます。\n本記事では、法人向け生成AI研修の選び方とおすすめ10社の比較を中心に、費用相場と助成金の活用法、研修が定着しない4つの原因まで解説しています。順に確認していきましょう。\n読み終える頃には、自社の目的に合った研修を選定でき、経営層に説明できる具体的な検討材料を得られます。\n生成AI研修の選び方は3つの視点で決まる\n自社に合った法人向け生成AI研修を選ぶための視点は、以下の3つです。\n- 対象層で選ぶ\n- 研修形式で選ぶ\n- 研修の目的で選ぶ\n3つの視点を押さえておくと、複数社を比較するときの判断基準がぶれません。\n対象層で選ぶ\nまず確認すべきは、経営層・管理職・一般社員"
-    },
-    {
-      "title": "生成AI導入で中小企業が失敗しないための5ステップ！費用相場も解説",
-      "url": "https://ainow.ai/2026/07/17/278256/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e5%25b0%258e%25e5%2585%25a5%25e3%2581%25a7%25e4%25b8%25ad%25e5%25b0%258f%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%258c%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa%25e3%2581%2584%25e3%2581%259f%25e3%2582%2581%25e3%2581%25ae5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583",
-      "summary": "<p>&#29983;&#25104;AI&#12434;&#23566;&#20837;&#12375;&#12383;&#12356;&#12418;&#12398;&#12398;&#12289;&#32057;&#20171;&#12373;&#12428;&#12427;&#20107;&#20363;&#12399;&#22823;&#20225;&#26989;&#12400;&#12363;&#12426;&#12391;&#12289;&#23554;&#20219;&#12398;&#24773;&#22577;&#12471;&#12473;&#12486;&#12512",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-07-16T16:58:58",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/07/thumbnail-10.jpg",
-      "body_ja": "生成AIを導入したいものの、紹介される事例は大企業ばかりで、専任の情報システム部門もない自社にどう当てはめればいいかわからず、二の足を踏んでいませんか。\n実は意思決定の速さを強みにできる中小企業のほうが、生成AI導入で成果を出しやすいといえます。大企業のような稟議の手間がなく、小さく試してすぐに軌道修正できるためです。\n本記事では、中小企業が生成AI導入で失敗しないための5ステップと費用相場、使える補助金制度、実際の成功事例までを解説します。\n読み終える頃には、自社の予算・人員規模に合った現実的な導入計画を描き、補助金も活用しながら最初の一歩を迷わず踏み出せる状態になります。\n中小企業が生成AI導入で今すぐ動くべき理由\n中小企業の生成AI導入は、約8割がまだ本格着手していないのが実情です。今始めれば、この段階で先行者としての差別化を図れます。\n中小企業基盤整備機構が2026年3月に公表した実態調査によると、AIの導入率（全社導入と一部業務導入の合計）は20.4%にとどまります。検討中の1"
     }
   ],
-  "last_updated": "2026-08-01T07:57:38.540652+09:00",
-  "count": 60
+  "last_updated": "2026-08-02T07:52:48.208888+09:00",
+  "count": 50
 }
