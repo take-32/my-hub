@@ -1,6 +1,196 @@
 {
   "articles": [
     {
+      "title": "月100億トークン使うビズリーチ　「AIコスト増」懸念の中、費用対効果どう判断しているのか",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/03/news010.html",
+      "summary": "AI活用が広がる一方で、コスト増加への懸念が高まっている。月間約100億トークンを消費するというビズリーチCTOは、AIの費用対効果をどのように考えているのか。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2608/03/cover_news010.jpg",
+      "body_ja": "少し前まで「生成AIをいかに導入するか」「利用率をどう上げるか」が企業の課題だった。導入や定着が進んだいま、次に直面するのが「AI利用の費用対効果をどのように評価するか」という問題だ。\nAIエージェントなど高度な利用が広がるにつれて、AIの処理量を指す「トークン」の消費量が増える。AIサービスの利用料がかさむ中で「AI活用の推進」と「ビジネスの成果」の板ばさみになり、頭を抱える推進担当者もいるだろう。\nそうした課題に対して、1人で月間約100億トークンを消費するビズリーチの外山英幸氏（執行役員 CTO／DX本部 本部長）は「AIの使用量が増えるほど、生産性も伸びる傾向がある」と話す。では、その「生産性の改善」が投資に見合うビジネス成果につながっていると判断するにはどうすればよいのか。\nビズリーチの外山氏と、AIサービス提供者の立場であるOpenAI Japanの宇都宮聖子氏（ソリューションズエンジニア）が意見を交わした。\n本記事は人材サービスのビズリーチ主催イベント「BizReach C"
+    },
+    {
+      "title": "賞金1000万のAIコンテスト、でも「実現性は問わず」　サイバーエージェントのAI推進策",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2608/03/news032.html",
+      "summary": "生成AIを導入しても、従業員に使われなければ成果にはつながらない。サイバーエージェントは、賞金1000万円のAIコンテストを開催し、あえて「実現性」を問わない仕掛けで社員の意識を変えた。その狙いとは。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/kn/articles/2608/03/cover_news032.jpg",
+      "body_ja": "生成AIを導入しても、従業員に使われなければ成果にはつながらない。サイバーエージェントは、賞金1000万円のAIコンテストを開催し、あえて「実現性」を問わない仕掛けで社員の意識を変えた。その狙いとは。\n「生成AIを活用する会社と、そうでない会社。その差は数年後、圧倒的なものになる」。サイバーエージェント会長の藤田晋氏が、このメッセージを社内報で発信したのは、「ChatGPT」が登場した2022年のことだった。\nもっとも、同社のAI活用の歴史はそれ以前から始まっている。2016年頃から主に広告事業でAIの活用を進めてきたが、ChatGPTの登場を契機に方針を大きく転換した。特定の業務にとどまらず、全社・全グループの業務へと生成AIの活用を広げる取り組みを本格化させた。\n従業員が自発的にAIに関わりたくなるモチベーションを生み、組織全体に活用の土壌を築く。そのためには、従業員一人一人がAI活用を「自分ごと」として捉えることが必要だ。サイバーエージェントにはもともと「仕事を楽しむ」という文化が"
+    },
+    {
+      "title": "生成AI利用率、情シスよりも高いのはあの職種だった",
+      "url": "https://kn.itmedia.co.jp/kn/articles/2608/03/news020.html",
+      "summary": "生成AIの活用状況は、担当する業務や職種によって大きく異なる。職種別の生成AI利用実態を把握するためにラグザスが実施した調査によると、エンジニア・情シスの生成AI利用率は職種別で1位ではなかった。では、その職種がそれらを上回ったのか。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/kn/articles/2608/03/cover_news020.jpg",
+      "body_ja": "生成AIの活用状況は、担当する業務や職種によって大きく異なる。職種別の生成AI利用実態を把握するためにラグザスが実施した調査によると、エンジニア・情シスの生成AI利用率は職種別で1位ではなかった。では、その職種がそれらを上回ったのか。\n生成AIの活用は、情報収集や資料作成などあらゆる業務で普及している。一方で、実際の利用状況や活用方法は、担当する業務や職種によって大きく異なるのが現状だ。その差異を把握することは、企業の生成AI定着を進める上で重要な課題となっている。\nそのような実態を背景にラグザスは、東京都と大阪府の20〜59歳の男女3000人を対象とした調査を実施した。その内、人事や採用、エンジニア、情報システム、マーケティングなど比較対象となる10職種、計2319人か得られたデータを基に、職種別の利用率や活用されている主な業務が分析された。\n職種別に生成AI利用率を尋ねた設問において、「毎日利用している」と「週に数回利用している」を合わせた利用率は、「人事・採用」と「マーケティング・"
+    },
+    {
+      "title": "「AI、結局使えないじゃん」問題　セールスフォースが431万件対応で導いた正解",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/03/news030.html",
+      "summary": "AIエージェントの導入が進む一方、全社的な利益改善に至る企業は4割弱にとどまる。そんな「AI導入の壁」を破り、自社実践（カスタマーゼロ）で431万件の顧客対応を完了、商談数を4～5割増加させたのがセールスフォースだ。同社はなぜ明快なROIを生み出せるのか。データやKPIが整う領域の選定や「シンプルで高頻度な業務」から任せる鉄則など、AI投資を成果につなげる運用の方法論を田中遼太COOに聞いた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2608/03/cover_news030.jpg",
+      "body_ja": "「AIエージェントを試してはみたが、全社的な利益にはなかなかつながらない」――。\n経営層から、こんな課題をよく聞く。AIエージェントを導入する企業が増えた一方で、具体的な成果に結び付いた例は限られるのが実情だ。\n米McKinsey & Companyが2025年11月に公表した調査によると、AIエージェントを少なくとも1つの業務で本格展開している企業は23％、試験的な導入にとどまる企業は39％だった。一方、導入した企業のうち全社的な利益改善につながったと答えた企業は39％にすぎない。導入と成果の間には、なお開きがあるといえる。\n企業がそんな「AI導入の壁」に突き当たる中、Webサイトの画面の裏側で「累計431万件」もの顧客対応を自律完結させ、営業現場の商談数を「4〜5割増」にしたのが、顧客基盤大手のセールスフォース・ジャパン（以下、セールスフォース）だ。\n同社は2024年10月、AIエージェント基盤「Agentforce」の国内提供を開始。以降もAgentforce 2（2025年1月）"
+    },
+    {
+      "title": "WAFを89％すり抜ける事例も──AIが休みなく仕掛けるWeb攻撃、予防策はあるか",
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000287/",
+      "summary": "フロンティアAIの登場で一変したWeb攻撃。その傾向や対策、落とし穴をAkamai Technologiesの中西一博氏が解説。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/03/2000000287/10001407/2048",
+      "body_ja": "「見えないWeb攻撃」──情報漏えい対策の盲点\nWAFを89％すり抜ける事例も──AIが休みなく仕掛けるWeb攻撃、予防策はあるか（1/4 ページ）\n米Anthropicや米OpenAIなどが開発するフロンティアAIの登場による、脆弱性探索能力の飛躍的な向上が、サイバーセキュリティの攻防を否応なく次のステージに押し上げようとしている。\nエージェント型AIによる“マシンスピード”での攻撃が、WebやAPIに具体的にどのようなリスクをもたらすのか。実際に観測されているAIによるWeb攻撃の特徴を分析し、防御側の備えとして何が必要になるかを具体的に探っていこう。\n連載：「見えないWeb攻撃」──情報漏えい対策の盲点\nコンテンツデリバリーネットワーク（CDN）サービスを基盤に、各種のクラウド型セキュリティサービスを手掛けるアカマイ・テクノロジーズでWebセキュリティの動向を追う中西一博氏が、非常に発見が難しくなっているWeb攻撃の実態と手口を暴き、その対策について解説する。\n以前の連載：迷惑bo"
+    },
+    {
+      "title": "Galaxy Z Fold8シリーズは買うならどっち？ 動画再生やカメラ性能で選ぶ！の巻：スマホ総研定例会387",
+      "url": "https://ascii.jp/elem/000/004/424/4424089/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png\" width=\"60\" />今年の「Galaxy Z Fold」シリーズは2モデル！　開くと4：3の縦横比で映像を見るのに便利になった「Galaxy Z Fold8」に、従来モデルと同じサイズ感の「Galaxy Z Fold8 Ultra」。買うならどっちか、動画再生やカメラ性能で違いがある2台を実機で詳しくチェックします！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png"
+    },
+    {
+      "title": "「アスキーグルメNEWS」生放送（2026年8月7日号）",
+      "url": "https://ascii.jp/elem/000/004/424/4424069/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2022/12/21/3468050/s/d77cbdce41d72854.jpg\" width=\"60\" />巷で話題のおいしいグルメ情報を生放送でご紹介します。ぜひ、お昼ごはんを楽しみながらどうぞ！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://ascii.jp/img/2022/12/21/3468050/s/d77cbdce41d72854.jpg"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～AMDの最新エントリーGPU、Radeon RX 9050は令和のゲームに耐えられるのか？～",
+      "url": "https://ascii.jp/elem/000/004/423/4423731/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg\" width=\"60\" />AMDの最新エントリーGPU、Radeon RX 9050は令和のゲームに耐えられるのか？　木曜20:00から放送スタート！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg"
+    },
+    {
+      "title": "星評価やランキングに頼らない。AIとデジタルおひねりでつなぐ外食体験",
+      "url": "https://ascii.jp/elem/000/004/423/4423657/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/30/4507563/s/523f8665c662da9b.jpg\" width=\"60\" />株式会社バイティは7月16日、資金調達と合わせてAIを活用したグルメレコメンドアプリ「Bitee（バイティ）」の開発を発表した。外食市場において、従来の飲食店を星の数やランキングで評価する手法とは異なるマッチング体験の提供を目指している。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/30/4507563/s/523f8665c662da9b.jpg"
+    },
+    {
+      "title": "AI時代のサイバー攻撃で脆弱性パッチ適用とサプライチェーン攻撃対策を同時支援する新機能",
+      "url": "https://ascii.jp/elem/000/004/423/4423238/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/29/4507163/s/66e64cb69193206a.jpg\" width=\"60\" />GMO Flatt Securityは7月8日、ソフトウェア開発プラットフォーム「Takumi byGMO」において、脆弱性パッチの適用とサプライチェーン攻撃対策を同時支援する新機能「Takumi Images」の提供を開始した。同社はサイバーセキュリティー関連のスタートアップとして創業後、GMOインターネットグループへ参画した経緯を持つ。</p><br clear=",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/29/4507163/s/66e64cb69193206a.jpg"
+    },
+    {
+      "title": "「思考の連鎖」偽装でLLMを騙す新手法、訓練では防げない構造的欠陥",
+      "url": "https://ascii.jp/elem/000/004/424/4424189/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />大規模言語モデル（LLM）は、ユーザー・システム・思考の連鎖といった「発信元」をタグではなく文章のスタイルで識別しているにすぎない。この仕組みを悪用すれば、偽の思考の連鎖を書き込むだけでコカイン製造法や航空機ハッキング手法まで引き出せることが、ICML提出論文で示された。研究チームは、これが訓練でも解消できない根本的な欠陥だと主張する。</p><br clear=\"l",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T21:59:30",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "難病患者に未承認薬を、米モンタナ州「試す権利」は救いか賭けか",
+      "url": "https://ascii.jp/elem/000/004/424/4424190/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />画像クレジット:Courtesy of the Devault family</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T21:58:55",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表",
+      "url": "https://www.itmedia.co.jp/news/article/2608/03/2000000348/",
+      "summary": "OpenAIは、次期主力モデル「Astra」の社内版により、数学や理論計算機科学の未解決問題10件で新たな結果を得たと発表した。「Astra」の名称公表は初とみられる。計算コストは「Sol」換算で約2000ドルに抑えられ、証明支援系「Lean」による形式証明もGitHubで公開。高度な数学研究への応用可能性を示した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-02T21:56:14",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/03/2000000348/10001721/2048",
+      "body_ja": "OpenAI、次期主力モデル「Astra」の存在を明らかに――未解決の数学問題10件を「解決」と発表\n米OpenAIは8月1日（現地時間）、数学と理論計算機科学の未解決問題10件について新たな結果を得たと発表した。この成果は「次期主力モデル」と位置付ける「Astra」の社内版によるものだとしており、OpenAIが公式に「Astra」の名称に言及したのは初めてとみられる。\nAstraの公開時期やモデル構成、API料金、ChatGPTでの提供形態などは明らかにしていない。今回の発表では、あくまで次期主力モデルの社内版を用いた研究成果として紹介している。「Astra」はラテン語で「星々」や「天体」を意味する。OpenAIは6月公開の「GPT-5.6」でも、Sol（太陽）、Terra（地球）、Luna（月）という天体に由来する名称を内部モデル名として用いていた。\nブログでは、「（10件の問題解決は）次期主力モデルであるAstraの内部バージョンによって達成された」と説明している。OpenAIによ"
+    },
+    {
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-02T20:54:22",
+      "title_ja": "サム・アルトマンと AI のディセルに関する議論",
+      "summary_ja": "エクイティ誌の最新エピソードでは、サム・アルトマンがなぜ業界に「AI開発のペースを緩める」よう呼びかけたのかについて議論します。",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+      "body_ja": "OpenAI CEO のサム・アルトマン氏は最近、社会が「これらの新しい機能レベルのいくつかについて強化」できるように、「AI 開発のペースを調整する」時期が来たのかもしれないと述べました。\nTechCrunchのEquityポッドキャストの最新エピソードで、キルスティン・コロセック氏、ショーン・オケイン氏、そして私は、アルトマン氏のコメントがおそらくOpenAIエージェントがHugging Faceのシステムに侵入した最近のハッキングによって引き起こされたものであると議論した。ショーンは、AI エージェントによるハッキングは斬新ではあるものの、"
+    },
+    {
+      "title": "AMD Ryzen 9×RTX 5070搭載PCも値下げ、パソコンショップSEVENが限定セール",
+      "url": "https://ascii.jp/elem/000/004/423/4423915/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/31/4507801/s/844fb9e561434dea.png\" width=\"60\" />セブンアールジャパンがパソコンショップSEVENで8月3日限定セールを実施。最新のゲーミングPCやデスクトップPC全10商品が対象で、最大6万円引きとなる。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/31/4507801/s/844fb9e561434dea.png"
+    },
+    {
+      "title": "浴衣姿にキュン死するかも!? 新海まきが「職場の恋愛」をテーマにした5th DVDリリース",
+      "url": "https://ascii.jp/elem/000/004/423/4423161/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/29/4507080/s/7f23d4bbedb150a7.jpg\" width=\"60\" />SNSの総フォロワー数は85万人に！ 韓国でも知名度を上げている新海まきさんが、5th DVD「溺れるほどに」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/29/4507080/s/7f23d4bbedb150a7.jpg"
+    },
+    {
+      "title": "憧れの“プロ級スペック”ゲーミングモニター、買っちゃいました。320Hzヌルヌル画面で、目が喜んじゃうよ〜",
+      "url": "https://ascii.jp/elem/000/004/422/4422621/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/28/4506195/s/d571b497375ac0b8.jpg\" width=\"60\" />27型でｍiniLEDを搭載、WQHDで320Hzの「THE SHOOTER - Gaming Monitor 27”」を紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-02T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/28/4506195/s/d571b497375ac0b8.jpg"
+    },
+    {
+      "title": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に　Chrome統合は米国から",
+      "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000347/",
+      "summary": "Googleは、パーソナルAIエージェント「Gemini Spark」の提供対象を日本を含む160カ国以上に拡大した。PC停止時やスマホのロック時もGoogleのクラウド基盤上で動作し、トリガーに応じてタスクを処理する。さらに、ログイン情報や保存されたパスワードを活用してWeb上の各種手続きを代行するChrome統合機能も発表された。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-02T01:12:35",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/02/2000000347/10001717/2048",
+      "body_ja": "Google、パーソナルAI「Gemini Spark」を日本でも利用可能に Chrome統合は米国から\n米Googleは7月30日（現地時間）、パーソナルAIエージェント「Gemini Spark」の提供対象を新たに160カ国以上に拡大したと発表した。日本については7月29日に日本語版ブログで提供を告知しており、8月2日（日本時間）現在、筆者（Proプラン）の環境でも利用可能になっている。あわせて、Webブラウザ「Chrome」との統合機能も明らかにした。\n日本語版ブログによると、対応言語は日本語と英語で、「Google AI Ultra」および「Google AI Pro」の加入者が利用できる。日本のAI Proユーザー向けには「今後数週間以内に」順次提供するとしている。利用できるようになると、サイドバー上部にチャットとSpark（ベータ版）を切り替えるスイッチが表示される。\nGemini Sparkは、Googleが5月の「Google I/O 2026」で発表したパーソナルAIエ"
+    },
+    {
       "title": "OpenAI、アクティブユーザー10億人超に　導入企業は200万社超",
       "url": "https://www.itmedia.co.jp/news/article/2608/02/2000000346/",
       "summary": "OpenAIは、アクティブユーザーが10億人、導入企業が200万社を突破したと公表した。推論の保持やコンテキスト管理の改善、本番ソフトウェアの最適化によりコスト削減やトークン生成効率の向上を実現。「GPT-5.6」の一部モデルの値下げはこれらの成果を顧客に還元したものであり、再投資の循環を強調した。",
@@ -75,106 +265,6 @@
       "body_ja": "スクリーンタイム アプリは、最終的には自分の意志の力に依存するため、多くの人にとって効果的ではありません。スクロールを停止するよう通知したり、タイマーを設定したりするよう通知しますが、このような通知は無視しやすいものです。\nAutonomous Key は、単に物理デバイスであるという点で、この問題に対して異なるアプローチを採用しています。これは、コンパニオン アプリとペアリングして、気が散るアプリをロックできる NFC キーです。したがって、ボタンをタップしてブロックをバイパスする代わりに、phy する必要があります。"
     },
     {
-      "title": "RTX 5060・RTX 5070 Ti搭載PCがお得　パソコンショップSEVEN限定セール実施",
-      "url": "https://ascii.jp/elem/000/004/423/4423439/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/30/4507407/s/973c83a5ac4c9cc8.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、8月2日0:00から23:59まで『2026/8/2 24時間限定セール』を開催。最大51,000円オフで最新ゲーミングPCやデスクトップPCを全10商品販売する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/30/4507407/s/973c83a5ac4c9cc8.png"
-    },
-    {
-      "title": "初挑戦で初優勝！ 現役女性歯科医ドライバーが挑んだ極限の北海道グラベルラリー",
-      "url": "https://ascii.jp/elem/000/004/424/4424100/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/01/4508152/s/f01221ccc576157e.jpg\" width=\"60\" />平日は歯科医師、週末はラリードライバーの及川紗利亜選手による全日本ラリー「ラリー・カムイ」参戦記。初の本格グラベル挑戦に向け、伝説的ドライバーの指導や走り込みで成長。本番は雨の悪路に苦しむも見事完走し女性クラス優勝！チームダブルタイトルも達成しました。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/01/4508152/s/f01221ccc576157e.jpg"
-    },
-    {
-      "title": "Core Ultra X7・最大50TOPS搭載。24時間動く16型OLEDノート「Acer Swift 16 AI」",
-      "url": "https://ascii.jp/elem/000/004/423/4423700/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/31/4507635/s/6b7023af1d60e976.jpg\" width=\"60\" />AcerのノートPC「Acer Swift 16 AI」がAmazonタイムセール対象。317,980円で販売中。約24時間駆動と16インチ2.8K OLEDディスプレイを備え、Core Ultra X7 358Hプロセッサーと最大50TOPSのAI性能にも対応したCopilot+ PC。大画面でも持ち運びやすさを重視したい人には見逃せないモデルだ。</p><br c",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/31/4507635/s/6b7023af1d60e976.jpg"
-    },
-    {
-      "title": "さよならMAZDA2。消えゆくマツダの看板小型車は「今こそ買うべき最強のホットハッチ」だった",
-      "url": "https://ascii.jp/elem/000/004/424/4424119/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/01/4508174/s/1e6ee8656c80c863.jpg\" width=\"60\" />年内で国内生産終了となるマツダ「MAZDA2」のスポーティグレード「15 SPORT+ 4WD」の試乗レビューです。約250万円という軽自動車並みの低価格ながら、上質な内装や電動シートを装備。1.5L自然吸気と6速ATがもたらす熱い走りが魅力の、今買うべき傑作コンパクトです。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/01/4508174/s/1e6ee8656c80c863.jpg"
-    },
-    {
-      "title": "「制服ルーズの高校生やスーツ姿のOLを演じました」22歳の新星・一ノ瀬みうるが1st DVDで七変化！",
-      "url": "https://ascii.jp/elem/000/004/423/4423160/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/29/4507063/s/6454d8dbad4c9d48.jpg\" width=\"60\" />剣道・水泳・クラシックバレエで鍛えたメリハリボディーが魅力の一ノ瀬みうるさんが、1st DVD「はじめての誘惑」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/29/4507063/s/6454d8dbad4c9d48.jpg"
-    },
-    {
-      "title": "3万8000円引きなら話が変わる。史上最薄「iPhone Air」が13万9800円",
-      "url": "https://ascii.jp/elem/000/004/422/4422943/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/29/4506759/s/72891eee775977ee.jpg\" width=\"60\" />Appleのスマートフォン「iPhone Air 256GB（SIMフリー）」がAmazonタイムセール対象。参考価格177,800円のところ、21％オフの139,800円で販売中。史上最薄のiPhoneとして、6.5インチのSuper Retina XDRディスプレーやA19 Proチップを搭載。この値下げなら、選択肢に入れやすい。</p><br clear=\"le",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/29/4506759/s/72891eee775977ee.jpg"
-    },
-    {
-      "title": "このスマホクーラー、めっちゃ賢い。ただ冷やすんじゃない、勝手に“最適な冷やし方”をしてくれるんだ！",
-      "url": "https://ascii.jp/elem/000/004/421/4421706/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/24/4504691/s/cf9e3a86295a2263.jpg\" width=\"60\" />最大30W出力の大型ペルチェ素子による冷却性能と、3つの温度センサーで温度を自動制御するスマホクーラー「B9X」があれば、高負荷ゲームもド安定です！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/24/4504691/s/cf9e3a86295a2263.jpg"
-    },
-    {
-      "title": "【鬼コスパ】5500円で遅延ゼロでハイレゾ＆ノイキャンの有線イヤホン「HP-NE30C」を実際に着けてみたけど有能すぎた",
-      "url": "https://ascii.jp/elem/000/004/423/4423920/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/31/4507818/s/28e5333de5d54d8e.jpg\" width=\"60\" />大事なビデオ会議やゲーム中の完全ワイヤレスのバッテリー切れや接続トラブルは避けたいもの。ラディウスの「HP-NE30C」は安心安全な有線接続でノイキャン＆ハイレゾ対応でお値打ちな、隠れた逸品です！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/31/4507818/s/28e5333de5d54d8e.jpg"
-    },
-    {
-      "title": "完全メシ新作「ガパオ」！ アジアン気分×栄養バランス、これは気になる",
-      "url": "https://ascii.jp/elem/000/004/422/4422856/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/28/4506542/s/0c8dd4ee7bbb4d88.jpg\" width=\"60\" />日清食品は8月10日、「完全メシ ガパオ風ライス」を発売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/07/28/4506542/s/0c8dd4ee7bbb4d88.jpg"
-    },
-    {
-      "title": "紙の教材を、すぐにデジタル教材に変える「もじソナ(R)」。無料教材＆デジタルギフトをプレゼントする『もじソナチャレンジ』を開始！",
-      "url": "https://ascii.jp/elem/000/004/424/4424146/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />紙の教材を、すぐにデジタル教材に変える「もじソナ(R)」。無料教材＆デジタルギフトをプレゼントする『もじソナチャレンジ』を開始！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-01T07:45:14",
-      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
-    },
-    {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -235,22 +325,9 @@
       "lang": "en",
       "published": "2026-07-31T16:49:08",
       "title_ja": "Snapchat は完全に AI で生成された Spotlight コンテンツに報酬を提供しなくなりました",
-      "summary_ja": "Snapchatは、AIの失策に対抗する姿勢をとって、実際の人間が作成した動画のみがSpotlightレコメンデーションの対象となるようレコメンデーションシステムを調整した。",
+      "summary_ja": "Snapchatは、AIの失策に対抗する姿勢で、実際の人間が作成した動画のみがSpotlightレコメンデーションの対象となるようレコメンデーションシステムを調整した。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
       "body_ja": "Snapchat は、AI のスロップに対する姿勢を強化している最新の企業です。ソーシャル ネットワーク プラットフォームは、人間が作成したコンテンツを優先するため、完全に AI で生成されたビデオには報酬を与えなくなります。\nSnapchatは金曜日にこのアップデートを発表し、実際の人々が作成した動画のみがSpotlightレコメンデーションの対象となるようレコメンデーションシステムを調整すると述べた。\nSnapchatはブログ投稿で、Spotlightに次のことを望んでいると表明した。"
-    },
-    {
-      "title": "Siri AI could come with a paywall for power users",
-      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-07-31T16:08:18",
-      "title_ja": "Siri AI にはパワー ユーザー向けのペイウォールが搭載される可能性があります",
-      "summary_ja": "Apple CEOのティム・クック氏は、ユーザーがAppleの既存のiCloud+サブスクリプションを通じてSiri AI用のコンピューティングをさらに購入できるようになると構想している。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
-      "body_ja": "AppleのCEOとしての最後の決算会見で、ティム・クック氏は、同社の待望のSiri AIアップグレードには、ペイウォールによる制限が課せられる可能性があると述べた。クック氏は、これらの計画が固まっていないことを認めながらも、拡張クラウドストレージを提供する既存の iCloud+ サブスクリプションを通じて、ユーザーが Siri AI 用のコンピューティングをさらに購入できるようになると構想している。\n「（Siri AIを）たくさん使いたい人がいると信じているので、何らかのアップグレードを行うつもりです」"
     },
     {
       "title": "The Download: Montana’s new experimental drug rules",
@@ -301,83 +378,6 @@
       "body_ja": "生成AIによるコード生成が広がる一方で、レガシー環境の刷新はAIの適用が難しい領域だ。IBMは、IBM Bobにレガシー環境向けの専用パッケージを追加することで、同領域における自動化に踏み込む。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\nIBMはこのほど、エンタープライズ向けのAI開発支援ツール「IBM Bob」の新機能を発表した。柱の一つは、メインフレーム「IBM Zシリーズ」や統合プラットフォームの「IBM i」、Javaといったレガシー環境のモダナイゼーションを支援する事前構築済みの専用ワークフローだ。同時に、複数のAIエージェントを連携させるマルチエージェント機能や、AIの利用状況とコストを可視化する分析機能も追加した。\n開発現場ではコード生成だけでなく、より大規模で複雑な業務にAIを適用する動きが広がっている。レガシーアプリケーションの刷新やモダナイゼーションがその例だ。IBMは、作業の進め方によってAIの成果物の品質がバラつきやすく、複数の工程にまたがるプ"
     },
     {
-      "title": "キオクシアQ1、純利益が前年同期比4500％増　株式分割・自社株買いも",
-      "url": "https://www.itmedia.co.jp/news/article/2607/31/2000000336/",
-      "summary": "キオクシアホールディングス（HD）が7月31日に公開した2027年3月期第1四半期（26年4月1日?6月30日）連結決算は、売上収益が1兆7671億1700万円（前年同期比415.5％増）、営業利益が1兆2700億1700万円（同2728.6％増）、純利益が8421億6500万円（同4506.6％増）と大幅な増収増益だった。AIサーバを巡るNAND需要の拡大が業績をけん引した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-31T08:16:03",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2607/31/2000000336/10001647/2048",
-      "body_ja": "Share\n    \nキオクシアQ1、純利益が前年同期比4500％増 株式分割・自社株買いも\n                                公開\n                                    \n                            \n                        キオクシアホールディングス（HD）が7月31日に公開した2027年3月期第1四半期（26年4月1日～6月30日）連結決算は、売上収益が1兆7671億1700万円（前年同期比415.5％増）、営業利益が1兆2700億1700万円（同2728.6％増）、純利益が8421億6500万円（同4506.6％増）と大幅な増収増益だった。AIサーバ向けを中心としたNAND需要が拡大したほか、出荷量の増加や為替の改善も加わって業績をけん引した。\n同日に株式分割も発表した。9月30日を基準日として、現在の1株を3株に分割する。8月30日から10月30日にかけて、最大8"
-    },
-    {
-      "title": "キオクシアQ1決算、純利益は前年比4500％増　AIデータセンター向け需要がけん引",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000335/",
-      "summary": "半導体大手のキオクシアホールディングスは、2027年3月期第1四半期決算（26年4月1日?6月30日、国際会計基準）の純利益が8421億6500万円で、前年同期比4506％増だったと発表した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-31T07:33:45",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2607/31/2000000335/10001644/2048",
-      "body_ja": "Share\n    \nキオクシアQ1決算、純利益は前年比4500％増 AIデータセンター向け需要がけん引\n                                公開\n                                    \n                            \n                        半導体大手のキオクシアホールディングスは7月31日、2027年3月期第1四半期決算（26年4月1日～6月30日、国際会計基準）の純利益が8421億6500万円で、前年同期比4506％増だったと発表した。AIデータセンター向けの需要がけん引した。\n同決算の売上は1兆7671億1700万円（前年同期比416％増）、営業利益が1兆2700億1700万円（同2729％増）でいずれも過去最高だった。\n決算短信（1/2）｜決算短信\n決算短信（2/2）｜決算短信\nCopyright © ITmedia, Inc. All Rights Reserved"
-    },
-    {
-      "title": "研究者10万人にOpenAI「最上位モデル」無料提供へ　日本でも東大、京大など15大学が対象",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000333/",
-      "summary": "OpenAIが学術研究者10万人に「ChatGPT」の最上位モデルを無料提供するプログラムを発表した。今夏に1万人から提供を始め、2027年までに10万人規模へ拡大する。日本でも東京大学、京都大学、東京科学大学、早稲田大学、慶應義塾大学など15の大学が対象機関となっている。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-31T06:57:22",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2607/31/2000000333/10001635/2048",
-      "body_ja": "研究者10万人にOpenAI「最上位モデル」無料提供へ 日本でも東大、京大など15大学が対象\n米OpenAIは7月29日（現地時間）、学術研究者に同社の最上位モデルへの無料アクセスを提供するプログラム「ChatGPT for Academic Researchers」を始めると発表した。今夏に1万人への提供を始め、2027年までに10万人規模へ拡大する計画だ。日本でも東京大学、京都大学、東京科学大学、早稲田大学、慶應義塾大学など15の大学が対象機関となっている。\n対象は科学・数学・工学分野の研究者。「Pro」「Enterprise」プラン限定で利用できる「GPT-5.6 Sol Pro」を含む最上位モデル群を、ChatGPTや「ChatGPT Work」、コーディングエージェント「Codex」で利用できる。「GPT-5.6 Sol」は数学ベンチマーク「FrontierMath Tier 4」で「Claude Fable 5」に次ぐ性能を示し、生物学ベンチマーク「GeneBench Pro"
-    },
-    {
-      "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに　Claude CodeやCodexを監視",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
-      "summary": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-31T02:18:22",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2607/31/2000000325/10001595/2048",
-      "body_ja": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに Claude CodeやCodexを監視\n米Perplexityは7月29日（現地時間）、AIエージェントの危険な挙動を検知・防止するセキュリティツール群「Numbat」をオープンソースで公開した。「Claude Code」や「Codex」といった主要なコーディングエージェントの挙動を監視し、危険な操作を実行前にブロックできる。macOS、Linux、Windowsに対応する。\n背景には、悪意ある攻撃者がいなくても、タスクの達成に執着したエージェント自身が攻撃者と化す懸念がある。研究者らはこれを「アクシデンタル・メルトダウン」と呼んでおり、PerplexityはOpenAIのモデルが性能評価中に米Hugging Faceの本番環境へ侵入した事件をその代表例に挙げ、モデル側の対策だけでなく、エージェントが動作するエンドポイント側で危険な操作をブロックする対策が必要だと指摘した。\nNumbatは、エージェントの行動"
-    },
-    {
-      "title": "Thinking Machines、軽量モデル「Inkling-Small」正式公開　サイズ4分の1で「Inkling」に匹敵する性能",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000326/",
-      "summary": "Thinking Machines Labは、オープンウェイトのAIモデル「Inkling-Small」の正式版を公開した。従来モデルの4分の1のサイズながら、データの改良や強化学習によりコード生成などのベンチマークで従来版を上回る性能を実現。動作に必要なGPUメモリも大幅に削減されており、Hugging Face等で入手できる。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-31T02:16:53",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2607/31/2000000326/10001593/2048",
-      "body_ja": "Thinking Machines、軽量モデル「Inkling-Small」正式公開 サイズ4分の1で「Inkling」に匹敵する性能\n米OpenAIの元CTO、ミラ・ムラティ氏率いる米Thinking Machines Labは7月30日（現地時間）、オープンウェイトのAIモデル「Inkling-Small」を公開した。7月15日に発表した同社初のモデル「Inkling」の4分の1のサイズで、同等の性能を実現したとしている。Apache 2.0ライセンスの下、全ウェイトをHugging Faceで公開した。Inkling発表時にプレビュー版を公開しており、今回が正式版の公開となる。\nInkling-Smallは総パラメータ数2760億、アクティブパラメータ数120億のMoE（Mixture-of-Experts）型Transformerで、米NVIDIAの「GB300 NVL72」システムで学習した。Inklingと同様に音声と画像をネイティブに扱えるマルチモーダルモデルで、最大100"
-    },
-    {
-      "title": "Chromeに13年以上潜んでいた脆弱性、AIで発見　直近2回のアプデで過去23回分を上回るバグ修正",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/",
-      "summary": "GoogleがChromeのセキュリティ対策へのAI活用を公式ブログで解説。Geminiベースのエージェントが13年以上潜んでいた脆弱性を発見した。AI攻撃の高速化に対応し、セキュリティ更新「週2回」配信も試行する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-31T02:03:59",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2607/31/2000000323/10001586/2048",
-      "body_ja": "Chromeに13年以上潜んでいた脆弱性、AIで発見 直近2回のアプデで過去23回分を上回るバグ修正\nAIがChromeに13年以上潜んでいた脆弱（ぜいじゃく）性を発見――米Googleは7月30日（現地時間）、Webブラウザ「Google Chrome」（以下、Chrome）のセキュリティ対策として、脆弱性の発見や検証、修正などの各工程をAIで自動化する取り組みを公式ブログで公開した。この取り組みにより、直近2回の修正リリースでは1072件のセキュリティバグを修正し、過去23回の合計を上回った。2月にはGoogleのAI「Gemini」を活用したエージェントが、13年以上コードベースに潜んでいた脆弱性も発見したという。\nChromeのセキュリティチームは26年初めに脆弱性発見エージェントを構築。Googleはこのエージェントがコードベースに13年以上潜んでいた脆弱性を発見した際に「AIによる脆弱性検出の可能性を確信した」とし、オープンモデルの活用や知識ベースの拡充などの改良を加えた。"
-    },
-    {
-      "title": "スクエニ、ゲームの品質テストをGeminiで自動化　AIが画面を見ながらコントローラーを操作、検証作業を自走",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
-      "summary": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-07-31T01:43:41",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2607/31/2000000322/10001577/2048",
-      "body_ja": "スクエニ、ゲームの品質テストをGeminiで自動化 AIが画面を見ながらコントローラーを操作、検証作業を自走\nスクウェア・エニックスが、ゲームの品質を検証するQAテストの自動化に米GoogleのAI「Gemini」を活用している。同社の荒牧岳志氏（AI＆エンジン開発ディビジョン ジェネラル・マネージャー）が7月30日、「Google Cloud Next Tokyo '26」の基調講演で披露した。AIがゲーム画面を見て状況を把握し、コントローラーを自動で操作。検証作業を自ら考えて進めるという。\n講演ではゲームの自動プレイ動画を公開。テストのタスクに沿ってAIが自らゲーム内の地図を開いて場所を確認し、キャラクターを動かして検証を進めた。画面にはAIの思考過程やタスクリストも表示された。\n開発基盤としてGoogle Cloudの「Gemini Enterprise Agent Platform」（旧「Vertex AI」）を採用。荒牧氏によれば、GoogleのマルチモーダルAIが既にゲーム開"
-    },
-    {
       "title": "Montana’s plan to become an experimental medical hub just pushed forward",
       "url": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
       "summary": "As of this week in Montana, any biotech company with an experimental drug has a clear path to selling it to consumers. Companies whose drugs have been through preliminary testing—sometimes in as few as 10 healthy people—can pay $12,500 to apply to a newly established review board for approval. Once ",
@@ -388,7 +388,7 @@
       "title_ja": "実験的な医療拠点となるというモンタナ州の計画が前進しました |9月|モンタナ州では今週の時点で、実験薬を開発しているバイオテクノロジー企業は、それを消費者に販売するための明確な道筋を持っている。医薬品が予備試験を通過している企業—",
       "summary_ja": "",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/montana-treatments2.jpg?resize=1200,600",
-      "body_ja": "モンタナ州の実験的医療拠点となる計画が前進した\n「試行する権利」を拡大する州の取り組みは進んでおり、最初の薬が見直されようとしている。\nモンタナ州では今週の時点で、実験薬を開発しているバイオテクノロジー企業は、それを消費者に販売するための明確な道筋を持っている。医薬品が予備検査（場合によっては10人程度の健康人を対象）を通過した企業は、新規設立の申請に1万2500ドルを支払うことができる"
+      "body_ja": "モンタナ州の実験的医療拠点となる計画が前進した\n「試行する権利」を拡大する州の取り組みは進んでおり、最初の薬が見直されようとしている。\nモンタナ州では今週の時点で、実験薬を開発しているバイオテクノロジー企業は、それを消費者に販売するための明確な道筋を持っている。医薬品が予備検査（場合によっては10人程度の健康人を対象）を通過した企業は、新規設立に申請するために1万2500ドルを支払うことができる"
     },
     {
       "title": "AIエージェントの選び方！5つの比較軸と失敗パターンを解説",
@@ -438,7 +438,7 @@
       "title_ja": "見過ごされてきた地熱発電所がいかにして二度目のチャンスを掴んだのか",
       "summary_ja": "2024 年 6 月、ザンスカールという中小企業が、急速に故障していたニューメキシコ州の地熱発電所を購入しました。地下貯水池から来る水は冷たくなってきました",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/Lightning-Dock-NM-Zanskar.jpg?resize=1200,600",
-      "body_ja": "見過ごされてきた地熱発電所が二度目のチャンスを掴んだ方法\n地熱スタートアップのザンスカールがニューメキシコ州の発電所を引き継ぎ復活させた\n2024 年 6 月、ザンスカールという中小企業が、急速に故障していたニューメキシコ州の地熱発電所を購入しました。地下貯水池から来る水は日ごとに冷たくなり、プラントを稼働させるのは不経済になりました。\n2 年後の今、その工場は新しいシステムのおかげで再びフル稼働で稼働しています。"
+      "body_ja": "見過ごされてきた地熱発電所が二度目のチャンスを掴んだ方法\n地熱スタートアップのザンスカールがニューメキシコ州の発電所を引き継ぎ復活させた\n2024 年 6 月、ザンスカールという中小企業が、急速に故障していたニューメキシコ州の地熱発電所を購入しました。地下貯水池から来る水は日ごとに冷たくなり、プラントを稼働させるのは不経済になりました。\n2 年後の今、そのプラントは新しいシステムのおかげで再びフル稼働で稼働しています。"
     },
     {
       "title": "The Download: a chip talent battle, and deflating AI hype",
@@ -451,7 +451,7 @@
       "title_ja": "ダウンロード: チップ人材の戦い、そして萎縮する AI 誇大宣伝",
       "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。サムスンのチップ従業員はひどい",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
-      "body_ja": "ダウンロード: チップ人材の争いと萎縮する AI の誇大広告\nさらに: OpenAI の不正エージェントが別の顧客を侵害しました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nサムスンのチップ従業員がライバルのSKハイニックスに飛びついている\nサムスンの半導体部門のエンジニアであるリーさんは、いつも遅くまで働いていました。でも最近、彼は定時で退社し、真っすぐに向かっていくようになりました。"
+      "body_ja": "ダウンロード: チップ人材の争いと萎縮する AI の誇大宣伝\nさらに: OpenAI の不正エージェントが別の顧客を侵害しました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nサムスンのチップ従業員がライバルのSKハイニックスに飛びついている\nサムスンの半導体部門のエンジニアであるリーさんは、いつも遅くまで働いていました。でも最近、彼は定時で退社し、真っすぐに向かっていくようになりました。"
     },
     {
       "title": "The AI Hype Index: Unsexy AI",
@@ -487,10 +487,10 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-07-28T09:18:57",
-      "title_ja": "サムスンのチップ従業員がライバルの SK ハイニックスに飛びついている",
+      "title_ja": "サムスンのチップ従業員がライバルのSKハイニックスに飛びついている",
       "summary_ja": "サムスンの半導体部門のエンジニアであるリーさんは、勤務が終わると退勤する。彼はかつて、自分のプロジェクトで優れた成果を出すために、より長い時間働いていました。でも最近の彼は、",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/07/chip-money.jpg?resize=1200,600",
-      "body_ja": "サムスンのチップ従業員がライバルのSKハイニックスに飛びついている\nAI チップの将来をめぐる戦いが展開されるにつれ、優秀な人材をめぐる争いも激化しています。\nサムスンの半導体部門のエンジニアであるリーさんは、勤務が終わると退勤する。彼はかつて、自分のプロジェクトで優れた成果を出すために、より長い時間働いていました。しかし最近、彼は半導体メーカーの韓国のライバルであるSKハイニックスへの求職活動に取り組むために真っすぐ家に帰ってきて、こう語った。"
+      "body_ja": "サムスンのチップ従業員がライバルのSKハイニックスに飛びついている\nAI チップの将来をめぐる戦いが展開されるにつれ、優秀な人材をめぐる争いも激化しています。\nサムスンの半導体部門のエンジニアであるリーさんは、勤務が終わると退勤する。彼はかつて、自分のプロジェクトで優れた成果を出すために、より長い時間働いていました。しかし最近、彼は半導体メーカーの韓国のライバルであるSKハイニックスへの求職申請書を作成するためにまっすぐ家に帰ってきて、こう語った。"
     },
     {
       "title": "AIエージェントのセキュリティリスクとは？事例から学ぶ実践的な対策まで解説",
@@ -581,6 +581,6 @@
       "body_ja": "経営層から「うちも生成AI研修を導入しよう」と指示されたものの、何を基準に研修会社を選べばよいのか迷っている方も多いのではないでしょうか。\n選定基準を誤ると、費用をかけても現場でほとんど使われず、一過性のイベントで終わってしまうでしょう。対象層・研修形式・目的の3つの視点で選べば、自社に合った研修を効率よく絞り込めます。\n本記事では、法人向け生成AI研修の選び方とおすすめ10社の比較を中心に、費用相場と助成金の活用法、研修が定着しない4つの原因まで解説しています。順に確認していきましょう。\n読み終える頃には、自社の目的に合った研修を選定でき、経営層に説明できる具体的な検討材料を得られます。\n生成AI研修の選び方は3つの視点で決まる\n自社に合った法人向け生成AI研修を選ぶための視点は、以下の3つです。\n- 対象層で選ぶ\n- 研修形式で選ぶ\n- 研修の目的で選ぶ\n3つの視点を押さえておくと、複数社を比較するときの判断基準がぶれません。\n対象層で選ぶ\nまず確認すべきは、経営層・管理職・一般社員"
     }
   ],
-  "last_updated": "2026-08-02T07:52:48.208888+09:00",
+  "last_updated": "2026-08-03T07:53:15.678871+09:00",
   "count": 50
 }
