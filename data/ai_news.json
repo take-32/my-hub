@@ -1,6 +1,262 @@
 {
   "articles": [
     {
+      "title": "「Qwen3.8-27B」ウェイト公開　一部「Opus 4.6 Max」超えか　ライセンスは商用可のApache 2.0",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
+      "summary": "中国Alibaba傘下のAlibaba Cloudが、AIモデル「Qwen3.8-27B」のウェイト（重み）を公開した。Hugging FaceとModelScopeからダウンロード可能で、商用利用もできるライセンス「Apache 2.0」で提供する。一部のベンチマークでは、米Anthropicの「Claude Opus 4.6」の推論エフォート最大（以下、Opus 4.6 Max）を上回るスコアをうたっている。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-14T17:26:12",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/15/2000000554/10002735/2048",
+      "body_ja": "「Qwen3.8-27B」ウェイト公開 一部「Opus 4.6 Max」超えか ライセンスは商用可のApache 2.0\n中国Alibaba傘下のAlibaba Cloudは8月15日（日本時間）、AIモデル「Qwen3.8-27B」のウェイト（重み）を公開した。Hugging FaceとModelScopeからダウンロード可能で、商用利用もできるライセンス「Apache 2.0」で提供する。一部のベンチマークでは、米Anthropicの「Claude Opus 4.6」の推論エフォート最大（以下、Opus 4.6 Max）を上回るスコアをうたっている。\nQwen3.8-27Bは、4月に公開した「Qwen3.6-27B」の後継にあたるモデル。パラメータ数は270億で、GPU1枚を積んだデスクトップPCなど、ローカル環境でも動かせる規模に収めている。米Unslothは、量子化版なら16GB以上のVRAMやメモリで実行できると案内している。\n画像や動画を入力できるマルチモーダルモデルで、ST"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-14T16:13:40",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-14T15:43:28",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800"
+    },
+    {
+      "title": "RTX 5080搭載PCも最大81,000円引き！ 24時間限定セールを見逃すな",
+      "url": "https://ascii.jp/elem/000/004/426/4426535/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512441/s/d75aa4151ec797b6.png\" width=\"60\" />パソコンショップSEVENが8月15日限定で24時間セールを開催。最新ゲーミングPCやデスクトップPCが最大81,000円オフ。Ryzen 9・GeForce RTX 5080搭載モデルをはじめ、お買い得な対象10モデルの価格や注目モデルを紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/13/4512441/s/d75aa4151ec797b6.png"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-14T14:50:11",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Kog-CEO-Gael-Dellalleau-at-AMD-AI-DevDay.jpg?resize=1200,800"
+    },
+    {
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-14T14:05:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800"
+    },
+    {
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-14T14:00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800"
+    },
+    {
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwid",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-08-14T12:17:21",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600"
+    },
+    {
+      "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に　Mac版デスクトップアプリで提供",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000548/",
+      "summary": "OpenAIが「ChatGPT」「Codex」の新機能「Computer History」を発表。アプリやWebサイトの操作履歴を記録し、記憶とタイムラインとしてチャットで利用できる。Mac版デスクトップアプリで提供する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-14T11:33:51",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/14/2000000548/10002683/2048",
+      "body_ja": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に Mac版デスクトップアプリで提供\nPCの操作履歴を記録、AIが利用可能に――米OpenAIは8月13日（現地時間）、「ChatGPT」と「Codex」がPCの操作履歴をコンテキストとして利用できる新機能「Computer History」を発表した。\nアプリやWebサイトでの活動を記録し、「休憩前に何をしていた？」「昨日の作業を要約して」といった指示に、改めて状況を説明しなくても応えられるようになる。\nComputer Historyは、スクリーンショットで操作履歴を記録するリサーチプレビュー機能「Chronicle」の後継機能。記録するのはクリックや文字入力、アプリの切り替えといった操作イベント。スクリーンショットや画面収録、音声、プライベートモードでのWebサイト閲覧履歴は取得しない。繰り返しの作業を検知すると、スキルや自動化としての再利用も提案する。\nユーザーは記録対象のアプリやWebサイトを選択・除外でき、メニュ"
+    },
+    {
+      "title": "12万円台でOfficeも2年使えるビジネスノートPCを発見！ Core 5＆メモリ16GBの「IdeaPad Slim 3」タイムセール中",
+      "url": "https://ascii.jp/elem/000/004/426/4426700/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/14/4512797/s/efe0308531d692b3.jpg\" width=\"60\" />LenovoのノートPC「IdeaPad Slim 3（83RR00BYJP）」がAmazonタイムセール対象。参考価格184,800円のところ、32％オフの124,780円で販売中。Core 5 320と16GBメモリーを備え、Microsoft 365 Personal（24か月版）も搭載する15.3型ノートPCだ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/14/4512797/s/efe0308531d692b3.jpg"
+    },
+    {
+      "title": "座っても邪魔にならないサイドファン仕様が便利！ 山善のファン付きベスト「カゼフィット」が12％オフ",
+      "url": "https://ascii.jp/elem/000/004/426/4426666/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512637/s/1c529be2d4b1ca32.jpg\" width=\"60\" />山善のファン付きベスト「カゼフィット」がAmazonで割引対象。参考価格11,980円のところ、12％オフの10,537円で販売中。座っても邪魔にならないサイドファンを採用し、脇下には保冷剤ポケットも備えている。暑さ対策の選択肢に加えたい一着だ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/13/4512637/s/1c529be2d4b1ca32.jpg"
+    },
+    {
+      "title": "890円の全部のせ！ ほっともっと「牛キャベ丼」に3種トッピングどーん",
+      "url": "https://ascii.jp/elem/000/004/426/4426735/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/14/4512904/s/8560ffb3e1054c82.jpg\" width=\"60\" />ほっともっとでは「牛キャベ丼」（590円）を8月21日より発売します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T10:05:00",
+      "image_url": "https://ascii.jp/img/2026/08/14/4512904/s/8560ffb3e1054c82.jpg"
+    },
+    {
+      "title": "パソコン買い替えなら要注目！ FMV直販の「目玉品」は、とってもお買い得！",
+      "url": "https://ascii.jp/elem/000/004/426/4426630/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
+    },
+    {
+      "title": "「まだJKぜんぜんイケるじゃん！」　大泉 凜が制服＆雪原で大はしゃぎする2nd DVDの魅力を語る",
+      "url": "https://ascii.jp/elem/000/004/426/4426288/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/10/4511777/s/dd69a64dd4deaba7.jpg\" width=\"60\" />キャピキャピした可愛い女の子に見えて、本音は包み隠さずにしゃべるキャラクターが話題の大泉 凜さんが、2nd DVD「雪とおりんとキミと」の発売記念イベントを7月26日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/10/4511777/s/dd69a64dd4deaba7.jpg"
+    },
+    {
+      "title": "KJ TECH japanから日本専用顔認証機器販売開始",
+      "url": "https://ascii.jp/elem/000/004/426/4426833/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />KJ TECH japanから日本専用顔認証機器販売開始</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T09:42:49",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "ノートン(TM)「アジアポートフェスティバル in KANMON 2026 関門海峡花火大会」にて行われたドローンショーへ協賛",
+      "url": "https://ascii.jp/elem/000/004/426/4426834/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />ノートン(TM)「アジアポートフェスティバル in KANMON 2026 関門海峡花火大会」にて行われたドローンショーへ協賛</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T09:04:41",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged,",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-08-14T09:00:00",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600"
+    },
+    {
+      "title": "Job titles of the future: Space travel agent",
+      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman &#38; Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an N",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-08-14T09:00:00",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?resize=1200,600"
+    },
+    {
+      "title": "Cloning could be used to save species—or make human “organ sacks”",
+      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, excep",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-08-14T09:00:00",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/clone-mice.jpg?resize=1200,600"
+    },
+    {
+      "title": "おっ、FMVの小型ノートPCが10万円台！ 直販サイト「FMV STORE」に注目！",
+      "url": "https://ascii.jp/elem/000/004/426/4426627/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png"
+    },
+    {
+      "title": "「窓の拭き掃除」が面倒だったので自動化した男の話。いまや、俺の窓は“常にピカピカ”だ。",
+      "url": "https://ascii.jp/elem/000/004/426/4426602/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512498/s/e568d5ecbc515d1d.jpg\" width=\"60\" />年に1回の大掃除の時ですら面倒な、窓拭きという苦行。できれば卒業したいですよね。でも、窓掃除ロボットさえあれば、全部おまかせできちゃうのです！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-14T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/13/4512498/s/e568d5ecbc515d1d.jpg"
+    },
+    {
+      "title": "GPT-5.6 Solの「超高速モード」ついに実装　「品質損なわず14倍高速」うたう",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000545/",
+      "summary": "CerebrasとOpenAIは「GPT-5.6 Sol」の高速版「Ultrafastモード」を発表。毎秒最大750トークンを出力し、「品質を損なわず最大14倍高速」とうたう。OpenAIのAPIで限定プレビューを開始した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-14T07:32:48",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/14/2000000545/10002662/2048",
+      "body_ja": "GPT-5.6 Solの「超高速モード」ついに実装 「品質損なわず14倍高速」うたう\nAI向けの計算基盤を提供する米Cerebrasは8月13日（現地時間）、米OpenAIと共同で、AIモデル「GPT-5.6 Sol」を高速で動作させる「Ultrafastモード」を発表した。Cerebras製のAI専用チップで推論することで、標準モードと比べ「品質を損なわずに最大14倍高速」とうたう。\nCerebrasによると生成速度は毎秒750トークン。AIの性能評価を手掛ける米Artificial Analysisの報告値との比較で、米Anthropicの「Claude Fable 5」（以下、Fable 5）の11倍だという。各分野の難易度の高い専門知識を問うベンチマーク「Humanity's Last Exam」では、全2500問の回答にFable 5が78時間27分かけたのと同等の精度を、約7分の1に当たる11時間11分で達成した。\n高速化を支えるのは、ウェハ1枚を丸ごと1個のプロセッサとして"
+    },
+    {
+      "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も　Anthropicがマルチエージェント実験の結果を公開",
+      "url": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
+      "summary": "Anthropicは、複数のAIエージェントが同じ環境で働くとどうなるかを検証した実験結果を公開した。互いを妨害し合う“縄張り争い”や、示し合わせたような価格カルテル、全員が同じ判断をして資源を食い潰す現象などが確認された。個々のAIを安全にするだけでは防げない問題があると警告している。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-14T00:51:06",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/14/2000000538/10002611/2048",
+      "body_ja": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開\n米Anthropicは8月13日（現地時間）、複数のAIエージェントが同じ環境で協働・競合する「マルチエージェントシステム」の実験結果と考察を公開した。危険性の検証を担う社内チーム「Frontier Red Team」がまとめたもので、エージェント同士のやり取りが人間同士のやり取りを上回る規模になる前に、何が起きるのかを知っておく必要があるとしている。\n同社はこれまでも、AIに実店舗を運営させた「Project Vend」や、従業員の私物をAIエージェント同士で交渉、売買させた「Project Deal」など、AIを経済的な主体として動かす実験を重ねてきた。今回はそこから一歩進み、エージェント同士が直接ぶつかる場面に焦点を当てている。\nうまくいく協調、いかない協調\n協調が有効に働いた例もある。45体のエージェントにそれぞれ仮想マシンと共有掲示板を与え、15件のオープンソースソ"
+    },
+    {
+      "title": "南海電鉄「数カ月かかった乗務員計画」が1週間に　「量子コンピュータを疑似再現」で鉄道現場はどう変わる？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html",
+      "summary": "南海電気鉄道と日立製作所は、日立独自技術「CMOSアニーリング」を活用し、鉄道の乗務員・車両の運用計画を自動作成するシステムの構築を始める。熟練者の手作業に依存してきた計画づくりを自動化し、業務負荷の軽減を図る。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-13T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2608/14/cover_news043.jpg",
+      "body_ja": "南海電気鉄道と日立製作所は、日立独自技術「CMOSアニーリング」を活用し、鉄道の乗務員・車両の運用計画を自動作成するシステムの構築を始める。熟練者の手作業に依存してきた計画づくりを自動化し、業務負荷の軽減を図る。\n南海電気鉄道（以下、南海電鉄）と日立製作所（以下、日立）は2026年7月14日、日立の独自技術「CMOSアニーリング」（量子コンピュータを疑似的に再現する技術）を活用し、鉄道の乗務員運用計画および車両運用計画を自動で作成、評価するシステムの構築を開始すると発表した。\n同システムは、これまで熟練者の知見と手作業に依存していた乗務員の配置計画と、列車ダイヤに基づく車両の割り当てや循環計画を自動作成する。CMOSアニーリングは、多くの制約条件を同時に考慮しながら最適な組み合わせを短時間で導き出すことを得意とする。\n2025年度に南海線で実施した効果検証では、従来数カ月かかっていた乗務員運用計画の作成を約1週間に、従来約20日間かかっていた車両運用計画の作成を数日程度に、それぞれ短縮で"
+    },
+    {
+      "title": "データセンターが“アツい”――「潜入レポート」「フジクラ取材」など注目記事5選（2026年前半版）",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/14/news040.html",
+      "summary": "データセンターが“ホットなテーマ”だ。AI時代のデータセンターとは一体どのようなものなのか。潜入記事やフジクラ取材記事など、お薦め記事をまとめた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-13T22:30:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2608/14/cover_news040.jpg",
+      "body_ja": "ITmedia ビジネスオンラインでは、日々多くの記事を掲載しています。読み応えのある「取材記事」、時事性のある話題を追う「ニュース記事」、押さえるべきビジネストピックを識者が詳説する「解説記事」――これらの中から、注目の記事テーマを絞ってお届けします。\nいま、データセンターが“アツい”――。AIブームを受けて、データセンターの新設や拡張が相次いでおり、光ファイバーなどの部材を手掛ける企業が「データセンター銘柄」として注目されるなど“ホットな市場”になっています。\nもう一つ、注目されている「熱」が、データセンターの「排熱」です。AI用サーバに搭載された半導体は、計算処理時に多くの熱を生みます。冷却のために多くの電力が必要とされ、電力インフラにも注目が集まっています。\nITmedia ビジネスオンラインでも、2026年前半に公開したデータセンター関連記事が好評でした。特にお薦めの記事をまとめて紹介します。\n話題のデータセンター。その内部はどうなっているのでしょうか？ 千葉県印西市に開業した"
+    },
+    {
       "title": "“梅干し職人”のためツール自作　老舗漬物店のClaude活用、「チャット+コピペ」で成果を出せたワケ",
       "url": "https://www.itmedia.co.jp/business/articles/2608/14/news053.html",
       "summary": "明治創業の老舗漬物店が、AI活用で成果を出している。Claudeを活用して「梅干し職人向けツール」などを開発。PCが苦手な人にも使いやすいツールをどのように作っているのか。",
@@ -23,16 +279,6 @@
       "body_ja": "JR東海道本線の小田原駅。改札口の頭上につり下げられた「小田原駅大提灯（ちょうちん）」をくぐり、相模湾に向かって歩くと「小田原城」が見えてくる。箱根の玄関口ということもあり、街の大通りは観光客で活況を呈している。\nにぎわう小田原駅前に、梅干し専門店「ちん里う本店」（ちんりう本店）がある。創業は1871年（明治4年）。歴史ある同社だが、一時は経営不振に陥っていた。お中元やお歳暮の市場が縮小し、主要な販路であった百貨店での販売も低迷。2000年代初頭から売り上げが約55％も落ち込んでいたのだ。\n厳しい経営状況を立て直したのが、ドイツ出身のゾェルゲル・ニコラさん（常務取締役）だ。日本の食文化は海外でニーズがある――こう読んだ同氏は「ネット通販」「海外販路の拡大」に打って出た。当初は社内から「あり得ない」という声が上がったというが、ゾェルゲルさんの狙いは大当たり。ECサイトの売り上げが伸び続け、取り扱う商品数は8000点にまで拡大した。\nしかし、新たな問題が起こる。従業員が手作業で対応していた「"
     },
     {
-      "title": "警察官がストーカー目的で悪用、米車両監視大手の規則強化は効くか",
-      "url": "https://ascii.jp/elem/000/004/426/4426701/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />米国の警察向けテクノロジー大手フロックは、全米12万台のカメラで車両の位置情報を収集し、警察に検索させている。だが最近、警察官がこの技術を交際相手のストーキングに悪用した事例が46件確認された。同社は検索時に事件番号の入力を義務付けるなどの対策を発表したが、本当に悪用を防げるのか。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T21:54:46",
-      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
-    },
-    {
       "title": "Google、「Gemini 3.7 Flash」公開　年内は半額の導入価格",
       "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
       "summary": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
@@ -44,16 +290,6 @@
       "body_ja": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格\n米Googleは8月13日（現地時間）、Geminiの「Flash」シリーズに新モデル「Gemini 3.7 Flash」（以下、3.7 Flash）を追加すると発表した。コーディングとエージェント用途で「これまでで最も知的な主力モデル」と位置付ける。前モデル「Gemini 3.6 Flash」の発表からわずか3週間での投入で、開発者からのフィードバックとアルゴリズム面の革新の成果だとしている。\n性能\n3.7 Flashは、デバッグや課題解決などのコーディングタスクで3.6 Flashを上回るとしている。Cognitionの「FrontierCode 1.1 Main」で43.6％（3.6 Flashは34.4％）、Datacurveの「DeepSWE v1.1」で65.3％（同49.0％）を記録した。\nWeb開発では、より少ないプロンプトで機能の整ったレイアウトやアプリを生成できるという。スクリーンショットや"
     },
     {
-      "title": "記録ずくめの猛暑の夏、しかし本番は来年かもしれない",
-      "url": "https://ascii.jp/elem/000/004/426/4426698/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />画像クレジット:Dominika Zarzycka/NurPhoto via AP Images</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T21:22:08",
-      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
-    },
-    {
       "title": "Writer introduces new AI model and upgraded harness to contain token costs",
       "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
       "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
@@ -61,8 +297,6 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-13T21:13:24",
-      "title_ja": "ライターは、トークンコストを抑えるために新しい AI モデルとアップグレードされたハーネスを導入します |9 月| Z.aiのオープンソースモデルGLM-5.2のトレーニング後のバリエーションとして構築された新システムは、導入にすぐに使える機能をはるかに低価格で提供するはずだとWriter氏は言う。",
-      "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800"
     },
     {
@@ -73,8 +307,6 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T21:00:00",
-      "title_ja": "ラウンドテーブル: 米国政策を形作る「検閲と産業の複合体」のアイデアの内部",
-      "summary_ja": "「検閲と産業の複合体」とは、政府、テクノロジー、研究グループのネットワークが協力して保守主義を抑圧しているという考えです",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/August.26_Roundtables_Thumb.png?resize=1200,600"
     },
     {
@@ -85,8 +317,6 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-13T20:14:39",
-      "title_ja": "Databricks は 10 億ドルの調達を希望し、投資家は 150 億ドルを望んでいました。 1,900億ドルの評価額で50億ドルに落ち着きました。 |9月| AIは高価である、とAli Ghodsi氏はTechCrunchに語った。非常に多くの投資家が彼の最新ラウンドに参加を希望しているため、彼は計画以上のことにイエスと答えた。",
-      "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200"
     },
     {
@@ -97,8 +327,6 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-13T19:22:40",
-      "title_ja": "OpenAI は、GPT-5.6 Sol を 14 倍の速度で動作させる新しいモード「Ultrafast」を導入",
-      "summary_ja": "OpenAI は、企業ユーザーにアピールするために、最新の最も強力なモデルの高速バージョンのプレビューを開始しています。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024"
     },
     {
@@ -109,8 +337,6 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-13T19:19:49",
-      "title_ja": "IBM が OpenAI と提携してエンタープライズ AI の推進を強化",
-      "summary_ja": "IBMはこの契約の一環として、OpenAIのテクノロジーに関して数万人のコンサルタントをトレーニングし認定する計画だ。",
       "image_url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024"
     },
     {
@@ -121,8 +347,6 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-13T18:28:14",
-      "title_ja": "人間設定の AI エージェントは同じタスクに取り組みます。彼らは縄張り争いを始めた。 |9月|人間学の研究者らは、AI エージェントが予想外の方法で衝突、共謀、連携する可能性があることを発見し、今日の安全性テストが複数の年齢層のリスクを捉えているかどうかについて新たな疑問を引き起こしている",
-      "summary_ja": "",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600"
     },
     {
@@ -133,67 +357,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T18:11:42",
-      "title_ja": "ポスト量子暗号への実用的な道を構築する",
-      "summary_ja": "量子コンピューティングは、技術界で画期的な人気と誇大宣伝の間を行き来してきました。その強力な新機能には、現在の暗号技術を破る脅威が伴います。",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg?resize=1200,600"
-    },
-    {
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-13T17:07:13",
-      "title_ja": "経営陣の刷新が続く中、OpenAI が新しい CRO を採用 |9 月| OpenAIは、就任わずか9か月で最高収益責任者のデニス・ドレッサー氏を交代し、Wizの社長兼最高執行責任者のダリ・ラジック氏をフロンティア・ラボの責任者に任命した。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675"
-    },
-    {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-13T15:30:52",
-      "title_ja": "Microsoft、個別の Copilot アプリを統合する際に、失敗した AI 機能を廃止",
-      "summary_ja": "Microsoftは消費者向けアプリとビジネスアプリを統合することでCopilotを簡素化し、AI生成のポッドキャスト、グループチャット、ディープリサーチ、そしてMicoキャラクターを廃止している。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675"
-    },
-    {
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-13T15:08:00",
-      "title_ja": "Nvidia の新しい 5,000 億ドルの計画は、特に老朽化した GPU にとって、リスクはあるものの素晴らしいものです",
-      "summary_ja": "Nvidia には、GPU の価値が失われないようにする計画があります。同社は、新たな投資家たちにAI開発への融資を継続するよう説得したいと考えている。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800"
-    },
-    {
-      "title": "ゲーミングPCが最大13.1万円オフ！ パソコンショップSEVENが8月14日限定セール開催",
-      "url": "https://ascii.jp/elem/000/004/426/4426438/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/12/4512148/s/a53a3bec1d483ac9.png\" width=\"60\" />パソコンショップSEVENが8月14日限定の24時間セールを開催。最新ゲーミングPCやBTOデスクトップPCが最大13万1,000円オフ、さらに送料無料で購入可能。RTX 5090搭載モデルなど全10機種のお得なセール情報を紹介します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/12/4512148/s/a53a3bec1d483ac9.png"
-    },
-    {
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-13T14:34:43",
-      "title_ja": "Apple、Siri に最新ニュースを提供するためにパブリッシャーに支払いを交渉中: レポート",
-      "summary_ja": "WSJによると、テクノロジー大手は支払いに9桁の予算を検討しているという。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800"
     },
     {
       "title": "中国DeepSeek、API料金を「最大12倍」に値上げ　ピーク時価格も導入　8月17日から",
@@ -214,30 +378,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T13:41:10",
-      "title_ja": "フロックは監視に対する反発の高まりに応じて規則を強化している",
-      "summary_ja": "警察技術大手フロックは本日、ナンバープレート読み取り装置の全国ネットワークへの警察官のアクセスを変更すると発表したが、これは明らかに増加する犯罪行為を鎮めるための取り組みである。",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600"
-    },
-    {
-      "title": "Google、「Gemini」開発遅延で焦りか　共同創業者ブリン氏が“全力投球”促す",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
-      "summary": "Google共同創業者ブリン氏が、AI部門の従業員に「Gemini」へ全力を注ぐよう促していたという。旗艦モデルは競合への後れで公開が2カ月延期。「再帰的自己改善」への資源配分も進めている。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-13T13:16:13",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/13/2000000529/10002574/2048",
-      "body_ja": "Google、「Gemini」開発遅延で焦りか 共同創業者ブリン氏が“全力投球”促す\n米Googleの共同創業者セルゲイ・ブリン氏が過去数カ月間、同社のAI部門の主要従業員に対してAIモデル「Gemini」に全力を注ぐように促していたことが分かった。事情に詳しい2人の関係者がロイターに明らかにした。\nブリン氏は4月に数百人の従業員に演説した際、Google傘下のAI開発企業Google DeepMindに対して開発を加速させるよう促したという。\nGeminiは2025年11月に競合他社のAIモデルに対して優位に立ったものの、米Anthropicと米OpenAIがそれぞれ自社製品をアップデートしたことで再び後れを取った。Googleは8月の時点ですでに、Geminiの旗艦製品の公開を2カ月延期している。複数の情報筋によれば、コーディングなどの性能で競合他社に後れを取っていることが社内試験で判明したためだ。\n【修正履歴：2026年8月13日22時13分 「8月に予定していたGeminiの旗艦"
-    },
-    {
-      "title": "「CAPO X Dual System Chassis」がオススメ！！配信者の為のPCケースだっ！　と一目でわかる巨大PCケースの存在感がスゴい：ソフマップ なんば店",
-      "url": "https://ascii.jp/elem/000/004/426/4426695/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512756/s/88bbc03d10b4b591.jpg\" width=\"60\" />Thermaltakeの大型デュアルシステムPCケース「CAPO X Dual System Chassis」を大阪・ソフマップなんば店のスタッフが紹介。2台のPCを一体化でき、配信者やゲーマーに最適な設計が特徴の巨大なフルタワーPCケースだ！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T12:30:00",
-      "image_url": "https://ascii.jp/img/2026/08/13/4512756/s/88bbc03d10b4b591.jpg"
     },
     {
       "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
@@ -247,59 +388,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T12:10:00",
-      "title_ja": "ダウンロード: AI と雄マウスの雌クローンについての子供たちの考え",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。 AI について子供たちはどう感じているか",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600"
-    },
-    {
-      "title": "ゲーミングマウスパッド「Pulsar Pro Series d4v41 Pad」がオススメ！！プロプレイヤーd4v41選手の悲願を実現。異色の表面加工を施したマウスパッドがマジ新感覚です！：PCワンズ",
-      "url": "https://ascii.jp/elem/000/004/426/4426694/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512728/s/93f84f5c0bd6de49.jpg\" width=\"60\" />大阪・日本橋のPCパーツショップ「PCワンズ」で、プロゲーマーd4v41選手と共同開発した表面に3D凸凹パターンを施した新感覚ゲーミングマウスパッド「Pulsar Pro Series d4v41 Pad」を紹介。滑りやすさと高いグリップ力を備え、サイズやカラーもこだわりの仕様。さらにKeychronの人気トラックボール「Nape Pro」も展示中。</p><br c",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/13/4512728/s/93f84f5c0bd6de49.jpg"
-    },
-    {
-      "title": "ただの風じゃ物足りない。冷却ミストを飛ばすモバイルクーラーが1万円台",
-      "url": "https://ascii.jp/elem/000/004/426/4426344/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/12/4512033/s/44c9a7eff59cf839.jpg\" width=\"60\" />LAViNOの「クールエアーミスト」がAmazonタイムセール対象。参考価格12,980円のところ、10％オフの11,681円で販売中。ペルチェ素子で冷やした水をミストにして送風する、コードレス仕様の小型クーラーだ。約1kgと軽く、持ち運んでスポット使用できる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/12/4512033/s/44c9a7eff59cf839.jpg"
-    },
-    {
-      "title": "【今年の本命は標準モデルのPixel 11!?】出っ張り大幅減を実際に確認！ 新Pixelの外観チェック",
-      "url": "https://ascii.jp/elem/000/004/426/4426693/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512736/s/a2238b947a204be1.jpg\" width=\"60\" />Androidスマホの本命「Pixel 11」シリーズの実機が一足先に編集部に到着。詳しいレポートは後ほどとして、外観写真に加えて、出っ張り部を確認。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T11:55:00",
-      "image_url": "https://ascii.jp/img/2026/08/13/4512736/s/a2238b947a204be1.jpg"
-    },
-    {
-      "title": "軽くて堅牢なモバイルノートPCを発見！ 独自素材ボディーに有機ELを詰め込んだ「Zenbook SORA」がタイムセール中",
-      "url": "https://ascii.jp/elem/000/004/426/4426376/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/12/4512097/s/46de98230f668636.jpg\" width=\"60\" />ASUSの14型ノートPC「Zenbook SORA（UX3407NA-GL16570BE）」がAmazonタイムセール対象。259,800円で販売中だ。約990gのボディーにSnapdragon X2 Eliteや16GBメモリ、512GB SSD、14型有機ELディスプレーを搭載。80TOPSのNPUも備える。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/12/4512097/s/46de98230f668636.jpg"
-    },
-    {
-      "title": "「ハイレグとローライズ」で新たなブームを！ 五百木いおの2nd DVDは、パワーアップした魅力が凝縮",
-      "url": "https://ascii.jp/elem/000/004/426/4426287/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/10/4511760/s/fcfb1f6023ab4580.jpg\" width=\"60\" />唯一無二の清楚感で圧倒的な人気を誇る五百木いおさんが、2nd DVD「すごいいお」の発売記念イベントを8月1日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T10:30:00",
-      "image_url": "https://ascii.jp/img/2026/08/10/4511760/s/fcfb1f6023ab4580.jpg"
     },
     {
       "title": "What’s behind this summer’s heat, and why 2027 could be worse",
@@ -309,19 +398,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T10:00:00",
-      "title_ja": "今年の夏の暑さの背後にあるもの、そして 2027 年がさらに悪化する可能性がある理由",
-      "summary_ja": "今年の夏は北半球のほとんどの地域で猛暑となった。 6月と7月は、ヨーロッパで記録が始まって以来最も暑い2か月連続となった。隣接する米国のエンドウ",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26217780042086.jpg?resize=1200,600"
-    },
-    {
-      "title": "最高のラストにふさわしい作品に！ 斎藤恭代が「前向きな一歩」でイメージDVD卒業へ",
-      "url": "https://ascii.jp/elem/000/004/426/4426196/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/10/4511463/s/e54819437e03869d.jpg\" width=\"60\" />圧倒的な美貌でグラビア界を席巻する斎藤恭代さんが、ラストBD＆DVD「君の名は永遠」の発売記念イベントを8月2日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-13T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/10/4511463/s/e54819437e03869d.jpg"
     },
     {
       "title": "How kids feel about AI, in their own words",
@@ -331,31 +408,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T09:00:00",
-      "title_ja": "子どもたちが AI についてどう感じているか、子どもたち自身の言葉で語る",
-      "summary_ja": "子どもたちに人工知能について話そうとしたとき、私たちは何を聞かれるかわかっていると思っていました。ミレニのように、ちょっとした不正行為に使っていると言う人もいるだろうと予想していました。",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600"
-    },
-    {
-      "title": "OpenAI「Codex」1500万ユーザー突破　利用制限リセット「/fastでどうぞ」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000525/",
-      "summary": "",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-13T02:39:02",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/13/2000000525/10002556/2048",
-      "body_ja": "Share\n    \nOpenAI「Codex」1500万ユーザー突破 利用制限リセット「/fastでどうぞ」\n                                公開\n                                    \n                            \n                        米OpenAI幹部のティボ・ソティオ氏は8月12日（現地時間）、Codexのアクティブユーザーが1500万を超えたため利用制限をリセットすると自身のXで表明した。\n同氏はXで「数日前からの古いニュースだが、1500万を超えた。皆さん、良いリセットを楽しんでほしい」とコメント、あわせて「/fastでどうぞ」と、利用枠の消費が激しいFastモードの利用を呼びかけた。\n同氏は、Codexのアクティブユーザーが1000万に達するまで、100万増えるごとに利用制限をリセットすると約束していた。前日の投稿では「大きく超えたが、1000万以降は沈"
-    },
-    {
-      "title": "「Sakana Fugu」が無料で試せるように　チャットAIをアップデート、Sakana?AI",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000524/",
-      "summary": "Sakana?AIは、無料のチャットAIサービス「Sakana?Chat」をアップデートしたと発表した。複数のAIモデルの“集合知”を利用するAI「Sakana?Fugu」が使えるようになった。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-13T02:14:31",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/13/2000000524/10002550/2048",
-      "body_ja": "「Sakana Fugu」が無料で試せるように チャットAIをアップデート、Sakana AI（1/2 ページ）\nSakana AIは8月13日、無料のチャットAIサービス「Sakana Chat」をアップデートしたと発表した。複数のAIモデルの“集合知”を利用するAI「Sakana Fugu」が使えるようになったほか、コードの実行機能なども追加した。\nこれまでSakana Chatで提供してきたAIモデル「Sakana Namazu」も新しいバージョンに更新した。ベースを中国Moonshot AIのオープンモデル「Kimi K2.6」に変更し、日本語の処理や自律的にタスクをこなす性能を高めたという。\nサンドボックス上でPythonを実行し、計算やデータの処理、ファイル作成まで実行できる機能も追加した。HTMLやファイルのプレビュー画面も備える。またWordやExcelファイル、PDFなどの添付にも対応した。\nSakana Chatは、Webブラウザ上で使える無料のチャットAIサービス。"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Unknown.png?resize=1200,600"
     },
     {
       "title": "AIエージェントのマーケティング活用10選！企業事例・導入手順を解説",
@@ -367,99 +420,6 @@
       "published": "2026-08-13T00:44:52",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail-5.jpg",
       "body_ja": "ChatGPTで広告コピーやリサーチはこなせるようになったものの、施策を回すのは結局人手のままだと感じているマーケターは少なくありません。\nAIエージェントとは、目標を与えるとタスクを自ら分解し、リサーチから配信・改善までを自律的に実行するAIです。生成AIやMAツールとの違いは記事内で詳しく解説します。\nMAツールの自動化との違いを理解しないまま導入すると現場に定着せず、次のAI予算を確保できなくなります。任せる範囲を正しく切り分ければ、人員を増やさずに施策のPDCA速度を引き上げられるでしょう。\n本記事では、マーケティング業務での活用10領域、生成AI・MAツールとの違い、企業事例、選び方4軸、導入5ステップを解説しています。\n自社のどの業務をどこまで任せるかを判断できるようになるために、ぜひ最後までご覧ください。\nマーケティングにおけるAIエージェントとは\nAIエージェントとは、与えられた目標に対して自らタスクを分解し、実行まで担うAIです。マーケティング領域では市場調査から配信・"
-    },
-    {
-      "title": "AIが数学の未解決問題「リーマン予想」で新発見　当初苦戦も「諦めないで」との励まし受け　Anthropic「AIも自身を過小評価か」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000511/",
-      "summary": "「諦めないで」「自分を信じて」と励ましたおかげで、AIが数学の未解決問題「リーマン予想」に関する新発見をした――米Anthropicはこのような報告をした。「AIも自身の進歩の速さを過小評価していたのかもしれない」と指摘している。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-12T23:00:00",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/13/2000000511/10002437/2048",
-      "body_ja": "AIが数学の未解決問題「リーマン予想」で新発見 当初苦戦も「諦めないで」との励まし受け Anthropic「AIも自身を過小評価か」（1/2 ページ）\n「諦めないで」「自分を信じて」と励ましたおかげで、AIが数学の未解決問題「リーマン予想」に関する新発見をした――米Anthropicは8月10日（現地時間）、このような報告をした。同社のAIモデル「Claude」の研究版（未公開）で実験した。「私たちの多くと同様に、ClaudeもAIの進歩の速さを過小評価していたのかもしれない」と指摘している。\nリーマン予想は1859年に提唱された問題で「『リーマンゼータ関数』と呼ばれる関数の出力がどんなときにゼロになるか」を予想したもの。入力に-2や-4などの「負の偶数」を取ると出力がゼロになることが分かっていたが、負の偶数以外にもゼロとなる点がある。負の偶数以外のそれらが「“とある直線”上に例外なく全て存在している」とするのがリーマン予想の主張だ。\nこれまでリーマン予想自体は証明されていないものの、「"
-    },
-    {
-      "title": "「AIツール関連サイト」でサポート詐欺被害　PC遠隔操作で個人情報含む4000件のファイルが削除、漏えいの可能性も　葬祭事業者が発表",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000513/",
-      "summary": "葬祭事業を手掛けるエスケーアイマネージメントは、AIツール関連サイトでサポート詐欺の被害に遭い、個人情報を含む約4000件のファイルが漏えいした可能性があると発表した。第三者によって業務用PCが遠隔操作されたという。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-12T23:00:00",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/13/2000000513/10002446/2048",
-      "body_ja": "Share\n    \n「AIツール関連サイト」でサポート詐欺被害 PC遠隔操作で個人情報含む4000件のファイルが削除、漏えいの可能性も 葬祭事業者が発表（1/2 ページ）\n                                公開\n                                    \n                            \n                        葬祭事業を手掛けるエスケーアイマネージメント（愛知県知多市）は8月12日、AIツール関連サイトでサポート詐欺の被害に遭い、個人情報を含む約4000件のファイルが漏えいした可能性があると発表した。第三者によって業務用PCが遠隔操作されたという。\n漏えいした可能性がある個人情報は、顧客の氏名や生年月日、性別、住所、電話番号、メールアドレスなど。現時点で外部への情報流出などは確認できないとしている。\nきっかけは、8月7日に同社の従業員が業務資料を作成するため、業務用PCでAIツ"
-    },
-    {
-      "title": "OpenAIが明かす、ユーザーはChatGPTを「こう使っている」",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/12/news033.html",
-      "summary": "AIが業務で利用される中、従来別の職種が担っていた仕事が持ち込まれるようになった。OpenAIはこれを「タスクの越境」と呼ぶ。具体的にどの職種、どのタスクで越境が起きているのか。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-12T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2608/12/cover_news033.jpg",
-      "body_ja": "AIが業務で利用される中、従来別の職種が担っていた仕事が持ち込まれるようになった。OpenAIはこれを「タスクの越境」と呼ぶ。具体的にどの職種、どのタスクで越境が起きているのか。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\nAIを前提として、ITシステムや業務プロセスをどのように再構築するかという議論が続く中、OpenAIが、AIの利用によって仕事そのものの在り方が変わりつつあるという内容を報告した。\n同社は2026年7月27日（現地時間）、生成AIサービス「ChatGPT」の米国ユーザーの80万件超のメッセージを分析したレポート「フロンティアの仕事：AIが広げる人々の仕事」（注1）を公開した。\nOpenAIによると、AIを利用することによって、従来ある職種に結び付いていた仕事を、別の職種の人が実施することが確認されている。同社はこれを「タスクの越境」と呼ぶ。\n同社は文章の作成や要約、日程調整のように職種を問わない仕事を汎用（はんよう）と分類し、越境とは見なしていない。"
-    },
-    {
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-12T22:26:37",
-      "title_ja": "Claude ユーザーの中には、Anthropic の新しいウォーターマークによって仕事や授業で Anthropic を使用していることがバレてしまうことに腹を立てている人もいます",
-      "summary_ja": "Anthropic の新しい透かしシステムは茶番ですか?ソーシャルメディアでそのようなことを訴える人もいる。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024"
-    },
-    {
-      "title": "Scientists just created female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive biologist",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-08-12T18:59:48",
-      "title_ja": "科学者たちは雄マウスの雌クローンを作成したところです",
-      "summary_ja": "科学者たちは初めて、オスのマウスの胚を意図的にメスに変えた。日本を拠点とするチームは、CRISPRベースのアプローチを使用して男性細胞からY染色体を除去した",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/mice.jpg?resize=1200,600"
-    },
-    {
-      "title": "Scaling AI agents with trustworthy data",
-      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges o",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-08-12T16:51:57",
-      "title_ja": "信頼できるデータによる AI エージェントの拡張",
-      "summary_ja": "ビジネスやテクノロジーのリーダーは、エージェント型 AI の時代が到来していることを確信する必要はありません。組織は急速にエージェントを導入しており、このテクノロジーの可能性を疑う幹部はほとんどいません",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Google-Social-Card-cover.png?resize=1200,600"
-    },
-    {
-      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-08-12T12:10:00",
-      "title_ja": "ダウンロード: 35 人の若いイノベーターと「検閲と産業の複合体」",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。世界から 35 を選んだ方法』",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/martincic-2026-35-35-intro-essay.jpg?resize=1200,600"
-    },
-    {
-      "title": "How we picked 35 of the world’s top young scientists and engineers",
-      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators global",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-08-12T09:08:40",
-      "title_ja": "世界のトップの若手科学者やエンジニア 35 人をどのように選出したか",
-      "summary_ja": "来月の9月8日、MIT Technology Reviewは2026年の35歳以下のイノベーターリストを発表し、画期的な取り組みを行った世界中の若者35人を表彰する予定だ。",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/martincic-2026-35-35-intro-essay.jpg?resize=1200,600"
     },
     {
       "title": "AIエージェントの製造業活用を7工程別に解説！事例8選と導入手順",
@@ -561,6 +521,6 @@
       "body_ja": "契約書レビューや社内からの法務相談対応に追われるなか、「AIエージェント」という言葉を耳にし、自社の法務業務に何ができるのか気になっている方は多いでしょう。\n生成AIとの違いや自律的に処理できる範囲を理解すれば、この判断は難しくありません。\n仕組みを理解しないまま導入すると非弁行為や情報漏洩のリスクを招く一方、正しく活用すれば契約対応のスピードと精度を大きく高められます。\n本記事では、法務AIエージェントの仕組みとできること、導入メリット・法的な注意点、選び方とおすすめツールを中心に解説します。\n自社の法務体制に置き換えながら、最後までご覧ください。\nAIエージェントとは？法務における生成AIとの違い\n法務AIエージェントを理解するうえで押さえておきたい違いは、以下の2つです。\n- 生成AIとの自律性の違い\n- 従来のリーガルテックとの違い\n違いを整理しておくと、既存のツールとどう役割分担すべきかが見えてきます。\n自律的にタスクを遂行する点が生成AIと異なる\n法務AIエージェントとは、契"
     }
   ],
-  "last_updated": "2026-08-14T07:37:34.965864+09:00",
+  "last_updated": "2026-08-15T07:20:33.177560+09:00",
   "count": 50
 }
