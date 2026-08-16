@@ -1,6 +1,158 @@
 {
   "articles": [
     {
+      "title": "もはやローカル動画生成AIの枠におさまらない。MiniMax H3の奥が深すぎる",
+      "url": "https://ascii.jp/elem/000/004/426/4426894/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/17/4513147/s/809777a04f8fc7f3.png\" width=\"60\" />人気の動画生成モデル「MiniMax H3」の高速化やプロンプト最適化、長時間動画を可能にするContext Loopなど、ローカル動画生成AIならではの新手法と可能性を実例を交えて検証します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/17/4513147/s/809777a04f8fc7f3.png"
+    },
+    {
+      "title": "【本日から】マック「ポテト」が最大150円安く！ M・Lともに250円",
+      "url": "https://ascii.jp/elem/000/004/426/4426886/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/09/4511188/s/936b8fd099770e1c.jpg\" width=\"60\" />マクドナルドは8月17日～28日の12日間限定で、「マックフライポテト」のM・Lサイズを250円、「炭酸ドリンク」のS・Mサイズを150円で販売するキャンペーンを開催します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/09/4511188/s/936b8fd099770e1c.jpg"
+    },
+    {
+      "title": "モトローラ「moto g37」は約2万2000円で全部入り！ この価格で買えるスマホは最後!?の巻：スマホ総研定例会388",
+      "url": "https://ascii.jp/elem/000/004/426/4426865/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png\" width=\"60\" />今回紹介するのは「moto g37」。正直そこまで性能が高いモデルではないのですが、FeliCa・防水を始め、必要な機能をひととおり揃えた“全部入り”モデルで、キャリア版はなんと2万2000円！　スマホ高騰時代の救世主になるのか、実機で詳しく見ていきます。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png"
+    },
+    {
+      "title": "『今週のASCII.jp注目ニュース』生放送（8/8～8/21ぶん）",
+      "url": "https://ascii.jp/elem/000/004/425/4425936/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg\" width=\"60\" />アスキーのNEWSメディア『ASCII.jp』で注目を集めたこの2週間の記事をランキング形式でお届け！　ASCII.jp編集部のオカモト、ムラリン、MCつばさの3人が、自由におしゃべりします。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg"
+    },
+    {
+      "title": "性格と実際の行動をAIで可視化する採用テスト",
+      "url": "https://ascii.jp/elem/000/004/425/4425577/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/06/4510436/s/a3ddbbdb8b1f8c25.jpg\" width=\"60\" />株式会社Scale Technologyは、中小企業専用のAI採用アセスメント「PitA（ピタ）」を6月末に正式リリースした。本サービスは、約15〜20分のシナリオ型テストで、先天的な性格特性と、後天的な行動特性、独自指標を分析して可視化する。人間の性格を外向性、神経症傾向、誠実性、調和性、開放性の5つの因子で分類する心理学モデル（BigFive理論）が基になっている",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/06/4510436/s/a3ddbbdb8b1f8c25.jpg"
+    },
+    {
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-16T20:57:04",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674"
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-16T20:32:01",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800"
+    },
+    {
+      "title": "Claude、Codex、Qwen……そのAI用語、どう読む？　読み方クイズ30問",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
+      "summary": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-16T20:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2608/17/cover_news020.jpg",
+      "body_ja": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nYouTubeで技術解説の動画を見ていると、自分が読んでいるのと違う読み方をしている人によく出会う。どちらが正しいのか分からないまま、なんとなく気になっていた。そこで、公式に従うとどう読むことになるのかを調べてみた、というのがこの記事である。\n各問の正解は1つ。開発元や日本法人が読み方を明言している場合はその読みを、明言が確認できない場合は日本語圏で最も多く使われている読みを正解とした。各問には次のタグを付けてある。\n判定に当たっては公式サイト、公式SNS、公式ドキュメント、日本向けアプリストア、日本法人の登記情報まで当たっているが、それでも公式の言及を見つけられなかった語がある。公"
+    },
+    {
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-16T16:53:51",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024"
+    },
+    {
+      "title": "六本木にある「おばんざいBAR」の女将も兼務。猫顔が可愛い新人・柚月美美がDVDデビュー！",
+      "url": "https://ascii.jp/elem/000/004/426/4426290/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/10/4511813/s/3c1cf7f58e9122b2.jpg\" width=\"60\" />小柄だけどバストは90cm・Gカップ。猫顔も可愛いと評判の柚月美美さんが、1st DVD「はじまりは甘く」の発売記念イベントを7月26日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/10/4511813/s/3c1cf7f58e9122b2.jpg"
+    },
+    {
+      "title": "FMVの11.6型ノートが10万円台だっ！ この価格で買えるならめっちゃアリ！",
+      "url": "https://ascii.jp/elem/000/004/426/4426629/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png"
+    },
+    {
+      "title": "ARグラス、知らない間にめちゃくちゃ“実用的”になっていました…。",
+      "url": "https://ascii.jp/elem/000/004/426/4426269/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/12/4512100/s/40f160fa0371ae9b.png\" width=\"60\" />ThinkARが手掛ける「AiLENS V1」は、視界に直接情報を映し出す新感覚のAIスマートグラスです。約38gという一般的なメガネと変わらない軽さの中に、デュアルマイクとスピーカーを内蔵。スマートフォンと連携し、鮮やかなグリーン文字でレンズに必要な情報を浮かび上がらせます。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/12/4512100/s/40f160fa0371ae9b.png"
+    },
+    {
+      "title": "【8月29日で2周年】近江牛バーガーSUDAKUがLINE友だち限定「平日限定」感謝キャンペーンを開催！近江牛バーガーMセットが税込1,000円になる特別クーポンを配信",
+      "url": "https://ascii.jp/elem/000/004/426/4426890/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />【8月29日で2周年】近江牛バーガーSUDAKUがLINE友だち限定「平日限定」感謝キャンペーンを開催！近江牛バーガーMセットが税込1,000円になる特別クーポンを配信</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T08:00:00",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "【予算30万円台】車中泊もこなす神コスパ！ 日産「ウイングロード」の中古を推したい3つの理由",
+      "url": "https://ascii.jp/elem/000/004/426/4426864/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/16/4513051/s/81ad9e963dce1cf4.jpg\" width=\"60\" />中古車で予算30万円台で狙える日産のステーションワゴン・3代目「ウイングロード」のレビューです。後席の広大なスライド＆リクライニング機構や、机になる助手席など使い勝手は抜群。荷室のレバー操作一つでフラットになり車中泊も可能で、趣味や仕事に大活躍する高コスパな一台です。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-16T08:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/16/4513051/s/81ad9e963dce1cf4.jpg"
+    },
+    {
+      "title": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明　「完全な書き直しなら消える」",
+      "url": "https://www.itmedia.co.jp/news/article/2608/16/2000000555/",
+      "summary": "Anthropicは、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを公表した。乱数生成に秘密鍵を用いて統計的パターンを残す手法で、品質や速度、料金に影響を与えない。「EU AI Act」への準拠を目的とするが全世界で適用され、コードや短文などでは入りにくいといった限界も明示している。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-15T22:58:11",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/16/2000000555/10002741/2048",
+      "body_ja": "「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」\n米Anthropicは8月14日（現地時間）、「Claude」が生成するテキストに埋め込む電子透かしの仕組みを説明した。米Google DeepMindの「SynthID-Text」を基に、単語を選ぶ際の乱数の生成源を秘密鍵と直前の文脈に置き換えることで統計的なパターンを残す。テキストに文字を足さないため、品質や速度、料金には影響しないとしている。\n「EU AI Act」への対応だが適用はグローバル\n同社は、EU AI Actの透明性義務に関する行動規範に署名したことに伴い、Claudeが生成したテキストに人間には知覚できない電子透かしを順次埋め込む方針をサポートページで示していた。適用範囲はEU域内にとどまらず、日本を含む全世界のモデルとプロダクトに及ぶ。\n今回の説明で同社は「地域ごとに適用範囲を限定する確実な方法がまだないため、ローンチ時点ではグローバルに透かしを適用する」とした。E"
+    },
+    {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
       "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
@@ -8,10 +160,7 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-15T21:29:19",
-      "title_ja": "女性は、継父が幼少期の写真を露骨な画像に変換するために Grok を使用したと主張",
-      "summary_ja": "この女性は、AIツールが「日常生活を奪い、児童への性的虐待に変えている」と主張した。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-      "body_ja": "ジェーン・ドゥ4と特定される女性は、テネシー州のティーンエイジャー3人がイーロン・マスクのxAIに対して、同社のチャットボットGrokが児童性的虐待素材の作成に関与したとされる役割を相手に起こした訴訟に参加した。\nワシントン・ポスト紙の報道によると、女性は継父がグロクを使って彼女が11歳の時に撮った写真を加工し、7,000枚以上の露骨な画像を作成したと主張した。女性は義父もこう言った。"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800"
     },
     {
       "title": "Anthropic shares more details about how Claude’s new watermarks will work",
@@ -21,10 +170,7 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-15T18:58:39",
-      "title_ja": "Anthropic は、Claude の新しい透かしがどのように機能するかについて詳細を共有します",
-      "summary_ja": "透かしは実際にどのように機能するのでしょうか?編集で非表示にできるのでしょうか？そして、これはコードにどのような影響を与えるのでしょうか?",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
-      "body_ja": "Anthropic は金曜日、チャットボット Claude によって生成されたテキストにどのように透かしを入れるかについての基本的な質問に答えることを目的としたブログ投稿を公開しました。透かしは実際にどのように機能するのでしょうか?編集で非表示にできるのでしょうか？そして、これはコードにどのような影響を与えるのでしょうか?\n同社が今週初めに、EU AI 法の透明性規定に準拠するためにこの透かしを行うことを明らかにして以来、Claude ユーザーはこの動きについて議論してきた。"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840"
     },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
@@ -34,110 +180,7 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-15T16:30:00",
-      "title_ja": "SpaceX が Cursor 買収を正式に完了 |9月| AI コーディングのスタートアップ Cursor は、正式に SpaceX の一員となりました。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-      "body_ja": "Cursor ブログの発表によると、AI コーディングのスタートアップ Cursor は正式に SpaceX の一員となった。\nイーロン・マスク氏のスペースX（同じく今年初めにマスク氏のxAIを買収）は、4月に両社が共同で技術を開発する契約を発表した。この契約により、SpaceXにはCursorを600億ドルで買収するオプションも与えられた。 2か月後、スペースXが上場企業となると、両社は買収を進めていると発表した。\n私"
-    },
-    {
-      "title": "RTX 5070 Ti・RTX 5080搭載PCがお買い得！ 最大6万9000円オフセール",
-      "url": "https://ascii.jp/elem/000/004/426/4426536/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512450/s/956f8219f2db1d16.png\" width=\"60\" />パソコンショップSEVENが8月16日限定の24時間セールを開催。最新ゲーミングPCやデスクトップPCなど対象10モデルが最大6万9000円オフ。RTX 5080搭載モデルをはじめ、お得なBTOパソコンを購入できる注目セールを紹介します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/13/4512450/s/956f8219f2db1d16.png"
-    },
-    {
-      "title": "保健室で介抱する様子がすごい！ トリマーを目指して勉強中の市原 薫、9th DVDはドキッとする展開にファンも衝撃",
-      "url": "https://ascii.jp/elem/000/004/426/4426289/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/10/4511796/s/5f22c84302126ff0.jpg\" width=\"60\" />洗練されたスタイルが人気の市原 薫さんが、9th DVD「ボクの彼女のバグった距離感」の発売記念イベントを7月25日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/10/4511796/s/5f22c84302126ff0.jpg"
-    },
-    {
-      "title": "携帯用サブ機にも最適な、FMVの11.6型ノートが10万円台だっ！",
-      "url": "https://ascii.jp/elem/000/004/426/4426628/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png"
-    },
-    {
-      "title": "「KODAKのキーホルダーカメラ」で改めて気づいた、“平成レトロ”の底知れない魅力",
-      "url": "https://ascii.jp/elem/000/004/424/4424916/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/05/4509388/s/ba715503a967af41.png\" width=\"60\" />「KODAK CHARMERA Keychain Digital Camera Blind Box - MILLENNIUM」は、2000年代のY2Kカルチャーを詰め込んだキーチェーン型のデジタルカメラです。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/05/4509388/s/ba715503a967af41.png"
-    },
-    {
-      "title": "iPhoneより軽いモトローラ「折り畳みスマホ」を使ってみた、価格も安くて感動！",
-      "url": "https://ascii.jp/elem/000/004/426/4426523/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/14/4512857/s/6d7a3fca05249c55.jpg\" width=\"60\" />モトローラの「razr fold」は、開くと8.1型、閉じると6.6型になる最新折りたたみスマホです。開くと4.55mmという薄さを実現。DXOMARK高評価のカメラや、閉じたまま完結する大画面が魅力です。IIJmioのキャンペーンで約10万円引きで購入可能です。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/14/4512857/s/6d7a3fca05249c55.jpg"
-    },
-    {
-      "title": "冬毛の対策がかわいすぎ…！「ちいかわラーメン」に新作",
-      "url": "https://ascii.jp/elem/000/004/426/4426138/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/15/4512986/s/1cbd183814efbf31.png\" width=\"60\" />明星食品は「明星 チャルメラ ちいかわラーメン とんこつ味」（168円）を9月14日に全国で発売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/15/4512986/s/1cbd183814efbf31.png"
-    },
-    {
-      "title": "Arma Reforger（アルマ リフォージャー）1.8アップデート対応の専用サーバーを提供中 ― 月額￥1,680（税抜）から、最低利用期間・解約金なし【BESTNET-GSERVER】",
-      "url": "https://ascii.jp/elem/000/004/426/4426860/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />Arma Reforger（アルマ リフォージャー）1.8アップデート対応の専用サーバーを提供中 ― 月額￥1,680（税抜）から、最低利用期間・解約金なし【BESTNET-GSERVER】</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T07:43:12",
-      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
-    },
-    {
-      "title": "松のや「ロースかつ＋唐揚げ」が840円！ 盛合わせ4種を1週間値引き",
-      "url": "https://ascii.jp/elem/000/004/426/4426770/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/15/4512974/s/c0394f01bf75983c.png\" width=\"60\" />とんかつチェーン「松のや」は8月19日15時～26日15時の期間「盛合わせ定食値引きキャンペーン」を開催します。最大150円引き</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T07:35:00",
-      "image_url": "https://ascii.jp/img/2026/08/15/4512974/s/c0394f01bf75983c.png"
-    },
-    {
-      "title": "電源ユニット「PG-1000PSF」がオススメ！！小型PCでもハイエンドビデオカードを使いたい……　そんな願いを叶える1000W出力のSFX電源ユニット！：ドスパラ大阪・なんば店",
-      "url": "https://ascii.jp/elem/000/004/426/4426848/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/15/4512965/s/2b9e5f0ef430a4d6.jpg\" width=\"60\" />　大阪・日本橋のPCパーツショップ「ドスパラ大阪・なんば店」を取材しました。今回、店舗スタッフの金山魁利さんがオススメする製品は、ASRockの電源ユニット「PG-1000PSF」です。小型のSFX電源ユニットながら、1000Wの電源出力を持ちます。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T07:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/15/4512965/s/2b9e5f0ef430a4d6.jpg"
-    },
-    {
-      "title": "手錠の太極拳使いが選民思想をぶちのめす『男組』【Amazonマンガ週末祭】",
-      "url": "https://ascii.jp/elem/000/004/426/4426836/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/15/4512938/s/dbf2c8e56d0a3245.png\" width=\"60\" />手錠をかけたまま太極拳で戦う少年囚人。神竜剛次率いる「神竜組」が支配する学園で、流全次郎が日本を揺るがす巨大な権力闘争を巻き起こす。昭和の熱量を閉じ込めた怪作『男組』を、Amazonの50%還元で一気読みしよう。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-15T07:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/15/4512938/s/dbf2c8e56d0a3245.png"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800"
     },
     {
       "title": "「Qwen3.8-27B」ウェイト公開　一部「Opus 4.6 Max」超えか　ライセンスは商用可のApache 2.0",
@@ -158,10 +201,7 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-14T16:13:40",
-      "title_ja": "Google は、ユーザーが AI 世代から目に見える透かしを削除できるようになります |9 月|この設定をオフにしても、AI で生成されたファイルを識別するために使用される非表示のベンチマークには影響しません。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-      "body_ja": "Googleは金曜日、ユーザーが画像、ビデオ、曲などのAI世代から目に見える透かしを削除できるようにすると発表した。同社は、これが目に見えない SynthID ウォーターマークと C2PA 標準関連のメタデータには影響しないと指定しました。\n同社の Gemini 担当副社長である Josh Woodward 氏は、X への投稿の中で、このトグルは Nano Banana、Omni、Lyria モデルで利用可能になると述べました。彼は、表示をオンにする設定を指定しました。"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024"
     },
     {
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
@@ -171,10 +211,7 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-14T15:43:28",
-      "title_ja": "マーク・ザッカーバーグはAIが「すべての人のためのもの」であると本当に信じているのでしょうか? |9月| Meta は今週、Glimmer をリリースしました。これは、誰でもダウンロードして自分のハードウェアで実行できるオープンウェイト AI モデルで、同社のより多くのデータを提供する「Muse」Spark とは対照的です。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-      "body_ja": "Meta は今週、Glimmer をリリースしました。これは、誰でもダウンロードして自分のハードウェアで実行できるオープンウェイト AI モデルです。これは、独自の API の背後にロックされたままの同社のより強力なモデルである Muse Spark とは対照的です。このリリースは、AIは少数の研究室によって管理されるのではなく「すべての人のため」であるべきだと主張するマーク・ザッカーバーグ氏の書簡とともに掲載されたが、エクイティの司会者が指摘するように、そのビジョンにはいくつかの星印が付いている。\nTechCrunchのこのエピソードについて"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800"
     },
     {
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
@@ -184,10 +221,7 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-14T14:50:11",
-      "title_ja": "Kog は GPU からより多くの推論を絞り出すためにさらに深く取り組んでいます",
-      "summary_ja": "フランスのスタートアップ Kog 氏によると、GPU がエージェント ワークフローにはあまり適していないという考えは誤解である可能性があります。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Kog-CEO-Gael-Dellalleau-at-AMD-AI-DevDay.jpg?resize=1200,800",
-      "body_ja": "より高速な AI 推論を求める競争は続いており、市場は 5 月の IPO デビューでセレブラスとその専用チップを温かく歓迎しました。しかし、フランスの新興企業 Kog は、従来の GPU からさらに多くの電力を絞り出せることに賭けています。\nこのスタートアップは、「企業がすでに所有している標準的なデータセンター GPU で非常に高速な単一リクエストのデコードが可能である」ことを証明することを目的とした技術プレビューで、5 月に Hacker News のトップページを飾りました。"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Kog-CEO-Gael-Dellalleau-at-AMD-AI-DevDay.jpg?resize=1200,800"
     },
     {
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
@@ -197,23 +231,7 @@
       "icon": "🤖",
       "lang": "en",
       "published": "2026-08-14T14:05:00",
-      "title_ja": "新しい予測が正しいことが証明されれば、ハイパースケーラーは天然ガスの導入を後悔するかもしれない",
-      "summary_ja": "米国の一部の地域では天然ガス価格が3倍になる可能性があり、ハイパースケーラーはAIデータセンターに電力を供給するために巨額の費用を負担する可能性がある。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
-      "body_ja": "アマゾン、グーグル、メタ、マイクロソフトなどのハイパースケーラーは、何年にもわたって風力発電や太陽光発電の開発を進めてきたが、その崇高なAI野望の背後にあるデータセンターに天然ガスが電力を供給できることに賭けている。しかし、新しい研究報告は、彼らが化石燃料に対する新たな親近感を後悔している可能性があることを示唆している。\nハイパースケーラーの需要が供給の伸びの鈍化と輸出の増加と衝突するため、天然ガス価格は今後数年で米国の一部の地域で3倍になる可能性がある"
-    },
-    {
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#16",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-14T14:00:00",
-      "title_ja": "Meta の「オープン」AI、そして 2 億 5,000 万ドルの取引は大失敗",
-      "summary_ja": "Meta は今週、Glimmer をリリースしました。これは、誰でもダウンロードして自分のハードウェアで実行できるオープンウェイト AI モデルで、同社のより多くのデータを提供する「Muse」Spark とは対照的です。",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
-      "body_ja": "Meta は今週、Glimmer をリリースしました。これは、誰でもダウンロードして自分のハードウェアで実行できるオープンウェイト AI モデルです。これは、独自の API の背後にロックされたままの同社のより強力なモデルである Muse Spark とは対照的です。このリリースは、AIは少数の研究室によって管理されるのではなく「すべての人のため」であるべきだと主張するマーク・ザッカーバーグ氏の書簡とともに掲載されたが、エクイティの司会者が指摘するように、そのビジョンにはいくつかの星印が付いている。\nTechCrunchのこのエピソードについて"
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800"
     },
     {
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
@@ -223,10 +241,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-14T12:17:21",
-      "title_ja": "ダウンロード: フロックの新しいルール、クローン作成の未来、そして子供の細胞",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。 Flock はルールを強化しています",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
-      "body_ja": "ダウンロード: フロックの新しいルール、クローン作成の未来、そして子供の細胞\nさらに、ウクライナの無人機が軍事演習で米軍を破った。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\nフロックは監視に対する反発の高まりに応えて規則を強化している\n警察テクノロジー大手フロックは、全国規模の免許証ネットワークへの警察官のアクセスを変更している"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600"
     },
     {
       "title": "ChatGPTがPC操作を自動で記録、コンテキストとして利用可能に　Mac版デスクトップアプリで提供",
@@ -247,10 +262,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-14T09:00:00",
-      "title_ja": "この科学者は、失われた幼少期の地図の作成に協力しています",
-      "summary_ja": "2017年、ディーン・テイラーはオフィスから歩いてすぐのペンシルバニア大学でのプレゼンテーションに出席した。研究者は、野心的なヒト細胞アトラスを発表するためにそこにいた",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600",
-      "body_ja": "この科学者は失われた幼少期の地図の作成に協力しています\nディアン・テイラー氏は研究者に対し、細胞レベルから始めて子供の健康を優先するよう促している。\n2017年、ディーン・テイラーはオフィスから歩いてすぐのペンシルバニア大学でのプレゼンテーションに出席した。ある研究者が、人体のあらゆる細胞の地図を作成することを目的とした野心的なプロジェクトである Human Cell Atlas を発表するためにそこに来ました。テイラーは困惑したが、その後心配した。詳細としては"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/HLY_5765-FINAL.jpg?resize=1200,600"
     },
     {
       "title": "Job titles of the future: Space travel agent",
@@ -260,10 +272,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-14T09:00:00",
-      "title_ja": "将来の職種: 宇宙旅行代理店",
-      "summary_ja": "Roman Chiporukha は長い間、ワイルドな旅行の夢を現実にしてくれました。 20年以上、高級ライフスタイル会社Roman&#38;の共同オーナーとして活躍。エリカ、彼は最初から最後まですべてを調整しました",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?resize=1200,600",
-      "body_ja": "将来の職種：宇宙旅行代理店\nローマン チポルカは、地上の贅沢な旅行から、特別な新境地へと変わりつつあります。\nRoman Chiporukha は長い間、ワイルドな旅行の夢を現実にしてくれました。高級ライフスタイル会社ローマン＆エリカの共同オーナーとして20年以上にわたり、顧客のスーパーヨットの建造からバハマでの休暇に至るまで、ゲストが機密保持契約に署名する必要があるほどプライベートな場所での休暇に至るまで、あらゆることを調整してきました。\n経験"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/space.jpeg?resize=1200,600"
     },
     {
       "title": "Cloning could be used to save species—or make human “organ sacks”",
@@ -273,10 +282,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-14T09:00:00",
-      "title_ja": "クローン作成は種の保存、または人間の「臓器袋」の作成に使用できる可能性があります",
-      "summary_ja": "今週私は、雄のマウスの胚を雌に変える方法を発見した科学者たちに話を聞きました。彼らは、Y染色体を本質的に切り取るためのCRISPRベースのアプローチを開発しました。それは許可します",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/clone-mice.jpg?resize=1200,600",
-      "body_ja": "クローン作成は種の保存、あるいは人間の「臓器袋」の作成に利用できる可能性がある\n遺伝子的に同一のコピーを作成すると、クールなものから不気味なものまで変化する可能性があります。\n今週私は、雄のマウスの胚を雌に変える方法を発見した科学者たちに話を聞きました。彼らは、Y染色体を本質的に切り取るためのCRISPRベースのアプローチを開発しました。これにより、雄マウスの雌クローンを作成することが可能になった。\nそうです。メスの動物は、遺伝的にオスと同じです。"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/clone-mice.jpg?resize=1200,600"
     },
     {
       "title": "GPT-5.6 Solの「超高速モード」ついに実装　「品質損なわず14倍高速」うたう",
@@ -345,30 +351,6 @@
       "body_ja": "JR東海道本線の小田原駅。改札口の頭上につり下げられた「小田原駅大提灯（ちょうちん）」をくぐり、相模湾に向かって歩くと「小田原城」が見えてくる。箱根の玄関口ということもあり、街の大通りは観光客で活況を呈している。\nにぎわう小田原駅前に、梅干し専門店「ちん里う本店」（ちんりう本店）がある。創業は1871年（明治4年）。歴史ある同社だが、一時は経営不振に陥っていた。お中元やお歳暮の市場が縮小し、主要な販路であった百貨店での販売も低迷。2000年代初頭から売り上げが約55％も落ち込んでいたのだ。\n厳しい経営状況を立て直したのが、ドイツ出身のゾェルゲル・ニコラさん（常務取締役）だ。日本の食文化は海外でニーズがある――こう読んだ同氏は「ネット通販」「海外販路の拡大」に打って出た。当初は社内から「あり得ない」という声が上がったというが、ゾェルゲルさんの狙いは大当たり。ECサイトの売り上げが伸び続け、取り扱う商品数は8000点にまで拡大した。\nしかし、新たな問題が起こる。従業員が手作業で対応していた「"
     },
     {
-      "title": "Google、「Gemini 3.7 Flash」公開　年内は半額の導入価格",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/14/2000000534/",
-      "summary": "Googleは、コーディングやエージェント用途に特化したAIモデル「Gemini 3.7 Flash」を発表した。前モデルからわずか3週間での投入だ。従来比半額の導入価格で提供し、個人向けエージェント機能「Gemini Spark」など各種プロダクトへ適用される。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-13T21:25:13",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/14/2000000534/10002594/2048",
-      "body_ja": "Google、「Gemini 3.7 Flash」公開 年内は半額の導入価格\n米Googleは8月13日（現地時間）、Geminiの「Flash」シリーズに新モデル「Gemini 3.7 Flash」（以下、3.7 Flash）を追加すると発表した。コーディングとエージェント用途で「これまでで最も知的な主力モデル」と位置付ける。前モデル「Gemini 3.6 Flash」の発表からわずか3週間での投入で、開発者からのフィードバックとアルゴリズム面の革新の成果だとしている。\n性能\n3.7 Flashは、デバッグや課題解決などのコーディングタスクで3.6 Flashを上回るとしている。Cognitionの「FrontierCode 1.1 Main」で43.6％（3.6 Flashは34.4％）、Datacurveの「DeepSWE v1.1」で65.3％（同49.0％）を記録した。\nWeb開発では、より少ないプロンプトで機能の整ったレイアウトやアプリを生成できるという。スクリーンショットや"
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-13T21:13:24",
-      "title_ja": "ライターは、トークンコストを抑えるために新しい AI モデルとアップグレードされたハーネスを導入します |9 月| Z.aiのオープンソースモデルGLM-5.2のトレーニング後のバリエーションとして構築された新システムは、導入にすぐに使える機能をはるかに低価格で提供するはずだとWriter氏は言う。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
-      "body_ja": "AI 業界全体で、ユーザーは導入にどれだけの費用がかかるかをより意識するようになり、コスト削減の新たな緊急性を感じています。ただし、オープンソース モデルはトークンあたりのコストが大幅に低い一方で、特定のジョブに適切なモデルを見つけるのが難しい場合があります。\n木曜日、マーケティング担当者向けに AI ツールとエージェントを提供する Writer は、ユーザーの問題を解決することを目的として、Palmyra X6 と呼ばれる新しい主力モデルを発売しました。として構築"
-    },
-    {
       "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
       "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
       "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US po",
@@ -376,23 +358,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T21:00:00",
-      "title_ja": "ラウンドテーブル: 米国政策を形作る「検閲と産業の複合体」のアイデアの内部",
-      "summary_ja": "「検閲と産業の複合体」とは、政府、テクノロジー、研究グループのネットワークが協力して保守主義を抑圧しているという考えです",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/August.26_Roundtables_Thumb.png?resize=1200,600",
-      "body_ja": "ラウンドテーブル: 米国政策を形作る「検閲と産業の複合体」のアイデアの内部\n購読者限定の会話を見て、このアイデアがアメリカの民主主義とインターネットの将来にとって何を意味するのかを学びましょう。\nMIT 卒業生および購読者のみが利用できます。\nセッションを聞くか、以下をご覧ください\n「検閲と産業の複合体」とは、政府、テクノロジー、研究グループのネットワークが協力して、保守的なオンライン言論を抑圧しようとしているという考えです。"
-    },
-    {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-13T20:14:39",
-      "title_ja": "Databricks は 10 億ドルを調達したいと考えており、投資家は 150 億ドルを望んでいた。 1,900億ドルの評価額で50億ドルに落ち着きました。 |9月| AIは高価である、とAli Ghodsi氏はTechCrunchに語った。非常に多くの投資家が彼の最新ラウンドに参加したいと考えているため、彼は計画以上のことにイエスと答えた。",
-      "summary_ja": "",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
-      "body_ja": "最近のレイトステージのスタートアップ企業が資金調達の際にプレイしなければならない、ある種の面白いゲームがある。彼らは多くの場合、希望よりも多くの株を売らなければならず、さもなければ既存のベンチャーキャピタルの一部を怒らせるリスクを負います。\nこのシナリオは最近、AIビッグデータ企業Databricksで実行され、木曜日に発表された最新の50億ドルの調達について、共同創設者兼CEOのAli Ghodsi（上の写真）がTechCrunchに語った。\n「私たちは10億ドルを集めたかったのですが、インフォメーション紙がこれを印刷しました。"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/August.26_Roundtables_Thumb.png?resize=1200,600"
     },
     {
       "title": "Building a practical path to post-quantum cryptography",
@@ -402,21 +368,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T18:11:42",
-      "title_ja": "ポスト量子暗号への実用的な道を構築する",
-      "summary_ja": "量子コンピューティングは、技術界で画期的な人気と誇大宣伝の間を行き来してきました。その強力な新機能には、現在の暗号技術を破る脅威が伴います。",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg?resize=1200,600",
-      "body_ja": "スポンサー付き\nポスト量子暗号への実用的な道を構築する\n量子コンピューティングは暗号化を再構築しますが、一夜にして変化するわけではありません。規律ある段階的なアプローチにより、組織は今日のセキュリティを強化しながら、中断することなく暗号基盤を最新化できます。\nインテル提供\n量子コンピューティングは、技術界で画期的な人気と誇大宣伝の間を行き来してきました。その強力な新機能には、br への脅威が伴います。"
-    },
-    {
-      "title": "中国DeepSeek、API料金を「最大12倍」に値上げ　ピーク時価格も導入　8月17日から",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000533/",
-      "summary": "中国DeepSeekは8月13日（日本時間、以下同）、AIモデルのAPI料金を値上げすると発表した。通常より2倍高いピーク時価格も導入する。新たな料金体系は17日午前1時から適用する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-13T14:12:24",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/13/2000000533/10002589/2048",
-      "body_ja": "Share\n    \n中国DeepSeek、API料金を「最大12倍」に値上げ ピーク時価格も導入 8月17日から（1/2 ページ）\n                                公開\n                                    \n                            \n                        中国DeepSeekは8月13日（日本時間、以下同）、AIモデルのAPI料金を値上げすると発表した。通常の2倍となるピーク時価格も導入する。新たな料金体系は17日午前1時から適用する。\n通常時の100万トークン当たりの料金は、AIモデル「DeepSeek-V4-Flash」で、入力0.007ドル（キャッシュヒット）／0.22ドル（キャッシュミス）、出力0.66ドル。AIモデル「DeepSeek-V4-Pro」で、入力0.022ドル（キャッシュヒット）／0.66ドル（キャッシュミス）、出力1.98ドル。\n日本時間"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Intel-contributed-iStock-2259858626.jpg?resize=1200,600"
     },
     {
       "title": "Flock is tightening its rules in response to a growing surveillance backlash",
@@ -426,10 +378,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T13:41:10",
-      "title_ja": "フロックは監視に対する反発の高まりに応じて規則を強化している",
-      "summary_ja": "警察技術大手フロックは本日、ナンバープレート読み取り装置の全国ネットワークへの警察官のアクセスを変更すると発表したが、これは明らかに増加する犯罪行為を鎮めるための取り組みである。",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600",
-      "body_ja": "フロックは監視に対する反発の高まりに応えて規則を強化している\n警察官が警察技術を悪用し、都市が契約を打ち切っているとの報告を受け、同社は警察技術に新たなガードレールを課している。しかし、この変化には明らかな抜け穴が残されています。\n警察技術大手フロックは本日、高まる反発を鎮め、警察の勝利を勝ち取るための明らかな努力の一環として、ナンバープレート読み取り装置の全国ネットワークへの警察官のアクセスを変更すると発表した。"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26039248966381.jpg?resize=1200,600"
     },
     {
       "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
@@ -439,10 +388,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T12:10:00",
-      "title_ja": "ダウンロード: AI と雄マウスの雌クローンについての子供たちの考え",
-      "summary_ja": "これは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日の版です。 AI について子供たちはどう感じているか",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600",
-      "body_ja": "ダウンロード: AI と雄マウスの雌クローンについての子供たちの考え\nさらに、トランプ大統領は、企業が犯罪者に対してサイバー攻撃を行うことを許可しました。\nこれは、テクノロジーの世界で何が起こっているかを毎日提供する平日のニュースレター、The Download の今日版です。\n子どもたちはAIについてどう感じているか、彼ら自身の言葉で語る\n—Jen Swetzoff と Keeley McNamara、10 代と 10 代向けの独立系印刷雑誌「Anyway」の創刊編集者\n私たちが"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/type-2_2.png?resize=1200,600"
     },
     {
       "title": "What’s behind this summer’s heat, and why 2027 could be worse",
@@ -452,10 +398,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T10:00:00",
-      "title_ja": "今年の夏の暑さの背後にあるもの、そして 2027 年がさらに悪化する可能性がある理由",
-      "summary_ja": "今年の夏は北半球のほとんどの地域で猛暑となった。 6月と7月は、ヨーロッパで記録が始まって以来最も暑い2か月連続となった。隣接する米国のエンドウ",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26217780042086.jpg?resize=1200,600",
-      "body_ja": "今年の夏の暑さの原因と、2027 年はさらに悪化する可能性がある理由\nエルニーニョ？気候変動？上記のすべて？\n今年の夏は北半球のほとんどの地域で猛暑となった。 6月と7月は、ヨーロッパで記録が始まって以来最も暑い2か月連続となった。米国本土は7月に観測史上最も暑い月に耐えた。韓国では観測史上最高気温を記録した。\n暑さはまだ終わっていないが、一部の科学者はすでに懸念を抱いている"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/AP26217780042086.jpg?resize=1200,600"
     },
     {
       "title": "How kids feel about AI, in their own words",
@@ -465,10 +408,7 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-08-13T09:00:00",
-      "title_ja": "子どもたちが AI についてどう感じているか、子どもたち自身の言葉で語る",
-      "summary_ja": "子どもたちに人工知能について話そうとしたとき、私たちは何を聞かれるかわかっていると思っていました。ミレニのように、ちょっとした不正行為に使っていると言う人もいるだろうと予想していました。",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Unknown.png?resize=1200,600",
-      "body_ja": "子どもたちはAIについてどう感じているか、彼ら自身の言葉で語る\nAI で満たされた未来は、今日の 10 代や 10 代の若者にとって、約束のように見えますか、それとも危険に見えますか?私たちはその源に直接行きました。\n子どもたちに人工知能について話そうとしたとき、私たちは何を聞かれるかわかっていると思っていました。私たちは、ミレニアル世代や X 世代が CliffsNotes を開いたり、TI-82 に数式をプログラムしたりする方法や、ちょっとした不正行為に使っていると言う人もいれば、インスピレーションを与える方法を共有する人もいると予想していました。"
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Unknown.png?resize=1200,600"
     },
     {
       "title": "AIエージェントのマーケティング活用10選！企業事例・導入手順を解説",
@@ -581,6 +521,6 @@
       "body_ja": "契約書レビューや社内からの法務相談対応に追われるなか、「AIエージェント」という言葉を耳にし、自社の法務業務に何ができるのか気になっている方は多いでしょう。\n生成AIとの違いや自律的に処理できる範囲を理解すれば、この判断は難しくありません。\n仕組みを理解しないまま導入すると非弁行為や情報漏洩のリスクを招く一方、正しく活用すれば契約対応のスピードと精度を大きく高められます。\n本記事では、法務AIエージェントの仕組みとできること、導入メリット・法的な注意点、選び方とおすすめツールを中心に解説します。\n自社の法務体制に置き換えながら、最後までご覧ください。\nAIエージェントとは？法務における生成AIとの違い\n法務AIエージェントを理解するうえで押さえておきたい違いは、以下の2つです。\n- 生成AIとの自律性の違い\n- 従来のリーガルテックとの違い\n違いを整理しておくと、既存のツールとどう役割分担すべきかが見えてきます。\n自律的にタスクを遂行する点が生成AIと異なる\n法務AIエージェントとは、契"
     }
   ],
-  "last_updated": "2026-08-16T07:17:25.867903+09:00",
+  "last_updated": "2026-08-17T07:16:35.040679+09:00",
   "count": 50
 }
