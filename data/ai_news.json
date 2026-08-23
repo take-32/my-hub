@@ -1,6 +1,179 @@
 {
   "articles": [
     {
+      "title": "「うわ、すげえ！」Unreal EngineをCodexに操作させたら制作の常識が変わった",
+      "url": "https://ascii.jp/elem/000/004/428/4428658/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/24/4516081/s/9700c6cf9996db73.png\" width=\"60\" />Unreal Engine 5.8をCodexから自然言語で操作し、3Dモデル配置やアニメーション、エフェクト制作まで自動化。ゲームエンジン制作にAIがもたらす大きな変化を実例から検証します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/24/4516081/s/9700c6cf9996db73.png"
+    },
+    {
+      "title": "KDDI、国内スタートアップの米国進出・顧客獲得に特化した新プログラムを開始",
+      "url": "https://ascii.jp/elem/000/004/428/4428562/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515605/s/531ab93e5dff0dea.png\" width=\"60\" />KDDIは8月20日、国内スタートアップの海外展開支援を目的としたアクセラレータープログラム「KDDI Beyond Borders Accelerator」を開始した。同社の米国の提携ベンチャーキャピタルや自社グループの現地法人ネットワークを活用し、米国市場での実績構築に直接介入する支援の枠組みとして開始される。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/21/4515605/s/531ab93e5dff0dea.png"
+    },
+    {
+      "title": "今年は標準モデルのPixel 11がカメラも出っ張り小もイイ！ 新Pixel全機種実機レビューの巻：スマホ総研定例会389",
+      "url": "https://ascii.jp/elem/000/004/428/4428549/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png\" width=\"60\" />今年も登場のAndroidスマホの代表格、グーグル「Pixel」の新モデルが登場。今年のPixel 11シリーズは、特に標準モデルの「Pixel 11」が注目です！　カメラの性能が上がりつつ、出っ張りが小さくなり、特に純正ケースとの組み合わせが◎。実機で詳しくチェックします！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～Arc G3 Extreme搭載PCの性能を検証、MSI「Claw 8 EX Ai+」はマジでスゴかった!!～",
+      "url": "https://ascii.jp/elem/000/004/428/4428431/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg\" width=\"60\" />Arc G3 Extreme搭載PCの性能を検証、MSI「Claw 8 EX Ai+」はマジでスゴかった!!　木曜20:00から放送スタート！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg"
+    },
+    {
+      "title": "講師の指導ノウハウをAI化、対話型アバターAI家庭教師",
+      "url": "https://ascii.jp/elem/000/004/428/4428155/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/20/4514930/s/f3a652c99da40484.png\" width=\"60\" />一般社団法人THINKERS NEOは8月1日、個別指導塾の人気講師が持つ指導ノウハウを再現した対話型アバターAI家庭教師「AIの佐藤先生」を正式リリースした。従来の学習AIで課題となっていた、質問しなければ回答しない受動的な仕組みを改善し、AI側から能動的に授業の進行や目標設定を行うシステムを構築。Vtuber風のアニメ調のアバターと音声によるリアルタイム対話を採用",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/20/4514930/s/f3a652c99da40484.png"
+    },
+    {
+      "title": "事業承継の募集告知を生成AIで自動作成",
+      "url": "https://ascii.jp/elem/000/004/428/4428146/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/20/4514923/s/76c3cd8a11cd2dd8.jpg\" width=\"60\" />株式会社ライトライトは7月30日、オープンネーム事業承継プラットフォーム「relay」において、事業の譲渡希望者が自ら募集告知を作成・公開できる機能「AIかんたん作成」をリリースした。従来、同サービスでの掲載にはスタッフによる情報整理や記事作成の工程が必要だったが、新機能では事業者自身による入力とAIによる文章生成支援を組み合わせることで、手続きの簡略化を図っている。",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/20/4514923/s/76c3cd8a11cd2dd8.jpg"
+    },
+    {
+      "title": "視野が広がったオートフォーカスアイウェア「ViXion2」、海外展開へ",
+      "url": "https://ascii.jp/elem/000/004/419/4419676/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/07/15/4500731/s/e6ef54fdf0b4d49a.jpg\" width=\"60\" />手元のスマートフォンを見たあとに遠くを見ると、ピント合わせに時間がかかる。このピント調節を電子制御で自動化しようとしているのがViXion株式会社だ。2026年7月1日から3日まで京都で開催されたスタートアップカンファレンス「IVS2026」では、オートフォーカスアイウェア「ViXion」を展示していた。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/07/15/4500731/s/e6ef54fdf0b4d49a.jpg"
+    },
+    {
+      "title": "ロボットの費用対効果が3年以内に人手を上回る――インテルが調査結果から洞察",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news061.html",
+      "summary": "インテルがロボティクス導入に関する調査結果を発表。同調査では60％が5年以内に自社で多数のロボットを運用すると予想し、67％が2030年までに人間とロボットが協働する労働力の管理体制が整うと回答した一方で、人間とロボットの協働に関する正式な戦略を策定している組織が40％にとどまるなどギャップが存在することが明らかになった。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-23T21:30:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2608/24/cover_news061.jpg",
+      "body_ja": "インテルがロボティクス導入に関する調査結果を発表。同調査では60％が5年以内に自社で多数のロボットを運用すると予想し、67％が2030年までに人間とロボットが協働する労働力の管理体制が整うと回答した一方で、人間とロボットの協働に関する正式な戦略を策定している組織が40％にとどまるなどギャップが存在することが明らかになった。\nインテルは2026年8月20日、年間売上高5億米ドルを超える組織の経営幹部やIT担当者など800人を対象に実施したロボティクス導入に関する調査結果を発表した。同調査では60％が5年以内に自社で多数のロボットを運用すると予想し、67％が2030年までに人間とロボットが協働する労働力の管理体制が整うと回答した一方で、人間とロボットの協働に関する正式な戦略を策定している組織が40％にとどまるなどギャップが存在することが明らかになった。\n今回の調査は、インテルがMan Bites DogおよびColeman Parkes Researchに委託して実施したもので、米国、英国、"
+    },
+    {
+      "title": "最新CPUインテル「Arc G3 Extreme」が爆速でビックリのポータブルPC「OneXPlayer 3」実機レビュー",
+      "url": "https://ascii.jp/elem/000/004/428/4428540/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515715/s/aabb5e56fe91e745.jpg\" width=\"60\" />最新CPUインテル「Arc G3 Extreme」搭載のポータブルPC「OneXPlayer 3」を計ったら、「Core Ultra X7 358H」とほぼ同じ速度が出てしまいました!!!!</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T21:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/21/4515715/s/aabb5e56fe91e745.jpg"
+    },
+    {
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-23T20:01:36",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675"
+    },
+    {
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-23T19:14:08",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200"
+    },
+    {
+      "title": "AIエージェントで仕事はどう変わる？任せられる仕事と人に残る仕事",
+      "url": "https://ainow.ai/2026/08/24/278322/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bb%2595%25e4%25ba%258b%25e3%2581%25af%25e3%2581%25a9%25e3%2581%2586%25e5%25a4%2589%25e3%2582%258f%25e3%2582%258b%25ef%25bc%259f%25e4%25bb%25bb%25e3%2581%259b%25e3%2582%2589%25e3%2582%258c%25e3%2582%258b%25e4%25bb%2595",
+      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12395;&#20181;&#20107;&#12434;&#20219;&#12379;&#12425;&#12428;&#12427;&#12392;&#32862;&#12356;&#12390;&#12418;&#12289;&#33258;&#20998;&#12398;&#26989;&#21209;&#12398;&#12393;&#12371;&#12364;&#32622;&#12365;&#25563;&#12431;&#12427;&#12398;&#12363",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-08-23T16:03:25",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail-9.jpg",
+      "body_ja": "AIエージェントに仕事を任せられると聞いても、自分の業務のどこが置き換わるのか想像できず、生成AIで下書きを作る使い方から抜け出せていない人は少なくありません。\nAIエージェントとは、目標を渡すと計画の立案から実行、結果の確認までを自律的に進めるAIです。GMOインターネットグループは、AIエージェントの業務活用率が71.4%に達し、社員1人あたり月53.9時間の業務時間を削減したと公表しました。\n出典：AIエージェント業務活用率が約7割に急伸、月間35.2万時間の業務削減を実現（GMOインターネットグループ）\n任せられる仕事と人に残る仕事の境界を持たないまま指示を出し続ける働き方では、エージェントを前提に動く同僚と時間の使い方で差がつくでしょう。境界を線引きできれば、作業から手を離して判断や交渉に時間を寄せられます。\n本記事では、AIエージェントに任せられる仕事8つと人に残る仕事5つを対比し、任せる範囲を見極める4つの軸を中心に解説しています。\n自分の業務のどこから手放すかを決めるため"
+    },
+    {
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-23T15:30:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799"
+    },
+    {
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-23T15:00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749"
+    },
+    {
+      "title": "BTOゲーミングPCが最大15万9000円オフ　パソコンショップSEVENが8月24日限定セール",
+      "url": "https://ascii.jp/elem/000/004/428/4428296/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515188/s/422f8441d954229c.png\" width=\"60\" />パソコンショップSEVENが8月24日限定の24時間セールを開催。RTX 5090搭載モデルをはじめとする最新BTOゲーミングPCやデスクトップPCが最大15万9000円オフ。全10モデルのセール対象や注目モデルを紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/21/4515188/s/422f8441d954229c.png"
+    },
+    {
+      "title": "「スプラトゥーン レイダース」仕様のSwitch 2収納バッグは“イカ”が？",
+      "url": "https://ascii.jp/elem/000/004/428/4428568/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515646/s/7ea72ec13b7df9ad.jpg\" width=\"60\" />Amazon.co.jpにて、ホリの「【任天堂ライセンス商品】スプラトゥーン レイダース まるごと収納バッグ for Nintendo Switch 2」が販売中だ。価格は5480円。本体と周辺機器を収納できる。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-23T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/21/4515646/s/7ea72ec13b7df9ad.jpg"
+    },
+    {
+      "title": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ　入力20％出力33％安く、11月21日まで",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/",
+      "summary": "OpenAIは、フラグシップモデル「GPT-5.6 Sol」のAPI利用料金を期間限定で最大33％引き下げた。入力4ドル、出力20ドルとするプロモーション価格を少なくとも3カ月間適用し、ChatGPT WorkやCodexのクレジット消費量も削減。利用量や支出上限を追跡・制御できる管理機能も告知している。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-22T21:54:23",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/23/2000000700/10003422/2048",
+      "body_ja": "OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ 入力20％出力33％安く、11月21日まで\n米OpenAIは8月21日（現地時間）、フラグシップAIモデル「GPT-5.6 Sol」のAPI利用料金を引き下げた。100万トークン当たりの入力料金を5ドルから4ドルに20％、出力料金を30ドルから20ドルに約33％引き下げた。期間限定のプロモーション価格で、少なくとも11月21日まで適用する。ChatGPT WorkとCodexでのクレジット消費量も引き下げる。\n同社はAPIドキュメントのchangelogを更新し、新料金を反映させた。Xへのポストで「能力のフロンティアを押し広げながら効率を改善し続けている」と説明し、今後3カ月間、API料金とクレジット消費量を20％以上引き下げると告知している。適用期限の11月21日は告知からちょうど3カ月後に当たる。それ以降の扱いは明らかにしていない。\n新料金は標準（Standard）処理の場合、入力が27万2000トークン以下の短いコンテキ"
+    },
+    {
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
       "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
@@ -52,106 +225,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638"
     },
     {
-      "title": "Core Ultra・RTX 5080搭載PCも値下げ！ パソコンショップSEVENが24時間限定セール",
-      "url": "https://ascii.jp/elem/000/004/428/4428295/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515187/s/77add4bfd1a7658c.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、8月23日限定で最大90,000円オフのゲーミングPC・デスクトップPCセールを実施する。ZEFT G62CO、ZEFT R60HM、ZEFT Z59Yなどの主力モデルや全10商品が対象だ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/21/4515187/s/77add4bfd1a7658c.png"
-    },
-    {
-      "title": "Switch 2にも使える背面カスタムボタン×4の3WAY接続ゲームコントローラーが10％オフ",
-      "url": "https://ascii.jp/elem/000/004/428/4428557/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515603/s/ea9c4d8609d062a8.jpg\" width=\"60\" />Amazon.co.jpにて、Leadjoyのゲームコントローラー「Leadjoy Xeno Plus」が販売中だ。過去価格は9350円だが、タイムセールにより10％オフの8400円で購入できる（8月21日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/21/4515603/s/ea9c4d8609d062a8.jpg"
-    },
-    {
-      "title": "一般向けだけど100Hz駆動！ ゲームも遊べるアイリスオーヤマ製21.5型ディスプレーが10％オフの1万800円",
-      "url": "https://ascii.jp/elem/000/004/428/4428543/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515586/s/63e9316ebedc79e5.jpg\" width=\"60\" />Amazon.co.jpにて、アイリスオーヤマの21.5型ディスプレー「DT-IF215S-B」が販売中だ。過去価格は1万1980円だが、タイムセールにより10％オフの1万800円で購入できる（8月21日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/21/4515586/s/63e9316ebedc79e5.jpg"
-    },
-    {
-      "title": "アップル新型Apple TV、新しいSiriリモコン採用？",
-      "url": "https://ascii.jp/elem/000/004/428/4428430/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515371/s/85922cbfbe358a1f.png\" width=\"60\" />アップルがまもなく発売するとのうわさが続いていた新型Apple TV 4Kは、刷新したSiri Remote（リモコン）とともに投入される見込みだという。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/21/4515371/s/85922cbfbe358a1f.png"
-    },
-    {
-      "title": "アップル初の折りたたみiPhone、入手困難か　生産安定まで3〜5ヵ月との情報",
-      "url": "https://ascii.jp/elem/000/004/428/4428429/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515370/s/16c9f9cbe858a355.png\" width=\"60\" />アップルが今年後半に発売するとうわさの同社初の折りたたみ式iPhone「iPhone Ultra」は、発売直後の供給量が非常に限られる可能性が高いという。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/21/4515370/s/16c9f9cbe858a355.png"
-    },
-    {
-      "title": "1万2999円で新品ゲーミングディスプレーが手に入る！ しかも200Hz/1msの24型フルHD Fast IPSパネルだ",
-      "url": "https://ascii.jp/elem/000/004/428/4428536/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515538/s/b7104f8f1711883e.jpg\" width=\"60\" />Amazon.co.jpにて、Minifireの24型ゲーミングディスプレー「MFG24F4S」が販売中だ。参考価格は1万7999円だが、タイムセールにより28％オフの1万2999円で購入できる（8月21日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/21/4515538/s/b7104f8f1711883e.jpg"
-    },
-    {
-      "title": "日本一脱げる添乗員だと!? 成長を遂げた小山玲奈、こだわりの演出が光る9th DVDでソフマップ復帰！",
-      "url": "https://ascii.jp/elem/000/004/427/4427903/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/19/4514595/s/0328155b4e4dac4b.jpg\" width=\"60\" />「日本一脱げる添乗員」を掲げて活躍する小山玲奈さんが、9th DVD「聖なる山」の発売記念イベントを8月9日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/19/4514595/s/0328155b4e4dac4b.jpg"
-    },
-    {
-      "title": "街乗りは不便でも悪路走破性は最強！ ファミリーカー目線で斬る「ジムニー ノマド」のリアルな実力",
-      "url": "https://ascii.jp/elem/000/004/428/4428610/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/21/4515782/s/699c059a52bf7e1e.jpg\" width=\"60\" />待望の5ドア「ジムニー ノマドII型」の試乗レビューです。全車速追従ACCなど運転支援が大幅に進化しました。街乗りでは加速や小回りに不満が出ますが、圧倒的な悪路走破性は健在でワクワクします。後席の居住性も向上しており、趣味と実用を兼ね備えたコスパの高い一台です。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/21/4515782/s/699c059a52bf7e1e.jpg"
-    },
-    {
-      "title": "Ryzen AI 5 340搭載一体型デスクトップPCなど対象に！ お得にPC買うならFMV Storeの「目玉品」に注目！",
-      "url": "https://ascii.jp/elem/000/004/427/4427654/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
-    },
-    {
-      "title": "合同会社デルタクリエイト代表・佐藤舞（サトマイ）、「福島スペースカンファレンス2026」に登壇──相馬家第34代・相馬行胤氏と、経営理論「エフェクチュエーション」から二宮尊徳の教えを読み解く",
-      "url": "https://ascii.jp/elem/000/004/428/4428636/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />合同会社デルタクリエイト代表・佐藤舞（サトマイ）、「福島スペースカンファレンス2026」に登壇──相馬家第34代・相馬行胤氏と、経営理論「エフェクチュエーション」から二宮尊徳の教えを読み解く</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-22T07:30:00",
-      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
-    },
-    {
       "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
@@ -181,36 +254,6 @@
       "published": "2026-08-21T22:09:30",
       "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/22/2000000697/10003410/2048",
       "body_ja": "Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に\n米Anthropicは8月21日（現地時間）、同社の最上位AIモデル「Claude Mythos 5」を、セキュリティ向けサービス「Claude Security」の脆弱性スキャンで利用できるようにしたと発表した。対象はClaude Enterpriseプランの顧客で、別途アドオン契約を結ぶ必要はなく、スキャンの費用は既存プランの通常のトークン使用量として消費される。\nただし、Mythos 5に直接プロンプトを送れるようになるわけではない。ユーザーが受け取れるのは脆弱性の検出結果と修正案に限られ、モデル本体へのアクセスは開放されない。\nClaude Securityは、指定したコードベースを走査して脆弱性を検出し、修正パッチを提案するサービスで、現在はEnterprise顧客向けのパブリックβとして提供されている。管理者が管理コンソールで機能を有効に"
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-21T19:43:39",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898"
-    },
-    {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investiga",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-21T14:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800"
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-21T14:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Starcloud-Founders-2026.jpg?w=810"
     },
     {
       "title": "The Download: threats from space mirrors and credit for AI drugs",
@@ -338,38 +381,6 @@
       "published": "2026-08-21T00:22:19",
       "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/21/2000000669/10003301/2048",
       "body_ja": "macOS版ChatGPT、Appleの「メッセージ」と連携 会話検索や下書き、送信に対応\n米OpenAIは8月20日（現地時間）、macOS版「ChatGPT」デスクトップアプリ向けに、米Appleの「メッセージ」アプリと連携するプラグインを公開した。すでに提供を開始している。\nこのプラグインを有効にすると、ChatGPTがMacの「メッセージ」アプリに保存されたiMessage、SMS、RCSの会話を読み取って検索したり、ユーザーに代わってメッセージの下書き作成や送信を行ったりできるようになる。同社はXの公式アカウントで、「カレンダーを確認し、来週の夕食に都合のいい時間を相手に返信する」「前日のメッセージからフォローアップすべきものを提案する」「メッセージから誕生日を見つけてカレンダーに追加する」「スパムの可能性があるメッセージを探す」などの利用例を挙げている。\n利用条件は限定的だ。全プランのmacOS版ChatGPTデスクトップアプリで利用できるが、現時点ではAppleシリコン（a"
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-21T00:13:44",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957"
-    },
-    {
-      "title": "「Fable禁止」で仕事が止まったあの日々を振り返る　日本企業が取るべき「脱・単一モデル」戦略",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
-      "summary": "米政府の輸出管理で「Claude Fable 5」の提供が突如停止し、業務が止まった実体験を基に、単一AIモデル依存の地政学リスクを指摘。オンプレミス化やマルチモデル統合基盤など、日本企業が取るべき分散戦略を整理する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-21T00:00:00",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/21/2000000666/10003286/2048",
-      "body_ja": "「Fable禁止」で仕事が止まったあの日々を振り返る 日本企業が取るべき「脱・単一モデル」戦略\n2026年6月9日、米AnthropicはAIモデル「Claude Fable 5」（以下、Fable 5）を一般公開した。一般公開は危険なレベルだと自ら公言していた「Claude Mythos 5」（以下、Mythos 5）に安全施策を施した高性能モデルだ。ところが、そのわずか3日後に、米国政府が輸出管理指令を発令し、Mythos 5とFable 5を外国籍ユーザーに提供することを禁止。Anthropicはユーザーの識別が困難だとして全ユーザーへの提供を停止した。そして、米国政府と調整後、約18日後に提供を再開した。\nもし、あなたが日本企業で全社または統括部門のAI導入を決裁する立場であれば、この一連のドタバタ劇を、単なる米国企業のサービス停止騒動と考えるべきではない。これは「AI時代の新しい地政学的リスク」であり、対策を検討すべき事象だ。今や、AIモデルの性能は国際競争力に影響し、単一モデ"
-    },
-    {
-      "title": "データをつなぎ、AI活用へ――オートデスクが示す設計／製造DXの未来像",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/21/news010.html",
-      "summary": "オートデスクは「Design & Make Summit Japan 2026」を東京都内で開催した。本稿では、米Autodeskのビック・ベダンサム氏による基調講演から、AI時代の製造業に求められるデータ基盤と設計／製造の変革について紹介する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-20T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2608/21/cover_news010.jpg",
-      "body_ja": "オートデスクは「Design & Make Summit Japan 2026」を東京都内で開催した。本稿では、米Autodeskのビック・ベダンサム氏による基調講演から、AI時代の製造業に求められるデータ基盤と設計／製造の変革について紹介する。\nオートデスクは2026年7月22日、製造業やAECO（建築／エンジニアリング／建設／運用）業界のビジネスリーダーなどを対象としたイベント「Design & Make Summit Japan 2026」を東京都内で開催した。\n本稿では、設計／製造業界向け基調講演に登壇した米Autodesk D&Mインダストリー戦略担当シニアディレクターのビック・ベダンサム氏の講演内容をダイジェストで紹介する。\nベダンサム氏はまず、製造業を取り巻く経営環境が、これまで以上に複雑さを増していると説明した。世界経済の不透明感やサプライチェーンの分断、人手不足、地政学的な緊張が企業活動に大きな影響を与える一方で、AI（人工知能）をはじめとするテクノロジーは急速に進化し"
     },
     {
       "title": "Debates over AI consciousness are a trap",
@@ -608,19 +619,8 @@
       "published": "2026-08-01T17:00:21",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail.jpg",
       "body_ja": "AIエージェントという言葉を耳にする機会が増え、実際にどう作るのか、自分にも作れるのか知りたいと考えている方は多いのではないでしょうか。\n作り方の選択を誤ると、必要以上の学習コストがかかったり、途中で挫折したりします。\n本記事では、ノーコード・ローコード・フルコードという3つの作り方の選び方診断から、Difyを使った実践ステップ、費用相場までを解説しています。\n読み終える頃には、自分に合った作り方を判断でき、実際に動くAIエージェントを完成させる準備が整うでしょう。まずは自分に合う作り方から確認していきましょう。\n【選び方診断】AIエージェントの作り方は3パターン\nAIエージェントの作り方には、開発の自由度に応じて3つのパターンがあります。\n- ノーコード：プログラミング知識なしで作る方法\n- ローコード：一部の設定や簡易な実装を組み合わせる方法\n- フルコード：Pythonなどのプログラミング言語で自由に開発する方法\n自分の目的とスキルレベルに合わない方法を選ぶと、開発が思うように進ま"
-    },
-    {
-      "title": "AIエージェントの選び方！5つの比較軸と失敗パターンを解説",
-      "url": "https://ainow.ai/2026/07/31/278288/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3%25e6%2596%25b9%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e6%25af%2594%25e8%25bc%2583%25e8%25bb%25b8%25e3%2581%25a8%25e5%25a4%25b1%25e6%2595%2597%25e3%2583%2591%25e3%2582%25bf",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12398;&#36984;&#12403;&#26041;&#12399;&#12289;&#20998;&#39006;&#12539;&#27604;&#36611;&#36600;&#12539;&#23566;&#20837;&#30446;&#30340;&#12398;3&#28857;&#12434;&#25276;&#12373;&#12360;&#12428;&#12400;&#21028;&#26029;&#12391;&#12365;&#12414;&#1237",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-07-30T16:17:56",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/07/thumbnail-19.jpg",
-      "body_ja": "AIエージェントの選び方は、分類・比較軸・導入目的の3点を押さえれば判断できます。\n比較軸を知らないままツールを選ぶと、現場で使われずPoC（概念実証）止まりに終わる企業が少なくありません。反対に軸を理解していれば、根拠を持って製品を選定・提案できます。\n本記事では、AIエージェントを比較する5つの軸と、選定で失敗する企業に共通する特徴を中心に解説します。\n読み終える頃には、自社の課題に合ったAIエージェントを根拠を持って選定・提案できる状態になります。\nAIエージェントには4つの分類がある\nAIエージェントは機能や用途によって4つに分類されます。\n- 汎用型\n- 特化型\n- システム搭載型\n- ノーコード・ローコード開発型\n分類を理解しておくと、自社の目的に合う候補を素早く絞り込めます。\n汎用型\n汎用型は、チャットボットやデータ収集・分析など複数の用途に幅広く使えるAIエージェントです。\n特定の業務に縛られず、部門をまたいで同じ基盤を使い回せるため、全社的なAI活用の入口として選ばれや"
     }
   ],
-  "last_updated": "2026-08-23T07:17:40.068754+09:00",
+  "last_updated": "2026-08-24T07:17:35.071235+09:00",
   "count": 60
 }
