@@ -1,6 +1,225 @@
 {
   "articles": [
     {
+      "title": "天然水素は「ゴールドラッシュ」か？／人類はなぜ宇宙を目指すのか",
+      "url": "https://ascii.jp/elem/000/004/430/4430539/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/30/4519339/s/00b9dbec93e92701.jpg\" width=\"60\" />世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-31T00:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/30/4519339/s/00b9dbec93e92701.jpg"
+    },
+    {
+      "title": "“AIを会議室に組み込む”Neat　シンプルな体験こそが最大の価値",
+      "url": "https://ascii.jp/elem/000/004/429/4429854/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/27/4518309/s/9f0fbaa4ee1f72ba.jpg\" width=\"60\" />北欧ノルウェー発のビデオ会議デバイス、Neat。シンプルでスタイリッシュなNeat製品が実現する快適な会議体験は、世界中の顧客企業から高い支持を集めている。2026年3月からCEOを務めるジャヴェド・カーン氏が、AI時代にNeatが提供するものを語った。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-31T00:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/27/4518309/s/9f0fbaa4ee1f72ba.jpg"
+    },
+    {
+      "title": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000950/",
+      "summary": "Sony Music PublishingやWarner Chappell Musicなどの音楽出版社グループは、Anthropicと同社幹部を著作権侵害で提訴した。海賊版サイトからの歌詞取得や無断学習を「史上最大の知財窃盗」と主張し、数十億ドル規模の損害賠償を請求している。Anthropicは全面的に争う姿勢だ。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-30T23:21:28",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/31/2000000950/10004423/2048",
+      "body_ja": "ソニー・ミュージックパブリッシングとワーナー・チャペル、Anthropicを著作権侵害で提訴\n米Sony Music Publishing（ソニーグループ傘下の米音楽出版大手。日本の同名企業とは別法人）と米Warner Chappell Musicを中心とする音楽出版社グループは8月28日（現地時間）、米Anthropicと共同創業者のダリオ・アモデイCEO、ベンジャミン・マン氏を著作権侵害で米カリフォルニア州北部地区連邦地裁に提訴した。全48ページの訴状は、同社の行為を「史上最大かつ最も露骨な知的財産の窃盗の1つ」と表現している。\nこの訴訟は英Music Business Worldwide（MBW）が最初に報じたもので、同誌が訴状を公開した。\n訴状によると、マン氏は2021年6月、海賊版サイトLibGenから500万冊以上の書籍を「BitTorrent」でダウンロードした。BitTorrentは、ファイルを細かく分割して利用者同士が直接やりとりするP2P型のファイル共有技術で、ダウン"
+    },
+    {
+      "title": "【無料】日本語のAI学習サイトをAnthropicが公開　「Claude Code入門」など357のコンテンツが学べる",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/31/news015.html",
+      "summary": "Anthropicは、AIを安全かつ効果的に活用する方法を学べるWebサイト「Claude Academy」を公開した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-30T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2608/31/cover_news015.jpg",
+      "body_ja": "Anthropicは、AIを安全かつ効果的に活用する方法を学べるWebサイト「Claude Academy」を公開した。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nAnthropicは2026年8月20日（米国時間）、AIを安全かつ効果的に活用する方法を学べるWebサイト「Claude Academy」を公開した。\nClaude Academyは、「https://academy.claude.com/」にアクセスして誰でも無料で利用でき、「Claude」のプロフィールメニューの「Claude Academy」からアクセスすることもできる。\nClaude Academyは、AIについて基礎から、または掘り下げて知りたい人や、Claudeを使い始めたばかりの人、チームへの導入を検討している人など、幅広い学習者を想定している。Claudeの使い方を学べるだけでなく、特定の製品やモデルに依存しない学習も可能だ。サイトのテキストは日本語化されているが、動画の音声は日本"
+    },
+    {
+      "title": "Anthropic、OpenAIが明かす「AI利用拡大でユーザーに何が起きているか」",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/27/news091.html",
+      "summary": "AIの利用が業務に定着し始めた今、労働市場と業務内容はどう変わりつつあるのか。AnthropicとOpenAIがそれぞれ公開した独自データから、AIの浸透がユーザーに与えているインパクトを明らかにする。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-30T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2608/27/cover_news091.jpg",
+      "body_ja": "AIの利用が業務に定着し始めた今、労働市場と業務内容はどう変わりつつあるのか。AnthropicとOpenAIがそれぞれ公開した独自データから、AIの浸透がユーザーに与えているインパクトを明らかにする。\nAIの業務での利用が広がるとともに、労働市場や仕事の在り方に変化が現れ始めている。\nAIの影響を強く受ける職種と、そうでない職種とは。職種ごとのタスクの中身がAIによってどう変わってきているのか――。AIベンダーのAnthropicとOpenAIが自社の観測データによって、これらの変化を明らかにする。\nAnthropicが公表した新指標では、AIによる影響をほとんど受けていない労働者が全体の約3割存在することが明らかになった。一方のOpenAIは、ChatGPTユーザーの80万件超のメッセージを分析。ある職種が他の職種の業務を手掛ける「タスクの越境」現象が広がっていると報告した。本ブックレットが紹介する、AIベンダーが示す変化の輪郭は、AI時代の業務プロセスを捉え直す上でのヒントになるだ"
+    },
+    {
+      "title": "「原則出社」命じる企業とテレワーク社員の意識ギャップ／“推し活依存”自覚するZ世代が2割／シニアの利用が盛んな○○アプリ、ほか",
+      "url": "https://ascii.jp/elem/000/004/430/4430471/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/29/4519156/s/6c0b1aec7f284eb3.jpg\" width=\"60\" />今回（2026年8月22日～8月28日）は、サイバー攻撃によるデータ侵害の被害実態、テレワーク実施率の推移や従業員の意向、世界のDDoS攻撃の現状、小売業が提供するアプリの利用動向、Z世代の“推し活依存”の実態についてのデータを紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-30T23:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/29/4519156/s/6c0b1aec7f284eb3.jpg"
+    },
+    {
+      "title": "シリコンスタジオが「官公庁事業推進室」を新設　防衛／防災、宇宙など展開強化",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news021.html",
+      "summary": "シリコンスタジオは、官公庁や公共分野における事業開発と提案活動を強化するため、2026年9月1日付で「官公庁事業推進室」を新設する。リアルタイム3D CG技術を生かし、防衛や防災、インフラなどの領域でデジタルツインやシミュレーション技術の展開を進める。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-30T22:30:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2608/31/cover_news021.jpg",
+      "body_ja": "シリコンスタジオは、官公庁や公共分野における事業開発と提案活動を強化するため、2026年9月1日付で「官公庁事業推進室」を新設する。リアルタイム3D CG技術を生かし、防衛や防災、インフラなどの領域でデジタルツインやシミュレーション技術の展開を進める。\nシリコンスタジオは2026年8月27日、同年9月1日付で「官公庁事業推進室」を新設すると発表した。\n同社はこれまで、ゲームやエンターテインメント分野で培ったリアルタイム3D CG技術を基盤に、デジタルツインやシミュレーション、AI（人工知能）の開発／検証環境などを産業分野へ展開してきた。官公庁事業推進室の新設により、防衛や防災、社会インフラ、エネルギー、海洋、宇宙など公共性の高い領域でのソリューション展開を推進する考えだ。\nシリコンスタジオが官公庁事業推進室を新設する背景には、公共分野におけるデジタルツイン需要の拡大がある。近年、社会インフラの維持管理や防災／災害対応、教育／訓練、研究開発などの分野において、現実空間をデジタル上に再現し、"
+    },
+    {
+      "title": "フロンティアAI対策を国内組織はどう捉えているか　“内製化への意欲”と待ち望む“政府主導のガイドライン”",
+      "url": "https://ascii.jp/elem/000/004/430/4430406/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/28/4519008/s/7b5644b751d8569a.jpg\" width=\"60\" />フロンティアAIが台頭する中、サイバー攻撃のスピード・規模・巧妙さは劇的に増すとみられ、防御側のあり方にも変化が求められている。国内組織は、この状況をどう捉えているのか。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-30T22:30:00",
+      "image_url": "https://ascii.jp/img/2026/08/28/4519008/s/7b5644b751d8569a.jpg"
+    },
+    {
+      "title": "AIエージェントはなぜハッキングに走ったか？オープンAI報告書の中身",
+      "url": "https://ascii.jp/elem/000/004/430/4430555/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />訓練中に不正で問題を解いたモデルは、その行動を強化され、次も同じ手を使うようになる。「報酬ハッキング」と呼ばれるこの現象が、7月のハギング・フェイス侵入につながったと、オープンAIの技術報告書は結論づけた。ただし、解決は容易ではない。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-30T22:00:03",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "「AI時代、業務の再設計が必要」　それ、DXの時も言っていましたよね……本当にできる？　日本IBMの答えは",
+      "url": "https://www.itmedia.co.jp/business/articles/2608/31/news016.html",
+      "summary": "AIエージェントを導入して成果を出すためには「業務プロセスの再設計」が必要だという。振り返れば、DXの時も同じことを言っていた。日本企業は、今度こそ本当に実現できるのか。日本IBMが見解を語った。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-30T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2608/31/cover_news016.jpg",
+      "body_ja": "AI活用の文脈で、よく耳にする“アドバイス”がある。\n「AIをただ導入しただけでは、期待する成果が出ない。業務プロセスを再設計し、全社横断で変革に取り組むことで、競争力を強化できる」――こんな論説に聞き覚えがある読者も多いだろう。\nこの内容は、DXの指南記事、働き方改革セミナー、経営本などAIテーマに限らず至るところで登場している。「業務プロセスの再設計が必要だ」と長らく指摘されてきたが、実現できた企業はそう多くないはずだ。\nそうした中で今度は、AIエージェントの導入が広がるのに合わせて「業務プロセスの再設計」が注目されている。日本アイ・ビー・エム（以下、日本IBM）の早川勝氏（執行役員 CAIO兼CTO）は8月25日、AI基盤に関する記者会見で、AIの価値を享受するポイントとして「AIと協働する前提で仕事そのものを作り変え、企業全体で運営し続ける能力」が重要だと語った。\n日本企業は、今度こそ業務プロセスを変革させられるのか。そのために必要なものとは何なのか。日本IBMが示すロードマップ"
+    },
+    {
+      "title": "AIが生成した“存在しない病名”、研修医の44％が信用　見抜けた医師との差は？　仏大学病院が検証",
+      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000865/",
+      "summary": "フランスの大学病院「Lille University Hospital」などに所属する研究者らが発表した論文「Hallucination by proxy in LLM-assisted differential diagnosis」は、大規模言語モデル（LLM）がもっともらしく提示した架空の病名が医師にどのような影響を与えるかを検証した研究報告だ。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-30T22:00:00",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/31/2000000865/10004089/2048",
+      "body_ja": "Innovative Tech：\nAIが生成した“存在しない病名”、研修医の44％が信用 見抜けた医師との差は？ 仏大学病院が検証\nInnovative Tech：\n2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2\nフランスの大学病院「Lille University Hospital」などに所属する研究者らが発表した論文「Hallucination by proxy in LLM-assisted differential diagnosis」は、大規模言語モデル（LLM）がもっともらしく提示した架空の病名が医師にどのような影響を与えるかを検証した研究報告だ。\nLLMを用いた診断支援は医療において可"
+    },
+    {
+      "title": "5秒の動画を3秒で出せる　動画生成AI「MiniMax H3」が爆速に進化",
+      "url": "https://ascii.jp/elem/000/004/430/4430553/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/31/4519438/s/0b4bcf05990c19e2.png\" width=\"60\" />動画生成AI「MiniMax H3」の高速化競争が加速している。15秒を約13秒で生成する「H3 Max」に加え、14倍高速化をうたう「FastH3」も登場。RTX 4090環境で動かし、検証した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-30T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/31/4519438/s/0b4bcf05990c19e2.png"
+    },
+    {
+      "title": "ヌルヌルで暗がりも見える！ ゲーマー垂涎「ミニLED＋量子ドット＋AI」採用の4Kゲーミングディスプレーが今Amazonで大値引き中",
+      "url": "https://ascii.jp/elem/000/004/430/4430546/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/30/4519346/s/676c7c88434d53a4.png\" width=\"60\" />BenQのゲーミングディスプレー「MOBIUZ EX321UX 31.5インチ」がAmazonスマイル Saleの対象に。現在、参考価格24万0,910円から17％オフの19万9800円で販売中。ミニLED＋量子ドットの採用で一般的な液晶よりも高コントラストかつ鮮やかな映像表現を楽しめる。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-30T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/30/4519346/s/676c7c88434d53a4.png"
+    },
+    {
+      "title": "「アスキーグルメNEWS」生放送（2026年9月4日号）",
+      "url": "https://ascii.jp/elem/000/004/430/4430377/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/07/4510618/s/78ae0faafceb5a53.png\" width=\"60\" />巷で話題のおいしいグルメ情報を生放送でご紹介します。ぜひ、お昼ごはんを楽しみながらどうぞ！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-30T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/07/4510618/s/78ae0faafceb5a53.png"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～ゲームのレスポンスを上げるにはVRRとV-Sync、フレームレート制限をどう組み合わせるべきか？～",
+      "url": "https://ascii.jp/elem/000/004/430/4430325/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg\" width=\"60\" />ゲームのレスポンスを上げるにはVRRとV-Sync、フレームレート制限をどう組み合わせるべきか？　木曜20:00から放送スタート！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-30T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg"
+    },
+    {
+      "title": "Googleマップから直接注文できる飲食店向け事前注文システム",
+      "url": "https://ascii.jp/elem/000/004/430/4430213/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/28/4518756/s/7e1ad31b1a5e30f9.jpg\" width=\"60\" />フードトラベル株式会社は8月25日、飲食店向けの店外オーダーシステム「オーダーテイク」を正式リリースした。顧客がGoogleマップの店舗情報から直接スマホで料理を事前注文・決済し、待ち時間なしでテイクアウトを受け取れるサービスだ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-08-30T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/28/4518756/s/7e1ad31b1a5e30f9.jpg"
+    },
+    {
+      "title": "パナソニックHDがAI・ロボティクス研究開発本部を新設、CAIOの榊原氏がトップに",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2608/31/news057.html",
+      "summary": "パナソニック ホールディングス（パナソニックHD）が技術部門の再編を行うと発表。現行のDX・CPS本部を「事業開発本部」に名称変更し、「AI・ロボティクス研究開発本部」を新設する。AI・ロボティクス研究開発本部長には同社 執行役員 グループCAIO（最高AI責任者）の榊原彰氏が就任する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-30T21:15:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2608/31/cover_news057.jpg",
+      "body_ja": "パナソニック ホールディングス（パナソニックHD）が技術部門の再編を行うと発表。現行のDX・CPS本部を「事業開発本部」に名称変更し、「AI・ロボティクス研究開発本部」を新設する。AI・ロボティクス研究開発本部長には同社 執行役員 グループCAIO（最高AI責任者）の榊原彰氏が就任する。\nパナソニック ホールディングス（パナソニックHD）は2026年8月28日、同年10月1日付で技術部門の再編を行うと発表した。\n今回の技術部門の再編は、生成AI（人工知能）をはじめとするデジタル技術の進展を踏まえ、AI活用を核とした事業／業務プロセス／組織カルチャーの変革をグループ横断で加速する狙いがある。\nまず、現行の「DX・CPS本部」を、CPS（サイバーフィジカルシステム）関連の事業開発に特化した組織に再編し、「事業開発本部」に名称変更する。同本部は、エネルギーの有効活用や労働力不足の解消といった社会課題領域を中心に、既存事業の隣接領域から将来の新規事業領域まで幅広く事業機会の探索／検証を行い、事業"
+    },
+    {
+      "title": "AIエージェントで削減できるコストと工数の目安を試算方法つきで解説",
+      "url": "https://ainow.ai/2026/08/31/278338/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e5%2589%258a%25e6%25b8%259b%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2582%25b3%25e3%2582%25b9%25e3%2583%2588%25e3%2581%25a8%25e5%25b7%25a5%25e6%2595%25b0%25e3%2581%25ae%25e7%259b%25ae%25e5%25ae%2589%25e3%2582%2592",
+      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12391;&#21066;&#28187;&#12391;&#12365;&#12427;&#12398;&#12399;&#12289;&#20316;&#26989;&#24037;&#25968;&#12392;&#20154;&#20214;&#36027;&#12420;&#22806;&#37096;&#22996;&#35351;&#36027;&#12289;&#12381;&#12375;&#12390;&#12511;&#12473;&#12395;&#12424",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-08-30T17:12:16",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail-12.jpg",
+      "body_ja": "AIエージェントで削減できるのは、作業工数と人件費や外部委託費、そしてミスによる手戻りの3つです。削減幅の大きさは、ツールの性能ではなく対象業務の選び方でほぼ決まります。\n導入の効果は理解していても、経営会議で「結局いくら削減できるのか」と問われた瞬間に金額の根拠を出せず稟議が止まるケースは少なくありません。\nベンダー資料の削減率をそのまま稟議に載せると、運用工数やAPIの従量課金で効果が相殺され、1年後に成果を問われる立場に回ります。削減額は自社の実測値から組み立てる必要があります。\n本記事では、削減効果が大きい業務の見極め方と、削減工数を金額に換算して回収期間まで出す4ステップを中心に解説します。公式発表で確認できた企業事例の数値もあわせて紹介します。\n読み終えると、自社の対象業務でいくら削減できるかを計算式で示し、隠れコストを織り込んだ現実的な投資計画として経営に提出できる状態になります。\nAIエージェントで削減できるのは工数・コスト・ミスの3種類\nAIエージェントの導入で削減でき"
+    },
+    {
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-30T16:54:25",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024"
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-08-30T15:00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800"
+    },
+    {
+      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
+      "summary": "OpenAIと評価機関METRは、Hugging Face侵害事案の技術報告書を公開した。約1200体のAIエージェントが非公式掲示板で結託し、難問攻略のため採点機構を探る過程で攻撃を実行したという。OpenAIは根本原因を報酬ハッキングとし対策を公表したが、METRは自律的集団行動の再発リスクに警戒を示している。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-08-30T09:23:12",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/30/2000000949/10004419/2048",
+      "body_ja": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加\n米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三者調査を担当した米METRも独自の報告書（97ページ）を公開している。METRは、AIモデルの危険な能力や自律性を独立した立場で評価する非営利の研究機関で、OpenAIやAnthropicなどのモデルを外部からテストしてきた実績がある。今回はAI安全性研究の米非営利組織Redwood Researchの研究者と共同で、OpenAI社内に計6日間滞在して調査に当たった。\nMETRによる報告概要\nMETRによると、本来は互いに隔離されているはずだった約1200のAIエージェントが、社内のパッケージ管理ソフト「Artifactory」上に作られた非公式の掲示板で7万件を超えるメッセージやファイルをや"
+    },
+    {
       "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
       "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
       "summary": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
@@ -10,16 +229,6 @@
       "published": "2026-08-29T23:12:23",
       "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/30/2000000945/10004402/2048",
       "body_ja": "OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由\n米OpenAIは8月28日（現地時間）、AIコーディングツール「Cursor」にモデルを提供する契約を終了すると発表した。停止日は11月12日を提案しているという。同社は公式Xアカウントでも「SpaceXによる買収を受け、Cursorとのパートナーシップを終了する」と投稿した。\nCursorは、AIにコードを書かせたり修正させたりできるエディタ。ユーザーはGPT系やClaude、Geminiなど複数のAIモデルを選んで使える。今回終了するのは、そのうちOpenAIのモデルをCursorが自社サービス内で直接呼び出せる契約（モデルアクセス）で、11月12日以降、CursorのメニューからOpenAIのモデルを選べなくなる見込みだ。Cursorそのものが使えなくなるわけではない。\n理由についてOpenAIは、「イーロン・マスク氏の企業が契約に違反してきた経験を踏まえると、SpaceXが当社の技術を利用"
-    },
-    {
-      "title": "FMV直販の「目玉品」は、とってもお買い得！ 現在2200円オフクーポン配布中だっ！",
-      "url": "https://ascii.jp/elem/000/004/429/4429962/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T23:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png"
     },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -42,16 +251,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800"
     },
     {
-      "title": "最大16万9000円オフ！ パソコンショップSEVENが8月30日限定のBTOセール",
-      "url": "https://ascii.jp/elem/000/004/430/4430131/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/28/4518638/s/4b077a998023ca0c.png\" width=\"60\" />パソコンショップSEVENが8月30日限定でBTOパソコンセールを開催。ゲーミングPCやデスクトップPCなど対象10商品を、最大16万9000円引き・送料無料で販売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/28/4518638/s/4b077a998023ca0c.png"
-    },
-    {
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
       "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
       "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
@@ -60,86 +259,6 @@
       "lang": "en",
       "published": "2026-08-29T13:00:00",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800"
-    },
-    {
-      "title": "特別価格10万3400円！ FMVの11.6型ノート「LIFEBOOK WQ1/K1」が直販でお買い得",
-      "url": "https://ascii.jp/elem/000/004/429/4429942/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png"
-    },
-    {
-      "title": "知ってます？ 最近のビジネスノートPC、軽いのに“約2日”もバッテリー持つんです。驚きの「最大50.8時間駆動」",
-      "url": "https://ascii.jp/elem/000/004/429/4429382/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/26/4517457/s/515783a235d47de6.png\" width=\"60\" />「LAVIE BM94C」は、NECパーソナルコンピュータが出した、“超”がつくほど長時間駆動が特徴の法人向けモバイルPCの最高峰モデルです。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/26/4517457/s/515783a235d47de6.png"
-    },
-    {
-      "title": "なぜ今、韓国Kiaが日本再上陸？ 法人＆車中泊層を狙い撃ちにするハイエース級EVバンの販売戦略",
-      "url": "https://ascii.jp/elem/000/004/430/4430472/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/29/4519174/s/6f29d923d8466351.jpg\" width=\"60\" />韓国Kiaが双日を通じて日本へ再上陸し、EVバン「PV5」の導入を発表しました。ハイエースと同等サイズで商用と乗用を展開し、床面高419mmの超低床設計が特徴です。商用モデルは最大196万4000円の補助金対象で、国産車が手薄なEVバンの市場に切り込みます。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/29/4519174/s/6f29d923d8466351.jpg"
-    },
-    {
-      "title": "めっちゃリアルだけど「うそもいっぱい描いてる」『バクマン。』【Amazonマンガ週末祭】",
-      "url": "https://ascii.jp/elem/000/004/430/4430123/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/28/4518600/s/0424dccdac210255.png\" width=\"60\" />業界の暴露漫画かと思ったら大違い。実はかなりフィクションで彩られた『バクマン。』。ペンで挑む少年たちの王道バトル劇、その黄金比をあなたに教えます。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/28/4518600/s/0424dccdac210255.png"
-    },
-    {
-      "title": "『こち亀づくし』は、両さんの行動原理を支える12のテーマで分類したGoodなセレクション集【Amazonマンガ週末祭】",
-      "url": "https://ascii.jp/elem/000/004/430/4430122/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/28/4518598/s/8115a563d86686cd.png\" width=\"60\" />全200巻は買えなくても大丈夫。両津勘吉の欲望で分類した『こち亀づくし』なら、40年分の爆笑が全12巻で楽しめます。時代を越えてブレない両さんの大暴れに、手を叩いて笑おう。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/28/4518598/s/8115a563d86686cd.png"
-    },
-    {
-      "title": "Core Ultra 7 255U+16GBメモリー搭載で26万円台！ FMVの軽量ノートPCが特価",
-      "url": "https://ascii.jp/elem/000/004/429/4429935/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png"
-    },
-    {
-      "title": "【防災グッズの大本命】あると便利なのは知ってた！ 定番スペックで買いなJackeryのポータブル電源",
-      "url": "https://ascii.jp/elem/000/004/429/4429741/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/27/4518195/s/46e98071e2d4a236.png\" width=\"60\" />「Jackery ポータブル電源 1000 New V3」。1024Whの容量と1500WのAC定格出力を備え、電子レンジやドライヤーなどの大型家電も難なく駆動。前モデルから19％小型化され、約10.6kgと1000Whクラスとして取り回しやすいサイズ感に収まっています。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/27/4518195/s/46e98071e2d4a236.png"
-    },
-    {
-      "title": "やったね！ ココイチ「バターチキンカレー」が復活！ マイルドなのがいい！",
-      "url": "https://ascii.jp/elem/000/004/430/4430304/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/29/4519269/s/93370e3b6432171f.jpg\" width=\"60\" />カレーハウスCoCo壱番屋で、9月1日より数量限定で「バターチキンカレー」（1199円）を販売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-08-29T07:30:00",
-      "image_url": "https://ascii.jp/img/2026/08/29/4519269/s/93370e3b6432171f.jpg"
     },
     {
       "title": "キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく",
@@ -221,114 +340,6 @@
       "lang": "en",
       "published": "2026-08-28T09:00:00",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/thermostat2.jpg?resize=1200,600"
-    },
-    {
-      "title": "チームみらい安野氏「高市総理へのAI家庭教師」を実施　総理が音声入力で作成したのは……",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000919/",
-      "summary": "チームみらいの安野貴博党首らは、高市早苗総理大臣にAIについて指導するイベント「高市総理へのAI家庭教師」を首相官邸で実施した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-28T08:53:41",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/28/2000000919/10004309/2048",
-      "body_ja": "Share\n    \nチームみらい安野氏「高市総理へのAI家庭教師」を実施 総理が音声入力で作成したのは……（1/2 ページ）\n                                公開\n                                    \n                            \n                        チームみらいの安野貴博党首らは8月28日、高市早苗総理大臣にAIについて指導するイベント「高市総理へのAI家庭教師」を首相官邸で実施した。高市総理が実際にAIを利用するハンズオン形式で行われた。チームみらいの公式X（@team_mirai_jp）で発表した。\nイベントには、木原稔官房長官が参加したほか、チームみらいから峰島侑也氏、小林修平氏も参加した。高市総理は、政府の物価高政策の効果を可視化する「物価高対策シミュレーター」を音声入力で作成したという。\n今回のイベントは、5月20日の党首討論をきっかけに実現したものと"
-    },
-    {
-      "title": "「国産ヒューマノイド」の作業風景を生配信中、3時間以上経過　「ベルトコンベヤーも自作」　アトム",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000912/",
-      "summary": "アトムが人型ロボットの作業風景を生配信している。ベルトコンベヤーで流れてくる荷物を1つずつ手に取り、ラベルが貼られている面を上に向ける作業を実施中。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-28T08:11:03",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/28/2000000912/10004300/2048",
-      "body_ja": "Share\n    \n「国産ヒューマノイド」の作業風景を生配信中、3時間以上経過 「ベルトコンベヤーも自作」 アトム（1/2 ページ）\n                                公開\n                                    \n                            \n                        ロボット開発企業のアトム（東京都江東区）が人型ロボットの作業風景を生配信している。8月28日午後5時時点で生配信を継続しており、配信開始から約3時間半経過している。\nアトムの人型ロボットはベルトコンベヤーで流れてくる荷物を1つずつ手に取り、ラベルが貼られている面を上に向ける作業を実施中。動作が止まり、同社従業員と見られる人物が補助をする場面もあったが、おおむね自律的に作業を続けている。\n同社の青木俊介代表取締役はXで「こちらのライブデモ、自分たちでデータ収集・設計した上でAI開発しています。まさかのベルトコン"
-    },
-    {
-      "title": "「半導体はAIが設計、人間は監督に」 次世代EDAへの取り組み",
-      "url": "https://eetimes.itmedia.co.jp/ee/articles/2608/28/news088.html",
-      "summary": "キーサイト・テクノロジー（以下、キーサイト）は2026年8月26日、エンジニア向けイベント「KDES」にあわせて、「AI時代の次世代半導体設計」をテーマとしたメディアブリーフィングを開催。AIを活用したEDAや光半導体設計、マルチフィジックス対応シミュレーションといった取り組みを紹介した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-28T07:00:00",
-      "image_url": "https://image.itmedia.co.jp/ee/articles/2608/28/cover_news088.jpg",
-      "body_ja": "キーサイト・テクノロジー（以下、キーサイト）は2026年8月26日、エンジニア向けイベント「KDES」にあわせて、「AI時代の次世代半導体設計」をテーマとしたメディアブリーフィングを開催。AIを活用したEDAや光半導体設計、マルチフィジックス対応シミュレーションといった取り組みを紹介した。\nKeysight Technologies（以下、Keysight）の日本法人であるキーサイト・テクノロジー（以下、キーサイト）は2026年8月26日、設計／開発／検証エンジニア向けイベント「Keysight Design Engineering Summit 2026 Tokyo（KDES）」を開催した。同日には「AI時代の次世代半導体設計」をテーマとしたメディアブリーフィングで、Keysightの取り組みを紹介した。\nKeysightは2026年1月に、同社EDAプラットフォーム「Advanced Design System（ADS）」向けのAI搭載アシスタント「Chat」「Copilot」を発表"
-    },
-    {
-      "title": "Hugging Face、あひる型ロボット「Microduck」発表　399ドルで予約開始",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000901/",
-      "summary": "Pollen Roboticsは、二足歩行ロボット「Microduck」を発表し予約受付を開始した。399ドルで25cmの小型設計。強化学習による動作学習に特化し、SDKやシミュレーターをOSSとして公開する。大型機と異なり家庭や教室で安全に試行錯誤できる「行動するAIのためのプラットフォーム」を目指す。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-28T06:09:08",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/28/2000000901/10004227/2048",
-      "body_ja": "Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始\n米Hugging Face傘下の仏Pollen Roboticsは8月27日（現地時間）、二足歩行ロボット「Microduck」を発表し、予約受付を開始した。価格は399ドル（導入価格）。出荷は2026年のクリスマス前を予定し、対象地域は北米、欧州、英国など。カラーは4色用意する。\n身長25cm、幅14cm、重さは800g未満。脚、頭、首に計15個のモーターを備え、カメラ、小型LiDAR、2基のIMU、マイクとスピーカーを搭載する。プロセッサはAIアクセラレータを内蔵するRockchip RK3566で、メモリは1GB、ストレージは32GB。着脱式バッテリーの駆動時間は約1時間としている。\n出荷時には7種類の学習済み動作が入っており、歩行、着座と起立、キック、くちばしで物をつかむ動作、ローラースケート、転倒からの起き上がりができる。ゲームコントローラーが同梱されており、コードを書かなくても操作でき"
-    },
-    {
-      "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表　将来オープンソース化へ",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000897/",
-      "summary": "Anthropicは、AIエージェントが実験・製造機器を安全に操作するための共通仕様「Model Hardware Standard」（MHS）を発表した。機器の統合作業を大幅に短縮し、基本命令や安全制限を標準化して自律制御を可能にする。先行導入事例を公開し、安全性評価を進めた上でオープンソース化する方針だ。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-28T05:20:45",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/28/2000000897/10004218/2048",
-      "body_ja": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ\n米Anthropicは8月27日（現地時間）、AIエージェントが物理的な機器を安全に操作するための共通仕様「Model Hardware Standard」（MHS）のリサーチプレビューを開始したと発表した。まずは科学研究機関と先端製造分野の一部パートナーに提供する。MHSは、Anthropicと米HHMIジャネリア・リサーチ・キャンパスの共同作業から生まれたもので、顕微鏡や分注ロボット（リキッドハンドラー）、ロボットアームなどの実験・製造機器を、エージェントが並行して一括制御できるようにする。\n同社によると、実験室や製造現場では機器ごとにプログラミングインタフェースが異なり、相互に通信させるための個別実装に数週間から数カ月を要していた。MHSはこの統合作業を数時間から数分に短縮するという。仕組みとしては、温度取得などの「読み取り」や「書き込み」などの基本命令（プリミティブ）のみで構成した標準ドラ"
-    },
-    {
-      "title": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」",
-      "url": "https://www.itmedia.co.jp/news/article/2608/28/2000000893/",
-      "summary": "Googleは、信頼できる情報源をAI製品で活用する取り組み「Expert Intelligence」を発表した。第1弾として「Google Playブックス」の対象電子書籍を「Gemini Notebook」のソースに追加可能にした。大手出版社の10万冊以上が対象で、今後は他サービスにも拡大する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-28T04:25:21",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2608/28/2000000893/10004203/2048",
-      "body_ja": "Google、「Gemini Notebook」に購入済み電子書籍を追加できる「Expert Intelligence」\n米Googleは8月27日（現地時間）、信頼できる情報源をGoogleのAI製品で活用できるようにする、複数の製品にまたがる取り組み「Expert Intelligence」を発表した。第1弾として、「Google Playブックス」で購入した対象の電子書籍を「Gemini Notebook」（旧「NotebookLM」）にソースとして追加できるようになった。\n書籍を追加すると、その本の内容に基づいた回答を得られるほか、インフォグラフィックや音声概要（Audio Overviews）、クイズなどを書籍の内容から生成できる。著者の知見を自分が用意した他のソースと組み合わせることも可能だ。Googleは例として、自宅の冷蔵庫の中身を撮影した写真と料理に関する書籍を組み合わせ、1週間分の献立を作らせる方法を紹介している。\n提供開始時点の対象は、O'Reilly Media、"
-    },
-    {
-      "title": "“AI離れ”こそ重要？　AIで成果を出す人の共通点　「差がつくスキルと思考法」を専門家に聞いた",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000873/",
-      "summary": "AIで成果を出せる人と出せない人の違いは何か。差がつくスキルと思考法、その育て方をパーソル総合研究所の小林祐児氏に聞いた。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-28T01:07:35",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/28/2000000873/10004135/2048",
-      "body_ja": "“AI離れ”こそ重要？ AIで成果を出す人の共通点 「差がつくスキルと思考法」を専門家に聞いた\n「AIから離れないと、AIで価値は生み出せない」――パーソル総合研究所（東京都江東区）の主席研究員である小林祐児氏は、AI時代に必要な学びについてこのように表現する。\n生成AIの発展に伴い、企業でもAI活用が進んでいる。パーソル総合研究所の調査によると、業務でAIを利用する正社員の割合は、2025年の41.9％から26年には54.3％まで増加したという。\n一方、AIの利用が必ずしも仕事の成果につながるとは限らない。小林氏は、AIの使用頻度にかかわらず、特定のスキルや考え方により成果に差が生じていると指摘する。\nAIで成果を出せる人と出せない人の違いは何か。差がつくスキルと思考法、その育て方を小林氏に聞いた。\n「AIで時短」は役に立たない？\n小林氏は前提として、企業のAI活用の現状について、個人の効率化の実感が組織全体の生産性向上につながっていないと指摘する。\n「個人レベルでは『AIを使うとなん"
-    },
-    {
-      "title": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開　10秒分の文脈を参照して最長40秒まで延長",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2608/28/2000000878/",
-      "summary": "Googleは、動画の生成や編集に対応するマルチモーダルAI「Gemini Omni 1.1 Flash」を発表した。直前10秒の文脈を参照した最大40秒のシーン延長や、開始・終了フレームの指定生成に対応。360pの高速プレビューから4Kアップスケールまでをカバーし、APIやツール経由で提供する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-08-28T00:07:14",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2608/28/2000000878/10004148/2048",
-      "body_ja": "Google、動画生成AI「Gemini Omni 1.1 Flash」公開 10秒分の文脈を参照して最長40秒まで延長\n米Googleは8月27日（現地時間）、動画の生成・編集に対応するマルチモーダルAIモデル「Gemini Omni 1.1 Flash」を発表した。Gemini APIおよびGoogle AI Studioを通じて開発者向けに提供する。APIのモデル名は「gemini-omni-1.1-flash」。\n同社は、今回のアップデートにより、Omni 1.1がGoogle AI Studio経由のGemini APIで「プロ用途に耐えるproduction-readyな段階になった」としている。\n最大の強化点はシーン延長\n既存の動画の続きをシームレスに生成する「シーン延長」機能では、モデルが直前の最大10秒分を文脈として解析できるようになった（従来モデルは最後の1秒しか参照していなかった）。これにより、視覚的な一貫性と物語の整合性が向上したとしている。動画は10秒単位で延長"
-    },
-    {
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-27T23:16:45",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200"
-    },
-    {
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-08-27T19:52:52",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800"
     },
     {
       "title": "A startup claims it’s found a drug to make your blood young",
@@ -608,19 +619,8 @@
       "published": "2026-08-06T13:56:41",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail-3.jpg",
       "body_ja": "生成AIを全社導入したものの、成果が出たのは議事録の要約や資料作成ばかりです。原価に直結する製造現場は何も変わっていないと感じている推進担当者は少なくありません。\n製造業のAIエージェントとは、生産計画・設備保全・品質検査といった業務を、人の逐一の指示なしに判断して実行するAIです。実際にパナソニック コネクトでは、図面と設計仕様の照合業務で作業時間を最大97％削減しています。仕組みや進め方は記事内で詳しく解説します。\n着手を先送りすると、計画業務や検査工程を自動化した同業他社とのリードタイム差は年単位で開くでしょう。逆に正しく設計できれば、熟練者の判断を仕組みとして残し、退職と同時に稼働率が落ちる事態を防げます。\n本記事では、製造業のAIエージェントの定義と従来AIとの違い、できること8選、企業8社の活用事例、導入の5ステップ、選び方とおすすめツールを解説しています。\n自社のどの業務から着手すべきかを見極めるために、ぜひ最後までご覧ください。\n製造業のAIエージェントとは自律的に判断し"
-    },
-    {
-      "title": "総務業務でAIエージェントを活用する方法7選！企業事例と導入手順を解説",
-      "url": "https://ainow.ai/2026/08/06/278298/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%25b7%258f%25e5%258b%2599%25e6%25a5%25ad%25e5%258b%2599%25e3%2581%25a7ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e6%25b4%25bb%25e7%2594%25a8%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e4%25bc%2581",
-      "summary": "<p>&#12300;&#37109;&#20415;&#29289;&#12399;&#12393;&#12371;&#12395;&#20986;&#12379;&#12400;&#12356;&#12356;&#12391;&#12377;&#12363;&#12301;&#12300;&#32076;&#36027;&#31934;&#31639;&#12398;&#32224;&#20999;&#12399;&#12356;&#12388;&#12391;&#12377;&#12363;&#12301;&#12392;&#12356;&#12387;&#12383;&#31038;&",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-08-05T18:22:47",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail-2.jpg",
-      "body_ja": "「郵便物はどこに出せばいいですか」「経費精算の締切はいつですか」といった社内問い合わせに追われ、制度設計やオフィス改善に手が回らない総務担当者は少なくありません。\nAIエージェントとは、社内規程やマニュアルを参照しながら、問い合わせ対応から申請の起票までを自律的に進めるAIです。実際に社内向けAIを導入した企業では、総務・情報システム関連の問い合わせが約20%減った例も報告されています。仕組みや導入の進め方は記事内で詳しく解説します。\nチャットボットとの違いを理解しないまま検討を進めると、回答するだけで処理は人が担う中途半端な導入に終わり、投資対効果を問われるでしょう。正しく設計できれば、定型業務を手放して評価につながる仕事に時間を振り向けられます。\n本記事では、総務AIエージェントの定義とチャットボット・RPAとの違い、できること7選、企業の活用事例、導入の5ステップ、選び方と費用相場、注意点を解説しています。\n自部門でAIに任せる業務と人が判断すべき業務を切り分けるために、ぜひ最後ま"
     }
   ],
-  "last_updated": "2026-08-30T08:52:04.983168+09:00",
+  "last_updated": "2026-08-31T09:10:32.405155+09:00",
   "count": 60
 }
