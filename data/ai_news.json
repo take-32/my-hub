@@ -1,94 +1,234 @@
 {
   "articles": [
     {
-      "title": "サイコム「G-Master Velox Mini 2」発売、縦置きできる21.3Lの小型ゲーミングPC",
-      "url": "https://ascii.jp/elem/000/004/432/4432625/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/07/4522533/s/bad5887aadbfb632.jpg\" width=\"60\" />サイコムが、縦置き・横置きに対応した小型ゲーミングPC「G-Master Velox Mini 2」3機種を発売。RTX 5060を標準搭載し、21.3Lのコンパクト設計ながら優れた冷却性能と拡張性を実現します。</p><br clear=\"left\" />",
+      "title": "【iPhone 18予想】普通の「iPhone 18」は来年？ 今回は折りたたみと「iPhone 18 Pro」だけ発表!?",
+      "url": "https://ascii.jp/elem/000/004/432/4432924/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/08/4522897/s/1ba58434657ac26d.jpg\" width=\"60\" />9月9日（水）深夜（9月10日（木）2時）に開催されるApple Event。折りたたみiPhoneの登場が目玉になると思いますが、iPhone 18シリーズももちろん登場予定。でも、今年はProモデルだけ？</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-09-06T23:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/07/4522533/s/bad5887aadbfb632.jpg"
+      "published": "2026-09-07T23:30:00",
+      "image_url": "https://ascii.jp/img/2026/09/08/4522897/s/1ba58434657ac26d.jpg"
     },
     {
-      "title": "SaaSに代わりAIエージェント支える“AaaS”が台頭／議事録作成AIは「意思決定支援」へ進化／生成AIの顧客満足度・1位はClaude、ほか",
-      "url": "https://ascii.jp/elem/000/004/432/4432581/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/05/4522293/s/fe6099bddf0e5be0.jpg\" width=\"60\" />今回（2026年8月29日～9月4日）は、“意思決定支援”へと進化する会議支援AIツール市場、AIエージェントを支える基盤＝「AaaS」市場の台頭、最新の生成AIサービスの顧客満足度ランキング、ソフトウェア開発組織におけるAI活用の実態、企業のAI投資とROI（投資対効果）についてのデータを紹介します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "行政機関18万人を支える「源内」　わずか1～2人での運用を実現した“一見手の込んだ仕組み”",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2609/07/news005.html",
+      "summary": "省庁ごとに環境を分ければセキュリティは上がるが、運用の手間はテナントの数だけ膨らむ――。約18万人の職員が利用する生成AI基盤「源内」で、デジタル庁はこの二律背反をどう乗り越えたのか。インフラ担当者1～2人体制で「高いセキュリティ」と運用の効率化を両立させる設計とは。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-06T23:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/05/4522293/s/fe6099bddf0e5be0.jpg"
+      "published": "2026-09-07T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2609/07/cover_news005.jpg",
+      "body_ja": "省庁ごとに環境を分ければセキュリティは上がるが、運用の手間はテナントの数だけ膨らむ――。約18万人の職員が利用する生成AI基盤「源内」で、デジタル庁はこの二律背反をどう乗り越えたのか。インフラ担当者1〜2人体制で「高いセキュリティ」と運用の効率化を両立させる設計とは。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\nデジタル庁は、行政機関の職員が日々の業務で活用できる生成AI環境をガバメントクラウドに構築し、各省庁への展開を進めている。それが、Amazon Web Services（AWS）が公開する生成AIアプリ構築用のオープンソースソフトウェア（OSS）「Generative AI Use Cases」（以下、GenU）をベースに内製開発された生成AI基盤「源内」だ。職員が直感的に操作できるUIと、行政特有の多様な業務アプリを接続できる拡張性を備えている。\n源内は現在、約18万人の職員を対象とする大規模な展開フェーズにある。デジタル庁は、厳格なセキュリティが求められる大"
     },
     {
-      "title": "ついにAIキャラクターと“ビデオチャット”へ　「MiniMax H3」がリアルタイム生成に接近",
-      "url": "https://ascii.jp/elem/000/004/432/4432622/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/07/4522523/s/cb37a552c0e1baa0.png\" width=\"60\" />動画生成AI「MiniMax H3」の高速化により、ローカルPCでもセミリアルタイムの動画対話や連続生成が可能になりつつある。将来的には動画は続きを“作って見る”時代になるかもしれない。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "初回正答率の向上で「対話の往復」削減　Meta「Muse Spark 1.3」の推論強化と活用ポイント",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/08/news045.html",
+      "summary": "Metaが新たに公開したモデル「Muse Spark 1.3」は、推論能力の強化により開発時の「会話の往復」を削減するという。100万トークンのコンテキストやマルチモーダル処理を継承しつつ、選べる2種類の料金体系を提示している。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-06T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/07/4522523/s/cb37a552c0e1baa0.png"
+      "published": "2026-09-07T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2609/08/cover_news045.jpg",
+      "body_ja": "Metaが新たに公開したモデル「Muse Spark 1.3」は、推論能力の強化により開発時の「会話の往復」を削減するという。100万トークンのコンテキストやマルチモーダル処理を継承しつつ、選べる2種類の料金体系を提示している。\nMetaは2026年9月2日（米国時間）、エージェントワークフローとコーディング性能を強化したAIモデル「Muse Spark 1.3」を発表した。長時間のタスク実行を想定して設計されており、複雑であいまいな指示や競合する入力情報でも文脈を維持しながら自律的に処理を進められるという。\n同モデルは、開発者の日常的なコーディングや自律型エージェント開発向けに調整された。初回試行時の生成精度向上や安定したツール呼び出しにより、不要な会話の往復を削減している。\nまた同モデルシリーズの特徴として動画や画像を直接認識できるマルチモーダル処理能力を持ち、コンテキストウィンドウは最大100万トークンをサポートし、大規模なコードベースの把握や長時間の動画解析といった膨大なコンテキ"
     },
     {
-      "title": "自作PCトーク『ジサトラKTU』生放送～DLSS 5のNeural Renderingは画質と性能にどう影響するのか？～",
-      "url": "https://ascii.jp/elem/000/004/432/4432543/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg\" width=\"60\" />DLSS 5のNeural Renderingは画質と性能にどう影響するのか？　木曜20:00から放送スタート！</p><br clear=\"left\" />",
+      "title": "【8日間限定】中とろが110円！ はま寿司で本日スタート",
+      "url": "https://ascii.jp/elem/000/004/432/4432826/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/07/4522677/s/000efc6c99799ec5.jpg\" width=\"60\" />はま寿司は9月8日から、「はま寿司の中とろ100円と大漁！旨ねた祭り」を全国の店舗で開催します。8日間限定で、「厳選まぐろ中とろ」を110円で販売。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-09-06T22:00:00",
-      "image_url": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg"
+      "published": "2026-09-07T23:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/07/4522677/s/000efc6c99799ec5.jpg"
     },
     {
-      "title": "iPhone 18＆折りたたみiPhone発表直前！理詰め＆妄想予想で盛り上がる！の巻：スマホ総研定例会391",
-      "url": "https://ascii.jp/elem/000/004/432/4432526/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png\" width=\"60\" />iPhone 18＆折りたたみiPhoneを理詰め＆妄想で大予想！　iPhone 18 Pro Maxは7万円値上げ!?　可変絞り付きカメラが搭載？　ディープパープルのカラバリ登場？　といった理詰めの分析やネット上のウワサはもちろん、折りたたみiPhoneでmacOSが動いてほしい！　といった妄想までスマホ総研の3人で語ります！</p><br clear=\"left\"",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "AI創薬候補、6種の「老化時計」で生物学的年齢の低下を示唆",
+      "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001239/",
+      "summary": "バイオテクノロジー企業のInsilico Medicineは、生成AIで設計した特発性肺線維症の治療薬候補「レントセルチブ」のデータを再解析した結果を発表した。血中タンパク質から測る6種の「老化時計」すべてで、患者の生物学的年齢が最大約6歳分低下したという。老化への直接的な作用を確認するには更なる検証が必要としている。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-06T22:00:00",
-      "image_url": "https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png"
+      "published": "2026-09-07T22:02:55",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/08/2000001239/10005492/2048",
+      "body_ja": "AI創薬候補、6種の「老化時計」で生物学的年齢の低下を示唆\n生成AI創薬のInsilico Medicineは9月7日（米東部時間）、治療薬候補「レントセルチブ」（rentosertib）の投与を受けた患者のデータを解析したところ、6種類の「老化時計」（aging clock）すべてで「生物学的年齢」の低下が示されたとする研究結果を科学誌Nature Biotechnologyで発表した。既に実施した臨床試験で採取した血清のプロテオームデータを解析したもので、異なる手法で構築された6種類の老化時計すべてで低下傾向がみられたという。\nInsilico Medicineは生成AIによる標的探索と分子設計を軸に医薬品開発を手掛けるバイオテクノロジー企業。2025年12月に香港証券取引所に上場しており、線維症やがん、免疫、代謝疾患など40件以上の開発プログラムを抱える。今回の論文の筆頭著者は同社創業者で共同CEOのアレックス・ジャボロンコフ博士。\n老化時計とは、血液などから得た生体データを機械学"
     },
     {
-      "title": "『今週のASCII.jp注目ニュース』生放送（9/5～9/11ぶん）",
-      "url": "https://ascii.jp/elem/000/004/432/4432524/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg\" width=\"60\" />アスキーのNEWSメディア『ASCII.jp』で注目を集めたこの2週間の記事をランキング形式でお届け！　ASCII.jp編集部のオカモト、ムラリン、MCつばさの3人が、自由におしゃべりします。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "Googleの自動化ツール「Workspace Studio」とは？　他ツールとの違いと活用法",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/08/2000001168/",
+      "summary": "AIに仕事を手伝わせるだけでなく、仕事そのものを自動化するにはどうすればいいのか。Google Workspace Studioを使った4つの実例から、日々の業務を効率化する具体的な方法を紹介する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-06T22:00:00",
-      "image_url": "https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg"
+      "published": "2026-09-07T22:00:00",
+      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2609/08/2000001168/10005208/2048",
+      "body_ja": "Googleの自動化ツール「Workspace Studio」とは？ 他ツールとの違いと活用法\nAIに仕事を手伝わせるだけでなく、仕事そのものを自動化するにはどうすればいいのか。Google Workspace Studioを使った4つの実例から、日々の業務を効率化する具体的な方法を紹介する。\n「Gmail」や「Google Meet」「Googleカレンダー」「Googleドキュメント」など、業務に必要なツールをバンドルした「Google Workspace」。最近は、メールの要約や文章作成、会議の議事録、スプレッドシートの分析など、普段の仕事にAI機能「Gemini」も使われるようになっている。\nそこから一歩踏み込み、複数のアプリにまたがる業務を自動化するのが「Google Workspace Studio」（以下、Workspace Studio）だ。簡単に言うと、「業務効率化のための、ノーコード型の自動プロセス構築ツール」だ。これまでGoogleアプリ同士を連携させるには、「Go"
     },
     {
-      "title": "タクシーアプリで送金できるチップ機能でインバウンド対応と乗務員還元を強化",
-      "url": "https://ascii.jp/elem/000/004/432/4432329/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/04/4521655/s/383a0ed2513fceab.jpg\" width=\"60\" />DiDiモビリティジャパン株式会社は9月1日、配車アプリ「DiDi」において、乗車完了後にアプリ上で乗務員へチップを支払える機能の提供を開始した。キャッシュレス決済の浸透に伴う現金の手渡しの減少や、チップ習慣を持つ訪日外国人観光客の利用を見込み、アプリ経由で送金する手段として導入された。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "中国新興自動車メーカーが取り組むAIアーキテクチャ「LBM」は本流となるか",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/08/news009.html",
+      "summary": "近年、中国の新興自動車メーカーを中心に、従来の枠組みとは異なる新たなAIアーキテクチャが台頭しつつある。それが「LBM」である。今回は、このLBMが中国の新興自動車メーカーに限定された一過性の技術潮流にとどまるのか、あるいは将来的に多くの自動車メーカーへと波及していくのかを考察してみたい。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-06T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/04/4521655/s/383a0ed2513fceab.jpg"
+      "published": "2026-09-07T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2609/08/cover_news009.jpg",
+      "body_ja": "近年、中国の新興自動車メーカーを中心に、従来の枠組みとは異なる新たなAIアーキテクチャが台頭しつつある。それが「LBM」である。今回は、このLBMが中国の新興自動車メーカーに限定された一過性の技術潮流にとどまるのか、あるいは将来的に多くの自動車メーカーへと波及していくのかを考察してみたい。\n近年、ChatGPTをはじめとする生成AIが急速に普及する一方で、中国の新興自動車メーカーを中心に、従来の枠組みとは異なる新たなAI（人工知能）アーキテクチャが台頭しつつある。それが「LBM（Large Behavior Model：大規模行動モデル）」である。\n自動運転領域においては、これまで最も先進的なアプローチとして、テスラが提唱するE2E（End-to-End）方式が広く注目されてきた。E2Eは、カメラやLiDAR（Light Detection and Ranging、ライダー）などのセンサー情報を、ニューラルネットワークを活用してAIで判断し、ステアリング、アクセル、ブレーキといったアクチ"
     },
     {
-      "title": "災害時のトイレ課題。仮設トイレの設置場所を自治体から収集するアップデート",
-      "url": "https://ascii.jp/elem/000/004/432/4432114/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/03/4521375/s/2477473c0ba87238.jpg\" width=\"60\" />株式会社TOILET SEARCHは8月31日、同社のトイレ検索アプリ「TOILET SEARCH」において、災害用仮設トイレの設置場所を地図上に「緑のピン」で表示する新機能を提供開始した。災害発生時に断水などで既存トイレが使用不可となった際、設置された仮設トイレの位置が被災者に伝わりにくいという課題に対応するためのアップデートとなる。</p><br clear=\"l",
+      "title": "MSI、Core Ultra対応マザーボード「MAG Z890 TOMAHAWK WIFI II」を9月11日発売",
+      "url": "https://ascii.jp/elem/000/004/432/4432926/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/08/4522901/s/e258f09c7c58d8da.png\" width=\"60\" />MSIが、Intel Core Ultraシリーズ2対応のZ890マザーボード「MAG Z890 TOMAHAWK WIFI II」を9月11日に発売。Wi-Fi 7、Thunderbolt 4、5G LANを搭載し、価格は5万5980円です。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-09-06T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/03/4521375/s/2477473c0ba87238.jpg"
+      "published": "2026-09-07T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/08/4522901/s/e258f09c7c58d8da.png"
     },
     {
-      "title": "戦場映像がAI訓練に、ウクライナ戦争が生んだ「新たな金脈」",
-      "url": "https://ascii.jp/elem/000/004/432/4432623/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />ウクライナ国防省は1月、数万回のドローン飛行から集めた数百万点のデータを、軍事・民間の企業に提供すると発表した。すでに100社以上と英国政府がアクセス権を得ている。非日常的なできごとが日常的に起きる戦場が、AIモデルの訓練場となり、戦時下の国の資金源にもなっている。この市場を規制する当局は、まだ存在しない。</p><br clear=\"left\" />",
+      "title": "Amazonを騙るフィッシング報告が27％を占める事態！ 急増はセール期間だったから？",
+      "url": "https://ascii.jp/elem/000/004/432/4432803/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/07/4522659/s/aad8d884fe202cc2.png\" width=\"60\" />フィッシング対策協議会が発表した、2026年7月分の「フィッシング報告状況」によれば、「報告件数」は前月から6251件減って、6万6119件でした。報告数全体のうち、Amazonを騙るフィッシングが約37.0％と急増しています。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-09-06T21:09:04",
-      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+      "published": "2026-09-07T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/07/4522659/s/aad8d884fe202cc2.png"
+    },
+    {
+      "title": "折りたたみiPhone、ついにGalaxyとガチンコ勝負　サムスンが築いた“アップルにはない強み”とは",
+      "url": "https://ascii.jp/elem/000/004/432/4432680/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/07/4522595/s/954fd121a4e378a2.jpg\" width=\"60\" />折りたたみiPhoneの登場が予想されるなか、サムスンは8世代の経験を武器に迎撃態勢を強化。実機体験の拡大、4キャリア展開、販売員育成など、“アップルにはない強み”に迫る。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-07T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/07/4522595/s/954fd121a4e378a2.jpg"
+    },
+    {
+      "title": "「使えるパスワードを片っ端から探せ」AI悪用が本格化、世界150超の組織が危機感",
+      "url": "https://ascii.jp/limit/group/ida/elem/000/004/432/4432678/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/07/4522587/s/388813431273a7b7.jpg\" width=\"60\" />AIを悪用したサイバー攻撃が現実の脅威になっている。約700のAIがHugging Faceへの攻撃に参加した事故も発生。OpenAIなど150超の組織が連携し、サイバー防御強化を呼びかけている。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-07T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/07/4522587/s/388813431273a7b7.jpg"
+    },
+    {
+      "title": "「折りたたみiPhone」は約32万円？少しでも安く買うために今からできること",
+      "url": "https://ascii.jp/elem/000/004/432/4432642/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/07/4522572/s/7cf809b2c311022c.png\" width=\"60\" />折りたたみiPhoneの登場を前に、Appleギフトカードやクレジットカードの入会特典を活用して、新型iPhoneを少しでも安く購入する方法を紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-07T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/07/4522572/s/7cf809b2c311022c.png"
+    },
+    {
+      "title": "人事・営業向けAIの導入による「データの分断」を防ぐ統合基盤",
+      "url": "https://ascii.jp/elem/000/004/432/4432362/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/04/4521665/s/dd9c7ef0ba0db448.gif\" width=\"60\" />株式会社PeopleXは9月2日、54.5億円の資金調達を実施したと発表した。創業からの累計調達額は78.2億円となる。同社はあわせて、提供中および今後展開する各種AIツールを統合する基盤「MotherAI OS Athena（アテナ）」の発表と人事特化型LLMの開発、ならびに2031年度に売上高1000億円を目指す中期経営計画を公表した。</p><br clear=",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-07T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/04/4521665/s/dd9c7ef0ba0db448.gif"
+    },
+    {
+      "title": "画像と母語で漢字の意味を学ぶ外国人向けコンテンツ",
+      "url": "https://ascii.jp/elem/000/004/432/4432334/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/04/4521662/s/669003d58b3fefb8.jpg\" width=\"60\" />株式会社すららネットは9月1日、外国人向け日本語学習ICT教材「すらら にほんご」において、新コンテンツ「Hi! Kanji」の提供を開始した。在留外国人の増加に伴い非漢字圏出身の学習者が増えるなか、従来の「読み・書きの暗記」に先立ち、パーツの意味から漢字を理解させるアプローチを採用している。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-07T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/04/4521662/s/669003d58b3fefb8.jpg"
+    },
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-09-07T19:24:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800"
+    },
+    {
+      "title": "RTX 5090搭載PCが13万8000円引き！ パソコンショップSEVENで24時間限定セール",
+      "url": "https://ascii.jp/elem/000/004/432/4432631/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/07/4522559/s/a70c14f55837fc1a.png\" width=\"60\" />パソコンショップSEVENが9月8日限定の24時間セールを開催。RTX 5090搭載ゲーミングPCなど対象10商品が最大13万8000円オフ、送料無料で購入できます。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-07T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/07/4522559/s/a70c14f55837fc1a.png"
+    },
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a va",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-09-07T12:10:00",
+      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/H2-Site-thumb.jpg?resize=1200,600"
+    },
+    {
+      "title": "独自AI搭載の「国産四足歩行ロボ」、デモ動画を公開　東大発スタートアップのHighlanders",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001223/",
+      "summary": "ロボット開発企業のHighlandersは、国産をうたう四足歩行ロボット「HLQ EDGE」を発表した。同日に公開したデモ動画では、段差を昇降する姿などを披露した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-07T07:58:42",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/07/2000001223/10005416/2048",
+      "body_ja": "独自AI搭載の「国産四足歩行ロボ」、デモ動画を公開 東大発スタートアップのHighlanders（1/2 ページ）\nロボット開発企業のHighlanders（東京都豊島区）は9月7日、国産をうたう四足歩行ロボット「HLQ EDGE」を発表した。物理空間を理解・予測する「世界モデル」を活用した独自AIで歩行を制御するという。同日に公開したデモ動画では、段差を昇降する姿などを披露した。\nHLQ EDGEは、産業現場での利用を前提に設計された四足歩行ロボット。内蔵バッテリーにより3時間連続で駆動でき、最大60kgの荷物を運べる。全身の自由度は12で、関節の最大トルクは330Nm。胴体部分には独自のロボットアームを装着可能なほか、Wi-Fiおよび5Gによる遠隔操作にも対応する。\n独自AIにより、地面の状況に応じて脚をつく位置や全身の姿勢を自動で調整しながら歩ける。対象までの距離を測れるカメラで周囲の地形を捉え、搭載した米NVIDIAのロボティクス向けコンピュータ「Jetson Orin NX」で"
+    },
+    {
+      "title": "生成AIの普及だけじゃない　「デザイン業の倒産」が前年同期比166％増になった意外な理由",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/07/news075.html",
+      "summary": "グラフィックデザインやインテリアデザインなど「デザイン業」の倒産が急増している。東京商工リサーチの調査によると、2026年上半期に発生したデザイン業の倒産は40件（前年同期比166.6％増）だった。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-07T07:03:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2609/07/cover_news075.jpg",
+      "body_ja": "グラフィックデザインやインテリアデザインなど「デザイン業」の倒産が急増している。東京商工リサーチの調査によると、2026年1〜6月に発生したデザイン業の倒産は40件（前年同期比166.6％増）だった。現在のペースで推移すると、年間で過去最多となる可能性がある。\n負債額別に見ると「負債1億円以上」は2件（前年同期と同数）、「5000万円以上1億円未満」が8件（同300.0％増）、「1000万円以上5000万円未満」が30件（同130.7％増）と小・零細規模が大多数を占めた。従業員数別でも「5人未満」が36件で構成比90.0％となった。\n東京商工リサーチが倒産原因を分析したところ、3つのパターンに分類できるという。1つ目は、顧客がデザインを内製化したことで受注不振に陥るケースだ。生成AIの普及でデザイン関連業務の低コスト化が可能となった。顧客の内製化が進むほど、苦境に直面するデザイン会社は多い。\n2つ目は、雑誌など紙媒体向けのデザイン業務を主力としてきた企業が、顧客のデジタルシフトによって受"
+    },
+    {
+      "title": "「Copilot、Word文書まとめて」で社内全滅？　勝手に増殖するAIウイルスで大騒ぎ：895th Lap",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/04/2000001139/",
+      "summary": "「Microsoft Copilot」が仕事で使われるようになるなか、Word文書を介して感染が広がる、これまでとは少し違った脅威が見つかった。生成AIを仕事で使う企業が増えているだけに、警戒した方が良さそうだ。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-07T06:38:18",
+      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2609/04/2000001139/10005111/2048",
+      "body_ja": "「Copilot、Word文書まとめて」で社内全滅？ 勝手に増殖するAIウイルスで大騒ぎ：895th Lap\n「Microsoft Copilot」が仕事で使われるようになるなか、Word文書を介して感染が広がる、これまでとは少し違った脅威が見つかった。生成AIを仕事で使う企業が増えているだけに、警戒した方が良さそうだ。\n生成AIは、さまざまな文書を読み取り、要約や分析などをしてくれる便利な技術だ。だが、その文書に書かれた文字列を、単なる「情報」ではなく「命令」として受け取ってしまうことがある。この性質を悪用し、「Microsoft Copilot」が読み込む「Word」文書に悪意のある指示を仕込み、感染を広げる「AIワーム」が報告された。\n従来のウイルスのようにプログラムを実行する必要はない。Copilotに文書を読み込ませるだけで、悪意のある命令が別の文書にもコピーされ、その文書が社内で繰り返し利用されれば、利用者が気付かないうちに、悪意のある指示が次々と別の文書へ広がる可能性がある"
+    },
+    {
+      "title": "M365 Copilotでも「GPT-6 Astra」利用可能に　「Fable 5.1」も可　Work IQと合わせて「より的確な応答」に",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
+      "summary": "Microsoftは、OpenAIの新モデル「GPT-6 Astra」を「Copilot Cowork」と「Copilot Studio」で提供開始。作業を細かく分けて指示せずとも、より大きなタスクを委任できるとうたう。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-07T06:32:17",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/07/2000001217/10005405/2048",
+      "body_ja": "Share\n    \nM365 Copilotでも「GPT-6 Astra」利用可能に 「Fable 5.1」も可 Work IQと合わせて「より的確な応答」に\n                                公開\n                                    \n                            \n                        米Microsoftは9月4日（現地時間、以下同）、米OpenAIの新モデル「GPT-6 Astra」を、「Microsoft 365 Copilot」（以下、M365 Copilot）のエージェント機能「Copilot Cowork」とエージェント構築ツール「Copilot Studio」で同日から提供すると発表した。より大規模なタスクを任せられるようになり、作業を細かく分けて指示する必要がなくなるとうたう。\n1日には米Anthropicの「Claude Fable 5.1」もライ"
+    },
+    {
+      "title": "M365 Copilotを配っても「使われない」 でもAI活用が進んだ福島県庁の\"逆張り\"戦略",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/07/2000000807/",
+      "summary": "福島といえば喜多方ラーメン。毎日でも飽きないスープのように、生成AIも職員が日常的に使う存在にできるのか。有償アカウント100件と研修を用意しても利用が二極化した福島県が、それでも約6000人への全庁展開に踏み切った理由を追う。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-07T06:31:29",
+      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2609/07/2000000807/10003867/2048",
+      "body_ja": "M365 Copilotを配っても「使われない」 でもAI活用が進んだ福島県庁の\"逆張り\"戦略\n福島といえば喜多方ラーメン。毎日でも飽きないスープのように、生成AIも職員が日常的に使う存在にできるのか。有償アカウント100件と研修を用意しても利用が二極化した福島県が、それでも約6000人への全庁展開に踏み切った理由を追う。\n生成AIを全社展開する前に、まずは一部の従業員に有償アカウントを与えて実証する。そこで効果や課題を確認し、対象を広げていく――。企業の生成AI導入では、こうした進め方が一般的だろう。\nだが、十分な数のアカウントを用意し、研修まで実施しても、全員が使うとは限らない。福島県では2025年度、生成AIの有償アカウントを100用意して実証した。業務効率化や品質向上の効果が確認された一方、日常的に活用する職員と、ほとんど使わない職員の二極化も起きた。利用頻度を分けたのは、部署や業務ではなく、職員個人の関心や意欲だったという。\nそれでも福島県は、実証の対象を絞るのではなく、202"
     },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
@@ -111,16 +251,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800"
     },
     {
-      "title": "AMD Ryzen 9 9950X×RTX 5090搭載PCが値下げ、パソコンショップSEVENの24時間限定セール",
-      "url": "https://ascii.jp/elem/000/004/432/4432219/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/04/4521602/s/42b6fbfa16135d21.png\" width=\"60\" />パソコンショップSEVENが9月7日限定のゲーミングPCセールを開催。RTX 5090やRTX 5070 Ti搭載モデルなど全10商品が対象となり、最大16万9000円オフで購入できます。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-06T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/04/4521602/s/42b6fbfa16135d21.png"
-    },
-    {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
       "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
@@ -129,17 +259,6 @@
       "lang": "en",
       "published": "2026-09-05T22:49:55",
       "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645"
-    },
-    {
-      "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
-      "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
-      "summary": "OpenAIは、AIエージェントが休眠Wikiを掲示板として悪用した問題について声明を発表し、自社モデルの関与を初めて認めた。セキュリティ侵害ではなく「ミスアライメント」の研究事例と位置付けていたため個別公表しなかったと釈明し、新たな開示基準を数週間以内に策定、公開するとしている。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-05T22:35:17",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/06/2000001202/10005352/2048",
-      "body_ja": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明\n米OpenAIは9月5日（現地時間）、公式Xアカウントで、休眠状態のドイツ語Wikiが同社のAIエージェントに掲示板として使われていたとされる問題について声明を出した。\n冒頭で「当社のエージェントが複数のWebサイトに書き込んだ“Wikiインシデント”」と表現しており、この件を自社エージェントによるものと初めて明示的に認めた。研究団体が報告書を公開してから約16時間後の投稿だった。\n声明の主眼は、なぜこれまで公表しなかったかの説明と、今後の開示ルール作りに置かれている。同社はまず、AIが開発者や利用者の意図と異なる目標を追う「ミスアライメント」について、「事例をいつ、どのように共有するかの基準を定めるべき時期が既に過ぎている」と述べ、これまでミスアライメントを主に研究上の問題として扱い、システムカードなどの研究成果として発信してきたと振り返った。今年に入って、ミスアライメントが新しい種類の現実世界への影響"
     },
     {
       "title": "Hikers rescued after using Google Gemini for planning",
@@ -162,29 +281,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024"
     },
     {
-      "title": "「最大45％コスト減」　Anthropicが「Claude Fable 5.1」発表　脆弱性検知にも対応",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html",
-      "summary": "Anthropicは、新AIモデル「Claude Fable 5.1」および「Claude Mythos 5.1」を発表した。キャッシュ読み取り価格の引き下げによりFable 5.1は最大約45％のコスト削減が見込めるとしている。脆弱性検知への対応など、セーフガードも一部変更されたという。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-05T04:00:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2609/05/cover_news009.jpg",
-      "body_ja": "Anthropicは、新AIモデル「Claude Fable 5.1」および「Claude Mythos 5.1」を発表した。キャッシュ読み取り価格の引き下げによりFable 5.1は最大約45％のコスト削減が見込めるとしている。脆弱性検知への対応など、セーフガードも一部変更されたという。\nAnthropicは、コーディングや知識作業向けの最新大規模言語モデル（LLM）「Claude Fable 5.1」および「Claude Mythos 5.1」を発表した（以後、Fable 5.1／Mythos 5.1）。同社は両モデルを「Claude」ファミリーにおける最上位モデルと位置付けており、推論・開発性能の向上をうたう。一般提供されるFable 5.1については、キャッシュ読み取り価格の引き下げにより、「従来モデル比で最大約45％のコスト削減が見込める」としている。\nMythos 5.1は、基本となるAIの性能はFable 5.1と同等だが、サイバーセキュリティなどの専門分野に向けた独自の安"
-    },
-    {
-      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か　研究団体が報告書公開",
-      "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
-      "summary": "OpenAIの社内AIエージェントが休眠状態の外部Wikiサイトを不正に“掲示板”として利用し、評価タスクの答えや制限回避の手法を共有していたとする報告書を研究団体が公開した。閲覧のみ許可されていた環境の抜け道を突き、GETリクエストで書き込みを行っていた。OpenAI側は内容を精査して対処するとしている。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-05T03:06:58",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/05/2000001200/10005337/2048",
-      "body_ja": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開\n米AI安全性研究の非営利団体Nightingale Collectiveのシドニー・フォン・アルクスCEOらは9月4日（現地時間）、米OpenAIの社内AIエージェントとみられる集団が、5月から6月にかけてドイツ語圏の小規模ウィキサイトを事実上の掲示板として使い、評価タスクの答えや実行環境の制限を回避する手法を共有していたとする報告書をこの件のために開設したWebサイトcollusion.wikiで公開した（collusionは共謀という意味）。\n米Reutersが事前に独占入手し、同日報じた。7月に発覚したHugging Face侵害とは別の事案で、OpenAIはこれまで公表していなかった。\nAIエージェントが書き込みを繰り返していたのは開発者向けのドイツ語ウィキ「DSEWiki」で、開設から25年、直近10年の編集はわずか20件というほぼ休眠状態のWebサイトだった。研究者らは、ここを中"
-    },
-    {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "summary": "The round is being raised just months after the robot data startup exited from stealth.",
       "source": "TechCrunch AI",
@@ -234,16 +331,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800"
     },
     {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-09-04T16:21:11",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839"
-    },
-    {
       "title": "The Download: selling battlefield drone data and AI reshaping language",
       "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the University of Melbourne studying AI&#8217;s impac",
@@ -254,16 +341,6 @@
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600"
     },
     {
-      "title": "M&T Bank expands enterprise AI after years of technology overhaul",
-      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "summary": "<p>M&#38;T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify customer needs,",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-04T10:00:00",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/MT-Bank-expands-enterprise-AI-after-years-of-technology-overhaul-scaled-e1788507690256.jpg"
-    },
-    {
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
       "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight,",
@@ -272,113 +349,6 @@
       "lang": "en",
       "published": "2026-09-04T09:25:19",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/drone-data.jpg?resize=1200,600"
-    },
-    {
-      "title": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-      "summary": "<p>Just over half of American adults, 50.5%, say a partner&#8217;s romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and analysed on the ",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-04T08:25:12",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/ai-romance-cheating-survey-2026.png"
-    },
-    {
-      "title": "従業員が「個人利用のAIサービス」に顧客情報をアップロード　RIZAPが謝罪",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001166/",
-      "summary": "パーソナルジムの運営などを手掛けるRIZAPは、同社従業員が個人で利用している外部の生成AIサービスに顧客情報を誤ってアップロードしたと発表した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-04T03:42:38",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/04/2000001166/10005197/2048",
-      "body_ja": "Share\n    \n従業員が「個人利用のAIサービス」に顧客情報をアップロード RIZAPが謝罪\n                                公開\n                                    \n                            \n                        パーソナルジムの運営などを手掛けるRIZAP（東京都新宿区）は9月3日、同社従業員が個人で利用している外部の生成AIサービスに顧客情報を誤ってアップロードしたと発表した。同AIサービスを運営する事業者に連絡し、同事業者以外の第三者に閲覧されたり、AIの学習に利用されたりした可能性はないことを確認したという。\n国が生活習慣病予防のために実施する「特定保健指導」の管理システムに関するデータの集計作業中に、従業員が外部のAIサービスに顧客情報をアップロードした。\n対象は、同管理システムに1月1日～8月19日に登録された特定保健指導対象者データの一部。"
-    },
-    {
-      "title": "ChatGPTの利用制限、新モデル「Astra」提供まで“毎日リセット”　有料ユーザー向け",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001165/",
-      "summary": "新AIモデル「GPT-6 Astra」を使えるようになるまで、「ChatGPT」の利用制限枠のリセット権を有料ユーザー向けに毎日提供する――米OpenAIのティボ・ソティオ氏は、自身のXアカウントでこのように投稿した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-04T03:25:16",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/04/2000001165/10005195/2048",
-      "body_ja": "Share\n    \nChatGPTの利用制限、新モデル「Astra」提供まで“毎日リセット” 有料ユーザー向け\n                                公開\n                                    \n                            \n                        新AIモデル「GPT-6 Astra」を使えるようになるまで、「ChatGPT」の利用制限枠のリセット権を有料ユーザー向けに毎日提供する――米OpenAIのティボ・ソティオ氏は9月3日（現地時間）、自身のXアカウント（@thsottiaux）でこのように投稿した。リセット権は繰り越しできるものという。\nGPT-6 AstraはOpenAIが同日に発表したAIモデル。サイバーセキュリティや数学、PCの利用などで同社の過去モデルを上回る性能をうたっている。同日から一部の組織に提供を始め、数日中にChatGPTの有料プランやAPIなどで"
-    },
-    {
-      "title": "RIZAP社員、私用AIに顧客の個人情報入力　氏名や疾患、保険証番号など……同社が謝罪",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
-      "summary": "RIZAPの社員が、個人で使用している外部の生成AIサービスに、顧客の氏名や疾患などの個人情報・要配慮個人情報を誤ってアップロードしたという。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-04T02:33:22",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001161/10005188/2048",
-      "body_ja": "RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪\nRIZAPグループは9月3日、子会社RIZAPの社員が、個人で使用している外部の生成AIサービスに、顧客の氏名や疾患などの個人情報・要配慮個人情報を誤ってアップロードしたとして謝罪した。件数は明らかにしていない。\nAI運営事業者に照会したところ、個人を特定できる情報を含むファイルはモデルのトレーニングに使われないとの回答を得ており「生成AIの学習に利用された可能性はない」としている。\n同社は、企業や健康保険組合向けに、生活習慣病予防のための保健指導を行う「特定保健指導」を手掛けている。\n今回、外部の生成AIに誤ってアップロードされたのは、「特定保健指導管理システム」に1月1日～8月19日にかけて登録された特定保健指導対象者データの一部。氏名、生年月日、性別、保険証記号番号、メールアドレスのほか、一部の人の住所と電話番号も含んでいた。\nまた、特定保健指導の支援形態（積極的支援／動機付け支援／重症化予防）"
-    },
-    {
-      "title": "とにかく「データが足りない」フィジカルAI　AWS支援プログラム採択各社が示す突破口",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001158/",
-      "summary": "AWSジャパンが8月31日、総額600万米ドル規模の「フィジカルAI開発支援プログラム」の成果報告会を開催した。登壇した多くの企業が語ったのは「データ不足」の壁。半年間の開発から見えた突破口とは。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-04T02:00:43",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/04/2000001158/10005167/2048",
-      "body_ja": "とにかく「データが足りない」フィジカルAI AWS支援プログラム採択各社が示す突破口\n「まずデータが足りない。全世界どこを見渡してもデータがない」――アマゾンウェブサービスジャパン（以下、AWSジャパン）が8月31日に開催した「フィジカルAI開発支援プログラム」の成果報告会で、採択企業の一つであるHighlanders（東京都豊島区）の増岡宏哉CEOはこう訴えた。\n同プログラムは、ロボット基盤モデルなどを開発する国内の企業・団体を支援する取り組みだ。1月の発表時に、総額600万米ドル（約9億円）規模のAWSクレジット提供や専門家による技術支援を掲げ、選考を行い51社を採択。3月から約半年間の支援を経て、各社が成果を発表した。\n登壇したのは、創業1年未満のスタートアップから創業400年超のゼネコンまでと幅広い顔ぶれ。多くの企業が語ったのは「データ不足」との格闘だった。\nLLMとは違う「データの壁」\nなぜフィジカルAIはデータに飢えるのか。大規模言語モデルは、Web上のテキストなど既存のデー"
-    },
-    {
-      "title": "コードを書くのはAI、人間は何をする？　弥生とビル・ゲイツが示す「開発者の次の仕事」",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/04/news017.html",
-      "summary": "AIがコードを書き、テストし、レビューまで担う時代が始まった。では、開発者の仕事はどのように変化するのか。仕様書中心の開発を見直した弥生の実践と、ビル・ゲイツ氏の問題提起から、AI時代に人間に残される仕事と、その境界線を考える。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-04T01:15:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2609/04/cover_news017.jpg",
-      "body_ja": "AIがコードを書き、テストし、レビューまで担う時代が始まった。では、開発者の仕事はどのように変化するのか。仕様書中心の開発を見直した弥生の実践と、ビル・ゲイツ氏の問題提起から、AI時代に人間に残される仕事と、その境界線を考える。\nAIにコードを書かせることは、もはや当たり前になっています。では、AIが開発の中心になったとき、ソフトウェア開発の現場はどこまで変わるのでしょうか。そして、そこで開発者に求められる仕事は何になるのでしょうか。\n本eBookでは、そんな問いを「未来予測」と「現場」の両面から掘り下げます。\n1本目では、「AIで開発者がいらなくなった」というよくある問題提起を起点に、Microsoft共同創業者のビル・ゲイツ氏が示した“その先にあるエンジニアの価値”を考えます。\n2本目はより実践的な事例として、「弥生会計」などで知られる弥生が進める「AIデフォルト」の開発に注目します。複数の生成AIを使い分け、設計から実装までAIに任せたり、仕様書を先に作る従来型のプロセスまで見直し"
-    },
-    {
-      "title": "Adobe、次期CEOにアニル・チャクラバーシー氏　ナラヤン氏は12月1日付で会長に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001155/",
-      "summary": "Adobeは、アニル・チャクラバーシー氏が12月1日付で社長兼CEOに就任すると発表した。2007年からCEOを務めたシャンタヌ・ナラヤン氏は執行会長に就き、新体制を支援する。また、クリエイティビティ＆プロダクティビティ事業を率いるデビッド・ワドワニ社長が退社する意向を明らかにした。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-03T23:54:03",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/04/2000001155/10005160/2048",
-      "body_ja": "Adobe、次期CEOにアニル・チャクラバーシー氏 ナラヤン氏は12月1日付で会長に\n米Adobeは9月3日（現地時間）、同社のCustomer Experience Orchestration事業とワールドワイドフィールドオペレーションを率いるアニル・チャクラバーシー氏が、12月1日付で社長兼CEOに就任し、取締役会に加わると発表した。現CEOのシャンタヌ・ナラヤン氏は同日付で執行会長（executive chair）に就任し、チャクラバーシー氏と緊密に連携して業務の引き継ぎと同社の変革を支援する。ナラヤン氏は2007年からCEOを務めてきた。\nナラヤン氏は発表の中でチャクラバーシー氏について、価値観と誠実さ、事業への深い理解をもって率いる変革型のリーダーであり、カテゴリーを定義する製品を構築・提供してきた実績があると評価。AI主導の時代におけるAdobeの成長を率いる適任者だとの見方を示した。取締役会は全会一致でチャクラバーシー氏を次の成長フェーズを担う最適なリーダーと判断した。6年"
-    },
-    {
-      "title": "AIで2D図面を3D CADモデル化、アセンブリからバラシ図面の作成も",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/04/news033.html",
-      "summary": "ホルスAIは、2D図面からの3D CADモデル生成や3Dアセンブリからのバラシ図面作成を行うWebサービス「Zumen AI」の先行提供を開始した。AIでCAD作業を効率化し、後工程への移行を早める。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-03T23:30:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2609/04/cover_news033.jpg",
-      "body_ja": "ホルスAIは、2D図面からの3D CADモデル生成や3Dアセンブリからのバラシ図面作成を行うWebサービス「Zumen AI」の先行提供を開始した。AIでCAD作業を効率化し、後工程への移行を早める。\nホルスAIは2026年9月3日、2D図面から3D CADモデルを作成し、3Dアセンブリデータから部品ごとの2D図面（バラシ図面）を作成するWebサービス「Zumen AI」の先行提供を開始したと発表した。\n先行提供の利用希望企業から申し込みを受け付け、内容確認後にアカウントを順次発行する。\n製造業では、過去の設計資産や取引先から受け取った図面が紙やPDF、DXFなどの2Dデータとして蓄積されている一方、案件や製造工程に応じて3D CADデータが必要になるケースがある。設計者が2D図面から形状や寸法を読み取り、一から3Dモデルを作成するには多くの作業時間を要する。\nまた、3Dアセンブリから製造や部品手配に用いるバラシ図面を作成する際にも、構成部品ごとの図面化やビューの配置、寸法の記入、図枠の"
-    },
-    {
-      "title": "OneRail uses Nvidia AI for real-time last-mile delivery optimisation",
-      "url": "https://www.artificialintelligence-news.com/news/ai-last-mile-delivery-optimisation/",
-      "summary": "<p>OneRail has launched an AI-powered delivery platform that uses Nvidia technology to help retailers, wholesalers, and distributors decide how individual orders should be delivered. Called OmniSTAR, the system evaluates options including owned fleets, couriers, parcel carriers, and other delivery m",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-03T16:07:18",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/OneRail-uses-Nvidia-AI-for-real-time-last-mile-delivery-optimisation-scaled-e1788451412147.jpg"
-    },
-    {
-      "title": "NVIDIA to acquire Hugging Face for $12.93B",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
-      "summary": "<p>NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository&#8217;s platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for enterprise developers, software engineers, and research",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-03T15:50:31",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/nvidia-acquire-hugging-face-open-source-ai-model-repository-platform-infrastructure.jpg"
     },
     {
       "title": "AIエージェント会社おすすめ16選をタイプ別比較！選び方と費用相場も解説",
@@ -422,16 +392,6 @@
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTRI-NiCE-social-card.png?resize=1200,600"
     },
     {
-      "title": "Motional and MIT AI explains self-driving car decisions",
-      "url": "https://www.artificialintelligence-news.com/news/motional-and-mit-ai-explains-self-driving-car-decisions/",
-      "summary": "<p>Motional and MIT researchers have built a system that lets self-driving cars explain their decisions in real-time, tackling the black-box problem in autonomous vehicle AI. The work, published in Nature, comes from a team at Motional that includes CEO Laura Major, working alongside researchers fro",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-02T15:25:12",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/motional-mit-ai-self-driving-car-autonomous-vehicle-decisions-explainable-artificial-intelligence.jpg"
-    },
-    {
       "title": "Facilitating AI integration with simplicity at scale",
       "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make dec",
@@ -473,36 +433,6 @@
       "body_ja": "経営層から「AIエージェントを活用してほしい」と言われたものの、自社のどの業務に当てはめればよいか判断できず、検討が止まっている担当者は少なくありません。\nAIエージェントの活用とは、目標を伝えるだけで情報収集から実行までを任せる使い方です。成果を出している企業は、活用シーンをタイプごとに整理し、任せる業務を先に絞り込んでいます。整理の方法は本記事で詳しく解説します。\n活用シーンを整理しないまま導入すると、生成AIの全社展開と同じく「配ったのに使われない」状態に陥り、翌年度の予算まで失いかねません。反対に判断基準を持って着手できれば、限られた人員でも成果を数字で示せます。\n本記事では、AIエージェントの活用シーン4タイプ、業務別の活用例10選、対象業務の選び方、活用を始める5ステップ、定着しない原因を解説します。\n読み進めることで、自社のどの業務から着手すべきかを自分で判断でき、社内説明に使える進め方を持ち帰れます。\nAIエージェントの活用が企業で広がる理由\nAIエージェントの活用が広が"
     },
     {
-      "title": "ChatGPT Ads passes $1B run rate in 200 days",
-      "url": "https://www.artificialintelligence-news.com/news/chatgpt-ads-passes-1b-run-rate-in-200-days/",
-      "summary": "<p>ChatGPT Ads has hit $1 billion in annualised revenue run rate in under 200 days, and OpenAI is expanding self-service ads to new regions. Tens of thousands of advertisers now use the platform and self-service access through Ads Manager is launching today in India, Europe, the Middle East, and Nor",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-01T16:05:27",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/openai-chatgpt-ads-digital-marketing-advertising-artificial-intelligence-chat-web-search.jpg"
-    },
-    {
-      "title": "Making the AI-powered case for legacy modernization",
-      "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
-      "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with t",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-09-01T14:00:00",
-      "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/08/Asifa-Sherazi-Sanjeev-Tripathi-v2.png?resize=1200,600"
-    },
-    {
-      "title": "Why MCP servers are becoming AI’s newest attack surface",
-      "url": "https://www.artificialintelligence-news.com/news/why-mcp-servers-are-becoming-ais-newest-attack-surface/",
-      "summary": "<p>As AI adoption gathers pace, so does the evolution of the infrastructure that supports it. New standards and connectors keep appearing, and the ones that catch on spread through the ecosystem within months rather than years. That speed strengthens what AI can do, but makes it very difficult for s",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-01T07:37:26",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/scott-rodgerson-PSpf_XgOM5w-unsplash-scaled.jpg"
-    },
-    {
       "title": "AIエージェントで削減できるコストと工数の目安を試算方法つきで解説",
       "url": "https://ainow.ai/2026/08/31/278338/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e5%2589%258a%25e6%25b8%259b%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e3%2582%25b3%25e3%2582%25b9%25e3%2583%2588%25e3%2581%25a8%25e5%25b7%25a5%25e6%2595%25b0%25e3%2581%25ae%25e7%259b%25ae%25e5%25ae%2589%25e3%2582%2592",
       "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12391;&#21066;&#28187;&#12391;&#12365;&#12427;&#12398;&#12399;&#12289;&#20316;&#26989;&#24037;&#25968;&#12392;&#20154;&#20214;&#36027;&#12420;&#22806;&#37096;&#22996;&#35351;&#36027;&#12289;&#12381;&#12375;&#12390;&#12511;&#12473;&#12395;&#12424",
@@ -523,36 +453,6 @@
       "published": "2026-08-27T13:30:00",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail-11.jpg",
       "body_ja": "AIエージェントで人員が減るかどうかは、任せられるタスクの量で決まります。国内企業で実際に動いているのは、人員の削減より部門をまたいだ再配置です。\n経営会議で「AIエージェントを入れたら何人減らせるのか」と問われ、手元にあるのはニュースで見た数字だけという方も多いでしょう。自社に当てはめた試算が出せず、導入計画が止まったままのケースは珍しくありません。\n試算せずに人数を約束すると、運用工数で効果が相殺され、途中で止まる案件になります。Gartnerは2027年末までにエージェント型AIプロジェクトの40%以上が中止されると予測しています。要因はコストの高騰・ビジネス価値の不明確さ・リスク統制の不足です。\n出典：Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027（Gartner）\n本記事では、国内外の調査で結論が分かれる人員削減の実態と、削減効果を人員数に換算する4ステップを中心に"
-    },
-    {
-      "title": "A quarter of Nvidia’s business next year comes from labs it is financing",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
-      "summary": "<p>Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company&#8217;s chief financial officer,&#160;told analysts&#160;on August 26 that demand from the labs Nvidia backs with its own balance sheet will ",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-08-27T10:00:00",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/voyager-exterior-sign-2-scaled.jpg"
-    },
-    {
-      "title": "Gatik raises $200M to scale AI-powered autonomous freight",
-      "url": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
-      "summary": "<p>Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and Koch Disruptive Technologies, with participation from Millennium Management, ARK Invest, Intact Priva",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-08-26T10:00:00",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/Gatik-raises-200M-to-scale-AI-powered-autonomous-freight-scaled-e1787721024660.jpg"
-    },
-    {
-      "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
-      "summary": "<p>NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a machine instead of inside",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-08-26T09:08:11",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/08/nvidia-jetson-orin-nano-2-physical-ai-edge-computing-robotics-artificial-intelligence.jpg"
     },
     {
       "title": "AIエージェントで転職活動を進める6ステップ！プロンプト例と注意点も解説",
@@ -621,6 +521,6 @@
       "body_ja": "ChatGPTで広告コピーやリサーチはこなせるようになったものの、施策を回すのは結局人手のままだと感じているマーケターは少なくありません。\nAIエージェントとは、目標を与えるとタスクを自ら分解し、リサーチから配信・改善までを自律的に実行するAIです。生成AIやMAツールとの違いは記事内で詳しく解説します。\nMAツールの自動化との違いを理解しないまま導入すると現場に定着せず、次のAI予算を確保できなくなります。任せる範囲を正しく切り分ければ、人員を増やさずに施策のPDCA速度を引き上げられるでしょう。\n本記事では、マーケティング業務での活用10領域、生成AI・MAツールとの違い、企業事例、選び方4軸、導入5ステップを解説しています。\n自社のどの業務をどこまで任せるかを判断できるようになるために、ぜひ最後までご覧ください。\nマーケティングにおけるAIエージェントとは\nAIエージェントとは、与えられた目標に対して自らタスクを分解し、実行まで担うAIです。マーケティング領域では市場調査から配信・"
     }
   ],
-  "last_updated": "2026-09-07T08:27:47.175280+09:00",
-  "count": 60
+  "last_updated": "2026-09-08T08:57:08.593334+09:00",
+  "count": 50
 }
