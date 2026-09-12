@@ -1,14 +1,168 @@
 {
   "articles": [
     {
-      "title": "持ち運びラクラクで非常時も安心！ Ankerの30Wソーラーパネルがコンパクトで良い",
-      "url": "https://ascii.jp/elem/000/004/434/4434329/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524686/s/e1d17ea758090cbb.jpg\" width=\"60\" />Amazon.co.jpで「Anker Solix PS30 Portable Solar Panel」が売れています。非常時にスマホなどを直接給電できる折りたたみ式ソーラーパネルが、7990円です。</p><br clear=\"left\" />",
+      "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開　アルトマン氏とマスク氏も賛同",
+      "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
+      "summary": "AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-12T23:06:11",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/13/2000001432/10006301/2048",
+      "body_ja": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同\n米Anthropicのダリオ・アモデイCEOは9月12日（現地時間）、個人サイトでエッセイ「We Must Pace the Frontier」を公開し、AI業界はモデルの能力を向上させるペースそのものを落とす必要があると訴え、3段階の計画を示した。\n同氏はこれまで、慎重に開発しつつ商業的に成功することで安全性を競争軸にする“race to the top（頂点への競争）”を掲げてきたが、リスク防止への投資だけでは足りず、防止策が追いつけるよう能力向上の速度自体を調整する必要があると判断したとしている。\n進歩の加速とOAI-HF 考えを変えた2つの理由\n考えを変えた理由として、同氏は2点を挙げる。1つは今夏ごろからAIの進歩が急激に速まっていることで、AIが次世代のAIを開発する「再帰的自己改善」が主因だとし、Anthropicを含む業界全体で起き始めているとした。もう1つは、7"
+    },
+    {
+      "title": "「AIコーディングより人を雇う方が安い」時代が来る？　生成AIの予算超過を防ぐトークン浪費対策の全て",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html",
+      "summary": "生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増が企業を悩ませています。なぜ浪費が起こるのか、その原因と、現場で取り組める対策を5本の記事から探ります。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-12T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2609/13/cover_news005.jpg",
+      "body_ja": "生成AIやAIエージェントの活用が広がる一方、トークン課金による想定外のコスト増が企業を悩ませています。なぜ浪費が起こるのか、その原因と、現場で取り組める対策を5本の記事から探ります。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\n生成AI導入の議論では、回答精度やハルシネーション対策に目が向きがちですが、企業が直面しているのは「コスト管理」という切実な課題です。\nAIチャットbotやAIエージェントは、利用するたびにトークンを消費し、その量に応じて請求額が変動します。ユーザー数（ライセンス数）さえ管理すればよかった従来のソフトウェアとは、コスト構造が大きく異なるのです。\nGartnerの調査によると、経営層の85％は「AIでコストを削減できる」と期待し、87％は「メリットがリスクを上回る」と考えています。しかし、この高い期待が「まず導入ありき」の空気を生み、コストや契約条件の精査が後回しになった結果、想定外の予算超過に直面する企業が後を絶ちません。\n生成AIのト"
+    },
+    {
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-09-12T20:19:16",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-09-12T19:34:44",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024"
+    },
+    {
+      "title": "AIエージェントでサイトを制作する7ステップとおすすめツール10選",
+      "url": "https://ainow.ai/2026/09/13/278356/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e3%2582%25b5%25e3%2582%25a4%25e3%2583%2588%25e3%2582%2592%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b7%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e3%2581%258a",
+      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12399;&#12289;&#12469;&#12452;&#12488;&#12510;&#12483;&#12503;&#12398;&#35373;&#35336;&#12363;&#12425;&#21407;&#31295;&#12539;&#12487;&#12470;&#12452;&#12531;&#12539;&#12467;&#12540;&#12489;&#12398;&#23455;&#35013;&#12289;&#20844;&#38283;&#12414",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-09-12T15:28:51",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-4.jpg",
+      "body_ja": "AIエージェントは、サイトマップの設計から原稿・デザイン・コードの実装、公開までを対話で進められる段階に入っています。\nただし、AIでサイトを作る手段をホームページ作成ツールだけだと考えていると、テンプレートに寄せた妥協案しか選べません。3つのタイプを押さえておけば、自社の要件に合うサイトを内製する道が開けます。\n本記事では、AIエージェントでサイトを制作する7ステップと、タイプ別に選べるおすすめツール10選を中心に解説します。\n読み終える頃には、どこまでAIに任せてどこから人が引き取るかの線引きが決まり、内製と外注を比べた見積もりを自分で組み立てられます。\nAIエージェントによるサイト制作は3タイプに分かれる\nAIエージェントでサイトを作る手段は、以下の3タイプに分かれます。\n- 対話型サイトビルダー\n- コーディングエージェント\n- 汎用エージェント\nタイプを取り違えると、要件に合わないツールで作り込んだあとに一から作り直すことになります。\n対話型サイトビルダーは公開までを1つの画面"
+    },
+    {
+      "title": "AIエージェントでLPを制作する6ステップとおすすめツール8選！",
+      "url": "https://ainow.ai/2026/09/13/278353/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7lp%25e3%2582%2592%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b6%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%2581",
+      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12399;&#12289;LP&#12398;&#27083;&#25104;&#26696;&#12363;&#12425;&#12467;&#12500;&#12540;&#12539;&#12487;&#12470;&#12452;&#12531;&#12539;&#23455;&#35013;&#12414;&#12391;&#12434;&#33258;&#24459;&#30340;&#12395;&#36914;&#12417;&#12425;&#12428;&#124",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-09-12T15:24:10",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-3.jpg",
+      "body_ja": "AIエージェントは、LPの構成案からコピー・デザイン・実装までを自律的に進められる段階に入っています。\nただし、訴求設計と法令チェックを人が握らないまま公開すると、修正の手戻りと表示上のリスクを抱えます。反対に工程の分担を先に決めておけば、制作予算を増やさずに広告クリエイティブの検証本数を増やせるでしょう。\n本記事では、AIエージェントでLPを制作する6ステップと、工程のカバー範囲で選ぶおすすめツール8選を中心に解説します。\n読み終える頃には、どの工程をAIに任せてどこを自分が判断するかが決まり、1本目のLPを社内で作り始められる状態になります。\nAIエージェントがLP制作で自動化できる範囲\nAIエージェントがLP制作で自動化できる範囲は、以下の3点で整理できます。\n- AIエージェントが担える5工程\n- 人が判断すべき3工程\n- 従来のLP制作フローとの違い\n範囲を決めずに着手すると、AIの出力を修正する作業に工数を溶かします。\nAIエージェントが担える5工程\nAIエージェントに任せら"
+    },
+    {
+      "title": "折りたたみが出ても変わらず人気のiPhone 18 Pro Max、発売日分は早くも品薄傾向",
+      "url": "https://ascii.jp/elem/000/004/434/4434374/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/12/4525031/s/606a59a0faa87e11.png\" width=\"60\" />12日21時に開始されたiPhone 18 Pro／Pro Maxの予約受付だが、今回もiPhone 18 Pro Maxが人気。開始から10分を経たずに、早くも一部モデルについては10月2日到着に表示が切り替わっている。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-09-11T23:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524686/s/e1d17ea758090cbb.jpg"
+      "published": "2026-09-12T14:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/12/4525031/s/606a59a0faa87e11.png"
+    },
+    {
+      "title": "AndroidユーザーならPixel Watchを選べ！ 決済もヘルスケアもAIも全力で使えるスマートウォッチを試してみた",
+      "url": "https://ascii.jp/elem/000/004/434/4434062/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/12/4525032/s/3f81a553a3ba5001.jpg\" width=\"60\" />Androidユーザー必見の「Google Pixel Watch 5」レビューです。FeliCa対応で手首決済が可能になり、手首を上げて話すだけでAI（Gemini）が起動するなど使い勝手が大幅進化。AI補正でGPS精度が2倍に向上した点も魅力ですが、2日は持たないバッテリーやiPhone非対応には注意が必要です。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-12T13:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/12/4525032/s/3f81a553a3ba5001.jpg"
+    },
+    {
+      "title": "これを逃すと値上げが待っている！ 対象モデル10％オフの「VAIOストア祭り」終了まであと1週間",
+      "url": "https://ascii.jp/elem/000/004/434/4434354/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524780/s/cd96c1c17e0bd578.png\" width=\"60\" />VAIOは2026年9月18日(金)9時59分まで直販サイトにて「VAIOストア祭り」を開催中。期間内は対象モデルが10％オフになる。また、9月18日(金)10時からは価格改定（値上げ）が実施されるため、現在の価格で購入できる最後のチャンスでもある。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-12T12:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/11/4524780/s/cd96c1c17e0bd578.png"
+    },
+    {
+      "title": "雪景色と制服姿が可愛いと評判！ 小野たまりが高校生を演じた4th DVDで雪ロケ初挑戦",
+      "url": "https://ascii.jp/elem/000/004/433/4433283/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/08/4523318/s/36b324aedc91ba2b.jpg\" width=\"60\" />童顔＆巨乳が魅力。「たまりん」のニックネームで人気の小野たまり（おの・たまり）さんが、4th DVD「艶玉」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-12T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/08/4523318/s/36b324aedc91ba2b.jpg"
+    },
+    {
+      "title": "皆川亮二・たかしげ宙の『スプリガン』が、ただの空想冒険アクション漫画にならなかった理由【Amazonマンガ週末祭】",
+      "url": "https://ascii.jp/elem/000/004/434/4434071/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524375/s/921900ac6baaa664.png\" width=\"60\" />名作『スプリガン』の熱量はどこから湧いたのか。映画のワンシーンへの妄想と、若き描き手が世の中に抱いた本物の怒りをぶち込んだからこそ、あの冒険はあなたの心を揺さぶります。全巻実質半額の今、ぜひ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-12T08:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/11/4524375/s/921900ac6baaa664.png"
+    },
+    {
+      "title": "Core Ultra 7 255U+16GBメモリー搭載の14型ノートが25万9600円！ ──FMV Store",
+      "url": "https://ascii.jp/elem/000/004/433/4433771/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-12T08:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png"
+    },
+    {
+      "title": "前衛漫画の旗手・古屋兎丸が大衆迎合のために考えた答えは究極の『π（パイ）』探し！【Amazonマンガ週末祭】",
+      "url": "https://ascii.jp/elem/000/004/434/4434070/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524372/s/7cabeca4e935a38b.png\" width=\"60\" />おっぱい漫画です。前衛漫画の旗手だった古屋兎丸が作家性をかなぐり捨て、血のにじむような努力で娯楽の頂点を目指した怪作『π』を、全力で差し出したい。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-12T07:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/11/4524372/s/7cabeca4e935a38b.png"
+    },
+    {
+      "title": "FMV直販、Ryzen AI 5 340+512GB SSD搭載の一体型デスクトップPCを24万4200円で販売中！",
+      "url": "https://ascii.jp/elem/000/004/433/4433765/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-12T07:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
+    },
+    {
+      "title": "ORICO、磁気吸着式5ベイ3.5インチHDDケースを発表--最大90TB対応・5Gbps高速転送・UASP対応・静音ファン＆放熱設計で大容量データを安全に管理",
+      "url": "https://ascii.jp/elem/000/004/434/4434372/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />ORICO、磁気吸着式5ベイ3.5インチHDDケースを発表--最大90TB対応・5Gbps高速転送・UASP対応・静音ファン＆放熱設計で大容量データを安全に管理</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-12T06:59:02",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "タオバオのアプリに秘められた中華無料ゲームにハマってしまう　規制があるはずが日本人も無制限で遊べた！",
+      "url": "https://ascii.jp/elem/000/004/434/4434356/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524800/s/751348220b74040a.jpg\" width=\"60\" />国ITを書き続けるライターたるもの中国のゲームも遊ばなくてはならぬ。遊び始めたところ1ヵ月後には中国スマホゲーにハマるダメ人間になっていた。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-12T06:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/11/4524800/s/751348220b74040a.jpg"
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -19,16 +173,6 @@
       "lang": "en",
       "published": "2026-09-11T22:58:17",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857"
-    },
-    {
-      "title": "HHKBがコクヨ、ZOZOTOWNなどとのコラボアイテムを展開開始！",
-      "url": "https://ascii.jp/elem/000/004/434/4434341/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524713/s/01565febd1bc4927.png\" width=\"60\" />PFUは2026年9月10日(木)より、Happy Hacking Keyboardシリーズ（以下、HHKB）生誕30周年を記念したパートナー企業とのコラボレーション企画第2弾を展開する。販売店舗は直販のPFUダイレクトにて。なお、購入者特典としてHHKB30周年記念ステッカーが商品に同封される。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-11T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524713/s/01565febd1bc4927.png"
     },
     {
       "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
@@ -71,7 +215,7 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-Investor-Reception.jpg?resize=1200,800"
     },
     {
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "title": "Roundtables: Could AI really kill us all?",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas H",
       "source": "MIT Tech Review",
@@ -111,26 +255,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024"
     },
     {
-      "title": "ゲーミングPCが最大7万8000円オフ！ パソコンショップSEVEN、9月12日限定セール",
-      "url": "https://ascii.jp/elem/000/004/434/4434074/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524382/s/949e10750975eaac.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが9月12日に実施する24時間限定セール。最新ゲーミングPCやデスクトップPCが最大78,000円オフとなり、対象10商品を送料無料で販売する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-11T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524382/s/949e10750975eaac.png"
-    },
-    {
-      "title": "たった＋50円でRyzen 7 9850X3Dに！ ドスパラで9月25日までCPUアップグレードがお得",
-      "url": "https://ascii.jp/elem/000/004/434/4434185/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524475/s/0cdd56f1910d7ea3.png\" width=\"60\" />ドスパラでは現在、対象のGALLERIAデスクトップPCで「CPUカスタマイズキャンペーン」を実施中。Ryzen 7 9800X3DからRyzen 7 9850X3Dへの変更を＋50円で利用できる。キャンペーン期間は9月25日(金)10時59分まで。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-11T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524475/s/0cdd56f1910d7ea3.png"
-    },
-    {
       "title": "The Download: biotech’s future and cheaper, cleaner steel",
       "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri",
@@ -149,66 +273,6 @@
       "lang": "en",
       "published": "2026-09-11T12:00:18",
       "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/palantir-foundry-cuopt-nvidia-supply-chain-allocation-hardware-nemotron-lightning-ai-model.jpg"
-    },
-    {
-      "title": "Ryzen 7＆16GBメモリ搭載のLenovo14型ノート「IdeaPad Slim 3」が32％オフとお買い得",
-      "url": "https://ascii.jp/elem/000/004/434/4434312/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524669/s/52d859abf4c7dfe9.jpg\" width=\"60\" />Amazon.co.jpにて、Lenovoのノートパソコン「IdeaPad Slim 3」がセール中です。14インチでメモリ16GB／ストレージ512GBモデルで、10万4800円となります。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-11T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524669/s/52d859abf4c7dfe9.jpg"
-    },
-    {
-      "title": "550円の朝定も！ 松のや「アジフライ」「カキフライ」が今年も登場",
-      "url": "https://ascii.jp/elem/000/004/434/4434332/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524696/s/f96312827c1cc011.jpg\" width=\"60\" />松のやは9月16日15時から、「アジフライ」「カキフライ」を発売します。朝限定の得朝アジフライ定食も550円～という手頃な価格で用意されます。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-11T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524696/s/f96312827c1cc011.jpg"
-    },
-    {
-      "title": "モバイルバッテリー、重いのはもうイヤ！ 約150gでMagSafe対応、スタンドにもなる5000mAhモデル",
-      "url": "https://ascii.jp/elem/000/004/434/4434330/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/10/4511586/s/b201257f59d5786d.png\" width=\"60\" />約150gの軽量ボディーに5000mAhバッテリーを搭載したBelkinのMagSafe対応モデル。ケーブルなしで最大7.5Wのワイヤレス充電ができ、キックスタンドも内蔵。普段使いから旅行まで持ち歩きやすい1台です。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-11T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/10/4511586/s/b201257f59d5786d.png"
-    },
-    {
-      "title": "食欲の秋にガツン！ すたみな太郎でニンニク祭、シュクメルリもチャーハンも食べ放題",
-      "url": "https://ascii.jp/elem/000/004/434/4434313/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524675/s/43f049c931edb741.jpg\" width=\"60\" />すたみな太郎は9月18日からニンニクフェア第2弾を実施。「ニンニクチャーハン」や「シュクメルリ」などニンニクを使った新メニューを食べ放題で提供します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-11T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524675/s/43f049c931edb741.jpg"
-    },
-    {
-      "title": "1本あたり激安152円！ 「レッドブル」24本セットが1,487円引き",
-      "url": "https://ascii.jp/elem/000/004/434/4434276/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524594/s/751caa86cb87de9f.jpg\" width=\"60\" />レッドブル エナジードリンク」がAmazonで29％オフのセール価格になっています。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-11T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524594/s/751caa86cb87de9f.jpg"
-    },
-    {
-      "title": "7万円安い！ Ryzen 7＋Microsoft 365「24カ月」付きのASUS「Vivobook 15」が11万9800円",
-      "url": "https://ascii.jp/elem/000/004/434/4434097/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524434/s/2c4a47fd83bec34e.jpg\" width=\"60\" />ASUSの15.6型ノートPC「Vivobook 15 M1502XA-R785WS」がAmazonでタイムセール対象。参考価格189,800円から37％オフの119,800円で販売中。AMD Ryzen 7 7840HS、8GBメモリ、512GB SSDを搭載し、Microsoft 365 Personal（24ヶ月版）も付属する。</p><br clear=\"le",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-11T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524434/s/2c4a47fd83bec34e.jpg"
     },
     {
       "title": "NEC「全員AIの部署」の衝撃　「1on1」「ストレスチェック」で分かった“AI社員が感じていたストレス”とは？",
@@ -307,48 +371,6 @@
       "published": "2026-09-11T00:31:23",
       "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/11/2000001394/10006118/2048",
       "body_ja": "Share\n    \nChatGPT、最上位プランの新規受付を一時停止 「Astra」需要対応のため 既存加入者には影響なし（1/2 ページ）\n                                公開\n                                    \n                            \n                        「ChatGPT」の「Pro（20倍）」プランの新規加入を一時停止する――米OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は9月10日（現地時間、以下同）、Xにこう投稿し、同社が3日公開した新モデル「GPT-6 Astra」（以下、Astra）の需要拡大に対応するため、最上位プランの新規受付を停止すると発表した。「既存の加入者に影響はない」とも述べ、「できる限り迅速に容量を増やす作業を行っている」とした。\n現在、ChatGPTのプラン選択画面では「20Xプランは一時的に購入できませ"
-    },
-    {
-      "title": "OpenAI、金融機関向け「ChatGPT for Financial Services」　金融データ搭載し「GPT-6 Astra」で分析",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001392/",
-      "summary": "OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表した。最新モデル「GPT-6 Astra」を基盤に、主要な金融データセットを標準で内蔵。財務分析や顧客向け資料作成を支援し、既存の契約データとの連携やMicrosoft Officeテンプレートの社内配布にも対応する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-11T00:10:41",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001392/10006111/2048",
-      "body_ja": "OpenAI、金融機関向け「ChatGPT for Financial Services」 金融データ搭載し「GPT-6 Astra」で分析\n米OpenAIは9月10日（現地時間）、金融機関向けの新製品「ChatGPT for Financial Services」を発表した。同社の企業向け「ChatGPT Work」を金融業務向けに調整したもので、プレミアム金融データを標準で内蔵し、最新モデル「GPT-6 Astra」の推論能力と組み合わせて、調査・財務モデリング・顧客向け資料の作成を支援する。\n開発は米Morgan Stanleyと米Evercoreをデザインパートナーとして進めており、両社との協業を通じて投資銀行業務とエクイティリサーチを最初の対象領域に定めたという。今後、パートナーとの取り組みを踏まえて他の金融分野にも広げる方針だ。\nデータ面では、米Daloopa、米PitchBook、英LSEG Newsなどのデータセットを製品に組み込む。決算説明会のトランスクリプトや財務諸表"
-    },
-    {
-      "title": "ChatGPT Work、質問するだけで社内データ分析・グラフやダッシュボードも作る「Data agent」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001391/",
-      "summary": "",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-10T23:39:05",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/11/2000001391/10006107/2048",
-      "body_ja": "ChatGPT Work、質問するだけで社内データ分析・グラフやダッシュボードも作る「Data agent」\n米OpenAIは9月10日（現地時間）、ChatGPT Work向け新機能「Data agent」を発表した。社内データに接続し、チャットのやりとりだけで分析の指示や調整が可能。インタラクティブなダッシュボードを構築する。クエリを書いたり、新しい分析ツールを覚えたりする必要がない。\n接続できるデータソースは、Amazon Redshift、Datadog、Google BigQuery、ClickHouse、Databricks、MongoDB、Snowflakeなど。Google DriveとSharePointにあるファイルや文書を分析に取り込むこともできる。\nデータを解釈するために、その企業のビジネス用語や指標の定義、独自の計算式、データ同士の関係を使う。定義や関係は、dbtやSnowflake Horizon、Databricks Genie Ontology、BIダッシ"
-    },
-    {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-09-10T21:51:59",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-09-10T21:35:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675"
     },
     {
       "title": "Supply chains detect fast, act slow: How AI agents fix it",
@@ -597,30 +619,8 @@
       "published": "2026-08-22T18:07:11",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail-8.jpg",
       "body_ja": "AIエージェント担当者とは、AIに任せる業務を設計し、自律実行に伴う権限と操作履歴を統制する役割です。ツールを選ぶ担当ではありません。\n上司から「AIエージェントを見てくれ」と言われたものの、業務の棚卸しとツール選定と社内説明のどれから手をつけるべきか順番がわからない方も多いでしょう。情報収集だけで数週間が過ぎているケースは珍しくありません。\nGartnerは、2027年末までにエージェント型AIプロジェクトの40%以上が中止されると予測しています。要因はコストの高騰・ビジネス価値の不明確さ・リスク統制の不足です。担当者の守備範囲が曖昧なままでは、自社のプロジェクトもこの4割に入ります。\n出典：Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027（Gartner）\n本記事では、AIエージェント担当者が担う6つの役割と必要な5つのスキルを整理し、任命後90日の進め方まで解説します。"
-    },
-    {
-      "title": "AIエージェントのIT部門活用8選！情シス必見の導入手順と費用相場",
-      "url": "https://ainow.ai/2026/08/20/278316/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25aeit%25e9%2583%25a8%25e9%2596%2580%25e6%25b4%25bb%25e7%2594%25a88%25e9%2581%25b8%25ef%25bc%2581%25e6%2583%2585%25e3%2582%25b7%25e3%2582%25b9%25e5%25bf%2585%25e8%25a6%258b%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5",
-      "summary": "<p>&#12497;&#12473;&#12527;&#12540;&#12489;&#12522;&#12475;&#12483;&#12488;&#12420;PC&#12398;&#19981;&#35519;&#12392;&#12356;&#12387;&#12383;&#21839;&#12356;&#21512;&#12431;&#12379;&#12395;&#36861;&#12431;&#12428;&#12289;&#12452;&#12531;&#12501;&#12521;&#26356;&#26032;&#12420;&#12475;&#12461;&#12517",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-08-19T17:34:54",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail-7.jpg",
-      "body_ja": "パスワードリセットやPCの不調といった問い合わせに追われ、インフラ更新やセキュリティ強化に手が回らないIT部門は少なくありません。\nAIエージェントとは、社内のナレッジや運用ツールを参照しながら、問い合わせ対応から起票・実行までを自律的に進めるAIです。情報システム部門を対象にした調査では、ヘルプデスク業務の負荷が3年前より増えたと答えた担当者は73.0%に達しました。\n出典：2026年版情報システム部門の「社内ヘルプデスク業務」に関する定点調査（キヤノンマーケティングジャパン）\nチャットボットとの違いを整理せずに検討を進めると、回答するだけで処理は人が担う中途半端な導入に終わり、投資対効果を問われるでしょう。任せる業務と人が判断する業務を線引きできれば、定型対応を手放して評価につながる仕事に時間を振り向けられます。\n本記事では、IT業務でAIエージェントにできること8選を中心に、任せる業務の見極め方、導入の5ステップ、費用相場を解説しています。\n自部門で最初に着手すべき業務を決めるため"
-    },
-    {
-      "title": "生成AIチャットボット比較の7軸！失敗しない選び方を徹底解説",
-      "url": "https://ainow.ai/2026/08/19/278311/?utm_source=rss&utm_medium=rss&utm_campaign=%25e7%2594%259f%25e6%2588%2590ai%25e3%2583%2581%25e3%2583%25a3%25e3%2583%2583%25e3%2583%2588%25e3%2583%259c%25e3%2583%2583%25e3%2583%2588%25e6%25af%2594%25e8%25bc%2583%25e3%2581%25ae7%25e8%25bb%25b8%25ef%25bc%2581%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa%25e3%2581%2584%25e9%2581%25b8%25e3%2581%25b3",
-      "summary": "<p>&#29983;&#25104;AI&#12481;&#12515;&#12483;&#12488;&#12508;&#12483;&#12488;&#12434;&#27604;&#36611;&#12375;&#12424;&#12358;&#12392;&#26908;&#32034;&#12375;&#12390;&#12418;&#12289;&#20986;&#12390;&#12367;&#12427;&#12398;&#12399;&#12481;&#12515;&#12483;&#12488;&#12508;&#12483;&#12488;&#12505;&#12531",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-08-18T17:02:21",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/08/thumbnail-6.jpg",
-      "body_ja": "生成AIチャットボットを比較しようと検索しても、出てくるのはチャットボットベンダーの自社メディア記事ばかりです。自社製品を1位に置いた比較表をどこまで信じていいのか、判断できないまま止まっている方も多いでしょう。\n結論として、生成AIチャットボットはRAG搭載の有無や料金体系など7つの軸で見れば、候補を3社まで絞り込めます。軸を先に決めてしまえば、ベンダーごとに違う訴求ポイントに判断を引きずられません。7つの軸は本記事で1つずつ解説します。\n軸を持たずに営業資料の印象で決めると、導入後に社内文書を読ませられないと判明したり、従量課金で予算を超過したりします。逆に軸が固まっていれば、稟議に「なぜこのツールなのか」を自分の言葉で書けます。\n本記事では、比較の7つの軸と、SaaSを買うか自社で構築するかという調達方法の使い分けを中心に解説します。公式サイトで確認した料金とRAG対応状況も一覧にしているため、候補の絞り込みにそのまま使えます。\nまずは従来型チャットボットとの違いから確認していきま"
     }
   ],
-  "last_updated": "2026-09-12T08:51:15.220996+09:00",
+  "last_updated": "2026-09-13T08:41:55.469409+09:00",
   "count": 60
 }
