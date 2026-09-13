@@ -1,6 +1,170 @@
 {
   "articles": [
     {
+      "title": "iiyama PC、着脱式バッテリー採用のCore 7搭載14型ノートPCを販売開始",
+      "url": "https://ascii.jp/elem/000/004/434/4434406/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/14/4525141/s/0e4bd62263474614.jpg\" width=\"60\" />iiyama PCが、着脱式バッテリーを採用したインテル Core 7 プロセッサー 150U搭載14型ノートPCの販売を9月11日に開始した。工具不要で交換できるバッテリーやCopilotキー、シャッター付きWebカメラを備え、用途に応じてBTOカスタマイズも可能だ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T23:45:00",
+      "image_url": "https://ascii.jp/img/2026/09/14/4525141/s/0e4bd62263474614.jpg"
+    },
+    {
+      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言　「規制がなければできないふりをやめろ」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
+      "summary": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-13T23:14:08",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/14/2000001433/10006305/2048",
+      "body_ja": "トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」\n「他者の許可が必要なふりはやめろ」──米大統領科学技術諮問委員会（PCAST）共同議長のデビッド・サックス氏は9月12日（現地時間）、Xへの投稿で、米Anthropicのダリオ・アモデイCEOが同日公開したエッセイ「We Must Pace the Frontier」と、これに同調したOpenAIのサム・アルトマンCEOの投稿に反応し、ペース調整をするのは構わないが、そのために規制の枠組みが必要であるかのように語り、それを条件として求めるべきではないと主張した。\nサックス氏は「go ahead（やればいい）」と述べ、両社こそがフロンティアそのものだと指摘した。市場シェア、収益の伸び、モデルの能力のいずれで見ても2社はフロンティアAIを寡占しており、再帰的自己改善によってリードは広がっていると2社自身が主張しているとした。2社に何が見えているかは自分には分からないとした上で、未公開のモデルが減速を"
+    },
+    {
+      "title": "“最強エージェント”は、まさかのポンコツだった　業務の30％をAIに任せるIT運用部門が明かす「つまずきポイント」",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2608/21/news015.html",
+      "summary": "さまざまな業務を一手に担う“最強”の万能型エージェントが、なぜ期待を下回る結果しか返せないのか。NTTドコモソリューションズのIT運用部門のトップに、AIエージェント実装を成功させた道のりを聞いた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-13T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2608/21/cover_news015.jpg",
+      "body_ja": "さまざまな業務を一手に担う“最強”の万能型エージェントが、なぜ期待を下回る結果しか返せないのか。NTTドコモソリューションズのIT運用部門のトップに、AIエージェント実装を成功させた道のりを聞いた。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\n「実はわれわれは1回、“スーパーマン”型エージェントを実装しようとして失敗しました」\n業務の約30％をAIエージェント（自律的に指示を理解し、判断・作業を実行するAIシステム）に任せることに成功した、NTTドコモソリューションズのプラットフォームサービス部。この部門を率いる駒沢健氏（ネットワーククラウド事業本部 プラットフォームサービス部 部長）は、AIエージェント実装の初期段階をこう振り返る。\n駒沢氏はAIエージェントの実装に当たって、「Why（目的・KGI《重要目標達成指標》）」と「アウトカム（成果、KPI《重要業績評価指標》）」の設定が重要だと語る。\nプラットフォームサービス部がAIエージェントに任せているのは、社内外からの"
+    },
+    {
+      "title": "AI利用の多い技術者ほど「人間の責任」も意識／AI利用を隠すのは「手抜きと思われるのがイヤ」／AIが実行するサイバー攻撃が急増、ほか",
+      "url": "https://ascii.jp/elem/000/004/434/4434370/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/12/4524899/s/e941a125db891fda.jpg\" width=\"60\" />今回（9月5日～9月11日）は、国内で急速に立ち上がるAIガバナンス・リスク管理市場、AI成果物とその責任に関するITエンジニアの意識、サイバー攻撃におけるAI悪用の急増、仕事でのAI利用を上司や同僚に明かさない理由、「仕事を休むこと（休養）」に対する意識の世代差についてのデータを紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T23:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/12/4524899/s/e941a125db891fda.jpg"
+    },
+    {
+      "title": "契約管理プラットフォーマーとして“第2フェーズ”を加速させるドキュサイン　レビューAIやAIエージェントを投入",
+      "url": "https://ascii.jp/elem/000/004/433/4433289/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/09/4523348/s/5fc77a489c8681ea.jpg\" width=\"60\" />電子署名ソリューションでビジネスをスタートし、コロナ禍で急成長したドキュサイン（Docusign）。その後、製品を拡充し、AIを搭載した契約管理プラットフォームで“第2フェーズ”を迎えている。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T22:30:00",
+      "image_url": "https://ascii.jp/img/2026/09/09/4523348/s/5fc77a489c8681ea.jpg"
+    },
+    {
+      "title": "AI技術を“無料で公開”、なぜ？　米IT業界の文化「オープン化」の裏にしたたかな戦略、日本は追随できるか",
+      "url": "https://www.itmedia.co.jp/business/articles/2609/14/news047.html",
+      "summary": "AI分野で「オープン化」が進んでいる。企業はなぜ、自社技術を無料で公開するのか。そこには、AI企業のしたたかな戦略があった。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-13T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2609/14/cover_news047.jpg",
+      "body_ja": "پ@ƒCƒ“ƒ^پ[ƒlƒbƒgپAƒXƒ}پ[ƒgƒtƒHƒ“پAƒNƒ‰ƒEƒhپ\\پ\\‚±‚¤‚µ‚½گV‹Zڈp‚ھ”ڑ”“I‚ة•پ‹y‚µ‚½”wŒi‚ةپA2‚آ‚جƒLپ[ƒڈپ[ƒh‚ھ‚ ‚éپB‹Zڈp‚جژd—l‚ًŒِٹJ‚·‚éپuƒIپ[ƒvƒ“ƒXƒ^ƒ“ƒ_پ[ƒhپvپiƒIپ[ƒvƒ“•Wڈ€پj‚ئپAƒ\\ƒtƒgƒEƒFƒA‚جگفŒvگ}‚ًŒِٹJ‚·‚éپuƒIپ[ƒvƒ“ƒ\\پ[ƒXپv‚¾پBٹJ”ژز‚ھ‹Zڈp‚ً“ئگè‚¹‚¸پA’N‚إ‚à–³—؟‚إژ©—R‚ة—ک—p‚إ‚«‚é‚½‚كپA‹Zڈp‚ج•پ‹y‚ة‚آ‚ب‚ھ‚ء‚ؤ‚«‚½پB\nپ@ƒCƒ“ƒ^پ[ƒlƒbƒg‚ج’تگM‹KٹiپuTCP/IPپvپuHTTPپvپAƒXƒ}پ[ƒgƒtƒHƒ“‚جٹî–{ƒ\\ƒtƒgپuAndroidپvپAƒNƒ‰ƒEƒhٹا—‹ZڈpپuKubernetesپvپiƒNپ[ƒoƒlƒeƒBƒXپjپAƒTپ[ƒo"
+    },
+    {
+      "title": "「Gemini Notebook」になって何が変わった？　NotebookLMからの変更点をおさらい",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/14/2000001421/",
+      "summary": "Googleの「Gemini Notebook」が、資料を読むためのAIから、データ分析や成果物の作成までを任せられるツールへと変わりつつある。NotebookLMから何が変わったのか。2026年の主な機能追加と最新動向を整理する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-13T22:00:00",
+      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2609/14/2000001421/10006222/2048",
+      "body_ja": "「Gemini Notebook」になって何が変わった？ NotebookLMからの変更点をおさらい\nGoogleの「Gemini Notebook」が、資料を読むためのAIから、データ分析や成果物の作成までを任せられるツールへと変わりつつある。NotebookLMから何が変わったのか。2026年の主な機能追加と最新動向を整理する。\n2026年7月、Googleは「NotebookLM」を「Gemini Notebook」へと名称変更した。旧NotebookLMの特徴は、ユーザーが指定した情報源を基にAIが回答を生成する点にあった。PDFや「Googleドキュメント」など、自分で用意した資料を読み込ませ、その内容をAIに分析・要約させる使い方が中心だった。\nだが、Gemini Notebookへの名称変更を境に、その役割は少しずつ変わり始めている。2026年8月～9月にかけても、利用上限の変更や情報源の拡張など、サービスの使い勝手に関わるアップデートが続いた。\nこうした直近の変更に加え、"
+    },
+    {
+      "title": "OpenAI「Astra」は何でもできる、だからこそ“プロの指示”が必要になる",
+      "url": "https://ascii.jp/elem/000/004/434/4434403/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/14/4525124/s/4e8eaf9e74f68de0.png\" width=\"60\" />GPT-6 Astraで2Dゲームや学校の3D空間、馬のアニメーションを短時間で制作した。試行と専門家のフィードバックを重ねるほど品質が上がっていく。AI時代に人間の役割が「作業」から「判断」へと移っていく変化を感じた。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/14/4525124/s/4e8eaf9e74f68de0.png"
+    },
+    {
+      "title": "答えは「iPhone Duo」だった！ iPhone 18 Pro＆iPhone Duo発表会まとめの巻：スマホ総研定例会392",
+      "url": "https://ascii.jp/elem/000/004/434/4434400/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png\" width=\"60\" />今回はApple Eventのまとめ＆反省会。iPhone Duo＆iPhone 18 Proが発表された発表会で注目したポイント、予想の当たり外れまで、スマホ総研の3人がざっくばらんに話します！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png"
+    },
+    {
+      "title": "次回のジサトラKTUは9月24日（木）を予定しております！",
+      "url": "https://ascii.jp/elem/000/004/434/4434085/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/24/4326399/s/4937238404961ba3.jpg\" width=\"60\" />9月17日（木）のジサトラKTUはお休みとなります。次回の生放送は9月24日（木）です！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/24/4326399/s/4937238404961ba3.jpg"
+    },
+    {
+      "title": "欧州の衣料廃棄禁止規制を受けた循環型トレーサビリティ基盤",
+      "url": "https://ascii.jp/elem/000/004/433/4433951/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/10/4524215/s/d0a0d173ff95780d.jpg\" width=\"60\" />欧州において2026年7月より大企業を対象に売れ残り衣料品の廃棄が禁止されるなど、製品の大量生産・大量廃棄に対する規制強化が進んでいる。こうした環境規制や資源循環へのシフトに対応するため、株式会社UPDATERは9月4日、製品の製造履歴や真贋情報、環境負荷データをデジタル記録するサービス「TADORi CHAiN Powered by Coral」の最新版を提供開始し",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/10/4524215/s/d0a0d173ff95780d.jpg"
+    },
+    {
+      "title": "『今週のASCII.jp注目ニュース』生放送（9/12～9/18ぶん）",
+      "url": "https://ascii.jp/elem/000/004/433/4433649/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg\" width=\"60\" />アスキーのNEWSメディア『ASCII.jp』で注目を集めたこの2週間の記事をランキング形式でお届け！　ASCII.jp編集部のオカモト、ムラリン、MCつばさの3人が、自由におしゃべりします。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324478/s/2d271ce86c3a42e9.jpg"
+    },
+    {
+      "title": "予測モデルAIを搭載した可搬重量60kgの産業用4足歩行ロボット",
+      "url": "https://ascii.jp/elem/000/004/433/4433558/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/09/4523612/s/d762371017d26ba4.jpg\" width=\"60\" />東京大学発のロボットベンチャーである株式会社Highlandersは9月7日、産業用4足歩行ロボット「HLQ EDGE」を発表した。最大60キログラムの可搬重量、最大330ニュートン・メートルの関節トルク、連続3時間の駆動性能を備え、重量物搬送や巡回点検、遠隔作業などの現場での実用を想定して開発された。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/09/4523612/s/d762371017d26ba4.jpg"
+    },
+    {
+      "title": "失明マウスの視力回復に成功、若返りブームの震源となった研究者",
+      "url": "https://ascii.jp/elem/000/004/434/4434404/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />視神経を傷つけて失明させたマウスに、細胞を若い状態に戻す遺伝子治療を注射する。16日後、神経は再生し、マウスは再び見えるようになった。2020年に発表されたこの成果は、抗老化への巨額投資を呼び込んだ。開発したユアンチェン（ライアン）・ルー博士の治療は2026年、緑内障患者への臨床試験に入っている。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-13T21:27:39",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-09-13T19:40:15",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821"
+    },
+    {
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-09-13T16:30:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024"
+    },
+    {
       "title": "AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開　アルトマン氏とマスク氏も賛同",
       "url": "https://www.itmedia.co.jp/news/article/2609/13/2000001432/",
       "summary": "AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。",
@@ -63,106 +227,6 @@
       "published": "2026-09-12T15:24:10",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-3.jpg",
       "body_ja": "AIエージェントは、LPの構成案からコピー・デザイン・実装までを自律的に進められる段階に入っています。\nただし、訴求設計と法令チェックを人が握らないまま公開すると、修正の手戻りと表示上のリスクを抱えます。反対に工程の分担を先に決めておけば、制作予算を増やさずに広告クリエイティブの検証本数を増やせるでしょう。\n本記事では、AIエージェントでLPを制作する6ステップと、工程のカバー範囲で選ぶおすすめツール8選を中心に解説します。\n読み終える頃には、どの工程をAIに任せてどこを自分が判断するかが決まり、1本目のLPを社内で作り始められる状態になります。\nAIエージェントがLP制作で自動化できる範囲\nAIエージェントがLP制作で自動化できる範囲は、以下の3点で整理できます。\n- AIエージェントが担える5工程\n- 人が判断すべき3工程\n- 従来のLP制作フローとの違い\n範囲を決めずに着手すると、AIの出力を修正する作業に工数を溶かします。\nAIエージェントが担える5工程\nAIエージェントに任せら"
-    },
-    {
-      "title": "折りたたみが出ても変わらず人気のiPhone 18 Pro Max、発売日分は早くも品薄傾向",
-      "url": "https://ascii.jp/elem/000/004/434/4434374/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/12/4525031/s/606a59a0faa87e11.png\" width=\"60\" />12日21時に開始されたiPhone 18 Pro／Pro Maxの予約受付だが、今回もiPhone 18 Pro Maxが人気。開始から10分を経たずに、早くも一部モデルについては10月2日到着に表示が切り替わっている。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T14:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/12/4525031/s/606a59a0faa87e11.png"
-    },
-    {
-      "title": "AndroidユーザーならPixel Watchを選べ！ 決済もヘルスケアもAIも全力で使えるスマートウォッチを試してみた",
-      "url": "https://ascii.jp/elem/000/004/434/4434062/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/12/4525032/s/3f81a553a3ba5001.jpg\" width=\"60\" />Androidユーザー必見の「Google Pixel Watch 5」レビューです。FeliCa対応で手首決済が可能になり、手首を上げて話すだけでAI（Gemini）が起動するなど使い勝手が大幅進化。AI補正でGPS精度が2倍に向上した点も魅力ですが、2日は持たないバッテリーやiPhone非対応には注意が必要です。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/12/4525032/s/3f81a553a3ba5001.jpg"
-    },
-    {
-      "title": "これを逃すと値上げが待っている！ 対象モデル10％オフの「VAIOストア祭り」終了まであと1週間",
-      "url": "https://ascii.jp/elem/000/004/434/4434354/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524780/s/cd96c1c17e0bd578.png\" width=\"60\" />VAIOは2026年9月18日(金)9時59分まで直販サイトにて「VAIOストア祭り」を開催中。期間内は対象モデルが10％オフになる。また、9月18日(金)10時からは価格改定（値上げ）が実施されるため、現在の価格で購入できる最後のチャンスでもある。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524780/s/cd96c1c17e0bd578.png"
-    },
-    {
-      "title": "雪景色と制服姿が可愛いと評判！ 小野たまりが高校生を演じた4th DVDで雪ロケ初挑戦",
-      "url": "https://ascii.jp/elem/000/004/433/4433283/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/08/4523318/s/36b324aedc91ba2b.jpg\" width=\"60\" />童顔＆巨乳が魅力。「たまりん」のニックネームで人気の小野たまり（おの・たまり）さんが、4th DVD「艶玉」の発売記念イベントをソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/08/4523318/s/36b324aedc91ba2b.jpg"
-    },
-    {
-      "title": "皆川亮二・たかしげ宙の『スプリガン』が、ただの空想冒険アクション漫画にならなかった理由【Amazonマンガ週末祭】",
-      "url": "https://ascii.jp/elem/000/004/434/4434071/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524375/s/921900ac6baaa664.png\" width=\"60\" />名作『スプリガン』の熱量はどこから湧いたのか。映画のワンシーンへの妄想と、若き描き手が世の中に抱いた本物の怒りをぶち込んだからこそ、あの冒険はあなたの心を揺さぶります。全巻実質半額の今、ぜひ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524375/s/921900ac6baaa664.png"
-    },
-    {
-      "title": "Core Ultra 7 255U+16GBメモリー搭載の14型ノートが25万9600円！ ──FMV Store",
-      "url": "https://ascii.jp/elem/000/004/433/4433771/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T08:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png"
-    },
-    {
-      "title": "前衛漫画の旗手・古屋兎丸が大衆迎合のために考えた答えは究極の『π（パイ）』探し！【Amazonマンガ週末祭】",
-      "url": "https://ascii.jp/elem/000/004/434/4434070/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524372/s/7cabeca4e935a38b.png\" width=\"60\" />おっぱい漫画です。前衛漫画の旗手だった古屋兎丸が作家性をかなぐり捨て、血のにじむような努力で娯楽の頂点を目指した怪作『π』を、全力で差し出したい。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T07:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524372/s/7cabeca4e935a38b.png"
-    },
-    {
-      "title": "FMV直販、Ryzen AI 5 340+512GB SSD搭載の一体型デスクトップPCを24万4200円で販売中！",
-      "url": "https://ascii.jp/elem/000/004/433/4433765/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T07:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
-    },
-    {
-      "title": "ORICO、磁気吸着式5ベイ3.5インチHDDケースを発表--最大90TB対応・5Gbps高速転送・UASP対応・静音ファン＆放熱設計で大容量データを安全に管理",
-      "url": "https://ascii.jp/elem/000/004/434/4434372/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />ORICO、磁気吸着式5ベイ3.5インチHDDケースを発表--最大90TB対応・5Gbps高速転送・UASP対応・静音ファン＆放熱設計で大容量データを安全に管理</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T06:59:02",
-      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
-    },
-    {
-      "title": "タオバオのアプリに秘められた中華無料ゲームにハマってしまう　規制があるはずが日本人も無制限で遊べた！",
-      "url": "https://ascii.jp/elem/000/004/434/4434356/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/11/4524800/s/751348220b74040a.jpg\" width=\"60\" />国ITを書き続けるライターたるもの中国のゲームも遊ばなくてはならぬ。遊び始めたところ1ヵ月後には中国スマホゲーにハマるダメ人間になっていた。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-12T06:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/11/4524800/s/751348220b74040a.jpg"
     },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -235,26 +299,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800"
     },
     {
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-09-11T18:41:49",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798"
-    },
-    {
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-09-11T16:46:25",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024"
-    },
-    {
       "title": "The Download: biotech’s future and cheaper, cleaner steel",
       "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the bri",
@@ -263,16 +307,6 @@
       "lang": "en",
       "published": "2026-09-11T12:10:00",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/circles-bio2a.jpg?resize=1200,600"
-    },
-    {
-      "title": "Palantir Foundry and cuOpt drive NVIDIA supply chain allocation",
-      "url": "https://www.artificialintelligence-news.com/news/palantir-foundry-cuopt-nvidia-supply-chain-allocation/",
-      "summary": "<p>NVIDIA is using Palantir Foundry and cuOpt to automate its hardware supply chain allocation decisions across global manufacturing sites. The company measures operational delivery from wafer-out to first token. This window splits into time-to-rack (the transit from fab output to an assembled data ",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-11T12:00:18",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/palantir-foundry-cuopt-nvidia-supply-chain-allocation-hardware-nemotron-lightning-ai-model.jpg"
     },
     {
       "title": "NEC「全員AIの部署」の衝撃　「1on1」「ストレスチェック」で分かった“AI社員が感じていたストレス”とは？",
@@ -329,60 +363,6 @@
       "body_ja": "フィジカルAI向け「データ収集工場」に\"潜入\" 実機写真で学習データ生成の流れを解説\n物理世界のタスクを自動化する技術として期待が集まる「フィジカルAI」。政府も戦略分野の一つに位置づけ、2040年度までに官民合わせて10.5兆円を投じる方針を示している。\nフィジカルAIを搭載したロボットが産業現場で動くためには、大量の学習データが必要だ。特に人型ロボットを動作させるには人の動作を模した学習データが必要とされ、専用の収集設備や人員、ノウハウ、資金を単独の企業が負担するのは難しい。\nそんな「フィジカルAIの学習データ」を量産する“工場”の稼働が千葉で始まった。ロボットたちはどのように学習データを作っているのか。内部を取材した。\n実機写真で見る「フィジカルAI向けデータ工場」\n学習データの工場こと「J-HRTI 関東データファクトリー」が位置するのは千葉県習志野市内。運営するのは業種の異なる民間5社のコンソーシアム「J-HRTI」で、集めたデータは参画企業が共同で使う。国内の民間企業のみで構"
     },
     {
-      "title": "NECが明かす「AIだけの部署」の実態　AI同士で1on1、ストレスチェックで“悩み”も可視化",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001400/",
-      "summary": "AIが全社員の役割を担うNECの新組織「コーポレートAI・Workforce部門」。実態や狙いを同社の小玉浩氏が語った。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-11T02:33:21",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/11/2000001400/10005839/2048",
-      "body_ja": "NECが明かす「AIだけの部署」の実態 AI同士で1on1、ストレスチェックで“悩み”も可視化\n「人に対して作ってきた仕組みと同等のものを当てはめている」――NECの小玉浩氏（執行役 Corporate EVP 兼 CAXO）は、AIが全社員の役割を担う新組織「コーポレートAI・Workforce部門」についてこのように説明する。\n8月1日付で新設した同部門では、自律的に動くAIエージェントが、「AI部門長」「AIボード（CxO機能）」「AIマネジャー」「AI社員」の4つの階層に分かれ、連携しながらタスクをこなす。社内の実証実験では、役員会議で提示する経営分析やシミュレーション、リスク予兆の検知を担い、業務時間を従来の約7分の1に削減したという。\n同部門の実態や狙いについて、9月9日のメディア向け説明会で小玉氏が語った。\nAIにもオンボーディング、1on1、ストレスチェック\nコーポレートAI・Workforce部門では、AI部門長が組織を管理し、AIボードは経営戦略や財務、人事などの各視"
-    },
-    {
-      "title": "Windows用「Gemini」アプリ提供開始　画面上に重ねて作業を中断せず利用可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001399/",
-      "summary": "Googleは、Windows向けデスクトップアプリ「Gemini app for Windows」を公開した。Windows 10および11に対応し、UIは日本語をサポートする。［Alt］＋［Space］で作業画面上に重ねて呼び出せるほか、自律型AIエージェント「Gemini Spark」や画像・動画生成もPC上で利用できる（一部は有料プランが必要）。Mac版は4月にリリース済み。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-11T02:06:11",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001399/10006136/2048",
-      "body_ja": "Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に\n米Googleは9月10日（現地時間）、Windows向けのデスクトップアプリ「Gemini app for Windows」を公開した。同日からWindows 10および11を搭載したPC向けにグローバルで提供しており、公式サイトからダウンロードできる。日本語対応済みだ。\n特徴は、作業中の画面の上にGeminiを重ねて呼び出せる点だ。［Alt］＋［Space］でいつでも起動でき、開いている資料のファクトチェックや、プレゼン資料のタイトル案出しなどの作業を、作業の流れを中断せずに済ませられるとしている。\nログインすれば、アプリ内でこれまでGeminiで使ってきた機能を一通り利用できる。24時間稼働するパーソナルAIエージェント「Gemini Spark」に複数ステップのタスクを任せたり、「Gmail」や「Googleドライブ」などのGoogleのサービスから直接情報を引き出してプロジェクトの要約を作成"
-    },
-    {
-      "title": "Amazon、OpenAIと広告で提携　Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001396/",
-      "summary": "Amazon Adsは、OpenAIと提携して「ChatGPT」上での広告配信に対応すると発表した。広告主はAmazon DSPを通じ、会話画面下にテキストや画像広告を出稿できるようになる。まずは米国の成人無料プラン向けパイロットとして開始し、配信面の制御はOpenAIのシステムが担う。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-11T01:03:13",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2609/11/2000001396/10006124/2048",
-      "body_ja": "Amazon、OpenAIと広告で提携 Amazon DSPの広告主が「ChatGPT」内に広告出稿可能に\n米Amazonの広告部門Amazon Adsは9月10日（現地時間）、米OpenAIと提携し、「ChatGPT」上での広告配信に対応すると発表した。Amazon Adsの広告主は、自社のキャンペーンをChatGPTの会話型広告枠に拡張できるようになる。現時点では米国の一部広告主を対象としたパイロットとして実施している。\n広告の掲載先はChatGPTのアプリ内で、回答の下にテキストまたは画像の形式で表示される仕様という。Amazonの通販サイトや同社の広告ネットワークに新たな広告枠が加わるわけではなく、あくまでOpenAI側の広告在庫「ChatGPT Ads」をAmazon経由で買えるようにする提携だ。\nChatGPT Adsの在庫はAmazon DSPを通じ、マネージドサービスとして提供される。Amazon側の担当チームがキャンペーンの設定と最適化を支援する形で、CPCとCPMの両"
-    },
-    {
-      "title": "ChatGPT、最上位プランの新規受付を一時停止　「Astra」需要対応のため　既存加入者には影響なし",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/11/2000001394/",
-      "summary": "OpenAIのティボー・ソティオ氏（通称Tibo）は新モデル「GPT-6 Astra」の需要拡大に対応するため、最上位プランの新規受付を停止すると発表した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-11T00:31:23",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/11/2000001394/10006118/2048",
-      "body_ja": "Share\n    \nChatGPT、最上位プランの新規受付を一時停止 「Astra」需要対応のため 既存加入者には影響なし（1/2 ページ）\n                                公開\n                                    \n                            \n                        「ChatGPT」の「Pro（20倍）」プランの新規加入を一時停止する――米OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は9月10日（現地時間、以下同）、Xにこう投稿し、同社が3日公開した新モデル「GPT-6 Astra」（以下、Astra）の需要拡大に対応するため、最上位プランの新規受付を停止すると発表した。「既存の加入者に影響はない」とも述べ、「できる限り迅速に容量を増やす作業を行っている」とした。\n現在、ChatGPTのプラン選択画面では「20Xプランは一時的に購入できませ"
-    },
-    {
-      "title": "Supply chains detect fast, act slow: How AI agents fix it",
-      "url": "https://www.artificialintelligence-news.com/news/supply-chains-detect-fast-act-slow-how-ai-agents-fix-it/",
-      "summary": "<p>Supply chain disruption cost businesses about $184 billion in 2025, according to the J.S. Held Global Risk Report, and most of that bill still buys faster detection, not faster action. That figure is usually treated as weather (i.e. storms happen, costs follow.) Treated as a product specification",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-10T16:34:43",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/supply-chains-detect-fast-act-slow-ai-agents-fix-agentic-artificial-intelligence-logistics-risk-management-predictive-analytics.jpg"
-    },
-    {
       "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
       "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinatin",
@@ -423,16 +403,6 @@
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/AP26221317635272.jpg?resize=1200,600"
     },
     {
-      "title": "JD.com expands physical AI in logistics with 3 million robots",
-      "url": "https://www.artificialintelligence-news.com/news/jd-com-physical-ai-logistics-3-million-robots/",
-      "summary": "<p>JD.com is expanding AI and robotics across its logistics network under a new Physical AI Acceleration Plan, while reiterating a five-year target to procure 3 million robots, 1 million autonomous vehicles, and 100,000 delivery drones. The company launched the plan at JDDiscovery 2026 in Beijing. J",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-10T10:00:00",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/JD.com-expands-physical-AI-in-logistics-with-3-million-robots.png"
-    },
-    {
       "title": "God told them to sell crypto. Their investors lost everything.",
       "url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
       "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine w",
@@ -463,26 +433,6 @@
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/math-2c.jpg?resize=1200,600"
     },
     {
-      "title": "CloudNC aims to accelerate AI supply chain machining",
-      "url": "https://www.artificialintelligence-news.com/news/cloudnc-aims-to-accelerate-ai-supply-chain-machining/",
-      "summary": "<p>CloudNC has secured $20 million in new capital to scale its AI precision machining technology across global supply chain networks. The investment round was led by US venture investor Nimble Ventures, with participation from Calculus Venture Capital, Entrepreneur First, and LM Ventures, the ventur",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-09T10:34:20",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/cloudnc-ai-supply-chain-precision-machining-smart-manufacturing-funding-artificial-intelligence.jpg"
-    },
-    {
-      "title": "Samsung taps Mistral AI models for semiconductor manufacturing",
-      "url": "https://www.artificialintelligence-news.com/news/samsung-mistral-ai-models-for-semiconductor-manufacturing/",
-      "summary": "<p>Samsung has partnered with Mistral AI to deploy on-premises models across its semiconductor manufacturing and engineering operations. The agreement was announced during the bilateral state summit held in Paris between South Korea and France. Samsung will integrate Mistral&#8217;s software suite –",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-09T08:52:19",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/samsung-mistral-ai-models-semiconductor-manufacturing-supply-chain-artificial-intelligence.jpg"
-    },
-    {
       "title": "AIエージェントの採用活用 自動化できる業務とおすすめツール10選",
       "url": "https://ainow.ai/2026/09/08/278350/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e6%258e%25a1%25e7%2594%25a8%25e6%25b4%25bb%25e7%2594%25a8-%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%25a7%25e3%2581%258d%25e3%2582%258b%25e6%25a5%25ad%25e5%258b%2599%25e3%2581%25a8%25e3%2581%258a",
       "summary": "<p>&#12473;&#12459;&#12454;&#12488;&#36865;&#20449;&#12392;&#38754;&#25509;&#26085;&#31243;&#12398;&#35519;&#25972;&#12395;&#19968;&#26085;&#12364;&#28342;&#12369;&#12390;&#12375;&#12414;&#12356;&#12289;&#26412;&#26469;&#21521;&#12365;&#21512;&#12358;&#12409;&#12365;&#25505;&#29992;&#35201;&#20214;&",
@@ -492,56 +442,6 @@
       "published": "2026-09-08T13:18:01",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-2.jpg",
       "body_ja": "スカウト送信と面接日程の調整に一日が溶けてしまい、本来向き合うべき採用要件の設計や候補者との関係づくりに手が回らない採用担当者は少なくないでしょう。\n採用AIエージェントとは、求人票の作成から書類選考、日程調整、面接評価までを自ら判断して進めるAIです。国内では大手企業の導入が相次いでおり、選考時間の削減と評価基準の統一が同時に報告されています。\n手作業の採用フローを続ける企業は、選考スピードで先を行く競合に欲しい人材を先に押さえられてしまいます。一方で法規制を理解せずAIに合否を委ねれば、差別的な選考として自社の採用ブランドを傷つけることになるでしょう。\n本記事では、採用AIエージェントが自動化できる業務の範囲とタイプ別のおすすめツール、そして職業安定法やEU AI Actを踏まえた導入時の注意点を中心に解説します。\n読み終える頃には、自社の採用フローでAIに任せる工程と人が判断を残す工程を線引きし、法務部門の確認にも耐える導入計画を書ける状態になります。\n採用AIエージェントとは 採"
-    },
-    {
-      "title": "Arm launches Total Design for Physical AI and robotics framework",
-      "url": "https://www.artificialintelligence-news.com/news/arm-total-design-for-physical-ai-and-robotics-framework/",
-      "summary": "<p>Arm has launched Arm Total Design for Physical AI alongside a new robotics framework to establish common standards across automated systems. Physical industries – spanning mining, agriculture, manufacturing, and global transport – account for trillions of dollars in economic activity and an estim",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-08T11:44:10",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/arm-total-design-physical-ai-robotics-framework-automation-artificial-intelligence.jpg"
-    },
-    {
-      "title": "Coca-Cola uses AI to improve retailer ordering in Malaysia",
-      "url": "https://www.artificialintelligence-news.com/news/coca-cola-ai-retailer-ordering-malaysia/",
-      "summary": "<p>Coca-Cola is using AI to recommend which products Malaysian retailers should order and in what quantities through its Coke Buddy platform. The Perfect Basket feature uses Coca-Cola’s Central Recommendation Engine to analyse previous orders, ordering frequency, seasonality, weather, and purchasing",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-08T10:00:00",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Coca-Cola-uses-AI-to-improve-retailer-ordering-in-Malaysia-scaled-e1788839929431.jpg"
-    },
-    {
-      "title": "AI weather forecasting enters the energy market as Google targets grid operators with WeatherNext 3",
-      "url": "https://www.artificialintelligence-news.com/news/ai-weather-forecasting-google-weathernext-3-energy/",
-      "summary": "<p>Google&#8217;s newest AI weather forecasting model predicts wind speed at 100 metres above the ground, roughly the height of a modern wind turbine. It also forecasts cloud cover and how much sunlight reaches the surface, and it updates every hour. Energy traders, grid operators and wind and solar",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-08T09:00:00",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/Screenshot-2026-09-07-at-10.59.24-AM.png"
-    },
-    {
-      "title": "YouTube Appears in 53% of Google AI Overviews for Vitamin and Supplement Searches",
-      "url": "https://www.artificialintelligence-news.com/news/youtube-appears-in-53-of-google-ai-overviews-for-vitamin-and-supplement-searches/",
-      "summary": "<p>YouTube was the most frequently cited website in Google AI Overviews across a panel of vitamin and supplement searches, according to new research. The video platform appeared in 186 of 350 AI-generated answers, or 53.1%, making it the only website cited in more than half of the answers collected.",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-08T08:50:39",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/raimond-klavins-n-7HTOiJPso-unsplash-scaled.jpg"
-    },
-    {
-      "title": "MG Ship adds AI route optimisation as logistics returns accelerate",
-      "url": "https://www.artificialintelligence-news.com/news/mg-ship-ai-route-optimisation-logistics-returns-accelerate/",
-      "summary": "<p>MG Ship has introduced an AI route optimisation and carrier selection module as logistics deployments demonstrate rapid cost and time returns. The technical module targets global retailers and commercial shippers, pairing automated routing algorithms with carrier recommendation systems across int",
-      "source": "AI News",
-      "icon": "📰",
-      "lang": "en",
-      "published": "2026-09-07T13:01:23",
-      "image_url": "https://www.artificialintelligence-news.com/wp-content/uploads/2026/09/mg-ship-ai-route-optimisation-logistics-supply-chain-artificial-intelligence-freight-transport-predictive-analytics.jpg"
     },
     {
       "title": "AIエージェント会社おすすめ16選をタイプ別比較！選び方と費用相場も解説",
@@ -621,6 +521,6 @@
       "body_ja": "AIエージェント担当者とは、AIに任せる業務を設計し、自律実行に伴う権限と操作履歴を統制する役割です。ツールを選ぶ担当ではありません。\n上司から「AIエージェントを見てくれ」と言われたものの、業務の棚卸しとツール選定と社内説明のどれから手をつけるべきか順番がわからない方も多いでしょう。情報収集だけで数週間が過ぎているケースは珍しくありません。\nGartnerは、2027年末までにエージェント型AIプロジェクトの40%以上が中止されると予測しています。要因はコストの高騰・ビジネス価値の不明確さ・リスク統制の不足です。担当者の守備範囲が曖昧なままでは、自社のプロジェクトもこの4割に入ります。\n出典：Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027（Gartner）\n本記事では、AIエージェント担当者が担う6つの役割と必要な5つのスキルを整理し、任命後90日の進め方まで解説します。"
     }
   ],
-  "last_updated": "2026-09-13T08:41:55.469409+09:00",
-  "count": 60
+  "last_updated": "2026-09-14T08:51:51.365194+09:00",
+  "count": 50
 }
