@@ -1,199 +1,414 @@
 {
   "articles": [
     {
-      "title": "Blizzard Explains How Diablo 5 Avoids Diablo 4's Open-World Problem",
-      "url": "https://www.polygon.com/diablo-5-no-open-world-blizzard-interview/",
-      "summary": "Overlay maps will also be in Diablo 5 from day one",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-14T23:49:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/diablo-5-sanctuary.jpg"
-    },
-    {
-      "title": "New Steam Game Is Like Balatro Meets Newgrounds-Era Flash Games",
-      "url": "https://www.polygon.com/kaz-steam-roguelike-impressions/",
-      "summary": "Kaz, a new Steam roguelike that's like Balatro combined with a Flash game from the Newgrounds era of the internet, is Steam's coolest new roguelike.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-14T23:08:52",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/kaz-bird-grid.jpg"
-    },
-    {
-      "title": "The 10 Best Marvel Video Games Of All Time",
-      "url": "https://www.polygon.com/best-marvel-video-games-ever/",
-      "summary": "Spanning a variety of genres and eras, these 10 Marvel video games provide compelling gameplay loops that make them the best of their type.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-14T23:01:48",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-midnight-suns-wolverine.jpg"
-    },
-    {
-      "title": "MCP対応前からUnreal Engineを自力で操れていたLLMエージェントは，UE5.8のMCPで何ができるようになったのか［ゲームメーカーズスクランブル］",
-      "url": "https://www.4gamer.net/games/210/G021013/20260907003/",
-      "summary": "UnrealEngine5.8でリリースされたMCP機能で何ができるのか。導入方法から実際に活用してみた体験まで紹介された講演をレポートする。",
+      "title": "「プラグマタ」の開発で起こった4つの課題。これ以上遅れられない状況で，プロジェクトマネージャーはどう向き合ったのか［ゲームメーカーズスクランブル］",
+      "url": "https://www.4gamer.net/games/512/G051239/20260907001/",
+      "summary": "若手スタッフが中心になって制作されたカプコンの完全新作「プラグマタ」は，試作から約6年の開発期間を要した作品だ。その舞台裏をプロジェクトマネージャーが紹介した講演をレポート。",
       "source": "4Gamer",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-14T23:00:00",
-      "image_url": "https://www.4gamer.net/games/210/G021013/20260907003/TN/035.jpg",
-      "body_ja": "| 湊 和久氏 | \n|---|\nUnreal Engine 5.8（以下，UE5.8）ではMCP（Model Context Protocol）のサポートが始まり，手元のLLMエージェントからUnreal Editorをライブで操作できるようになった。\n本講演では，その導入手順と拡張方法，そして湊氏自身が2日間でゲームを作ってみた体験が語られた。\nなお，ゲーム生成のプロンプト，つまりこう入力したらこんなゲームができましたという話はしない，と冒頭で断られている。\nLLM，エージェント，そしてMCP\nまずは用語の整理から。LLM（大規模言語モデル）は大量のテキストから学習したもので，文字情報を投げると，それに対応した文字が返ってくるテキストベースのシステムだ。\nただしLLM自身はゲームエンジンを触ったりファイルを操作したりできないため，その部分を担当するエージェントを間に挟むことで，さまざまなことが可能になっている。\nそのエージェントも，UEや他社のツールを直接操作することはできない。そこ"
+      "published": "2026-09-15T23:00:00",
+      "image_url": "https://www.4gamer.net/games/512/G051239/20260907001/SS/001.jpg",
+      "body_ja": "| カプコン プロジェクトマネージャー 松中敬志氏 | \n|---|\n「プラグマタ」（PRAGMATA）はカプコンの完全新作タイトルで，試作から数えて約6年の開発期間を要した作品だ。松中氏はその本開発フェーズからメインのプロジェクトマネージャーとして参加している。\n試作段階から持ち越された課題をどう把握し，どう手を打っていったのか。現場での事例から，ゲーム開発に共通する話が紹介された。\n松中氏は2015年にカプコンへ中途入社。前職はゲームとは関係のない映像制作会社で，カプコン入社後はほぼ「バイオハザード」シリーズの開発に携わってきた。\n「プラグマタ」でフルタイトルのメインマネージャーを初めて務めることになった。\n試作に約3年。課題を抱えたまま本開発へ\n「プラグマタ」は，独自の爽快感と戦略性を持った新感覚SFアクションアドベンチャーとして開発されたタイトルだ。\nTPSにパズル要素を組み合わせた新しい体験を目指しつつ，カプコンがこれまで培ってきた手応えのあるゲーム性は失わない。そうした狙いの"
     },
     {
-      "title": "RDNA 4世代のエントリーGPU「Radeon RX 9050」の実力は？ GeForceのエントリー級「GeForce RTX 5050」と比較してみた",
-      "url": "https://www.4gamer.net/games/869/G086962/20260913010/",
-      "summary": "AMDのエントリー市場向けGPUである「RadeonRX9050」は，RX9000シリーズでは最も下位に位置付けられるものだ。今どきのゲームをプレイできる十分な性能を備えているのだろうか。ASRock製「AMDRadeonRX9050Challenger8GB」を用いて，その性能を確かめてみたい。",
+      "title": "Tomb Raider: Legacy of Atlantis Devs on the Game's Greek Creatures",
+      "url": "https://80.lv/articles/tomb-raider-legacy-of-atlantis-devs-on-the-game-s-greek-creatures/",
+      "summary": "<p>You'll be fighting leopards and crocodiles.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-15T22:49:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41624/images/6aa9cb8898019/cover_800x800.jpg"
+    },
+    {
+      "title": "7 Major GTA 6 Questions the Previews Haven't Answered",
+      "url": "https://www.polygon.com/gta-6-major-questions/",
+      "summary": "Who's in the cast? What's happening with GTA Online? We have questions after Rockstar's Netflix Grand Theft Auto 6 extended look.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T21:35:50",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/polygon-stock-art-gta-6-cal-hampton-3.jpg"
+    },
+    {
+      "title": "Diablo 4 Season 15 release time in your time zone",
+      "url": "https://www.polygon.com/diablo-4-d4-season-15-hells-legacy-release-time-edt-pdt/",
+      "summary": "In this guide, you can check when Diablo 4 Season 15 releases in your time zone and what to expect from the Season of Hell's Legacy.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T21:21:50",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/d4_servicepost_season15_lead.jpg"
+    },
+    {
+      "title": "This Beautiful Cozy Game Will Have You Delivering Packages in Crazy Ways",
+      "url": "https://80.lv/articles/this-beautiful-cozy-game-will-have-you-delivering-packages-in-crazy-ways/",
+      "summary": "<p>You'll have to cross rivers to deliver the packages.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-15T19:55:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41621/images/6aa9a29f332a0/cover_800x800.jpg"
+    },
+    {
+      "title": "Roblox will allow devs to release games as standalone apps on other stores",
+      "url": "https://www.gamedeveloper.com/business/roblox-will-allow-devs-to-release-games-as-standalone-apps-on-other-stores",
+      "summary": "Roblox will soon let developers bring games to other platforms, though they'll still 'benefit from the same revenue-share economics' of the Roblox app.",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-09-15T19:52:45",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt7ff8e7ba36fe4822/6aa9a1c2a715b01bf58c726a/robloxhorrorfeatured.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "God of War Laufey Now Has a Lot To Prove After Wolverine’s Messy Launch",
+      "url": "https://www.polygon.com/god-of-war-laufey-marvels-wolverine-analysis/",
+      "summary": "After Marvel's Wolverine launched to mixed reviews, God of War Laufey is set to be a high-stakes test for Sony's reputation.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T19:31:05",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/god-of-war-laufey.jpg"
+    },
+    {
+      "title": "Say Goodbye to Fallout's Best Replacement Before it Leaves Game Pass Forever",
+      "url": "https://www.polygon.com/atomfall-game-pass-recommendation/",
+      "summary": "Atomfall is the best Fallout replacement in years — an extremely British amalgamation of BioShock and Bethesda. Read our rec for more.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T19:25:39",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/atomfall-9.jpg"
+    },
+    {
+      "title": "Bungie is overhauling Marathon from its original extraction shooter vision",
+      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
+      "summary": "Bungie says addressing player feedback requires the team to 'change both what we're building and how we deliver it,'",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-09-15T19:00:00",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt923240db627cfd13/6aa96fa901d5d0705e7d5000/Sentinel_Vignette_02_1920x1080.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Target Will Be Unusually Strict For Pokémon's 30th Anniversary TCG Set Release",
+      "url": "https://www.polygon.com/target-pokemon-30th-anniversary-tcg-drop-limits-etb-new-rules/",
+      "summary": "The popular retailer will enforce new rules for how customers buy Pokémon products, including measures for lines, security, and purchasing limits",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T18:39:36",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/2-psyduck.jpg"
+    },
+    {
+      "title": "New Free-to-Play Pokémon Rival Aniimo Launches Today on PC and Consoles",
+      "url": "https://80.lv/articles/new-free-to-play-pok-mon-rival-aniimo-launches-today-on-pc-and-consoles/",
+      "summary": "<p>Pawprint Studio’s free-to-play RPG combines open-world creature catching, real-time combat, transformations, and multiplayer, although its beta tests produced sharply divided impressions.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-15T18:35:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41620/images/6aa98fdca481a/cover_800x800.jpg"
+    },
+    {
+      "title": "Marvel’s Wolverine’s Cartoon Suits Are a Crime Against Humanity",
+      "url": "https://www.polygon.com/marvels-wolverine-cartoon-suits-crime-against-humanity/",
+      "summary": "The animated and cartoon-themed suits for Logan in Marvel's Wolverine are totally at odds with the theme of the game.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T18:20:52",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/marvels-wolvering-suits-crime-against-humanity-header.jpg"
+    },
+    {
+      "title": "Wardogs lead says the studio won't hire people who decry crunch on social media",
+      "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
+      "summary": "'If you care about the work you’re making and the result of what you make here, you’ll feel really valued. If you don’t, you will feel slave-driven.'",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-09-15T18:05:13",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte0a87bdad8aad40e/6aa959d626147b3c3f835353/ss_13fbc7cb084ec25c20ad031c7e888a9459cd8e77.1920x1080.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "'Apex Legends' Is Officially Crossing Over With Fall’s Most-Anticipated Action Movie",
+      "url": "https://www.polygon.com/street-fighter-6-apex-legends-crossover-release-date-skins/",
+      "summary": "Capcom's fighting game series Street Fighter crosses over with battle royale shooter Apex Legends in new event",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T18:01:02",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24416717/Apex_Legends_S16_Screenshots_Deathmatch_LegendAction.jpg"
+    },
+    {
+      "title": "What time does Black Ops 7 Season 6 start in your time zone?",
+      "url": "https://www.polygon.com/call-of-duty-black-ops-7-bo7-season-6-start-time-edt-pdt/",
+      "summary": "A guide explaining exactly what time Black Ops 7 Season 6 will start in your time zone, along with what to expect.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T17:35:09",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/black-ops-7-season-6-header.jpg"
+    },
+    {
+      "title": "'Make Some Noise' Officially Bringing Back a Dropout Fan-Favorite",
+      "url": "https://www.polygon.com/dropout-make-some-noise-season-5-trailer/",
+      "summary": "Dropout's improv comedy show Make Some Noise returns next month. Its season 5 trailer features Vic Michaelis, Brennan Lee Mulligan, and more.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T17:30:14",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/make-some-noise-s5-photo-credit_-kate-elliot.jpg"
+    },
+    {
+      "title": "Hyped 'Pokémon' 30th Anniversary TCG Release Reaches A Depressing New Low",
+      "url": "https://www.polygon.com/pokemon-30th-anniversary-dicks-sporting-goods-gamestop-upc-release/",
+      "summary": "Dick's Sporting Goods and GameStop are taking advantage of fans who want the Pokémon TCG's 30th anniversary set",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-15T17:28:41",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/sad-pikachu.jpg"
+    },
+    {
+      "title": "Unique Pixel-Art Game About Cursed Artifact You'll Struggle To Carry",
+      "url": "https://80.lv/articles/unique-pixel-art-game-about-cursed-artifact-you-ll-struggle-to-carry/",
+      "summary": "<p>O EMPIRE! WARD OFF THY ROT is for real <em>kino</em> enjoyers.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-15T16:41:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41617/images/6aa9753d76310/cover_800x800.jpg"
+    },
+    {
+      "title": "ボドゲ版「Baba Is You」のクラファンがスタート。盤面上の単語を動かしてルールを変えながら，「YOU」を「WIN」へと導く2人対戦パズルゲーム",
+      "url": "https://www.4gamer.net/games/029/G102974/20260916001/",
+      "summary": "BitewingGamesは9月15日，「BabaIsYou:TheBoardGame」のクラウドファンディングをKickstarterで開始した。単体の基本プランは49ドルから支援でき，日本への配送にも対応。ゲーム1本の場合，送料は29ドルとなる。",
       "source": "4Gamer",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-14T23:00:00",
-      "image_url": "https://www.4gamer.net/games/869/G086962/20260913010/SS/002.jpg",
-      "body_ja": "RDNA 4世代のエントリーGPU「Radeon RX 9050」の実力は？\nASRock AMD Radeon RX 9050 Challenger 8GB\nAMDのエントリー市場向けGPUである「Radeon RX 9050」（以下，RX 9050）は，Radeon RX 9000シリーズでは最も下位に位置付けられるものだ。\n| AMD Radeon RX 9050 Challenger 8GB メーカー：ASRock 税込実勢価格：5万5000円前後（2026年9月15日） | \n|---|\nメーカー：ASRock\n税込実勢価格：5万5000円前後（2026年9月15日）\n当然ながら，性能はある程度抑えられていると思われるが，価格が高騰しているグラフィックスカード市場において，手が届きやすい製品としてRX 9050は気になる存在だろう。\nRX 9050は，今どきのゲームをプレイできる十分な性能を備えているのだろうか。ASRock製のRX 9050搭載カードである「AMD Radeo"
+      "published": "2026-09-15T16:38:45",
+      "image_url": "https://www.4gamer.net/games/029/G102974/20260916001/SS/002.jpg",
+      "body_ja": "本作は，パズルゲーム「Baba Is You」の仕組みを2人対戦用のボードゲームへ落とし込んだ作品だ。盤面上の単語を動かしてルールを変えながら，「YOU」となったものを「WIN」となったものへ到達させることを目指す。ゲーム内容については，発表時の記事で紹介している。\nボドゲ版「Baba Is You」が海外で発表。クラファンはKickstarterで9月15日から実施予定。「Baba」と「Keke」を操作する2人対戦ゲームに\nBitewing Gamesは本日（2026年8月1日），パズルゲーム「Baba Is You」を原作とするボードゲーム「Baba Is You: The Board Game」を発表した。クラウドファンディングが9月15日に開始される予定で，プレローンチページが公開されている。\n単体の基本プランは49ドルで，ゲーム本体に加えて「Baba Is Promo: Adventure Pack」と「Baba Is Wood: Pixel Pack」が付属する。タイル類をア"
     },
     {
-      "title": "23年ぶりの新DLC「Warcraft III Reforged: Forsaken Kingdom」が発表＆即日配信。約30時間のボリュームでフォーセイクンの起源を描く",
-      "url": "https://www.4gamer.net/games/439/G043977/20260915004/",
-      "summary": "BlizzCon2026のステージで，「WarcraftIII:Reforged」の最新有料DLCキャンペーン「ForsakenKingdom」が発表された。2003年の「TheFrozenThrone」以来，実に23年ぶりとなる完全新規のソロキャンペーンということで，会場は大いに盛り上がっていた。",
+      "title": "Why does this prominent Washington state politician think video games can be 'soft power?'",
+      "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
+      "summary": "Washington secretary of state Steve Hobbs pitched developers on the notion of video games as 'soft power' during SLICE and PAX West 2026.",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-09-15T15:10:18",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4a2142f8c94d8b53/6aa95641fd70e67eb0fc1345/gamessoftpower.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "［インタビュー］6周年の「三國志 覇道」で，攻城戦の根底が変わる新シーズン「龍気連響」開幕。盾に強い新兵科“工兵”も現る",
+      "url": "https://www.4gamer.net/games/489/G048903/20260904038/",
+      "summary": "コーエーテクモゲームスのスマホゲーム「三國志覇道」で，新シーズン「龍気連響」が2026年9月17日に開始される。今回も攻城戦改修や新兵科第2弾「工兵」などのアップデートについて，ディレクターの白波瀬優氏に話を聞いてきた。",
       "source": "4Gamer",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-14T23:00:00",
-      "image_url": "https://www.4gamer.net/games/439/G043977/20260915004/SS/001.webp",
-      "body_ja": "「Forsaken Kingdom」は，「Warcraft III」から「World of Warcraft」へとつながる4年間の空白を埋める物語で，ボリュームは約30時間に及ぶという。\nストーリーは4つのミッションで構成されるプロローグ「The Last Days of Lordaeron（ローダロン最後の日々）」から幕を開け，ノースレンドから帰還したアーサス王子によってローダロン王国が崩壊する悲劇の瞬間を，近衛兵の視点から描いていく。新キャラクターである近衛兵ガレック（Garek Bandarion）らを操作し，滅びゆくアンドーハルやストラソームでの戦いを体験できるのだ。\n本編となるキャンペーンでは，シルヴァナス・ウィンドランナー率いるアンデッド勢力「フォーセイクン」の誕生と，廃墟となった王国の地下に「アンダーシティ」を築き上げるプロセスが描かれる。\nゲームシステムには「The Frozen Throne」のレクサー・キャンペーンを彷彿とさせるセミオープンワールド形式を採用。探索やア"
+      "published": "2026-09-15T15:00:00",
+      "image_url": "https://www.4gamer.net/games/489/G048903/20260904038/SS/002.jpg",
+      "body_ja": "前回シーズン「三勢猛進」（さんせいもうしん）では，3勢力に分かれて覇を競ったが，今期は攻城戦の特殊効果×作戦がキモとなる。\n各軍団は攻城戦時に特殊な効果を発動する「龍脈玉」を集めて，軍団戦を繰り広げる。龍脈玉は5つまで設定でき，その発動順に応じて「連響効果」が発生。双方の切り札のぶつけ合いが戦局を左右する。\n今回も新シーズンの概要をはじめ，新規LR武将「陸遜」「馬超」，攻城戦の新要素「外壁」や，盾兵に続く新兵科第2弾「工兵」のアップデートなどについて，ディレクターの白波瀬 優氏に話を聞いてきた。\n| 「三國志 覇道」ディレクターの白波瀬 優氏 | \n|---|\n［インタビュー］「三國志 覇道」魏呉蜀でぶつかる勢力戦シーズン「三勢猛進」。盾兵や兵科効果の導入で，環境にも大きな変化が\nコーエーテクモゲームスのスマホゲーム「三國志 覇道」で，新シーズン「三勢猛進」が2026年6月18日に開始される。今回は新兵科や兵科効果も導入されるアップデートについて，ディレクターの白波瀬 優氏に話を聞いてき"
     },
     {
-      "title": "9月17日から開催される「東京ゲームショウ2026」に合わせて，さまざまな番組が配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260914043/",
-      "summary": "2026年9月17日から21日までの5日間，千葉県の幕張メッセで開催される「東京ゲームショウ2026」。その公式チャンネルでは，さまざまな番組が配信予定だ。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+      "title": "Solo Developer on Recreating the Late-'90s Console Shooter Enemy AI for an FPS",
+      "url": "https://80.lv/articles/solo-developer-on-recreating-the-late-90s-console-shooter-enemy-ai-for-an-fps/",
+      "summary": "<p>Replicant D6 spoke about the retro FPS Agent 64: Spies Never Die, detailing what he wanted to preserve from the late-'90s shooter games, how he designed the enemies and how they work, and explaining why he prefers readability over intelligence in terms of combat.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-15T14:19:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41605/images/6aa899b852fe5/cover_800x800.jpg"
+    },
+    {
+      "title": "「PowerWash Simulator 2」，新たなダウンロードコンテンツ「Barbie Pack」を2026年内にリリース",
+      "url": "https://www.4gamer.net/games/891/G089129/20260915036/",
+      "summary": "FuturLabは2026年9月15日，「PowerWashSimulator2」の新たなDLC「BarbiePack」を2026年内にリリースすると発表した。価格は7.99ドル。アメリカの玩具メーカー「マテル」とコラボした本DLCでは，バービーのプレイセットをモチーフにした，5つのカラフルな新ジョブに挑める。",
       "source": "4Gamer",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-14T23:00:00",
-      "image_url": "https://www.4gamer.net/games/421/G042182/20260914043/SS/002.jpg",
-      "body_ja": "ありとあらゆる発表/情報がオンラインで発信されるようになった昨今。情報の多さに，いつ，どこで目当ての番組が配信されるのか分からなくなることも多い。ゲーム関連の公式配信を中心に，見逃せない番組をピックアップしてお届けする連載「今週の公式配信番組」では，この1週間で予定されている番組情報を紹介する。\n今週の公式配信番組 ピックアップ\n・「東京ゲームショウ2026」がいよいよ開幕！ さまざまな番組を配信予定\n・イベント「くたばれ！ パンプキンファーム･スローター」の情報を紹介する「Fate/Grand Order」の公式番組\n・「鳴潮」のVer3.7予告特別通信は，9月19日20：00から配信。2人に向けられた巨大な手は……\n「東京ゲームショウ2026」がいよいよ開幕！ さまざまな番組を配信予定\n2026年9月17日から21日までの5日間，千葉県の幕張メッセで開催される「東京ゲームショウ2026」。その公式チャンネルでは，さまざまな番組が配信予定だ。\nなお，公式チャンネルで公開される番組のなか"
+      "published": "2026-09-15T14:00:00",
+      "image_url": "https://www.4gamer.net/games/891/G089129/20260915036/SS/001.jpg",
+      "body_ja": "アメリカの玩具メーカー「マテル」とコラボレーションした本DLCには，バービー専用デザインのパワーウォッシャーとキャラクターが登場。「ドリームキャンパー」から「バービードリームハウス」まで，バービーのプレイセットをモチーフにした5つの新ジョブが収録される。\nDLCの配信に先駆けて，トレイラーが公開されたので掲載する。\nまた，東京ゲームショウ2026のNeon Noroshiブースに「PowerWash Simulator 2」が出展される。会場では，DLC「アドベンチャー・タイム」「スター・ウォーズ」を試遊できるほか，オリジナルステッカーが配布される。"
     },
     {
-      "title": "This Stylized 3D Fish Fountain Looks Like it Belongs in a Lively Old Town",
-      "url": "https://80.lv/articles/this-stylized-3d-fish-fountain-looks-like-it-belongs-in-a-lively-old-town/",
-      "summary": "<p>It looks so soothing.</p>",
+      "title": "Redefining Detective Games: Inkblood, Moody Deduction-Led Occult Puzzle",
+      "url": "https://80.lv/articles/redefining-detective-games-inkblood-moody-deduction-led-occult-puzzle/",
+      "summary": "<p>HeyBird! CEO Petr Škorňok explains how the team handled the mind-bending complexity of a puzzle game where you decide which pieces of evidence matter and no answer is ever certain. He talks about the beauty and the challenge of relying on visual storytelling instead of endless blocks of text in a",
       "source": "80 Level",
       "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-14T22:49:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41604/images/6aa879f688ca3/cover_800x800.jpg"
+      "published": "2026-09-15T13:46:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41595/images/6aa94c3c87a00/cover_800x800.jpg"
     },
     {
-      "title": "The Trust Gap: Why Asian Players Abandon Your Checkout",
-      "url": "https://80.lv/articles/the-trust-gap-why-asian-players-abandon-your-checkout/",
-      "summary": "<p>Xsolla research across Asia reveals a consistent pattern: players do not abandon carts because of price; they leave because the checkout feels foreign. Here is what it takes to earn trust at the moment of purchase.</p>\n<p></p>",
+      "title": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio",
+      "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
+      "summary": "'We want to make the best games we can together.'",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-09-15T13:19:00",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt4a21266eac62cd59/6aa9489f8aa904c5803a54d1/Everwind_Header.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Play as a Canine Paranormal Special Agent in This Roguelite Reminiscent of FNAF",
+      "url": "https://80.lv/articles/play-as-a-canine-paranormal-special-agent-in-this-survival-horror-roguelite-reminiscent-of-fnaf/",
+      "summary": "<p>Your name is now Doug Barker, and you need to survive a train ride across Antarctica with numerous monsters on board.</p>",
       "source": "80 Level",
       "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-14T21:41:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41215/images/6aa49cd7e5ad1/cover_800x800.jpg"
+      "published": "2026-09-15T13:17:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41611/images/6aa9456442cb4/cover_800x800.jpg"
     },
     {
-      "title": "Magic: The Gathering Officially Reveals Jace's New Planeswalker Replacement",
-      "url": "https://www.polygon.com/mtg-magic-jace-planeswalker-spark-replacement-tam-new-hero/",
-      "summary": "MTG’s Reality Fracture reveals Jace's Planeswalker replacement, and it seems like they'll be a major character moving forward.",
-      "source": "Polygon",
-      "icon": "🕹",
+      "title": "See How Expressive Deadlock's Mina's Face Can Be With This Blender Rig",
+      "url": "https://80.lv/articles/see-how-expressive-deadlock-s-mina-s-face-can-be-with-this-blender-rig/",
+      "summary": "<p class=\"x1yc453h x1hpqcdg x1ekroe6 xutxfr x1fie51u xgyxj25 xkyrhof x1elgs31 x1fv8qjw x1tbvfm1 xb72syl x1iew0xx x1c2l018 x14l7nz5 xuw7688 x1pjt2rx x160d6zm xrxpjvj\" dir=\"ltr\">Enjoy some fantastic character acting in zombielord999's animations.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-14T21:01:19",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/overwrite-multiverse.jpg"
+      "published": "2026-09-15T12:57:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41616/images/6aa940a2bb232/cover_800x800.jpg"
     },
     {
-      "title": "「キャッ党忍伝てやんでえ 〜復活のニャンキー！ やっぱり明日は日本晴れ！」，あかほりさとる氏と声優陣からのコメントが公開に",
-      "url": "https://www.4gamer.net/games/883/G088337/20260914056/",
-      "summary": "タツノコプロは本日（2026年9月15日），PC向け新作タイトル「キャッ党忍伝てやんでえ〜復活のニャンキー！やっぱり明日は日本晴れ！」の続報として，原作アニメに携わったあかほりさとる氏と，山口勝平さんや山下誠一郎さんら声優陣からのコメントを公開した。",
+      "title": "昼にキャンプを強化し，夜に訪れる襲撃から焚き火の炎を守り抜け。「Feed the Fire」，アナウンストレイラーを公開",
+      "url": "https://www.4gamer.net/games/043/G104313/20260915053/",
+      "summary": "MagellanTideGamesは2026年9月14日，開発中の新作タイトル「FeedtheFire」を発表し，アナウンストレイラーを公開した。本作は，行方不明になった妹を探すため，最大4人のプレイヤーが死の危険が潜む森へと足を踏み入れる，協力型のサバイバルホラーゲームだ。",
       "source": "4Gamer",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-14T21:00:00",
-      "image_url": "https://www.4gamer.net/games/883/G088337/20260914056/SS/005.jpg",
-      "body_ja": "あかほり氏は，本作の原作となったTVアニメ「キャッ党忍伝てやんでえ」で，シリーズ構成と脚本を手掛けた人物だ。\n一方，声優陣からは山口勝平さん（ヤッ太郎役），山下誠一郎さん（スカシー役），折笠 愛さん（プルルン役），こおろぎさとみさん（おタマ役），山寺宏一さん（カラ丸役），堀内賢雄さん（ナレーション）のコメントが寄せられている。\nまた，9月10日に掲載した記事でお伝えしたとおり，本作は9月17日に開幕する東京ゲームショウ2026の「Red Dunes Games」ブース（ホール7 - N03）に試遊出展される。ノベルティの内容は当日会場で明らかにされる予定だ。\n「キャッ党忍伝てやんでえ 〜復活のニャンキー！ やっぱり明日は日本晴れ！」，東京ゲームショウ2026でプレイアブルデモを公開\nタツノコプロは2026年9月10日，新作ゲーム「キャッ党忍伝てやんでえ 〜復活のニャンキー！ やっぱり明日は日本晴れ！」のプレイアブルデモを，9月17日に開幕する東京ゲームショウ2026に出展すると発表した。"
+      "published": "2026-09-15T12:22:26",
+      "image_url": "https://www.4gamer.net/games/043/G104313/20260915053/SS/001.jpg",
+      "body_ja": "本作は，行方不明になった妹を探すため，最大4人のプレイヤーが死の危険が潜む森へと足を踏み入れる，協力型のサバイバルホラーゲームだ。\nゲームの中心となるのは昼夜のサイクルだ。昼間は比較的安全に森を探索できるので，生き残るための食料を確保したり，資源を集めて防衛設備を建設したりしよう。一方，夜になると森の中から正体不明の存在が次々と襲いかかり，キャンプの防壁を破ろうとする。限られた武器を手に，長い夜を乗り切ろう。\nなお，森の恐怖を退けるためには，焚き火の炎を維持しなければならない。木や石炭など，燃えるものは何でもくべ続けよう。もし炎が日の出前に消えてしまったら，朝が訪れることは決してないという。"
     },
     {
-      "title": "A Forgotten 2015 Shooter Just Got an Unexpected Revival",
-      "url": "https://www.polygon.com/evolve-revival-modders-multiplayer-launcher-2026/",
-      "summary": "Modders are reviving Evolve, Turtle Rock’s 2015 asymmetrical shooter, with working multiplayer and a new community launcher.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-14T20:56:47",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/2672192/2K_EVOLVE_WRAITH_ABDUCTION_2.0.jpg"
+      "title": "インディーゲームの祭典「TOKYO INDIE GAMES SUMMIT 2027」，2027年3月27日，28日に開催決定。出展クリエイターの募集もスタート",
+      "url": "https://www.4gamer.net/games/991/G999110/20260915054/",
+      "summary": "Phoenixxは2026年9月15日，インディーゲームの祭典「TOKYOINDIEGAMESSUMMIT2027」を2027年3月27日，28日に「未来をつくる杉並サイエンスラボIMAGINUS（イマジナス）」で開催すると発表した。これに伴い，出展クリエイターの募集もスタートした。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-15T12:11:46",
+      "image_url": "https://www.4gamer.net/games/991/G999110/20260915054/SS/001.jpg",
+      "body_ja": "タイトル/ワード名\nタイトル/ワード名\nメディアパートナー\nニュース\n編集部：Chihiro\nキーワード\n9月17日から開催される「東京ゲームショウ2026」に合わせて，さまざまな番組が配信。忘れずに見たい「今週の公式配信番組」ピックアップ\nAccess Accepted第872回：AIが加速させるゲーム供給過多，冷めていくゲーマーの心と財布\n【今週のモチベ】「Marvel's Wolverine」や「空の軌跡 the 2nd」が発売される 2026年9月14日〜9月20日\nお題に沿った絵を描きまくれ！「Draw it+」“絵心”とは違ったところに，勝利へのカギがある（今日から始めろApple Arcade #83）\nゲームに高い没入感をもたらし，普段使いにも便利なウルトラワイドディスプレイの入門機「AMZFAST AMZG34C8 Pro」【レビュー】\n［レビュー］「Finding Polka」の，くだらなさすら愛おしくなる寄り道。ハイタッチがいつぞやの「やったね！」を思い出させる\n2"
     },
     {
-      "title": "'Spider-Man: Brand New Day' Has Been Officially Dethroned at the Box Office",
-      "url": "https://www.polygon.com/spider-man-brand-new-day-box-office-domestic-record-practical-magic-2/",
-      "summary": "Spider-Man: Brand New Day has been bumped from #1 at the box office by Nicole Kidman and Sandra Bullock's new legacy sequel.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-14T20:31:01",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/spider-man-brand-new-day-tom-holland.jpg"
+      "title": "［プレイレポ］これまでのシリーズとはひと味違う「トータルウォー：ウォーハンマー40,000」。個性がぶつかり合う戦いを見よ！",
+      "url": "https://www.4gamer.net/games/968/G096877/20260913005/",
+      "summary": "2027年内に発売される「トータルウォー：ウォーハンマー40,000」は，SLGファンにとっての“お祭り”だ。セガ本社で先行プレイの機会を得られたので，そのレポートをお届けする。コラボした両作品の基本情報もあわせて紹介しているので，どちらも知らないという人もぜひ読んでみてほしい。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-15T12:00:00",
+      "image_url": "https://www.4gamer.net/games/968/G096877/20260913005/SS/001.jpg",
+      "body_ja": "ターン制SLGとリアルタイム戦闘を融合した「トータルウォー」と，重厚極まる世界観とアートを武器とするミニチュアゲーム「ウォーハンマー40,000」。どちらもジャンル内ではかなりコアな作品であり，そんな両者が組み合わさったのが本作だ。\n今回はセガ本社で先行プレイの機会を得られたので，そのレポートをお届けしていく。\nただ，「そもそも両方知らないよ」という人もいると思うので，まずは軽く基本情報をまとめてお伝えしよう。「そのあたりは知っているからさっさと先に進みたい」という人は，2つめの見出しから読み進めてほしい。\n「トータルウォー」ってどんなゲーム？ 2つの“ウォーハンマー”も整理しよう\nまずは「トータルウォー」（以下，TW）シリーズから紹介していこう。TWは先述のとおり，ターン制SLGとリアルタイム戦闘を融合させた作品だ。プレイヤーは一勢力を率い，内政や外交，軍備を進めながら，キャンペーン上の目的達成を目指していく。\n基本的にはターン制で進行するが，軍同士がぶつかると画面が戦場へ移り，大部隊"
     },
     {
-      "title": "Magic’s 10 Best Alchemy Cards, Ranked Worst to Best",
-      "url": "https://www.polygon.com/magic-the-gatherings-10-best-alchemy-cards-ever-ranked/",
-      "summary": "From Power Nine shenanigans to some of Arena’s most broken digital designs, these are Alchemy’s 10 most memorable cards.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-14T20:30:15",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/best-alchemy-cards-in-mtg-arena.jpg"
+      "title": "「チェンクロ」，リュドミラが新登場する「湯浴みの堕天使」登場フェスを開催",
+      "url": "https://www.4gamer.net/games/223/G022384/20260915052/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-15T11:37:43",
+      "image_url": "https://www.4gamer.net/games/223/G022384/20260915052/SS/002.jpg",
+      "body_ja": "| チェインクロニクル チェインクロニクル |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/09/15 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n「リュドミラ（CV：井口裕香）」が新登場する\n“「湯浴みの堕天使」登場フェス”開催！\n大好評配信中のスマートフォン向けマルチ・チェインシナリオRPG『チェインクロニクル第５部 ―未来への導標（しるべ）―』では、「湯浴みの堕天使 リュドミラ（CV：井口裕香）」が新登場するフェスを2026年9月15日（火）より開催します。\n特別衣装の「リュドミラ」が登場！ “「湯浴みの堕天使」登場フェス”\n開催期間：2026年9月15日（火）11:00〜9月25日（金）10:59\n特別衣装の「リュドミラ」が登場する“「湯浴みの堕天使」登場フェス”を開催！\n「湯浴みの堕天使 リュドミラ」は、「超共鳴必殺」や第５部以降に登場する一部のキャラクターが持つ「リーダーアビリティ」「リーダーシンパシー」に加えて、戦場の敵を一定時間行"
     },
     {
-      "title": "Interview: How Fenris is Building EVE Frontier as a Massively Moddable Universe",
-      "url": "https://80.lv/articles/interview-how-fenris-is-building-eve-frontier-as-a-massively-moddable-universe/",
-      "summary": "<p>Fenris Creations explains how lessons from EVE Online informed EVE Frontier’s digital physics, moddable systems, production pipeline, and unpredictable player-driven universe.</p>",
+      "title": "夢の中へダイブして時間の流れを操るADV『INTERSCAPE』など 韓国のコンテンツ支援団体KOCCAによるTGS2026出展タイトル紹介（前編）【PR】",
+      "url": "https://jp.ign.com/tgs-2026/84268/advinterscape-koccatgs2026pr",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/kocca_9ekx.640.png\" vspace=\"5\" width=\"120\" />他人の夢に潜る能力を持つ「エージェント」となるADV『INTERSCAPE』に要注目\n<p><a href=\"https://www.kocca.kr/jp/\" rel=\"noopener\" target=\"_blank\">韓国コンテンツ振興院（KOCCA）</a>という団体を御存じだろうか。同団体はゲームや放送、音楽、アニメ、ウェ",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-15T11:37:28",
+      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/kocca_9ekx.png"
+    },
+    {
+      "title": "「勝利の女神:NIKKE」in 京都 2026 開催記念，ニデック京都タワーがNIKKE特別カラーにライトアップ。点灯式開催レポートを公開",
+      "url": "https://www.4gamer.net/games/456/G045622/20260915051/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-15T11:31:22",
+      "image_url": "https://www.4gamer.net/games/456/G045622/20260915051/SS/001.jpg",
+      "body_ja": "| 勝利の女神：NIKKE 勝利の女神：NIKKE 勝利の女神：NIKKE |  |  |  | \n| 配信元 | Level Infinite | 配信日 | 2026/09/15 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n高品質で魅力的なインタラクティブエンターテインメントを提供するグローバルゲームブランドLevel Infiniteは、ゲーム開発会社SHIFT UPと手を組んで制作した、戦場に響く銃声と絆〜地上奪還ガンガールRPG〜『勝利の女神:NIKKE(以下、NIKKE)』において、昨年の第1弾に引き続いて京都市後援のコラボレーション企画「NIKKE in 京都」第2弾の開催を記念し、2026年9月14日(月)に「ニデック京都タワー点灯式」を京都駅ビル 烏丸小路広場にて開催いたしました。\n【開催概要】\n■名称：『勝利の女神:NIKKE』 in 京都 2026 開催記念\n記者発表会・ニデック京都タワー点灯式\n■日時：2026年9月14日(月) 18:00〜18"
+    },
+    {
+      "title": "メルカリ，「ポケモンカードゲーム 30th CELEBRATION」関連商品の出品を9月16日から禁止。注意喚起および出品監視，削除対応を実施",
+      "url": "https://www.4gamer.net/games/256/G025620/20260915047/",
+      "summary": "メルカリは本日（2026年9月15日），「マーケットプレイスの基本原則」および2025年に定めた新たな対応方針に基づき，ポケモンが販売するポケモンカードゲーム「30thCELEBRATION」関連商品について，9月16日より安心・安全な取引環境が確保できないと考えられる期間，出品を禁止すると発表した。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-15T11:30:47",
+      "image_url": "https://www.4gamer.net/games/256/G025620/20260915047/SS/001.png",
+      "body_ja": "対象となるのは未開封の拡張パック「30th CELEBRATION」および「30th CELEBRATION カードセット」（全9種。開封・未開封を問わず出品禁止）で，セット販売などの出品も禁止となる。なお，拡張パックを開封したあとのシングルカードの出品は可能だ\nこのたびの出品禁止は，「30th CELEBRATION」関連商品において，販売開始直後の取引増加によるトラブルや，取引するユーザーへの誹謗中傷が発生する可能性があるとメルカリが判断したため実施される。ユーザーの安心・安全な取引環境を維持することを目的に，一定期間，同商品を出品禁止とし，期間中に出品された商品は削除などの対応を行う。\nまた，当該期間中はユーザーへの注意喚起および出品監視も行う。繰り返し不適切な出品を行うアカウントに対しては，利用制限を含む厳格な対処を行うという。\nポケモンとメルカリは2023年，メルカリのマーケットプレイス上でポケモンの商品がより安心・安全に取引できる環境の構築を目指し，両社共同でさまざまな取り組"
+    },
+    {
+      "title": "Hellsing Ultimate-Inspired Character Animation for Pwnisher's Community Challenge",
+      "url": "https://80.lv/articles/hellsing-ultimate-inspired-character-animation-for-pwnisher-s-community-challenge/",
+      "summary": "<p>Trần Quốc Khánh shared his entry for the Gauntlet of Gods challenge. </p>",
       "source": "80 Level",
       "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-14T20:23:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41603/images/6aa857c967a3b/cover_800x800.jpg"
+      "published": "2026-09-15T11:26:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41609/images/6aa92b77f2b93/cover_800x800.jpg"
     },
     {
-      "title": "Wardogs Sold Over 1 Million Copies in Its First 24 Hours",
-      "url": "https://80.lv/articles/wardogs-sold-over-1-million-copies-in-its-first-24-hours/",
-      "summary": "<p>Have you played this game?</p>",
+      "title": "XPRIZE Offers $3.5 Million to Filmmakers Imagining a Better Future",
+      "url": "https://80.lv/articles/xprize-offers-usd3-5-million-to-filmmakers-imagining-a-better-future/",
+      "summary": "<p>The Future Vision XPRIZE is funding optimistic science-fiction concepts, including Zero One Creative’s adaptation of a real mission targeting Alpha Centauri.</p>",
       "source": "80 Level",
       "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-14T20:20:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41601/images/6aa8570a0f420/cover_800x800.jpg"
+      "published": "2026-09-15T11:20:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41623/images/6aa9a81673c23/cover_800x800.jpg"
     },
     {
-      "title": "Nintendo Opens the Zelda: Ocarina of Time Pre-orders Fans Were Waiting For",
-      "url": "https://www.polygon.com/switch-2-zelda-ocarina-of-time-instrument-preorders-price-release-date/",
-      "summary": "The Switch 2 accessory was conspicuously missing from Nintendo's official Zelda gameplay reveal, but now it's back with a date, price, and more",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-14T19:59:35",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ocarina.JPG"
+      "title": "『FF7リベレーション』開発者インタビューや『STRANGER THAN HEAVEN』感想トークなど！IGN JAPAN TGS2026生放送の詳細を公開！",
+      "url": "https://jp.ign.com/tgs-2026/84266/ff7stranger-than-heavenign-japan-tgs2026",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/tgs-day3-1_3ssy.640.png\" vspace=\"5\" width=\"120\" />注目作が盛りだくさん！\n<p>東京ゲームショウ2026の開催が9月17日～20日に迫っているが、今年もIGN JAPANの配信「ずっと一緒に生中継@TGS2026」を3日にわたって現地からお届けする予定だ。『ファイナルファンタジーVII リベレーション』の開発インタビューや『STRANGER THAN HEAVEN』をプレ",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-15T09:00:34",
+      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/tgs-day3-1_3ssy.png"
     },
     {
-      "title": "Blender’s OVERGROWN Teaser Is a Proof of Concept for Open Filmmaking",
-      "url": "https://80.lv/articles/blender-s-overgrown-teaser-is-a-proof-of-concept-for-open-filmmaking/",
-      "summary": "<p>Blender Studio has released the first OVERGROWN teaser, revealing its painterly post-human world and demonstrating the open-source tools and workflows it hopes to develop into a feature-film playbook.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-14T19:27:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41602/images/6aa84a098a50a/cover_800x800.jpg"
+      "title": "Steam Frameレビュー",
+      "url": "https://jp.ign.com/steam-frame/84264/steam-frame",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/review/s/steam-fram/steam-frame-review_4qqk.640.jpg\" vspace=\"5\" width=\"120\" />オールインワン型VRヘッドセットの真打ち登場。\n<p>Valveが「Steam Frame」を<a href=\"https://jp.ign.com/steam-machine/83576/steam-machine\">「Steam Machine」</a>や<a href=\"http://www.ign",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-15T05:47:13",
+      "image_url": "https://sm.ign.com/ign_jp/review/s/steam-fram/steam-frame-review_4qqk.jpg"
     },
     {
-      "title": "World of Warcraft Forever Will be the Easiest Way into WoW in 20 Years",
-      "url": "https://www.polygon.com/world-of-warcraft-forever-wow-approachable-casual-new-players/",
-      "summary": "Blizzard's 'Classic Plus' concept could be more approachable for new, returning, and casual players than modern WoW",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-14T18:30:14",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/wow_forever_announce_key_art_-_alliance.jpg"
+      "title": "Steam Frame – Hands-On Photos",
+      "url": "https://jp.ign.com/steam-frame/84263/steam-frame-hands-on-photos",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/gallery/s/steam-fram/steam-frame-hands-on-photos_5g11.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-15T04:42:46",
+      "image_url": "https://sm.ign.com/ign_jp/gallery/s/steam-fram/steam-frame-hands-on-photos_5g11.jpg"
+    },
+    {
+      "title": "Steam Frame：Valve開発者長文インタビュー",
+      "url": "https://jp.ign.com/steam-frame/84262/steam-framevalve",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/feature/s/steam-fram/steam-frame-the-valve-interview_vshh.640.jpg\" vspace=\"5\" width=\"120\" />単なるVRにとどまらない、開かれたプラットフォームの可能性\n<p>ついに<a href=\"http://www.ign.com/articles/steam-frame-review\" rel=\"noopener\" target=\"_blank\">Steam Frame</a>",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-15T04:42:46",
+      "image_url": "https://sm.ign.com/ign_jp/feature/s/steam-fram/steam-frame-the-valve-interview_vshh.jpg"
     },
     {
       "title": "Valve's Steam Frame pricing starts at $1,059",
@@ -206,64 +421,14 @@
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltef401f4ad7c19c3a/6aa836dc490d64fbcb86d21b/SteamFrameFeatured.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Valve's VR Headset Costs $1,000+, and Reservations Are Open Now",
-      "url": "https://www.polygon.com/steam-machine-valve-vr-headset-price-availability-how-to-preorder/",
-      "summary": "Valve has revealed the price of its VR headset, the Steam Frame, and it'll cost you a pretty penny. You can sign up for the waitlist now.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-14T17:50:02",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/valve-steam-frame-impressions-roundup-2.jpg"
-    },
-    {
-      "title": "80 Level Job Digest: This Week's Featured Creative Roles",
-      "url": "https://80.lv/articles/80-level-job-digest-this-week-s-featured-creative-roles/",
-      "summary": "<p>Check out this week's 80 Level Job Digest for top openings at Playground Games, Insomniac Games, Mob Entertainment, Respawn, and Naughty Dog.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-14T16:54:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41600/images/6aa826ad64c73/cover_800x800.jpg"
-    },
-    {
-      "title": "Unexpected Old Spice Deodorant Reference For Gameplay Animation",
-      "url": "https://80.lv/articles/unexpected-old-spice-deodorant-reference-for-gameplay-animation/",
-      "summary": "<p>More insights into the making of Psych Rift.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-14T16:29:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41599/images/6aa821022a856/cover_800x800.jpg"
-    },
-    {
-      "title": "VRChat Tool That Removes Headset Collision Limits",
-      "url": "https://80.lv/articles/vrchat-tool-that-removes-headset-collision-limits/",
-      "summary": "<p>Ever tried touching your face in VR, only to have your controller hit your headset?</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-14T15:34:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41598/images/6aa8141b751e5/cover_800x800.jpg"
-    },
-    {
-      "title": "Live2D Rigging Has Reached Peak Jello Thighs",
-      "url": "https://80.lv/articles/live2d-rigging-has-reached-peak-jello-thighs/",
-      "summary": "<p>You're probably going to like kitto_jpg's WIP.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-14T14:34:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41597/images/6aa805df2424c/cover_800x800.jpg"
-    },
-    {
-      "title": "Turning a 2D Illustration into a Realistic Two-Character 3D Piece",
-      "url": "https://80.lv/articles/turning-a-2d-illustration-into-a-realistic-two-character-3d-piece/",
-      "summary": "<p>Anna Smirnova spoke about the creation process behind the No Mercy project, explaining how she used base meshes for both the body and the head, and detailing how she built detail directly into the textures rather than relying on procedural shaders.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-14T13:21:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41584/images/6aa493ef34fdb/cover_800x800.jpg"
+      "title": "Steam Frame Review",
+      "url": "https://jp.ign.com/steam-frame/84265/steam-frame-review",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/video/s/steam-fram/steam-frame-review_y1e6.640.jpg\" vspace=\"5\" width=\"120\" />The Steam Machine is probably one of the first VR headsets that can do everything right out of the box, from standalone gaming to streaming 2D games from ",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-14T17:00:00",
+      "image_url": "https://sm.ign.com/ign_jp/video/s/steam-fram/steam-frame-review_y1e6.jpg"
     },
     {
       "title": "Moss developer Polyarc has shut down",
@@ -274,61 +439,6 @@
       "lang": "en",
       "published": "2026-09-14T13:14:51",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf9a90a0c04c4665a/6aa7f3ab84b4eae77490859f/Moss_Header.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "魔術師として崩壊した世界を旅する見下ろし視点のメトロイドヴァニア「Magical Blush」，配信開始",
-      "url": "https://www.4gamer.net/games/004/G100422/20260914057/",
-      "summary": "DANGENEntertainmentは2026年9月10日，新作タイトル「MagicalBlush」のPC版をリリースした。本作は，ハイスピード戦闘とメトロイドヴァニア風のアクションを融合させた，見下ろし視点型のアクションアドベンチャーだ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-14T12:25:26",
-      "image_url": "https://www.4gamer.net/games/004/G100422/20260914057/SS/001.jpg",
-      "body_ja": "本作は，ハイスピード戦闘とメトロイドヴァニア風のアクションを融合させた，見下ろし視点型のアクションアドベンチャーだ。\nプレイヤーはエレメンタルロードの守護者である魔術師「アーニン」として，混沌と破壊をもたらす原始的な魔術により崩壊した世界を旅することになる。旅のなかで生存者を救い出しながら，エレメンタルロードを開放したのは誰なのか，その目的とは何なのかといった謎を解き明かしていく。\n火・水・土・風の4種類の精霊の力を駆使した戦闘を特徴としており，それぞれの属性には弱点や耐性などが用意されている。また，攻撃を連続で命中させることでコンボメーターが溜まり，呪文の威力がレベルごとに高まっていく。最大レベルに達すると，爆発的な効果を得られるという。\nゲームを進めるほど，新たなステージや隠された道が開放され，新エリアに進めるほか，新たな発見がある過去の場所にも戻れるようになっているそうだ。このほかにも，ファストトラベルを使えばいつでも行きたい場所へ移動できる。\nデモ版も配信されているので，購入を検"
-    },
-    {
-      "title": "「崩壊：スターレイル」，Ver.4.6「月立つ前に獣と踊れ」予告番組を9月20日20：30から配信。新たなキャラクター「パール」の情報などを紹介",
-      "url": "https://www.4gamer.net/games/599/G059954/20260914055/",
-      "summary": "HoYoverseは本日（2026年9月14日），スペースファンタジーRPG「崩壊：スターレイル」のVer.4.6「月立つ前に獣と踊れ」予告番組を9月20日20：30から配信すると発表した。本番組では，新たにプレイアブルキャラクターとして登場するパール（CV：安野希世乃）の情報やVer.4.6の最新情報，ボーナス情報を紹介する。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-14T11:57:40",
-      "image_url": "https://www.4gamer.net/games/599/G059954/20260914055/SS/001.jpg",
-      "body_ja": "本番組では，新たにプレイアブルキャラクターとして登場するパール（CV：安野希世乃）の情報やVer.4.6の最新情報，ボーナス情報を紹介する。\nサムネイルでは，パールのほかに，不死途（CV：子安武人）と火花（CV：上田麗奈）の姿が確認できる。\nちなみに，番組の配信は9月20日で，本作では珍しい日曜日の配信となっている。\n『崩壊：スターレイル』Ver.4.6「月立つ前に獣と踊れ」予告番組\n?2026/9/20 20:30（JST）\n▼YouTube配信ページhttps://t.co/WRylcfG28o\n『崩壊：スターレイル』Ver.4.6「月立つ前に獣と踊れ」予告番組は2026/9/20 20:30（JST）に配信予定です。…"
-    },
-    {
-      "title": "闇のスロットマシンを回し，死のカジノを駆け抜ける！ローグライトデッキビルダー「DEAD SPIN」，体験版配信中",
-      "url": "https://www.4gamer.net/games/042/G104278/20260914054/",
-      "summary": "インディー開発スタジオStrongMonkeyGamesは，現在開発中の新作タイトル「DEADSPIN」の体験版をSteamで配信している。本作は，死のカジノを舞台に，スロットマシンを回しながらデッキを構築して生き残りを目指すローグライトデッキビルダーだ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-14T11:42:24",
-      "image_url": "https://www.4gamer.net/games/042/G104278/20260914054/SS/002.jpg",
-      "body_ja": "本作は，死のカジノを舞台にしたダークなローグライトデッキビルダーだ。プレイヤーはデッキを構築しつつ，闇のスロットマシンを回して生存を目指すことになる。\n基本的なゲームプレイでは，スロットマシンを回してスコアを積み上げていく。シンボルは7つのタイプに分かれており，プレイヤーはどのシンボルを優先するか考えながら，強力なコンボを狙う。\n呪われたチップでビルドや戦略を強化できるほか，方針に応じたコインを選び，資金面からビルドを支える要素もある。運に恵まれない状況では，トリンケットを使ってルールそのものを覆すことも可能だ。\nシンボルやチップ，コイン，トリンケットを組み合わせ，強力なシナジーを生み出してハイスコアを目指す。本作には130種類以上のシンボルや，150種類以上のチップ，20種類以上のトリンケットなど，豊富な構築要素が用意されている。\nシングルプレイキャンペーンでは，8体のユニークな敵が登場する。それぞれ独自のデッキや戦術，トリックを持つため，プレイヤーは相手の出方を見極めて攻略する必要が"
-    },
-    {
-      "title": "「崩壊：スターレイル」の「火花」とコラボした完全ワイヤレスイヤホン「MOONDROP Sparxie」の予約受付が開始。価格は1万6200円",
-      "url": "https://www.4gamer.net/games/599/G059954/20260914050/",
-      "summary": "MOONDROPは本日（2026年9月14日），「崩壊：スターレイル」に登場するキャラクター「火花」とのコラボレーションモデルとなる完全ワイヤレスイヤホン「MOONDROPSparxie」の予約販売を開始した。価格は1万6200円（税込）だ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-14T11:41:07",
-      "image_url": "https://www.4gamer.net/games/599/G059954/20260914050/SS/001.jpg",
-      "body_ja": "?崩壊：スターレイル 火花 × 水月雨 | ついに開始！?\n火花のファン集合！@MOONDROP_JP 火花コラボイヤホン、日本で予約受付中！購入者には、限定火花アクリルスタンド + キーホルダーをプレゼント！\n一度聴いたら虜になること間違いなし！いままさに、火花がファンを魅了する！？… pic.twitter.com/vxr1wDozG9\n赤と黒のカラーリングに「火花」のキャラクターアイコンやウサキノコ／キノコウサのモチーフがあしらわれている。充電ケース用のレザー製ポーチが用意されるほか，特典としてちびキャラ「火花」のアクリルスタンドと，限定アクリルチャーム＋ストラップが付属する。\nまた，キャラクター専用の音声ガイダンスも収録されており，電源のオン／オフ時や，ゲームモードとミュージックモードの切り替え時などに火花の声を聞くことができる。\n製品そのものはリアルタイム適応型ノイズキャンセリングを搭載したミニサイズのHi-Fi完全ワイヤレスイヤホンで，Bluetooth 6.0やLE Aud"
-    },
-    {
-      "title": "「SEGA STORE OSAKA」，限定商品などの最新情報を公開。大阪グルメを楽しむソニックたちを描き下ろしたショッピングバッグなどを販売",
-      "url": "https://www.4gamer.net/games/991/G999106/20260914045/",
-      "summary": "セガは本日（2026年9月14日），10月2日に心斎橋PARCO6階にオープンする関西エリア初となる旗艦店「SEGASTOREOSAKA」に関する最新情報を公開した。このたび，限定商品や注目商品，オープン記念ノベルティ，店舗の見どころなどを紹介している。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-14T11:37:15",
-      "image_url": "https://www.4gamer.net/games/991/G999106/20260914045/SS/002.jpg",
-      "body_ja": "このたび，限定商品や注目商品，オープン記念ノベルティ，店舗の見どころなどを紹介している。\n注目商品としては，コラージュアーティストの河村康輔氏がデザインしたぬいぐるみ「ソニック・ザ・ヘッジホッグ × 河村康輔SEGA STORE限定トイ」のモノクロバージョンが登場。\n通天閣を望む街並みで，大阪グルメを楽しむソニックたちを描き下ろしたSEGA STORE OSAKA限定の「ショッピングバッグ」も販売される。\nこのほか，「龍が如く」「真・女神転生」「ペルソナ」シリーズなどの限定商品も登場する予定だ。\nオープン記念ノベルティは，キラキラステッカー（全3種）とオリジナルショッパー（全3種）だ。ステッカーは3300円（税込）以上の購入で1種（「龍が如く」「アトラス」は2枚セット），ショッパーは5500円（税込）以上の購入で1つもらえる。\nまた，10月2日，3日にはソニックによるグリーティングが店頭で行われる。\n詳細はリリース文で確認しよう。"
     },
     {
       "title": "Worker-run studio KO_OP confirms layoffs",
@@ -381,36 +491,6 @@
       "image_url": "https://sm.ign.com/ign_jp/preview/t/the-magic-/the-magic-of-disney-animation-proves-walt-disney-worlds-miss_nc7r.jpg"
     },
     {
-      "title": "『ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ』プレビュー：収集可能なモンスターは500種、しかも一癖ある奴ばかり",
-      "url": "https://jp.ign.com/dragon-quest-monsters-the-withered-world/84255/dragon-quest-monsters-the-withered-world-has-500-beasts-to-collect-and-theyre-all-super-weird-ign-pr",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/preview/d/dragon-que/dragon-quest-monsters-the-withered-world-has-500-beasts-to-c_qygw.640.jpg\" vspace=\"5\" width=\"120\" />スクウェア・エニックスが誇るモンスター育成RPGシリーズは、今なお力強い進化を続けている。\n<p><i><strong>プレビューの主なポイント：</strong></i></p> <ul> <li>長年続く『ドラゴンク",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-14T03:52:53",
-      "image_url": "https://sm.ign.com/ign_jp/preview/d/dragon-que/dragon-quest-monsters-the-withered-world-has-500-beasts-to-c_qygw.jpg"
-    },
-    {
-      "title": "Dragon Quest Monsters: The Withered World Screenshots",
-      "url": "https://jp.ign.com/dragon-quest-monsters-the-withered-world/84254/dragon-quest-monsters-the-withered-world-screenshots",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/gallery/d/dragon-que/dragon-quest-monsters-the-withered-world-screenshots_k6m8.640.jpg\" vspace=\"5\" width=\"120\" />",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-14T03:52:53",
-      "image_url": "https://sm.ign.com/ign_jp/gallery/d/dragon-que/dragon-quest-monsters-the-withered-world-screenshots_k6m8.jpg"
-    },
-    {
-      "title": "Diablo 5 - Official Teaser Trailer",
-      "url": "https://jp.ign.com/diablo-v/84259/diablo-5-official-teaser-trailer",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/video/d/diablo-5-o/diablo-5-official-teaser-trailer_2sc8.640.jpg\" vspace=\"5\" width=\"120\" />Prepare for the next era. Diablo 5 has been announced. Visit Diablo5.Blizzard.com to sign up for future updates.",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-12T19:02:26",
-      "image_url": "https://sm.ign.com/ign_jp/video/d/diablo-5-o/diablo-5-official-teaser-trailer_2sc8.jpg"
-    },
-    {
       "title": "An honest opinion or defamation? A solicitor outlines the legal nuance",
       "url": "https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance",
       "summary": "Rockstar has accused a group of former workers of defaming the studio on Discord—but what does that term actually mean in a legal sense?",
@@ -429,88 +509,8 @@
       "lang": "en",
       "published": "2026-09-11T10:26:10",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltb1474140871f82f7/6aa3d9174a5cb42733b364b5/GTA_VI_Header.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "CORSAIRの有線ゲーミングヘッドセット「HS65 SURROUND」がAmazonにて15％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/84247/corsairhs65-surroundamazon15",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/1_bcc1.640.png\" vspace=\"5\" width=\"120\" />形状記憶イヤーパッド採用で長時間のゲームでも快適\n<p>CORSAIRの有線ゲーミングヘッドセット「HS65 SURROUND」がAmazonにて15％オフでタイムセール中だ。カラーリングは以下の2種類。</p> <ul> <li><a href=\"https://www.amazon.co.jp/dp/B09W9F7FZY?tag=zdi",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-11T10:16:14",
-      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/1_bcc1.png"
-    },
-    {
-      "title": "開催直前！ ゲーム音楽ライブイベント「音古知新」の見どころを一挙紹介",
-      "url": "https://jp.ign.com/game-music/84253/",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/01_ansd.640.jpg\" vspace=\"5\" width=\"120\" />\n<p>9月23日（祝）、ゲーム音楽ライブイベント<a href=\"https://www.88nite.com/tgms2026live/\" rel=\"noopener\" target=\"_blank\">「音古知新」</a>が、川崎市のエポックなかはら（川崎市総合福祉センター）で開催される。往年の名作から誰もが知る音楽ゲームまで、さまざ",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-11T09:00:33",
-      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/01_ansd.jpg"
-    },
-    {
-      "title": "『Marvel's Wolverine』レビュー",
-      "url": "https://jp.ign.com/marvels-wolverine/84248/marvels-wolverine",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/review/m/marvels-wo/marvels-wolverine-review_xgdg.640.jpg\" vspace=\"5\" width=\"120\" />見事なキャラクター描写が派手な戦闘を支えているが、そのアクションも時間とともに底がついてくる。\n<p>今作で流した返り血の量は、オリンピックサイズプール4つ分を優に満たすだろう。Insomniac Gamesが与えてくれたアダマンチウムの爪によって、すでに数千の敵が命を落とした。『Marvel",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-11T04:04:39",
-      "image_url": "https://sm.ign.com/ign_jp/review/m/marvels-wo/marvels-wolverine-review_xgdg.jpg"
-    },
-    {
-      "title": "Xbox to publish Kojima Productions' Physint after PlayStation ditches project",
-      "url": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
-      "summary": "Xbox is committing to the project during a significant period of change for the company that has so far included mass layoffs and after numerous canceled publishing partnerships.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-09-10T19:35:18",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt3a588ae5d1222998/6aa2d0d730e74303430a3414/New_Project(37).png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "'Ship a good game, learn from it, and build from there:' Lessons from going indie after a decade at id Software",
-      "url": "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-and-build-from-there-lessons-from-going-indie-after-a-decade-at-id-software",
-      "summary": "We sit down with Doom Eternal art director Tony Garza and fellow id alum Richard O'Neal to hear about their journey into the world of indie development through Turnkey Games.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-09-10T18:56:42",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt94ab2974ddc4cc36/6aa28d833b37a1c79f84b069/Turnkey_Header.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "EA is using genAI for commentator voiceover in NHL 27",
-      "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
-      "summary": "EA says it's using the tech to expand on recording sessions with John Buccigross and Darren Pang's 'full consent and active collaboration.'",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-09-10T17:18:45",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt079cb2c6910544ff/6aa03816be8d741675b4d3d6/New_Project(35).png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "'Justice at last feels within reach:' Fired Rockstar workers rally in Glasgow as union busting tribunal begins",
-      "url": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
-      "summary": "The hearing is expected to conclude on October 16, 2026.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-09-10T13:48:57",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt128d5abde48a23a4/6aa2b6d77bae1a3a1e44c5ef/Rockstar_Rally.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Report: Steam now requires Australian users to verify their age with credit cards",
-      "url": "https://www.gamedeveloper.com/pc/report-steam-now-requires-australian-users-to-verify-their-age-with-credit-cards",
-      "summary": "Multiple people now claim that Valve has implemented proof-of-age verification for Australian Steam users to access games classified as R18+.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-09-10T09:24:59",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt0713cac601dc33da/6aa2df24bc525a4d1e8c9a06/steam_share_image.jpg?width=720&quality=80&disable=upscale"
     }
   ],
-  "last_updated": "2026-09-15T09:14:36.238067+09:00",
+  "last_updated": "2026-09-16T08:56:51.523784+09:00",
   "count": 50
 }
