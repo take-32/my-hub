@@ -1,116 +1,384 @@
 {
   "articles": [
     {
-      "title": "ダイスを使って戦うデッキ構築型ローグライク「Astrea: Six Sided Oracles」と，メカを編成するオートバトル「Mechabellum」がEpic Games Storeで無料配布中",
-      "url": "https://www.4gamer.net/games/741/G074110/20260925002/",
-      "summary": "EpicGamesは，PCゲーム配信プラットフォームEpicGamesStoreにて，「Astrea:SixSidedOracles」と「Mechabellum」の無料配布を実施している。期間は2026年10月2日0：00まで。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-25T00:00:00",
-      "image_url": "https://www.4gamer.net/games/741/G074110/20260925002/SS/009.jpg",
-      "body_ja": "「Astrea: Six Sided Oracles」は，ダイスを使って戦うデッキ構築型ローグライクゲームだ。プレイヤーは，それぞれ異なるダイスセットや能力，プレイスタイルを持つ6人のオラクルから1人を選び，失われた文明の遺跡を探索しながら，異変の原因を追っていく。\n戦闘では，敵を鎮める「浄化」と，自らを危険にさらして強力な効果を得る「堕落」を使い分ける。また，数百種類のダイスから好みのものを選び，自分なりの戦術を構築していく。\n「Mechabellum」は，小型ロボットから巨大なタイタンまで多彩なユニットを編成して戦うオートバトルゲームだ。プレイヤーはメカの編成に加え，陣形や配置，アップグレードなどを調整しながら敵軍に戦いを挑む。\n戦闘は自動で進行するため，プレイヤーは戦闘前に相手の編成や行動を読み，適切な対策を講じていく。ユニットごとのテックツリーで強化内容を設定することで，戦闘中に必要なアップグレードを開放できる。\nさらに，本作ではデスマッチのほか，ソロプレイや協力プレイに対応する"
-    },
-    {
-      "title": "8 Best BioWare Games That Aged Like Fine Wine",
-      "url": "https://www.polygon.com/best-bioware-games/",
-      "summary": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later",
+      "title": "10 Free Browser Games That are Actually Fun to Play",
+      "url": "https://www.polygon.com/best-free-browser-games/",
+      "summary": "From dice-based deckbuilders to a cat civilization sim, these 10 free browser games rival anything you'd pay for",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-09-24T23:00:15",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/Neverwinter-Nights-2-Enhanced-Edition-cover-image-Shadow-King.jpg"
+      "published": "2026-09-25T23:00:15",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/loathing-games-universe-browser-games.jpg"
     },
     {
-      "title": "Over the Hill Is the Perfect Replacement For Forza Horizon",
-      "url": "https://www.polygon.com/over-the-hill-preview-demo-steam/",
-      "summary": "Over the Hill, an exploration racing game from the developer behind Art of Rally, is the perfect antidote to Forza Horizon's AAA expanse.",
+      "title": "Alan Ritchson's 2019 Sports Comedy is Free to Watch on YouTube",
+      "url": "https://www.polygon.com/alan-ritchson-movies-turkey-bowl-free-youtube-watch/",
+      "summary": "Alan Ritchson takes on a much lighter role in this Thanksgiving football comedy, now available to watch for free on YouTube.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-09-24T22:13:46",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/key-art-header.jpg"
+      "published": "2026-09-25T22:25:20",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/alan-ritchson-the-turkey-bowl.jpg"
     },
     {
-      "title": "In This Game You Have to Draw Border Lines from Memory on a Map",
-      "url": "https://80.lv/articles/in-this-game-you-have-to-draw-border-lines-from-memory-on-a-map/",
-      "summary": "<p>You can play it for free!</p>",
+      "title": "Health upgrade point locations in Control Resonant",
+      "url": "https://www.polygon.com/control-resonant-health-upgrade-point-locations/",
+      "summary": "Where to find health upgrade points, so you can increase your maximum HP in Control Resonant.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-25T22:05:45",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ice-cream-stand_cr.jpg"
+    },
+    {
+      "title": "What time does Honkai Star Rail version 4.6 release in your time zone?",
+      "url": "https://www.polygon.com/honkai-star-rail-version-4-6-release-times-maintenance-end/",
+      "summary": "Honkai: Star Rail version 4.6 launches a bit earlier in the week than usual. We list the maintenance times in your time zone in our guide.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-25T22:01:15",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/en.jpg"
+    },
+    {
+      "title": "Power upgrade point locations in Control Resonant",
+      "url": "https://www.polygon.com/control-resonant-power-upgrade-point-locations/",
+      "summary": "Where to find power upgrade points, so you can use more of your combat abilities in Control Resonant.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-25T21:59:06",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/power-upgrade-point-crate_cr.jpg"
+    },
+    {
+      "title": "'Power Lines' quest walkthrough in Control Resonant",
+      "url": "https://www.polygon.com/control-resonant-power-lines-quest-walkthrough-tuning-forks/",
+      "summary": "The \"Power Lines\" quest in Control Resonant is full of puzzles involving tuning devices. Here's how to reroute power to each station.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-25T21:07:42",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/power-lines_cr.jpg"
+    },
+    {
+      "title": "GTA 6 and Fire Emblem Have a Weird Connection No One Expected",
+      "url": "https://www.polygon.com/gta-6-fire-emblem-manatees-sea-beast/",
+      "summary": "Grand Theft Auto 6 and Fire Emblem: Fortune's Weave both prominently feature an uncommon type of sea mammal, and I love it",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-25T21:00:16",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/screenshot-2026-09-24-at-1-30-23-pm.jpg"
+    },
+    {
+      "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (September 25-27)",
+      "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-september-25-27/",
+      "summary": "In this week's movie streaming column, we have the biggest Pixar movie of the year, one of the definitive horror movies of the summer, and more.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-25T21:00:16",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdspwe_ec027.jpg"
+    },
+    {
+      "title": "Best gifts for each character in Fire Emblem: Fortune's Weave",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-best-gifts-each-character/",
+      "summary": "Our Fire Emblem Fortune's Weave gift guide lists the best gifts for every character",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-25T20:48:11",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-gifts.jpg"
+    },
+    {
+      "title": "Ridley Scott's Near-Perfect Noir Thriller Is Officially Free to Watch on YouTube",
+      "url": "https://www.polygon.com/ridley-scott-american-gangster-streaming-free-tubi-september-2026/",
+      "summary": "The director’s spin on The Godfather remains a stone cold classic",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-09-25T20:15:36",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdamga_ec074.jpg"
+    },
+    {
+      "title": "The Players You Already Have Are Your Biggest Growth Opportunity",
+      "url": "https://80.lv/articles/the-players-you-already-have-are-your-biggest-growth-opportunity/",
+      "summary": "<p><a href=\"https://www.adikteev.com/\" rel=\"noopener\" target=\"_blank\">Adikteev's</a> Emilien Eychenne knows that your biggest game growth lever isn't new installs; it's learning to spot churn early and win mobile players back for good.</p>",
       "source": "80 Level",
       "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-24T22:03:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41746/images/6ab59e2b964cd/cover_800x800.jpg"
+      "published": "2026-09-25T18:40:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41248/images/6ab6600cd36ae/cover_800x800.jpg"
     },
     {
-      "title": "「ドラゴンクエストモンスターズ4」，新要素「フィールドスカウト」と，巨大モンスターとの共闘バトルを紹介",
-      "url": "https://www.4gamer.net/games/010/G101055/20260918040/",
-      "summary": "スクウェア・エニックスは本日，2026年12月3日に発売予定の「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」の最新情報を公開した。フィールド上のモンスターを直接仲間にできる「フィールドスカウト」や，巨大モンスターに複数パーティで挑む「共闘バトル」の詳細が明らかになった。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T22:00:00",
-      "image_url": "https://www.4gamer.net/games/010/G101055/20260918040/SS/006.jpg",
-      "body_ja": "「フィールドスカウト」は，フィールド上で見つけたモンスターにおにくを投げ，その場でスカウトアタックを仕掛けられる新要素だ。従来のようにバトルへ移行することなく，気になるモンスターを直接仲間にできる。\nスカウト時には，パーティにいる仲間モンスターが周囲を駆け回ってスカウトアタックを開始。成功すると，パーティやスタンバイに空きがあればその場で加入し，空きがない場合は預かり所へ送られる。高級なおにくほどモンスターが仲間になりやすく，少し変わったおにくも登場するという。\n冒険を進めると，カレキの国の牧場に「スカウトパーク」がオープンする。ここでは，通常のフィールドで出会えないレアモンスターなどをフィールドスカウトで仲間にでき，物語の進行に応じて出現するモンスターも変化する。\nもう1つの新要素となる「共闘バトル」では，巨大モンスターを相手に複数のパーティで戦う。ビアンカを主人公に選んだ場合は，ビアンカがパーティモンスター，フローラがスタンバイモンスターを率いる形で戦闘が進む。\n共闘バトルでは，パー"
-    },
-    {
-      "title": "Best weapon and combat ability to choose first in Control Resonant",
-      "url": "https://www.polygon.com/control-resonant-weapon-combat-ability-primary-secondary/",
-      "summary": "The best early weapon and combat ability to choose in the prologue of Control Resonant.",
-      "source": "Polygon",
-      "icon": "🕹",
+      "title": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle",
+      "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
+      "summary": "XDS Spark co-founder Sam Carlisle and GDC Festival of Gaming content marketing manager Beth Elderkin discuss the evolving world of co-development.",
+      "source": "Game Developer",
+      "icon": "🎮",
       "lang": "en",
-      "published": "2026-09-24T21:54:16",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/hammer_cr.jpg"
+      "published": "2026-09-25T18:37:03",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blta9f3f5f9783be784/6ab68b0dcc9371c986932152/GDC26_Youtube_Thumbnail_Chilli_SideQuest_A.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Sekiro Anime Gets Official Streaming Date and Surprise Format Change",
-      "url": "https://www.polygon.com/sekiro-anime-no-defeat-release-date-crunchyroll/",
-      "summary": "Sekiro: No Defeat has a new confirmed streaming date on Crunchyroll, where it will be released as an 8-episode anime — not a movie.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-24T20:40:44",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/1.jpeg"
-    },
-    {
-      "title": "Check Out This Fascinating 3D Model That Looks Like an Oil Painting",
-      "url": "https://80.lv/articles/check-out-this-fascinating-3d-model-that-looks-like-an-oil-painting/",
-      "summary": "<p>It looks so beautiful!</p>",
+      "title": "How to Create Futuristic Hovercraft Flight Simulator Inspired by Matrix",
+      "url": "https://80.lv/articles/how-to-create-futuristic-hovercraft-flight-simulator-inspired-by-matrix/",
+      "summary": "<p>Volodymyr Donchenko shares the process behind his breathtaking simulator scene inspired by The Matrix Awakens: an Unreal Engine 5 Experience, explains how he crafted a cooling system to help his PC survive through the project, and talks about the importance of making a fitting soundtrack for imme",
       "source": "80 Level",
       "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-24T20:04:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41745/images/6ab582429660a/cover_800x800.jpg"
+      "published": "2026-09-25T18:37:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41759/images/6ab6bf7615a61/cover_800x800.jpg"
     },
     {
-      "title": "The Division's New Release is Going Up Against Zelda",
-      "url": "https://www.polygon.com/the-division-2-echoes-of-central-park-dlc-release-date/",
-      "summary": "The Division 2: Echoes of Central Park launches in November  with a new story set in Central Park and the Upper West Side.",
-      "source": "Polygon",
-      "icon": "🕹",
+      "title": "What to Play If You Like Unusual Art Style in Games: Top-10 Titles",
+      "url": "https://80.lv/articles/what-to-play-if-you-like-unusual-art-style-in-games-top-10-titles/",
+      "summary": "<p>Take a look at our picks for games with eye-catching visual styles.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-24T19:59:46",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/the-division-2-echoes-of-central-park.jpg"
+      "published": "2026-09-25T17:54:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41740/images/6ab6b55d54fce/cover_800x800.jpg"
     },
     {
-      "title": "All Xbox rumors, changes, and cancelled games in 2026 (so far)",
-      "url": "https://www.polygon.com/xbox-layoffs-cancellations-studio-closures/",
-      "summary": "Xbox CEO Asha Sharma has implemented many changes over the past month. Here's every rumor, change, and game cancellation in our running news roundup.",
-      "source": "Polygon",
-      "icon": "🕹",
+      "title": "Exploring Thin, Pale, Slimy Skin Texture by Recreating The Demogorgon From Stranger Things",
+      "url": "https://80.lv/articles/exploring-thin-pale-slimy-skin-texture-by-recreating-the-demogorgon-from-stranger-things/",
+      "summary": "<p>Nikhil K S talks about the challenge of collecting real-life textures for further use in lookdev, explains why more displacement does not necessarily equal more realism, and shows how he set up the lighting to keep the scene chillingly dark yet make every little slimy crevice on the Demogorgon's ",
+      "source": "80 Level",
+      "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-24T19:30:19",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/21866573/Still_Image_Console_Family_2_Back_to_Back_Consoles_Controllers_1440.jpg"
+      "published": "2026-09-25T17:29:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41744/images/6ab59122eb92a/cover_800x800.jpg"
     },
     {
-      "title": "How to solve the projector puzzle in Silent Hill Townfall",
-      "url": "https://www.polygon.com/silent-hill-townfall-projector-puzzle-slides-lens-bulb/",
-      "summary": "Here's how to repair the projector and solve the slides puzzle in Silent Hill: Townfall.",
-      "source": "Polygon",
-      "icon": "🕹",
+      "title": "This 1940 Life Magazine Ad Is Actually 2D Vector Animation",
+      "url": "https://80.lv/articles/this-1940-life-magazine-ad-is-actually-2d-vector-animation/",
+      "summary": "<p>Black magic.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
       "lang": "en",
-      "published": "2026-09-24T19:21:51",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/silent-hill-townfall-projector-puzzle-1.jpg"
+      "published": "2026-09-25T16:25:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41760/images/6ab6a06e73e28/cover_800x800.jpg"
+    },
+    {
+      "title": "Breakdown: Animating Tiny Character With Massive Two-Handed Weapon",
+      "url": "https://80.lv/articles/breakdown-animating-tiny-character-with-massive-two-handed-weapon/",
+      "summary": "<p>Learn how to create strong, readable silhouettes in motion through Laura Lico's work on Moss: Book 2.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-25T15:45:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41757/images/6ab6970dc1955/cover_800x800.jpg"
+    },
+    {
+      "title": "Get These 177 SVBRDF-Scanned Textures for Free",
+      "url": "https://80.lv/articles/get-these-177-svbrdf-scanned-textures-for-free/",
+      "summary": "<p>This collection, created by colormass, features wood, glass, paint, ceramic, and other textures.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-25T15:16:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41754/images/6ab68ec80d7ee/cover_800x800.jpg"
+    },
+    {
+      "title": "これはゲームの形をしたドゥームメタル・アルバム――漆黒のダークファンタジーTRPG「M&#214;RK BORG」，日本語版の販売をスタート",
+      "url": "https://www.4gamer.net/games/964/G096413/20260925060/",
+      "summary": "Malstromは2026年9月25日，TRPG「M&#214;RKBORG」について，日本語版の一般販売を開始した。終末の予言が現実になりつつある世界を舞台に，プレイヤーたちは墓荒らしや傭兵といった“ろくでもない冒険者”となって戦う，ドゥームメタルの精神を宿したダークファンタジーTRPGだ。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T15:00:00",
+      "image_url": "https://www.4gamer.net/games/964/G096413/20260925060/SS/001.jpg",
+      "body_ja": "『MÖRK BORG 日本語版』\n書籍・電子版ともに販売開始！\nいつの日か、すべてが黒ずみ燃え尽きる。双頭のバジリスクが囁く予言の通りに…。だが、お前たちの冒険は今ここから始まるのだ。\nMalstrom Storeにて販売中。https://t.co/h1AtuNaXM2 pic.twitter.com/eK1bZdJ9NY\nルール自体は比較的シンプルながら，強烈なストーリーとデッドリィな高難度設計により，厳しい世界観を肌で感じられる作品となっている。ルールブックも非常に尖った仕様で，視認性を無視してでもアートとしての良さを追い求めた，目が覚めるようなデザインが採用されている。\n日本語版は2025年11月にKickstarterでクラウドファンディングが実施され，目標250万円に対して731人の支援者から合計1017万4060円が寄せられた。4Gamerでは翻訳を手がけたMontro氏へのインタビューを掲載しているので，内容が気になる人は参考にしてほしい。\n衝撃的なほどメタルでディープな"
+    },
+    {
+      "title": "Fox Girl's Powerful Giant Sword Combo Attack Animation",
+      "url": "https://80.lv/articles/fox-girl-s-powerful-giant-sword-combo-attack-animation/",
+      "summary": "<p>The sense of weight and motion is fantastic. Also, it's cute.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-25T14:57:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41755/images/6ab68bf6badaa/cover_800x800.jpg"
+    },
+    {
+      "title": "［プレイレポ］「ACE COMBAT 8: WINGS OF THEVE」の製品版とオンラインモードを先行体験。伝説のエース，そして傭兵となり，2つの空を飛んできた",
+      "url": "https://www.4gamer.net/games/969/G096901/20260924052/",
+      "summary": "バンダイナムコエンターテインメントは，「ACECOMBAT」シリーズの最新作「ACECOMBAT8:WINGSOFTHEVE」を2026年10月2日に発売する。今回製品版キャンペーンとオンラインモードを体験できたので，レポートをお届けしよう。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T14:00:00",
+      "image_url": "https://www.4gamer.net/games/969/G096901/20260924052/SS/033.jpg",
+      "body_ja": "5月の「1st Look 体験会」，東京ゲームショウ2026の試遊と，4Gamerはすでに何度か本作のプレイ記事をお届けしているが，今回は製品版の先行プレイとオンラインモードを体験できた。\n7年ぶりの空はどう変わったか。「ACE COMBAT 8: WINGS OF THEVE」を一足先に体験してきた［TGS2026］\n東京ゲームショウ2026のバンダイナムコエンターテインメントブースで，「ACE COMBAT 8: WINGS OF THEVE」の試遊台を体験した。前作から7年，「ACE COMBAT」シリーズ好きを自認する筆者が飛んだ空はどうだったのか。\n［プレイレポ］「ACE COMBAT 8: WINGS OF THEVE」は前作から10年後が舞台。ギリギリの戦いを超えてエースとなる，空の“英雄体験”はより深化を遂げた\n「ACE COMBAT」シリーズの最新作「ACE COMBAT 8: WINGS OF THEVE」が，2026年10月2日に発売される。本稿では，メディア向け体"
+    },
+    {
+      "title": "Switch向けダウンロード版「クーロンズゲートSuzaku」は10月29日発売へ。「クーロンズ・ゲート」の世界を再構築したアドベンチャーゲーム",
+      "url": "https://www.4gamer.net/games/911/G091134/20260925059/",
+      "summary": "ジェットマンは2026年9月24日，NintendoSwitch用ソフト「クーロンズゲートSuzaku」の公式サイトを更新し，ダウンロード版の発売日を2026年10月29日に決定したことを明らかにした。本作は，1997年に発売されたPlayStation用ソフト「クーロンズ・ゲート」の世界を再構築したアドベンチャーゲームだ。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T13:48:57",
+      "image_url": "https://www.4gamer.net/games/911/G091134/20260925059/SS/002.jpg",
+      "body_ja": "「クーロンズゲートSuzaku」は，1997年に発売されたPlayStation用ソフト「クーロンズ・ゲート」の世界を再構築したアドベンチャーゲームだ。2017年に登場したPS VR用ソフト「クーロンズゲートVR Suzaku」をNintendo Switch向けに非VR化しつつ，新たな場所やクエスト，キャラクターなどが追加されている。\nNintendo Switch版の本作は，2025年11月にCAMPFIREでクラウドファンディング限定パッケージの受注が始まり，2026年6月には追加生産分の再販売も行われている。ダウンロード版の発売によって，クラウドファンディングの参加者以外の人でも購入できるようになる。\n「クーロンズゲートSuzaku」，Switch向けパッケージ版の再販売を6月5日20：00より「CAMPFIRE」で開始\nジェットマンは2026年6月3日，「クーロンズゲートSuzaku」のSwitch向けパッケージ版の再販売を，6月5日20：00よりクラウドファンディングサービス"
+    },
+    {
+      "title": "神隠しに遭った子供たちが“鬼”から逃げる非対称型ホラー「かくれ鬼: Hide-and-Seek Horror」，TGS出展版をベースにした最新体験版を公開",
+      "url": "https://www.4gamer.net/games/949/G094947/20260925058/",
+      "summary": "FORCESは本日（2026年9月25日），新作PC用ソフト「かくれ鬼:Hide-and-SeekHorror」の最新体験版をSteamで公開した。今回の体験版は「東京ゲームショウ2026」に出展されたバージョンをベースにしたもので，過去のクローズドβテストのフィードバックが反映されている。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T13:12:04",
+      "image_url": "https://www.4gamer.net/games/949/G094947/20260925058/SS/001.jpg",
+      "body_ja": "「かくれ鬼: Hide-and-Seek Horror」は，神隠しに遭った子供たちが「子供」（4人）と「鬼」（1人）に分かれて対戦する非対称型のマルチプレイホラーゲームだ。子供側は時間切れまで逃げ切れば勝利，鬼側は時間内に全員を捕まえれば勝利となる。\n子供たちは，立っている場所の“影”が濃いほど姿を透明にできる「影かくし」を使用できる。完全に透明になると足音も消えるので，影の濃さを見極めて行動しよう。最新バージョンでは，しゃがみ中は懐中電灯の明かりが消え，スタミナを回復できたり，スライディングで素早く身を隠したりするアクションも加わっている。\n一方の鬼は，身体能力で子供を上回る絶対的強者だ。メインスキル「鬼の眼」を使えば，遠距離では子供の位置を透視し，近距離では「影かくし」を解除しつつ動きを止められる。時間の経過とともに味方の幽霊が増え，残り30秒以下になると身体能力が強化されるので，終盤ほど捕まえやすくなる。"
+    },
+    {
+      "title": "Capcom Reveals VR Version Of Ace Attorney: Dual Destinies",
+      "url": "https://80.lv/articles/capcom-reveals-vr-version-of-ace-attorney-dual-destinies/",
+      "summary": "<p>Fans, however, have some objections.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-25T13:10:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41753/images/6ab672c265875/cover_800x800.jpg"
+    },
+    {
+      "title": "id Software Employee Speaks on Uncertainty Following Xbox Restructuring",
+      "url": "https://80.lv/articles/id-software-employee-speaks-on-uncertainty-following-xbox-restructuring/",
+      "summary": "<p>id Software staff describe low morale and unclear communication after Xbox's layoffs.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-09-25T13:10:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41752/images/6ab6730aa6f4b/cover_800x800.jpg"
+    },
+    {
+      "title": "呪われた積み荷を運ぶホラードライビングシム「Prospice: Anomalous Logistics」，クローズドβテストの参加を受付中",
+      "url": "https://www.4gamer.net/games/028/G102848/20260925055/",
+      "summary": "CodeWakersは本日（2026年9月25日），ForkliftInteractiveから発売予定の新作タイトル「Prospice:AnomalousLogistics」のクローズドβテストの参加受付を開始した。本作は，神々に蝕まれた孤島を舞台に，オフロード車で物資の運搬任務に挑むホラードライビングシミュレータだ。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T12:44:02",
+      "image_url": "https://www.4gamer.net/games/028/G102848/20260925055/SS/001.jpg",
+      "body_ja": "本作は，神々に蝕まれた孤島を舞台に，オフロード車で物資の運搬任務に挑むホラードライビングシミュレータだ。開発にあたっては「MudRunner」「S.T.A.L.K.E.R.」「Deus Ex」「DEATH STRANDING」といった作品から影響を受けているという。\nテストには，Steamニュースページに記載された公式フォームから応募する形で，抽選参加となる。また，Steamストアページでもアクセスをリクエストできるので，そちらも応募しておくといいだろう。\nなお，「Prospice: Anomalous Logistics」は，日本時間の10月9日1：00に開催されるオンラインショーケース「The Triple-i Initiative」に参加する予定だ。本作に興味がある人はそちらもチェックしておこう。"
+    },
+    {
+      "title": "「サカつく2026」×ピザーラコラボを開始。限定メニュー注文でアイテムコード付きのリアル「コラボ特練カード」がもらえる",
+      "url": "https://www.4gamer.net/games/915/G091522/20260925056/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T12:39:26",
+      "image_url": "https://www.4gamer.net/games/915/G091522/20260925056/SS/001.jpg",
+      "body_ja": "株式会社セガは、PlayStation 5／PlayStation 4／iOS／Android／PC（Steam、Google Play Games on PC）向けゲーム『プロサッカークラブをつくろう！2026』（以下、『サカつく2026』）について、宅配ピザの「PIZZA-LA（ピザーラ）」とのコラボレーションを実施いたします。日本国内全店を対象に、2026年9月24日（木）から11月1日（日）にかけての開催を予定しています。\n（C） 2026 Manchester City Football Club / LICENSED BY J.LEAGUE / （C） J.LEAGUE / K LEAGUE property used under license from K LEAGUE / The use of images and names of the football players in this game is under license from FIFPro Commer"
+    },
+    {
+      "title": "「チェンクロ」，メインストーリー「フィーナと緋の年代記 後篇」を追加",
+      "url": "https://www.4gamer.net/games/223/G022384/20260925057/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T12:36:22",
+      "image_url": "https://www.4gamer.net/games/223/G022384/20260925057/SS/007.jpg",
+      "body_ja": "| チェインクロニクル チェインクロニクル |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/09/25 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\nメインストーリー「フィーナと緋の年代記 後篇」追加！\n「アシュリナ（CV：佐倉綾音）」「スルスタン（CV：福山潤）」が登場する\n“緋の年代記フェス”開催！\n大好評配信中のスマートフォン向けマルチ・チェインシナリオRPG『チェインクロニクル第５部 ―未来への導標（しるべ）―』では、2026年9月25日（金）より「フィーナと緋の年代記 後篇」の配信を開始しました。\nまた、「《Y.G.1》竜の女王 アシュリナ（CV：佐倉綾音）」「《Y.G.1》修羅なる自虐の暗殺者 スルスタン（CV：福山潤）」が新登場する“緋の年代記フェス”を開催中です。\n〜「フィーナと緋の年代記 後篇」あらすじ〜\nネメシスによる王都襲撃。\nランスバーンの一撃により王都南門は解放され、足止めされていた聖騎士団、そしてフィーナ、シルヴァ、ロレ"
+    },
+    {
+      "title": "「プロセカ」，ワールドリンクイベント「Connect to SEKAI！」を9月28日19：59まで開催",
+      "url": "https://www.4gamer.net/games/476/G047609/20260925054/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T12:28:18",
+      "image_url": "https://www.4gamer.net/games/476/G047609/20260925054/SS/001.jpg",
+      "body_ja": "| プロジェクトセカイ カラフルステージ！ feat. 初音ミク プロジェクトセカイ カラフルステージ！ feat. 初音ミク |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/09/25 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\nワールドリンクイベント「Connect to SEKAI！」を開催！\n株式会社セガ（本社：東京都品川区、代表取締役 社長執行役員COO：内海州史）と株式会社Colorful Palette（本社：東京都目黒区、代表取締役社長：近藤裕一郎）は、iOS/Android向けリズム&アドベンチャー『プロジェクトセカイ カラフルステージ！ feat. 初音ミク（以下、プロジェクトセカイ）』について、2026年9月25日（金）より、ワールドリンクイベント「Connect to SEKAI！」を開催いたします。\n■ワールドリンクイベント「Connect to SEKAI！」開催！\n開催期間：2026年9月25日（金）20:00〜9月"
+    },
+    {
+      "title": "「首都高バトル」，MINI GT仕様の3車種がライバルとして参戦するコラボDLCを無料配信。新車種「サニトラ（GB121）」も仲間入り",
+      "url": "https://www.4gamer.net/games/831/G083117/20260925051/",
+      "summary": "元気は本日，レースゲーム「首都高バトル／TokyoXtremeRacer」で，「MINIGTコラボレーションゲストライバルDLC」の無料配信を開始した。MINIGT仕様の3車種がライバルとして参戦するほか，新車種として「DATSUNSUNNYTRACK（GB121）」も追加される。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T12:24:26",
+      "image_url": "https://www.4gamer.net/games/831/G083117/20260925051/SS/001.jpg",
+      "body_ja": "今回のDLCでは，2026年5月にマレーシアで開催されたイベント「MALAYSIA DIECAST EXPO 2026」で公開されたダイキャストブランド「MINI GT」とのコラボレーション車両3車種が，ゲストライバルとして本作に参戦する。\n車種は，「TOYOTA SUPRA RZ（JZA80）'97」「NISSAN SKYLINE GT-R V-spec II（BNR34）'00」「Honda CIVIC TYPE R（FL5）'22」。バトルで勝利すれば，そのままカスタムカーとして自分の愛車に加えることができる。\nさらに，コラボ3車種とは別に，新たな車種として“サニトラ”こと「DATSUN SUNNY TRACK（GB121）」が追加される。同車はMINI GTコラボライバルとして登場するほか，ゲーム内のディーラーでも購入して使用できる。なお，使用には本DLCのインストールが必要だ。"
+    },
+    {
+      "title": "「STRANGER THAN HEAVEN」，TGS 2026で開催したステージのレポートが公開に",
+      "url": "https://www.4gamer.net/games/865/G086590/20260925052/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-25T12:17:34",
+      "image_url": "https://www.4gamer.net/games/865/G086590/20260925052/SS/001.jpg",
+      "body_ja": "| STRANGER THAN HEAVEN STRANGER THAN HEAVEN STRANGER THAN HEAVEN |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/09/25 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n東京ゲームショウ 2026 にて最新情報を一挙公開！\n『STRANGER THAN HEAVEN』公式サイト\nhttps://stranger-than-heaven.com/store/\n株式会社セガは、2027年1月15日（金）発売予定の『STRANGER THAN HEAVEN』について、「東京ゲームショウ2026」セガ／アトラスブースのステージにて、東映株式会社とのコラボレーションや、主人公・大東真役の城田優さん、真城優役のディーン・フジオカさんによるデュエット曲「Climb On」など、さまざまな最新情報を公開しました。\nさらに、ゲーム内コンテンツ「ショービジネス」に登場するシンガーや、声優・宇垣秀成さんの"
+    },
+    {
+      "title": "「こんなゲームで遊んでみたい」を形に！AIエージェントによるゲーム開発ツールAlaya Lab「Gear Zero」が秘めた可能性【PR】",
+      "url": "https://jp.ign.com/games/84314/aialaya-labgear-zeropr",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/image3_3z9x.640.png\" vspace=\"5\" width=\"120\" />プレイヤーとクリエイターの境界がなくなる未来\n<p>自分でゲームを作ってみたい。面白いゲームになりそうなアイデアはあるけど、ゲームを完成させるほどの知識はまだない……。そんな人のサポートをしてくれるAIエージェントがAlaya Labの提供するAIゲーム開発ツール「Gear Zero」だ。</p> <div class=\"vpla",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-25T10:28:31",
+      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/image3_3z9x.png"
+    },
+    {
+      "title": "'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers",
+      "url": "https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers",
+      "summary": "'This is an important step for King, the gaming industry and for the Swedish model.'",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-09-25T09:42:53",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt002bdf889d6bbe46/6ab6443eb9fa09891d6b1217/King_Header.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "ヤスミンを含む「スト6」のキャラデザインに関する特別講演も予定 Tokyo Anim Unite 2026が9月26日・27日に開催",
+      "url": "https://jp.ign.com/entertainment/84313/6-tokyo-anim-unite-202692627",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/tau_7ge2.640.jpg\" vspace=\"5\" width=\"120\" />キャッチコピーは「聴いて、見て、描いて、つながる」\n<p>映像・ゲーム・アート業界で活躍するプロのクリエイターと、次世代のクリエイターをつなぐことを目的としたイベント<a href=\"https://animunite.jp/\" rel=\"noopener\" target=\"_blank\">「Tokyo Anim Unite 2026」",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-25T06:25:36",
+      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/tau_7ge2.jpg"
+    },
+    {
+      "title": "『Control Resonant』レビュー",
+      "url": "https://jp.ign.com/control-resonant/84309/control-resonant",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/review/c/control-re/control-resonant-review_nvhz.640.jpg\" vspace=\"5\" width=\"120\" />戦闘の鋭利な手応えはいずれ鈍化していくものの、Remedy特有の強烈な引き込み線は依然として健在だ。\n<p>超自然現象、パワーオブジェクト、そして物理法則を無視する異次元からの脅威――開発元のRemedyは、こうした概念によってその確固たる評価を築き上げてきた。そのなかでも<a href=\"ht",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-25T04:36:37",
+      "image_url": "https://sm.ign.com/ign_jp/review/c/control-re/control-resonant-review_nvhz.jpg"
+    },
+    {
+      "title": "『空の軌跡 the 2nd』は海外からも大絶賛！IGN USレビュー",
+      "url": "https://jp.ign.com/sora-no-kiseki-the-2nd/84304/the-2ndign-us",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/review/t/trails-in-/trails-in-the-sky-2nd-chapter-review_gcqs.640.jpg\" vspace=\"5\" width=\"120\" />原作の魅力を余すところなく受け継いだ、見事なリメイク\n<p>「軌跡」シリーズにとって最大のハードルのひとつは、ほぼすべての作品が複数の続編を通して相互につながっているなかで、いかに新規プレイヤーをその世界へ迎え入れるかということだった。何しろ、オリジナルの「空の軌跡」シ",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-25T04:36:28",
+      "image_url": "https://sm.ign.com/ign_jp/review/t/trails-in-/trails-in-the-sky-2nd-chapter-review_gcqs.jpg"
+    },
+    {
+      "title": "『モンスターハンターワイルズ：アセンダンス』プレビュー 待ち望んでいたエンドゲームになる可能性を感じさせる、期待の大型拡張コンテンツ",
+      "url": "https://jp.ign.com/monster-hunter-wilds-ascendance/84298/",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/preview/m/monster-hu/monster-hunter-wilds-ascendance-might-be-the-endgame-ive-bee_8x82.640.jpg\" vspace=\"5\" width=\"120\" />モンスターはかつてないほど危険になったが、新要素「ブーストブレイサー」によって、ハンターもまた強くなっている\n<p><i><strong>プレビューの主なポイント</strong></i></p> <ul> <li>「ブ",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-09-25T03:52:25",
+      "image_url": "https://sm.ign.com/ign_jp/preview/m/monster-hu/monster-hunter-wilds-ascendance-might-be-the-endgame-ive-bee_8x82.jpg"
     },
     {
       "title": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
@@ -123,46 +391,6 @@
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blted9de507d3c4c379/6ab54cf24dba8124c746e551/New_Project(46).png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Where to find bitter leaves in Fire Emblem Fortune's Weave",
-      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-bitter-leaves-location-where-to-find/",
-      "summary": "Here's where you can find bitter leaves in Fire Emblem: Fortune's Weave, the material you need to complete the \"Popular Drink Recipes\" quest.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-24T18:57:30",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fefortunesweave_guide_bitterleaves_lead.jpg"
-    },
-    {
-      "title": "2 Months Later, Marvel Finally Releases Spider-Man: Brand New Day’s Post-Credits Scene",
-      "url": "https://www.polygon.com/avengers-endgame-encore-post-credit-scene-hulk-mystery/",
-      "summary": "In the weirdest way possible, Marvel finally revealed what happened to Banner after Spider-Man: Brand New Day.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-24T18:43:29",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/bruce-banner-spider-man-brand-new-day.jpg"
-    },
-    {
-      "title": "Bungie Officially Reveals Massive Marathon Revamp With New PvE Mode",
-      "url": "https://www.polygon.com/bungie-marathon-symbiosis-changes-pve-new-modes/",
-      "summary": "Destiny and Marathon developer Bungie lays out its ambitious plan to evolve extraction shooter Marathon through 2027.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-09-24T18:38:24",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jb_mar_symbiosis_sunken_reservoir_28-1.jpg"
-    },
-    {
-      "title": "Befriend Corrupted Creatures & Turn Them into Automated Factory in This Indie Gem",
-      "url": "https://80.lv/articles/befriend-corrupted-creatures-turn-them-into-automated-factory-in-this-indie-gem/",
-      "summary": "<p>It combines biological automation, free exploration, and tower defense.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-24T17:50:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41743/images/6ab562da51cc6/cover_800x800.jpg"
-    },
-    {
       "title": "Former Avalanche Studios chief Natalie Francis joins Massive Entertainment as managing director",
       "url": "https://www.gamedeveloper.com/business/former-avalanche-studios-chief-natalie-francis-joins-massive-entertainment-as-managing-director",
       "summary": "Francis will step into the role starting October 1st following Thomas Andren's recent appoint as general manager for the creative network.",
@@ -173,154 +401,6 @@
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf2d39025eeac9733/6ab540cf46c84671f76d1eca/New_Project(45).png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "One More Spin-Off in the Silent Hill Series, SILENT HILL: Townfall Released",
-      "url": "https://80.lv/articles/one-more-spin-off-in-the-silent-hill-series-silent-hill-townfall-released/",
-      "summary": "<p>The action-adventure survival horror from Screen Burn Interactive is out, and the users are already noticing lots of stuttering – again. </p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-24T16:59:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41741/images/6ab556f83614c/cover_800x800.jpg"
-    },
-    {
-      "title": "How To Create Dynamic Wuthering Waves-Style Hair In Blender",
-      "url": "https://80.lv/articles/how-to-create-dynamic-wuthering-waves-style-hair-in-blender/",
-      "summary": "<p>Vermeil is here to help you learn.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-24T15:12:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41742/images/6ab53dddccd74/cover_800x800.jpg"
-    },
-    {
-      "title": "「Against the Storm」がボードゲーム化決定。7種族が力を合わせて嵐に立ち向かう協力型重量級ゲームに。クラファンは2027年5月開始",
-      "url": "https://www.4gamer.net/games/045/G104528/20260924070/",
-      "summary": "EremiteGamesは2026年9月22日，都市建設ゲーム「AgainsttheStorm」を原作とするボードゲーム「AgainsttheStorm:TheBoardGame」を発表した。開発は「Anachrony」「Voidfall」などで知られるMindclashGamesが担当し，2027年5月にGamefoundでクラウドファンディングを開始する予定だ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T15:00:00",
-      "image_url": "https://www.4gamer.net/games/045/G104528/20260924070/SS/001.jpg",
-      "body_ja": "「Against the Storm: The Board Game」は，ローグライト要素を取り入れた都市建設ゲーム「Against the Storm」を，協力型の重量級ゲームとしてボードゲーム化した作品だ。プレイヤーは文明の辺境に集落を築き，探索や資源管理を行いながら，絶えず脅威となる“Blightstorm”に立ち向かうことになる。\n| Against the Storm: The Board Game |  | \n|---|---|\n| ゲーム形式 | 協力型重量級ユーロゲーム | \n| プレイ人数 | 1〜4人 | \n| プレイ時間 | 90〜180分 | \n| 対象年齢 | 14歳以上 | \n| 開発 | Mindclash Games | \n| クラウドファンディング | Gamefound／2027年5月開始予定 | \nプレイヤーの目的は，女王からの依頼を達成したり，住民の満足度を高めたりしながら「Reputation」（名声）を蓄積し，必要量に到達することだ。一方，ゲー"
-    },
-    {
-      "title": "「ポケポケ」，ポケモンex確定の「ハイクラスパック MEGA」を9月30日から期間限定で追加。過去の“◆◆◆◆カード”を全種収録",
-      "url": "https://www.4gamer.net/games/779/G077901/20260924068/",
-      "summary": "ポケモンは本日（2026年9月24日），スマートフォン向けカードゲーム「Pok&#233;monTradingCardGamePocket」で，拡張パック「ハイクラスパックMEGA」を9月30日10：00から期間限定で追加すると発表した。「メガライジング」から「天空の支配者」までに登場したカードを多数再収録する特別な拡張パックだ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T13:55:06",
-      "image_url": "https://www.4gamer.net/games/779/G077901/20260924068/SS/001.jpg",
-      "body_ja": "「ハイクラスパック MEGA」は，「メガライジング」から「天空の支配者」までに登場したカードを多数再収録する特別な拡張パックだ。過去の“◆◆◆◆カード”はすべて収録され，1パック（4枚）のうち1枚は必ずポケモンexとなる。\n一部のカードには新規イラストやミラー仕様のホログラムも用意されるほか，特別なデザインのカードも含まれる予定だ。今回の発表では以下のカードが公開された。\n| メガリザードンXex [★★] | メガチルタリスex [★★] | メガルカリオex [★★] | \n|---|---|---|\n| イーブイ [★] | パピモッチ [★] | モノマネむすめ [★★] | \n|---|---|---|\n| リザード [◆◆] | リーシャン [◆] | トドロクツキ [◆◆◆] | \n|---|---|---|\n10月末ごろには，一部コンテンツをリニューアルするアップデートも予定されている。その際には，現在所持している「テーマデッキレシピ」「レンタルデッキ」が削除され，「デッ"
-    },
-    {
-      "title": "Get Hundreds of Striking Production-Ready Assets with This Unreal Engine Environment Bundle",
-      "url": "https://80.lv/articles/get-hundreds-of-striking-production-ready-assets-with-this-unreal-engine-environment-bundle/",
-      "summary": "<p>Meshingun Studio released a bundle that features a collection of gothic furniture props, realistic environments with Asian temples, stylized foliage, and 20 more masterfully crafted packs.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-24T13:34:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41733/images/6ab5254ccbb87/cover_800x800.jpg"
-    },
-    {
-      "title": "PS4版「ゲーム発展国++」「まんが一本道〆」など，全14タイトルがお得に。PlayStation Storeでカイロソフト作品のセールが開催中",
-      "url": "https://www.4gamer.net/games/999/G999903/20260924067/",
-      "summary": "カイロソフトは2026年9月23日，PSStoreで開催中の「PlayStationIndiesセール」「AutumnAdventuresセール」に参加し，同社が配信中のPS4用ソフトを対象とするセールを開始した。今回のセールでは「ゲーム発展国++」「まんが一本道〆」など，14タイトルをお得な価格で購入できる。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T13:16:21",
-      "image_url": "https://www.4gamer.net/games/999/G999903/20260924067/SS/002.jpg",
-      "body_ja": "| タイトル | 割引率 | セール価格 | リンク | \n|---|---|---|---|\n| ゲーム発展国++ | 50％オフ | 750円 （税込） | ストア | \n| まんが一本道〆 | 50％オフ | 750円 （税込） | ストア | \n| 探検わんぱく動物園 | 50％オフ | 750円 （税込） | ストア | \n| 開店デパート日記2 | 50％オフ | 750円 （税込） | ストア | \n| サッカークラブ物語 | 50％オフ | 750円 （税込） | ストア | \n| 発掘ピラミッド王国 | 50％オフ | 750円 （税込） | ストア | \n| アパレル洋品店 | 50％オフ | 750円 （税込） | ストア | \n| 財閥タウンズV | 50％オフ | 750円 （税込） | ストア | \n| 星になったカイロくん | 50％オフ | 750円 （税込） | ストア | \n| アストロ探検隊 | 50％オフ | 750円 （税込） | ストア |"
-    },
-    {
-      "title": "You Can Now Hatch & Raise Pet Chickens In Counter-Strike 2",
-      "url": "https://80.lv/articles/you-can-now-hatch-raise-pet-chickens-in-counter-strike-2/",
-      "summary": "<p>Just your average multiplayer FPS experience.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-24T13:08:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41739/images/6ab520e9d182a/cover_800x800.jpg"
-    },
-    {
-      "title": "シリーズ最新作「SILENT HILL: Townfall」，本日発売。深い霧と静寂が広がる街で，異形の者や不可解な現象に立ち向かう",
-      "url": "https://www.4gamer.net/games/983/G098335/20260924065/",
-      "summary": "コナミデジタルエンタテインメントは本日（2026年9月24日），サイコロジカルホラーシリーズ「SILENTHILL」の最新作「SILENTHILL:Townfall」を発売した。本作は，1996年のスコットランドを舞台に，主人公のサイモンが自身の過去にまつわる謎を追うホラーアクションアドベンチャーだ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T12:42:39",
-      "image_url": "https://www.4gamer.net/games/983/G098335/20260924065/SS/001.jpg",
-      "body_ja": "本作は，1996年のスコットランド，その沖合にある架空の島「セントアメリア」を舞台に，主人公のサイモン・オーデルが自身の過去にまつわる謎を追うホラーアクションアドベンチャーだ。灰色の海に流され，セントアメリアに漂着したサイモンは，深い霧と静寂が広がる街で，異形の者たちや不可解な現象に立ち向かうことになる。\nシリーズ初となる全編一人称視点でのゲームプレイや，定番のアイテム「ラジオ」に代わる新アイテム「CRTV」など，これまでの作品とは違う雰囲気を味わえる一作になっている。\n現在，リリース記念として，Amazonギフト券が当たるSNSキャンペーンが開催されている。詳細は次ページのリリースや公式Xで確認しておこう。"
-    },
-    {
-      "title": "ラピッドトリガー対応マウスに早くも改良版登場！ 「PRO X3 SUPERSTRIKE」などPROシリーズのゲーミングデバイスが発表に",
-      "url": "https://www.4gamer.net/games/023/G002336/20260924066/",
-      "summary": "2026年9月24日，ロジクールは，ゲーマー向け製品ブランド「LogicoolG」から，「PROシリーズ」のマウス，キーボード，ヘッドセット，マウスパッドを発表した。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T12:39:52",
-      "image_url": "https://www.4gamer.net/games/023/G002336/20260924066/SS/002.jpg",
-      "body_ja": "それに加え，PROシリーズ以外のゲーミングキーボードやマウス，マイクの新製品も発表している。\nPRO X3 SUPERSTRIKE\nワイヤレス＆ワイヤードマウスの新製品「PRO X3 SUPERSTRIKE LIGHTSPEED ワイヤレス ゲーミングマウス」（以下，PRO X3 SUPERSTRIKE）は，2026年2月に発売となった「PRO X2 SUPERSTRIKE」の改良版である。\nブラックとピンクのカラーバリエーションを用意しており，税込直販価格は3万2450円。10月15日発売の予定である。\n| PRO X3 SUPERSTRIKE ブラック |  | \n|---|---|\n| PRO X3 SUPERSTRIKE ピンク |  | \n|---|---|\nPRO X3 SUPERSTRIKEは，ラピッドトリガー対応キーボードのように，光学式メインボタンのアクチュエーションポイントを調整可能で，マウスでありながらラピッドトリガーを利用できるのが特徴だ。\nまた，クリックの押し込"
-    },
-    {
-      "title": "「バンドリ！アワーノーツ」が本日リリース。SRメンバーのミラクルチケットなど，豪華報酬を獲得できるログインキャンペーンが開催中",
-      "url": "https://www.4gamer.net/games/974/G097456/20260924061/",
-      "summary": "ブシロードは本日（2026年9月24日），スマートフォン向け新作リズムゲーム「バンドリ！アワーノーツ」をリリースした。「BanGDream!」プロジェクトの新作リズムゲームで，新バンド「millsage」「一家DumbRock!」が登場し，新たなゲームモードも楽しめる。リリースを記念したキャンペーンもスタートしている。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T12:11:07",
-      "image_url": "https://www.4gamer.net/games/974/G097456/20260924061/SS/010.jpg",
-      "body_ja": "本作は本作は「BanG Dream!」プロジェクトの新作リズムゲームだ。新バンド「millsage」「一家 Dumb Rock!」が登場するほか，リズムゲームパートには「Live2Dモード」「MVモード」「軽量モード」が用意される。さらに，最大5人で競う「撃奏ライブ」や，プレイを補助する「アシストモード」なども楽しめるのが特徴だ。\nストーリーでは，アニメで描かれた物語を追体験できるほか，その後を描く新規ストーリーも展開される。「millsage」「一家 Dumb Rock!」には完全新規ストーリーが用意され，サンジゲン（ニチカライン）が手がける新規アニメーションも挿入される\nリリース記念のキャンペーンとして，9月25日から5日連続で各バンドのカバー楽曲が追加される。ラインナップは以下のとおり。\n| 9月25日 15：00 | ちゅ、多様性。 | 夢限大みゅーたいぷ | \n| 9月26日 15：00 | 空に歌えば | MyGO!!!!! | \n| 9月27日 15：00 | Stella"
-    },
-    {
-      "title": "Watch 3D Artist Recreate 2D Anime Bus Scene In Blender",
-      "url": "https://80.lv/articles/watch-3d-artist-recreate-2d-anime-bus-scene-in-blender/",
-      "summary": "<p><span>Another time-lapse from Aniket Rawat.</span></p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-24T12:08:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41738/images/6ab512c5b7b5d/cover_800x800.jpg"
-    },
-    {
-      "title": "第20回アジア競技大会のeスポーツ全11種目にテンセントの「ECS」を導入。競技運営を技術面から支援",
-      "url": "https://www.4gamer.net/games/991/G999107/20260924062/",
-      "summary": "",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T12:06:24",
-      "image_url": "https://www.4gamer.net/games/991/G999107/20260924062/SS/001.jpg",
-      "body_ja": "| テンセント「Esports Competition Solution（ECS）」，第20回アジア競技大会のeスポーツ競技を技術面から支援 |  |  |  | \n| 配信元 | Tencent | 配信日 | 2026/09/24 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n第20回アジア競技大会のeスポーツ競技を技術面から支援\n第20回アジア競技大会では、eスポーツが2大会連続で正式なメダル競技として実施されます。アジア競技大会史上最大規模となる今回のeスポーツ競技プログラムは、9月22日から10月2日まで、愛知県国際展示場ホールDで開催されます。6つのゲームカテゴリーにわたる11種目の試合が実施され、複数のゲームパブリッシャーが参加し、異なるゲーム、デバイス、技術環境を一つの総合競技大会の枠組みの中で運用することになります。\nこれほどの規模のeスポーツ競技を運営するには、さまざまな技術・運営要件を統合して管理することが求められます。\n異なるゲームエンジン、バージ"
-    },
-    {
-      "title": "Desirable Patina: How to Make Realistic Rust in 3D",
-      "url": "https://80.lv/articles/desirable-patina-how-to-make-realistic-rust-in-3d/",
-      "summary": "<p>Loic Anquetil explains why, with rust, studying the physical complexity of the material comes before anything else, shows that Substance 3D Designer is not as complicated as you might think, and demonstrates how his exploratory approach helped him create a diverse set of realistic rust materials.",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-24T12:06:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41668/images/6ab4397274c97/cover_800x800.jpg"
-    },
-    {
-      "title": "「20周年記念『龍が如く』冠婚贈祭展 -極-」，チケットを販売中",
-      "url": "https://www.4gamer.net/games/947/G094758/20260924060/",
-      "summary": "",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T12:01:21",
-      "image_url": "https://www.4gamer.net/games/947/G094758/20260924060/SS/001.jpg",
-      "body_ja": "| 「20周年記念『龍が如く』冠婚贈祭展 -極-」 |  |  |  | \n| 配信元 | グラウンディングラボ | 配信日 | 2026/09/24 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n9月22日(火・祝)18:00よりチケット販売開始！\n春日一番ゆかりの地・横浜で、11月6日(金)〜11月29日(日)開催2026年11月6日（金）から11月29日（日）まで、YOKOHAMA COASTにて開催する「20周年記念『龍が如く』冠婚贈祭展 -極-」のチケットを、9月22日（火・祝）18:00より販売開始いたしました。\n本展は、『龍が如く』シリーズ20周年を記念して開催された「冠婚葬祭展」のリバイバル企画です。前回の展示や体験を受け継ぎながら、「葬」に代わる新たなテーマとして「贈」エリアが登場。1年の締めくくりに大切な人へ真心を贈るお歳暮文化をモチーフに、『龍が如く』らしいギフト体験をお届けします。\nまた、成人式をモチーフにした「冠」スペシャルパッケージでは、『龍が"
-    },
-    {
       "title": "Irish Game Fund expands with additional funding pathways",
       "url": "https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways",
       "summary": "Developers in the region will now be able to take advantage of a Development Fund, Prototype Fund, and Release Fund.",
@@ -329,16 +409,6 @@
       "lang": "en",
       "published": "2026-09-24T11:10:22",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt5e03b03e4af50c6e/6ab5077d81d60e2700fd80e4/IMIRT.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "TBSF Makes All Their Sonic the Hedgehog Blender Rigs Free Forever",
-      "url": "https://80.lv/articles/tbsf-makes-all-their-sonic-the-hedgehog-blender-rigs-free-forever/",
-      "summary": "<p>This includes 7 rigs you can play around with.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-09-24T10:52:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41731/images/6ab4dd8116107/cover_800x800.jpg"
     },
     {
       "title": "映画『バイオハザード』",
@@ -391,16 +461,6 @@
       "image_url": "https://sm.ign.com/ign_jp/gallery/f/fire-emble/fire-emblem-fortunes-weave-gameplay-screenshots_zg84.jpg"
     },
     {
-      "title": "『ファイアーエムブレム 万紫千紅』は最初から最後まで完食しなければならないコース料理ではなく、「全種類の料理が並んだビュッフェ」と捉えるのが正解",
-      "url": "https://jp.ign.com/fire-emblem-fortunes-weave/84294/fire-emblem-fortunes-weave-review",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/review/f/fire-emble/fire-emblem-fortunes-weave-review_htkn.640.jpg\" vspace=\"5\" width=\"120\" />運命は勇者に味方する。\n<p><strong>この記事は2026年9月16日掲載の<a href=\"https://jp.ign.com/fire-emblem-fortunes-weave/84294/fire-emblem-fortunes-weave-review\">I",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-24T03:53:11",
-      "image_url": "https://sm.ign.com/ign_jp/review/f/fire-emble/fire-emblem-fortunes-weave-review_htkn.jpg"
-    },
-    {
       "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
       "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
       "summary": "Discord says it has built an age estimation model based on 'account signals' to determine an user's age group.",
@@ -449,68 +509,8 @@
       "lang": "en",
       "published": "2026-09-22T14:34:35",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltdf8edfae15e34022/6ab297a7d4422d42e3159b71/BSG_PUBLISHING_02.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment",
-      "url": "https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment",
-      "summary": "Activision is developing the next Halo title, and Ninja Theory is being shuttered.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-09-22T14:18:45",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte2c3c07f0759c817/6ab290061bc9322107b1d7d9/Xbox_Header_2.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "'Do not': Rockstar outlines modding rules before GTA VI touches down",
-      "url": "https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down",
-      "summary": "Official Rockstar storylines, characters, and other elements from the studio's 'established continuity' are off-limits.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-09-22T12:33:14",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltfc3e2c968d67cd06/6ab27759fc43822973907454/GTA_Mod.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "AIと共に大作ゲームを作れる時代？Gear Zero開発者インタビュー【PR】",
-      "url": "https://jp.ign.com/games/84285/aigear-zeropr",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/01-c11-alaya-lab-11_ybeg.640.png\" vspace=\"5\" width=\"120\" />\nAIと会話して簡単にゲームが作れるAlaya Labによる「Gear Zero」。このゲームに特化したAIプラットフォームについて、東京ゲームショウ2026にて開発者が詳しく語ってくれた。",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-21T12:35:47",
-      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/01-c11-alaya-lab-11_ybeg.png"
-    },
-    {
-      "title": "Silent Hill: Townfall Video Review",
-      "url": "https://jp.ign.com/silent-hill-townfall/84288/silent-hill-townfall-video-review",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/video/s/silent-hil/silent-hill-townfall-video-review_44un.640.jpg\" vspace=\"5\" width=\"120\" />Silent Hill: Townfall reviewed by Tristan Ogilvie on PlayStation 5. Also available on PC. \"Off the back of the more action-oriented sideste",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-21T08:42:02",
-      "image_url": "https://sm.ign.com/ign_jp/video/s/silent-hil/silent-hill-townfall-video-review_44un.jpg"
-    },
-    {
-      "title": "『SILENT HILL: Townfall』レビュー シリーズの新境地、過酷なステルスと難解な謎解きがプレイヤーを「途方に暮れさせる」傑作",
-      "url": "https://jp.ign.com/silent-hill-townfall/84283/silent-hill-townfall",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/photo/default/silent-hill-townfall-pc-blogroll-1785757679778_u75v.640.jpg\" vspace=\"5\" width=\"120\" />霧に沈んだスコットランドの孤島を舞台に、先の読めないストーリーが展開する\n<p>灰色の海を漂い、スコットランドの冷たい孤島セントアメリアに漂着した男、サイモン。「助けてほしい」「状況を正してほしい」と懇願する謎の声だけを頼りに、彼は深い霧と静寂に閉ざされた小さな",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-21T07:05:09",
-      "image_url": "https://sm.ign.com/ign_jp/photo/default/silent-hill-townfall-pc-blogroll-1785757679778_u75v.jpg"
-    },
-    {
-      "title": "小島監督、PlayStationが『PHYSINT』への支援を打ち切って以来初となる独占インタビューで、ソニーとの間に何が起きたのかを明かす",
-      "url": "https://jp.ign.com/hideo-kojima/84282/playstationphysint",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/news/h/hideo-koji/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-fi_k1bq.640.jpg\" vspace=\"5\" width=\"120\" />「『P.T.』のときと同じことはしたくなかったんです」\n<p>2026年6月、ソニーは小島秀夫氏にZoom通話への参加を依頼した。当時、同氏はXBOX向けゲーム『OD』とPlayStation向けゲーム『PHYSINT』の制作",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-09-20T12:31:50",
-      "image_url": "https://sm.ign.com/ign_jp/news/h/hideo-koji/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-fi_k1bq.jpg"
     }
   ],
-  "last_updated": "2026-09-25T09:15:11.927001+09:00",
+  "last_updated": "2026-09-26T09:21:18.539884+09:00",
   "count": 50
 }
