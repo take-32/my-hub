@@ -1,19 +1,205 @@
 {
   "articles": [
     {
-      "title": "大画面なのに約530g！ ペンも付属する12.1型タブレット「Lenovo Idea Tab Plus」",
-      "url": "https://ascii.jp/elem/000/004/437/4437416/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530285/s/5d9c54beaaeacc87.png\" width=\"60\" />レノボの「Lenovo Idea Tab Plus」は、12.1型2.5Kディスプレーを搭載しながら約530gに抑えたAndroidタブレット。Lenovo Tab Penも付属し、動画視聴から手書きメモ、勉強まで幅広く活用できる。</p><br clear=\"left\" />",
+      "title": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応",
+      "url": "https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/",
+      "summary": "NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-26T22:00:00",
+      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2609/27/2000001764/10007544/2048",
+      "body_ja": "NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応\nNTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。\n「料金変更」「プラン変更」など、顧客からの問い合わせは、必ずしも具体的な文章で寄せられるとは限らない。短い言葉だけでは顧客が何を求めているのかを特定しにくく、正確な情報を案内しようとすると説明が長くなる。結果として、顧客自身が必要な手続きや情報を探し出すまでに手間がかかる。\n特に通信サービスでは、契約内容や料金プラン、適用条件などが複雑化している。オンライン手続きの選択肢が増える一方で、顧客が前提を省いたまま質問しても、適切な情報へ導ける問い合わせ対応の仕組みが求められている。\nこうした課題に対し、PKSHA Technology（以下、PKSHA）は、NTTドコモの契約・料金手続き窓口「オンライン"
+    },
+    {
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-09-26T21:02:06",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612"
+    },
+    {
+      "title": "AIエージェントでリサーチを効率化！おすすめツール10選と使い方・注意点",
+      "url": "https://ainow.ai/2026/09/27/278392/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e3%2583%25aa%25e3%2582%25b5%25e3%2583%25bc%25e3%2583%2581%25e3%2582%2592%25e5%258a%25b9%25e7%258e%2587%25e5%258c%2596%25ef%25bc%2581%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%2581%25e3%2583%2584%25e3%2583%25bc",
+      "summary": "<p>&#24066;&#22580;&#35519;&#26619;&#12420;&#31478;&#21512;&#35519;&#26619;&#12398;&#12383;&#12403;&#12395;&#26908;&#32034;&#12479;&#12502;&#12434;&#20309;&#21313;&#26522;&#12418;&#38283;&#12365;&#12289;&#35501;&#12435;&#12391;&#12399;&#12414;&#12392;&#12417;&#30452;&#12377;&#20316;&#26989;&#12395;&",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-09-26T15:33:06",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-16.jpg",
+      "body_ja": "市場調査や競合調査のたびに検索タブを何十枚も開き、読んではまとめ直す作業に半日以上かかっている。本記事では、リサーチに強いAIエージェント10選の比較と、誤情報を防ぎながら調査を任せる手順を中心に解説します。\nAIエージェントを使えば、調査計画の立案から情報収集、出典付きのレポート作成までを数分〜数十分で任せられます。ChatGPTやGeminiに搭載された「Deep Research」は、その代表的な機能です。\nただし、ツールごとに得意な調査は異なり、存在しない数値や古い情報が混ざることもあります。選び方と検証の手順を知らないまま使うと、誤ったデータを資料に載せてしまうでしょう。\n本記事では、ChatGPTやPerplexityなど主要10ツールを5つの視点で比較します。あわせて、調査目的別の使い分けとコピーして使えるプロンプト例も紹介します。\n読み終えるころには、自分の調査に合うAIエージェントを選び、今日からリサーチ時間を短縮できる状態になっているはずです。まずは従来の検索との違い"
+    },
+    {
+      "title": "AIエージェントで資料作成を自動化！おすすめ10選と使い方を解説",
+      "url": "https://ainow.ai/2026/09/27/278389/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e8%25b3%2587%25e6%2596%2599%25e4%25bd%259c%25e6%2588%2590%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25ef%25bc%2581%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%258110%25e9%2581%25b8",
+      "summary": "<p>&#25552;&#26696;&#26360;&#12420;&#20250;&#35696;&#36039;&#26009;&#12389;&#12367;&#12426;&#12395;&#27598;&#36913;&#20309;&#26178;&#38291;&#12418;&#21462;&#12425;&#12428;&#12289;ChatGPT&#12395;&#27083;&#25104;&#12434;&#20986;&#12373;&#12379;&#12390;&#12418;&#32080;&#23616;&#12473;&#12521;&#12452;&#",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-09-26T15:11:22",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-15.jpg",
+      "body_ja": "提案書や会議資料づくりに毎週何時間も取られ、ChatGPTに構成を出させても結局スライド化は自分でやっている。本記事では、資料作成に使えるAIエージェント10選の比較と、資料の種類別プロンプト例を中心に、初稿をAIに任せるための進め方を解説します。\nAIエージェントを使えば、情報収集から構成案、編集できるPowerPointファイルの出力までを一続きで任せられます。チャットで文章を作るだけの使い方とは異なり、スライドの形まで仕上げてくれる点が特徴です。\nただし、ツール選びを誤ると、画像として貼り付けられて直せないスライドや、根拠のない数値が入った資料が出てきます。手直しに追われ、かえって時間を失うケースも少なくありません。\n本記事では、CopilotやClaude、Gensparkなど主要10ツールを5つの視点で比較し、実務で使えるプロンプト例まで紹介します。\n読み終えるころには、自社の環境に合うAIエージェントを選び、明日からの資料作成で初稿を任せられる状態になっているはずです。まずは"
+    },
+    {
+      "title": "ゲーミングPCなど全10商品がお得に！ 最大18万円オフの9月27日限定セール",
+      "url": "https://ascii.jp/elem/000/004/437/4437090/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4529909/s/4b83aeedd011f4f0.png\" width=\"60\" />パソコンショップSEVENが9月27日限定で24時間セールを実施し、最新のゲーミングPCやデスクトップPC全10商品を最大18万円オフで販売する。ZEFT G62CB、Livrra Essential 180、ZEFT Z54Aなどが対象で、各製品は送料無料だ。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-09-26T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/25/4530285/s/5d9c54beaaeacc87.png"
+      "published": "2026-09-26T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/25/4529909/s/4b83aeedd011f4f0.png"
+    },
+    {
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-09-26T14:00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667"
+    },
+    {
+      "title": "20万円未満でゲーミングPCが欲しい人！ まだまだ現役のRTX 4050搭載16型ノートが狙い目だ",
+      "url": "https://ascii.jp/elem/000/004/437/4437430/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530302/s/1eff50742560cac0.jpg\" width=\"60\" />Amazon.co.jpにて、ASUSの16型ゲーミングノートPC「TUF Gaming A16 FA607NUQ」が販売中だ。参考価格は23万9800円だが、タイムセールにより21％オフの18万9800円で購入できる（9月25日時点）。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-26T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/25/4530302/s/1eff50742560cac0.jpg"
+    },
+    {
+      "title": "PCやXboxで大活躍！豪華特典が付いた「GameSir G7 Pro」ゼンゼロモデルがAmazonで販売中",
+      "url": "https://ascii.jp/elem/000/004/437/4437356/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530209/s/6b0a4c3fb950ad40.jpg\" width=\"60\" />Amazon.co.jpでXbox／PC／Android向けゲームコントローラー「GameSir G7 Pro（ゼンレスゾーンゼロコラボモデル）」が売れています。高耐久TMRスティックなどを備え、快適な操作を実現します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-26T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/25/4530209/s/6b0a4c3fb950ad40.jpg"
+    },
+    {
+      "title": "画質なら4K、速さなら320Hz！ 両方選べるREGZAゲーミングモニター「RM-G278R」が10万4045円",
+      "url": "https://ascii.jp/elem/000/004/437/4437094/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/18/4527591/s/c75dcbf234e4257f.jpg\" width=\"60\" />REGZAの27型ゲーミングモニター「RM-G278R」がAmazonで割引対象。参考価格118,800円から12％オフの104,045円で販売中。4K 160Hz／フルHD 320Hzを切り替えられるほか、90W給電対応USB-CやKVM機能も備える。画質と速さを使い分けられるモデルだ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-26T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/18/4527591/s/c75dcbf234e4257f.jpg"
+    },
+    {
+      "title": "ゲーム実況や動画編集もこなせる高コスパRTX 5050搭載の15.6型ゲーミングノートPCを22万円未満で発見",
+      "url": "https://ascii.jp/elem/000/004/437/4437429/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530300/s/53215a68ba76d850.jpg\" width=\"60\" />Amazon.co.jpにて、GALLERIAの15.6型ゲーミングノートPC「GALLERIA NPC5L-R55-G5」が販売中だ。インテル「Core i5-14450HX」とNVIDIA「GeForce RTX 5050」を搭載したモデルで、価格は21万8080円。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-26T10:30:00",
+      "image_url": "https://ascii.jp/img/2026/09/25/4530300/s/53215a68ba76d850.jpg"
+    },
+    {
+      "title": "6000円のリングライト一体型カメラ、DMM.make「DKS-CAM3G」で顔面“盛れすぎて”大変です",
+      "url": "https://ascii.jp/elem/000/004/435/4435366/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/16/4526410/s/14b126cce986da67.jpg\" width=\"60\" />Elgato「Key Light Air MK.2」は、全配信者に触ってほしいですね。手元でライトを操れる神ガジェットです。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-26T10:20:00",
+      "image_url": "https://ascii.jp/img/2026/09/16/4526410/s/14b126cce986da67.jpg"
+    },
+    {
+      "title": "手元でライトを操れる神ガジェット、全配信者に触ってほしいElgato「Key Light Air MK.2」",
+      "url": "https://ascii.jp/elem/000/004/435/4435365/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/16/4526399/s/76fa4df8466ab94e.png\" width=\"60\" />Elgato「Key Light Air MK.2」は、全配信者に触ってほしいですね。手元でライトを操れる神ガジェットです。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-26T10:10:00",
+      "image_url": "https://ascii.jp/img/2026/09/16/4526399/s/76fa4df8466ab94e.png"
+    },
+    {
+      "title": "4K/160Hz・フルHD/320Hzを切り替えられる27型ゲーミングディスプレー、タイムセールで15％オフ",
+      "url": "https://ascii.jp/elem/000/004/437/4437428/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530298/s/b9366bad3034472e.jpg\" width=\"60\" />Amazon.co.jpにて、JAPANNEXTの27型ゲーミングディスプレー「JN-IPS27G1632UF」が販売中だ。参考価格は4万8980円だが、タイムセールにより15％オフの4万1625円で購入できる（9月25日時点）。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-26T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/25/4530298/s/b9366bad3034472e.jpg"
+    },
+    {
+      "title": "「こういうの好きかもしれない」宇野まやの2nd DVDは、強い刺激を求める「彼氏」との南国旅行！",
+      "url": "https://ascii.jp/elem/000/004/436/4436540/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/20/4528487/s/3cc21ff539c6e1c2.jpg\" width=\"60\" />看護師として働きながらグラビア活動中の宇野まや（うの・まや）さんが、2nd DVD「彼女の密肌に触れて…」の発売記念イベントを8月29日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-26T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/20/4528487/s/3cc21ff539c6e1c2.jpg"
+    },
+    {
+      "title": "デカすぎ、ボタン多すぎ！ でも使いやすい！ 「Stream Deck + XL」は左手デバイス好きの理想型",
+      "url": "https://ascii.jp/elem/000/004/435/4435364/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/16/4526392/s/82dcd5565b35debc.jpg\" width=\"60\" />「Stream Deck + XL」は左手デバイス好きの理想型と言ってもいいでしょうね。大きくて、ボタン多くて、使いやすい！ </p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-09-26T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/16/4526392/s/82dcd5565b35debc.jpg"
+    },
+    {
+      "title": "「AIトークンコスト増を44％抑制」できる可能性も　高性能モデルの“使い過ぎ”、どう減らす？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html",
+      "summary": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-26T08:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2609/26/cover_news011.jpg",
+      "body_ja": "生成AIやAIエージェントの活用が広がる中、企業のAI利用コストも膨らんでいる。AI活用を減らすことなく、増加するコストを抑えるには何を見直せばいいのか。アクセンチュアの調査から、その実態が見えてきた。\n生成AIやAIエージェントを業務に組み込む動きが広がる中、企業にとってAIの利用コストをどう管理するかが新たな課題になりつつある。\nアクセンチュアは2026年9月17日、AIトークンの利用とコストに関する調査「The CIO’s Guide to AI Tokenomics」の結果を発表した。\n調査は2026年7月、日本を含む世界17カ国を対象に実施した。対象者は年間売上高10億ドルを超える企業のCIO（最高情報責任者）、CTO（最高技術責任者）、CFO（最高財務責任者）、CEOなど、AI関連支出の意思決定に直接関与する経営層750人。併せて、米国労働省の職業情報データベース「O*NET」に含まれる9368件の職務タスクを分析した。\n調査によると、企業はAI関連予算の平均25％をトークン"
+    },
+    {
+      "title": "「1週間の開発タスク」でAIの限界を検証　Googleが「Android Bench 2.0」公開",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news013.html",
+      "summary": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-26T04:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2609/26/cover_news013.jpg",
+      "body_ja": "Googleは、AIモデルやエージェントのコーディング能力を測る「Android Bench 2.0」を公開した。エンジニアが数日を要する複雑な長期タスクを課す仕様に刷新。最高通過率は従来の約91％から約28％に急落した。\nGoogleは2026年9月17日（米国時間）、大規模言語モデル（LLM）やAIエージェントのAndroid開発能力を評価するベンチマークの最新版「Android Bench 2.0」を公開した。エンジニアが数日から1週間ほどかけて取り組む複雑な長期タスク（Long-Horizon Tasks：LHT）を課す仕様へと大幅に刷新した。\n従来のタスクにおける最高通過率は約91％に達していたが、今回の長期タスク群における最高通過率は約28％へと急落した。同社はベンチマークの基盤を、LLM評価の枠組みである「Harbor」フレームワークに適合させるとともに、モデル単体だけでなく開発環境と組み合わせたAIエージェントの評価も導入している。\n従来の「Android Bench」や"
+    },
+    {
+      "title": "「Codex」で1時間にわたる障害→使用量リセットへ",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/",
+      "summary": "「私たちは再び稼働中で、CodexとChatGPT全体で全有料ユーザーの使用制限をリセットするよ」",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-09-26T01:27:56",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2609/26/2000001774/10007603/2048",
+      "body_ja": "Share\n    \n「Codex」で1時間にわたる障害→使用量リセットへ\n                                公開\n                                    \n                            \n                            \n                                更新\n                                    \n                            \n                        更新：2026年9月26日午前10時20分\n使用量リセットについて追記し、見出しも修正しました。\n米OpenAIのAIコーディングツール「Codex」で日本時間9月26日午前8時前から、全機能が使えなくなる障害が約1時間にわたり発生していたが、8時54分に復旧した。ChatGPTなど他の同社サービスに影響はなかっ"
+    },
+    {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-09-26T01:08:57",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200"
     },
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "summary": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
@@ -62,16 +248,6 @@
       "published": "2026-09-25T22:00:00",
       "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2609/26/2000001725/10007410/2048",
       "body_ja": "資料作成が月32時間から4時間に トラコムが生成AIで「月28時間削減」した方法\n生成AIを導入しても、活用が一部の従業員の“個人技”にとどまれば、効果を組織全体へ広げるのは難しい。トラコムでは、現場の工夫を仕組み化して共有。資料作成や月次処理などを効率化し、業務時間の削減につなげている。\n生成AIを導入しても、使い方が個人の工夫に限定されれば、業務効率化の効果は担当者のスキルに左右される。企業が継続的に成果を上げるには、現場で生まれた活用方法を仕組み化し、他の従業員も使える形で共有することが重要だ。\n企業の採用支援を手掛けるトラコムでは、リサーチや資料作成、定型的な確認作業などに生成AIを取り入れ、日々の業務で継続的に活用できる仕組みを整えた。2026年7月17日時点では、資料作成の作業時間を月32時間から4時間に短縮し、月約28時間の削減につなげたという。\n「生成AIを使う」から「業務そのものを変える」へ\nトラコムでは、リサーチや資料作成、定型的な確認作業などに手作業が多く、担当者に"
-    },
-    {
-      "title": "最大67W出力で6台同時充電！ 薄型電源タップ「Anker Nano Charging Station」は出張や旅行にもオススメ",
-      "url": "https://ascii.jp/elem/000/004/437/4437341/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530188/s/16861027727826a9.jpg\" width=\"60\" />Amazon.co.jpで「Anker Nano Charging Station」が売れています。67Wの急速充電にも対応した6-in-1の電源タップです。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-25T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/25/4530188/s/16861027727826a9.jpg"
     },
     {
       "title": "Meta opens early access program for new Muse features",
@@ -124,86 +300,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200"
     },
     {
-      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-      "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-09-25T17:29:46",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/supabase-2279843922.jpg?resize=1200,800"
-    },
-    {
-      "title": "Astra and Opus just passed Turing’s other test",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "summary": "Frontier AI models are finishing Alan Turing's World War II codebreaking work.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-09-25T17:24:36",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-10.08.39-AM.png?w=791"
-    },
-    {
-      "title": "休眠中の「A9」ファンに再起動の時が来たっ!!＝大型改良版「A列車で行こう9 PRIME LINE」発表＝線路・道路の刷新や16両編成に対応で12月発売!!",
-      "url": "https://ascii.jp/elem/000/004/437/4437433/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/26/4530336/s/25b5c9efd17b6e2f.png\" width=\"60\" />アートディンクは都市開発鉄道シミュレーション「A列車で行こう9」シリーズの大幅改良版を発表しました</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-25T17:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/26/4530336/s/25b5c9efd17b6e2f.png"
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-09-25T16:16:52",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?resize=1200,671"
-    },
-    {
-      "title": "9月26日限定セールで最新ゲーミングPCやデスクトップPCを最大16万5000円オフ",
-      "url": "https://ascii.jp/elem/000/004/436/4436704/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/24/4529297/s/bf7295661acd01a2.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、9月26日限定で最新ゲーミングPCやデスクトップPCを最大165,000円オフで販売する24時間セールを実施する。Ryzen 9 9950X3D2搭載モデルやGeForce RTX 5090搭載モデルなど全10商品が対象となる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-25T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/24/4529297/s/bf7295661acd01a2.png"
-    },
-    {
-      "title": "純正XBOXワイヤレスコントローラーが19％オフなのでタイムセール中に押さえておくべし",
-      "url": "https://ascii.jp/elem/000/004/437/4437419/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530287/s/9ebe504f9538653c.jpg\" width=\"60\" />Amazon.co.jpにて、マイクロソフトの「【純正品】XBOX ワイヤレス コントローラー (カーボンブラック)」が販売中だ。参考価格は8910円だが、タイムセールにより19％オフの7200円で購入できる（9月25日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-25T13:30:00",
-      "image_url": "https://ascii.jp/img/2026/09/25/4530287/s/9ebe504f9538653c.jpg"
-    },
-    {
-      "title": "スティックのテンション調整可能なXBOXゲームコントローラー「VADER5 S」はいかが？",
-      "url": "https://ascii.jp/elem/000/004/437/4437417/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530283/s/6c1bc077233fd096.jpg\" width=\"60\" />Amazon.co.jpにて、FLYDIGIのXBOX用有線ゲームコントローラー「VADER5 S」が販売中だ。価格は9072円。ホールエフェクトセンサースティックを採用し、スティックのテンション調整も可能。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-25T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/25/4530283/s/6c1bc077233fd096.jpg"
-    },
-    {
-      "title": "Switch 2用ヘッドセットを安さで選ぶならコレ！ 3000円台で手に入って2年保証も",
-      "url": "https://ascii.jp/elem/000/004/437/4437399/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530232/s/62228f3d7a7d8817.jpg\" width=\"60\" />Amazon.co.jpにて、PowerAの有線ゲーミングヘッドセット「パワーエー 有線ヘッドセット for Nintendo Switch 2 – ブラック」が販売中だ。価格は3455円。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-25T12:30:00",
-      "image_url": "https://ascii.jp/img/2026/09/25/4530232/s/62228f3d7a7d8817.jpg"
-    },
-    {
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an impro",
@@ -212,36 +308,6 @@
       "lang": "en",
       "published": "2026-09-25T12:10:00",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/polygraph2a.jpg?resize=1200,600"
-    },
-    {
-      "title": "Ryzen 7 7800X3D＋RTX 5070で36万円台！ STORMの「TGS限定モデル」は在庫限り",
-      "url": "https://ascii.jp/elem/000/004/437/4437400/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530253/s/7150612a31b02194.png\" width=\"60\" />STORMから、東京ゲームショウ2026限定のゲーミングPCが登場。Ryzen 7 7800X3DとGeForce RTX 5070、32GBメモリーを搭載し、ホワイトのピラーレスケースを採用。価格は36万4800円で、在庫がなくなり次第終了となる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-25T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/25/4530253/s/7150612a31b02194.png"
-    },
-    {
-      "title": "純正より多機能でライセンス取得済のSCUF製PS5ゲームコントローラーを発見",
-      "url": "https://ascii.jp/elem/000/004/437/4437360/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4530226/s/14de4d34b319ccd8.jpg\" width=\"60\" />Amazon.co.jpにて、SCUFのPlayStation 5用ワイヤレスコントローラー「SCUF OMEGA（ライトグレー）」が販売中だ。価格は3万7980円。公式ライセンス取得済み。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-25T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/25/4530226/s/14de4d34b319ccd8.jpg"
-    },
-    {
-      "title": "Microsoftが次世代「Copilot」を発表=「Home」「Code」「Autopilot」でAI時代の働き方を再定義",
-      "url": "https://ascii.jp/elem/000/004/437/4437076/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/25/4529895/s/6a0f7112e263c0af.png\" width=\"60\" />次世代「Microsoft Copilot」は従来のオフィスツールと連携しつつ、生成AIとの対話から自律的なタスク実行、ノーコードでのアプリ開発までを一体化させた新しいプラットフォームへと進化します</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-09-25T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/25/4529895/s/6a0f7112e263c0af.png"
     },
     {
       "title": "AIエージェントによるプログラミングとは？できること・ツール7選・始め方",
@@ -317,50 +383,6 @@
       "published": "2026-09-24T23:00:00",
       "image_url": "https://image.itmedia.co.jp/ait/articles/2609/25/cover_news055.png",
       "body_ja": "TypeSafe AIは、自動化に特化した新AIモデル「Jev」の早期アクセス提供を開始した。文字列生成を廃止し、従来のLLM比で最大200倍の高速化とハルシネーション排除を実現したという。\n米国AIスタートアップのTypeSafe AIは2026年9月15日（現地時間）、自動化に特化したAIモデル「System One Model」を発表し、第1弾となるモデル「Jev」の早期アクセス提供を開始した。「ChatGPT」の基盤技術開発に携わった元OpenAIの研究者で、TypeSafe AI創業者のディオゴ・アルメイダ氏が主導した。\n「System One Model」という名称は、心理学者ダニエル・カーネマン氏の著書『ファスト＆スロー』で提唱された直感的で高速な「システム1」（速い思考）に由来する。\n「Jev」は、蒸気機関の効率化が石炭消費拡大を招いた「ジェボンズのパラドックス」を提唱した経済学者William Stanley Jevons（ウィリアム・スタンレー・ジェヴォンズ）氏にちな"
-    },
-    {
-      "title": "AI内製化、9割超が「停滞、頓挫」を経験　つまずく原因は“技術”ではなかった",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/25/news049.html",
-      "summary": "TWOSTONE&amp;Sonsが、企業のAI内製化に関する実態調査の結果を公表。AI内製化の推進責任者の9割以上が競合との差に危機感を抱き、社内主導プロジェクトの停滞や頓挫を経験している実態が明らかとなった。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2609/25/cover_news049.jpg",
-      "body_ja": "TWOSTONE&Sonsが、企業のAI内製化に関する実態調査の結果を公表。AI内製化の推進責任者の9割以上が競合との差に危機感を抱き、社内主導プロジェクトの停滞や頓挫を経験している実態が明らかとなった。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nTWOSTONE&Sonsは2026年8月31日、従業員300人以上の企業において全社的にAIやDX（デジタルトランスフォーメーション）の推進に取り組む経営層およびAI／DX推進責任者111人を対象に実施した「企業のAI内製化に関する『限界』の実態調査」の結果を公表した。\n同調査の結果によると、自社のAI活用への対応について、競合他社や業界全体の動きと比べた際に危機感が「かなりある」と答えた割合は35.1％、「ややある」と答えた割合は59.5％となったという。\n危機感を抱く層105人に対してさらにその内容を尋ねたところ、「競合他社にAI活用で後れを取ること」が69.5％、「業界全体の変化に自社が対応できないこと」が6"
-    },
-    {
-      "title": "ソフトPLCがAIの「道具」に、簡単導入のPLCドラレコカメラも",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2609/25/news058.html",
-      "summary": "アイ・エル・シーは「産業オープンネット展2026」において、設備監視用ソリューションや組み込みソフトウェアPLCを紹介した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T22:15:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2609/25/l_mn0925_ILC_001.jpg",
-      "body_ja": "アイ・エル・シーは「産業オープンネット展2026」において、設備監視用ソリューションや組み込みソフトウェアPLCを紹介した。\nアイ・エル・シーは「産業オープンネット展2026」（2026年9月11日、東京都立産業貿易センター 浜松町館）において、設備監視用のカメラソリューションや組み込みソフトウェアPLCを紹介した。\n今回展示した設備監視用ソリューションは、i-PRO製のAI（人工知能）カメラにアイ・エル・シーのソフトウェアアプリ「Connected PLC」をインストールすることで、既存のPLCのプログラムを変更せずに、ドライブレコーダーのようにPLCのアラームと同期した現場の映像記録が可能になるソリューションだ。\nチョコ停発生前後の映像を記録することで原因の特定に活用したり、製造ラインで危険を検知した前後の映像を残して現場改善の材料にしたりすることができる。簡単に設置できるため、新規設備の立ち上げ時や、現場で問題や異常が発生した時だけ取り付けて、ピンポイントで状況を録画し、確認するこ"
-    },
-    {
-      "title": "AI同士が取引する時代、「相手は誰か」をどう確認する？　GMOが信頼基盤を実証",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/25/2000001724/",
-      "summary": "AIエージェントが企業の枠を超えて商品検索や発注、決済まで担う時代には、「誰が操作しているのか」「どこまで権限があるのか」を確認する仕組みが不可欠だ。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T22:00:00",
-      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2609/25/2000001724/10007408/2048",
-      "body_ja": "AI同士が取引する時代、「相手は誰か」をどう確認する？ GMOが信頼基盤を実証\nAIエージェントが企業の枠を超えて商品検索や発注、決済まで担う時代には、「誰が操作しているのか」「どこまで権限があるのか」を確認する仕組みが不可欠だ。\nAIエージェントが商品を探し、発注や決済まで担う「AIエージェント時代」が現実味を帯びる一方で、企業の枠を超えてAI同士が直接取引するには、新たな課題がある。接続してきたAIエージェントが本当にどの企業に所属し、どこまでの取引権限を持っているのか、さらにその取引を誰が承認したのかを、相手企業のシステムに個別に問い合わせることなく確認できる仕組みが必要になるからだ。\nこうした課題に対し、GMOグローバルサイン・ホールディングスとVESS Labsは、企業を越えて取引するAIエージェントの身元や権限を確認する「信頼基盤」の共同実証を2026年4月～9月にかけて実施した。異なる企業が独立して開発した買い手側・売り手側のAIエージェントを接続し、相互の身元・権限確認か"
-    },
-    {
-      "title": "ChatGPTやCopilotから直接翻訳　「DeepL」のMCP対応で多言語業務はどう変わる？",
-      "url": "https://kn.itmedia.co.jp/kn/article/2609/25/2000001723/",
-      "summary": "多言語を扱う業務では、翻訳のたびにAIと翻訳サービスを行き来する手間がある。DeepLはMCPに対応し、ChatGPTやMicrosoft Copilotなどから直接翻訳できる仕組みを提供する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-24T22:00:00",
-      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2609/25/2000001723/10007406/2048",
-      "body_ja": "ChatGPTやCopilotから直接翻訳 「DeepL」のMCP対応で多言語業務はどう変わる？\n多言語を扱う業務では、翻訳のたびにAIと翻訳サービスを行き来する手間がある。DeepLはMCPに対応し、ChatGPTやMicrosoft Copilotなどから直接翻訳できる仕組みを提供する。\nAIアシスタントを文書作成や情報収集に生かす企業が増える一方で、多言語を伴う業務では、生成したテキストを別の翻訳サービスへコピー＆ペーストしたり、翻訳後の文書を再びAIアシスタントへ戻したりする手間が残っている。こうした「AIと翻訳ツールの分断」を解消する手段として、外部サービスとAIアシスタントを直接つなぐModel Context Protocol（MCP）に期待が寄せられてる。\nDeepLは2026年9月22日、MCPを介して「Microsoft Copilot」「ChatGPT」「Claude」などのAIアシスタントから同社の翻訳機能を直接利用できる「DeepL MCP」の提供を開始した。A"
     },
     {
       "title": "Codexを会社で導入する5ステップ！法人プランの選び方と管理機能を解説",
@@ -497,30 +519,8 @@
       "published": "2026-09-15T16:20:51",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-6.jpg",
       "body_ja": "AIエージェントを使えば、ブログのキーワード調査から本文執筆、WordPressへの入稿までを一連の流れとして任せられます。本記事では、任せられる工程の切り分け方から具体的なツール選定までを解説します。\nChatGPTで下書きを作っても、構成の修正と入稿作業が手元に残り、1本あたりの制作時間がほとんど減らない。そのような手応えのなさを抱えるコンテンツ担当者は少なくありません。\n原因は、生成AIに「文章を書く」工程だけを切り出して渡している点にあります。AIエージェントは、ゴールを渡せば調査から入稿までを自分で組み立てて実行します。\n実際にClaude Codeで技術ブログの執筆を自動化したSOMPO Digital Labでは、1記事あたり4〜6時間かかっていた作業が30分〜1時間に短縮されています。\n出典：もう記事執筆に悩まない！AI エージェントで技術ブログを自動化する方法（Zenn／SOMPO Digital Lab）\nただし設計を誤ると、事実誤認を含む記事の公開やスパムポリシー抵"
-    },
-    {
-      "title": "AIエージェントで事務作業を自動化する方法8選 導入手順と事例を解説",
-      "url": "https://ainow.ai/2026/09/14/278359/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25ba%258b%25e5%258b%2599%25e4%25bd%259c%25e6%25a5%25ad%25e3%2582%2592%25e8%2587%25aa%25e5%258b%2595%25e5%258c%2596%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25958%25e9%2581%25b8-%25e5%25b0%258e",
-      "summary": "<p>&#35531;&#27714;&#26360;&#12398;&#12487;&#12540;&#12479;&#20837;&#21147;&#12289;&#21463;&#30330;&#27880;&#12487;&#12540;&#12479;&#12398;&#36578;&#35352;&#12289;&#32076;&#36027;&#31934;&#31639;&#12398;&#24046;&#12375;&#25147;&#12375;&#23550;&#24540;&#12290;&#26376;&#26411;&#26376;&#21021;&#12395;&",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-09-14T08:59:21",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-5.jpg",
-      "body_ja": "請求書のデータ入力、受発注データの転記、経費精算の差し戻し対応。月末月初になると事務作業が一気に積み上がるのに、人を増やそうにも採用が追いつかない事務部門は少なくありません。\nAIエージェントとは、目的を伝えるだけで必要な情報を集め、社内システムへの入力や申請の起票までを自律的に実行するAIです。パナソニック コネクトは生成AIとAIエージェントの活用によって、2025年度に年間78.8万時間、総労働時間の3.4%を削減したと公表しています（参照：パナソニック コネクト、AI活用で総労働時間の3.4％削減 | Panasonic Newsroom Japan）。\nRPAとの違いを理解しないまま検討を進めると、帳票の書式が変わるたびに止まる自動化を作り直すことになり、投資対効果を問われるでしょう。任せる範囲を正しく設計できれば、人員を増やさずに処理量を伸ばせます。\n本記事では、AIエージェントが事務作業でできること8つと、どこまで任せられるかを見極める3段階の切り分け基準を中心に解説してい"
-    },
-    {
-      "title": "AIエージェントでサイトを制作する7ステップとおすすめツール10選",
-      "url": "https://ainow.ai/2026/09/13/278356/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e3%2582%25b5%25e3%2582%25a4%25e3%2583%2588%25e3%2582%2592%25e5%2588%25b6%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b7%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e3%2581%258a",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12399;&#12289;&#12469;&#12452;&#12488;&#12510;&#12483;&#12503;&#12398;&#35373;&#35336;&#12363;&#12425;&#21407;&#31295;&#12539;&#12487;&#12470;&#12452;&#12531;&#12539;&#12467;&#12540;&#12489;&#12398;&#23455;&#35013;&#12289;&#20844;&#38283;&#12414",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-09-12T15:28:51",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/09/thumbnail-4.jpg",
-      "body_ja": "AIエージェントは、サイトマップの設計から原稿・デザイン・コードの実装、公開までを対話で進められる段階に入っています。\nただし、AIでサイトを作る手段をホームページ作成ツールだけだと考えていると、テンプレートに寄せた妥協案しか選べません。3つのタイプを押さえておけば、自社の要件に合うサイトを内製する道が開けます。\n本記事では、AIエージェントでサイトを制作する7ステップと、タイプ別に選べるおすすめツール10選を中心に解説します。\n読み終える頃には、どこまでAIに任せてどこから人が引き取るかの線引きが決まり、内製と外注を比べた見積もりを自分で組み立てられます。\nAIエージェントによるサイト制作は3タイプに分かれる\nAIエージェントでサイトを作る手段は、以下の3タイプに分かれます。\n- 対話型サイトビルダー\n- コーディングエージェント\n- 汎用エージェント\nタイプを取り違えると、要件に合わないツールで作り込んだあとに一から作り直すことになります。\n対話型サイトビルダーは公開までを1つの画面"
     }
   ],
-  "last_updated": "2026-09-26T09:20:51.848652+09:00",
+  "last_updated": "2026-09-27T09:11:18.316106+09:00",
   "count": 50
 }
