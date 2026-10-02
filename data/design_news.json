@@ -1,6 +1,375 @@
 {
   "articles": [
     {
+      "title": "自分専用LLMを作ろう『ブラウザで動かすLLM実装入門　Google Colaboratoryで実践するLLM・RAG・ファインチューニング』を3名様にプレゼント",
+      "url": "https://webtan.impress.co.jp/q/2026/10/53374",
+      "summary": "<span class=\"field--name-title\">自分専用LLMを作ろう『ブラウザで動かすLLM実装入門　Google Colaboratoryで実践するLLM・RAG・ファインチューニング』を3名様にプレゼント</span>\n<a href=\"https://webtan.impress.co.jp/corner/5474\" hreflang=\"ja\">読者プレゼント</a>\n<span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/2\" title=\"ユーザープロフィールの表示\">w",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-02T01:00:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/images/present/2026/1002_LLM.png"
+    },
+    {
+      "title": "Stop blaming the model for slow AI. Using Doherty’s threshold as a guideline.",
+      "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
+      "summary": "<figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*DfgDMmR-elZfFiXjEu8_KQ.png\" /><figcaption>Two eras of computing, held to the same 400 millisecond standard.</figcaption></figure><h4>Doherty’s threshold set the rules and has now moved from the answer to the acknowledgment. The fix ",
+      "source": "UX Collective",
+      "icon": "✏️",
+      "lang": "en",
+      "published": "2026-10-01T22:52:26",
+      "image_url": "https://cdn-images-1.medium.com/max/1024/1*DfgDMmR-elZfFiXjEu8_KQ.png"
+    },
+    {
+      "title": "Design’s consensus was AI’s first casualty",
+      "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
+      "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2500/1*k4Gl0Tb1QEUT4UCinL8mng.jpeg\" width=\"2500\" /></a></p><p class=\"medium-feed",
+      "source": "UX Collective",
+      "icon": "✏️",
+      "lang": "en",
+      "published": "2026-10-01T22:51:02",
+      "image_url": "https://cdn-images-1.medium.com/max/2500/1*k4Gl0Tb1QEUT4UCinL8mng.jpeg"
+    },
+    {
+      "title": "AI beyond average: from chatting to collaborating",
+      "url": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4",
+      "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1456/0*QUMNBmWOyUMJce0y.png\" width=\"1456\" /></a></p><p class=\"medium-feed",
+      "source": "UX Collective",
+      "icon": "✏️",
+      "lang": "en",
+      "published": "2026-10-01T22:49:51",
+      "image_url": "https://cdn-images-1.medium.com/max/1456/0*QUMNBmWOyUMJce0y.png"
+    },
+    {
+      "title": "AI時代のコンテンツマーケ！ 現場の「一次情報」「独自の経験」から最高のコンテンツを作る方法【SEOまとめ】",
+      "url": "https://webtan.impress.co.jp/e/2026/10/02/53367",
+      "summary": "<div class=\"field--name-body\"><div class=\"aki-topbottom2 narrow2\">\n\n\n<div class=\"image-box-center\" style=\"width: 600px;\">\n<img alt=\"挿絵\" class=\"img-responsive  no-lazyload\" height=\"315\" src=\"https://webtan.impress.co.jp/sites/default/files/u/4177/20261002.png\" width=\"600\" />\n<div class=\"caption-botto",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-01T22:05:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/u/4177/20261002.png"
+    },
+    {
+      "title": "【最新ネット話題】Officeの消失、こめお食中毒、ちいかわコラボ景品横領など",
+      "url": "https://webtan.impress.co.jp/e/2026/10/02/53379",
+      "summary": "<div class=\"field--name-body\"><div class=\"kakomi-plain\"><p>【この連載について】<br />この連載では、ネットで話題になった投稿・ミーム／流行り・ほっこりネタ・論争・トラブルなどを幅広くメモして記録しています。</p></div><h2>シルバーウィーク明けにPCからMicrosoft Officeが消失、トラブル拡大にネットで悲鳴</h2><p>「長期連休のシルバーウィークが終わり、仕事のためにPCを立ち上げたが、WordもExcelもOutlookも起動しなくなっていた。確認したらOfficeが消えていた」といった報告が相次いでい",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-01T22:05:00"
+    },
+    {
+      "title": "「LINEミニアプリ」の決済手数料が31%から20%に低減、事業者の収益配分が80％に向上",
+      "url": "https://webtan.impress.co.jp/n/2026/10/02/53384",
+      "summary": "<span class=\"field--name-title\">「LINEミニアプリ」の決済手数料が31%から20%に低減、事業者の収益配分が80％に向上</span>\n\n            <div class=\"field--name-field-brief-desc\">LINEヤフーがAppleの「Mini Apps Partner Program」に参加、事業者の収益性アップ</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/6653\" title=\"ユーザ",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-01T22:03:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/1002_lineyahoo01.png?itok=rfKF6n7q"
+    },
+    {
+      "title": "博報堂が豪アレンバーグ・バス研究所とスポンサー契約を締結、EBMの高度化目指す",
+      "url": "https://webtan.impress.co.jp/n/2026/10/02/53383",
+      "summary": "<span class=\"field--name-title\">博報堂が豪アレンバーグ・バス研究所とスポンサー契約を締結、EBMの高度化目指す</span>\n\n            <div class=\"field--name-field-brief-desc\">マーケティング研究機関の世界的権威と緊密連携、最新論文や研究者に直接アクセス</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/6653\" title=\"ユーザープロフィールの表示\">noboru.koji",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-01T22:02:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/1002_hakuhodo01.jpg?itok=lZEW76VW"
+    },
+    {
+      "title": "アナリティクスアソシエーションが2027年10月31日で活動終了、ファイナルシーズンのセミナー開催",
+      "url": "https://webtan.impress.co.jp/n/2026/10/02/53382",
+      "summary": "<span class=\"field--name-title\">アナリティクスアソシエーションが2027年10月31日で活動終了、ファイナルシーズンのセミナー開催</span>\n\n            <div class=\"field--name-field-brief-desc\">テーマは「ChatGPT広告」や「LLMO」など、終了まで有効な「ファイナルパス」用意</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/6653\" title=\"ユーザープロフィールの",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-01T22:01:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/1002_a2i01.png?itok=0KKpP23x"
+    },
+    {
+      "title": "大手ホテルの客室単価、今年は「1万8003円」。インバウンド需要が好調【東京商工リサーチ調べ】",
+      "url": "https://webtan.impress.co.jp/n/2026/10/02/53385",
+      "summary": "<span class=\"field--name-title\">大手ホテルの客室単価、今年は「1万8003円」。インバウンド需要が好調【東京商工リサーチ調べ】</span>\n\n            <div class=\"field--name-field-brief-desc\">コロナ禍との比較では、すべて客室単価は上昇。</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/621\" title=\"ユーザープロフィールの表示\">atomik</a></span>\n<s",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-01T21:30:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/images/news2026/0929_tsr_01.jpg"
+    },
+    {
+      "title": "創業100年以上の「老舗企業」倒産が過去最多ペース…最も多かった業種は？【帝国データバンク調べ】",
+      "url": "https://webtan.impress.co.jp/n/2026/10/02/53366",
+      "summary": "<span class=\"field--name-title\">創業100年以上の「老舗企業」倒産が過去最多ペース…最も多かった業種は？【帝国データバンク調べ】</span>\n\n            <div class=\"field--name-field-brief-desc\">創業・設立から100年以上の老舗が相次いで倒産、後継者難や物価高が重荷に。</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/6542\" title=\"ユーザープロフィールの表示\">ima",
+      "source": "Web担当者Forum",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-01T21:00:00",
+      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0928_tdb.png?itok=c9p9l-me"
+    },
+    {
+      "title": "Fabrizio Corneli creates dramatic installation for glasses brand Lindberg",
+      "url": "https://www.dezeen.com/2026/10/01/fabrizio-corneli-installation-glasses-brand-lindberg/",
+      "summary": "<p>Promotion: Danish eyewear brand Lindberg has presented a site-specific installation for the Armory Show in New York City, created with Italian artist Fabrizio Corneli. Called Enigma of Vision, the minimalist installation opened on 24 September as part of the city's annual Armory Show of contempor",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T20:00:15",
+      "image_url": "http://static.dezeen.com/uploads/2026/09/Lindberg-Square_dezeen_2364_col_0-411x411.jpg"
+    },
+    {
+      "title": "Laila Gohar Turns Whisky Tasting Into a Visual Experience",
+      "url": "https://design-milk.com/laila-gohar-highland-park/",
+      "summary": "The artist translates the flavors and memories sparked by Highland Park’s 17-year-old single malt into surreal illustrated packaging",
+      "source": "Design Milk",
+      "icon": "🥛",
+      "lang": "en",
+      "published": "2026-10-01T19:31:20",
+      "image_url": "https://design-milk.com/images/2026/10/HPK-2026-BYI-2-Still-BTS-Laila-Global-Unbranded-16x9-RGB-e1790882757568-1500x998.jpg"
+    },
+    {
+      "title": "Chain + Siman balances \"old and new\" at gabled Mexican house",
+      "url": "https://www.dezeen.com/2026/10/01/casa-ani-mexico-valle-de-bravo-chain-siman/",
+      "summary": "<p>Mexican architecture studio Chain + Siman has created a weekend house with a series of contemporary gables that connects to a stone-clad bunkhouse in Valle de Bravo, outside of Mexico City. Known as Casa Ani, the 689-square-metre residence was completed in 2025, a few hours from the Chain + Siman",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T17:00:18",
+      "image_url": "http://static.dezeen.com/uploads/2026/09/casa-ani-mexico-city-chain-siman_dezeen_2364_col_0-411x411.jpg"
+    },
+    {
+      "title": "One of Anycubic's best resin 3D printers has $230 off in Amazon's early Prime Day sale",
+      "url": "https://www.creativebloq.com/3d/3d-printing/one-of-anycubics-best-resin-3d-printers-has-usd230-off-in-amazons-early-prime-day-sale",
+      "summary": "Whether you want to go big or fast, these deals have you covered.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T17:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/CNeFXq9m3N62Vi3bEE99LL-1920-80.jpg"
+    },
+    {
+      "title": "Imagine spending $8.4 million on a Pokemon card",
+      "url": "https://www.creativebloq.com/entertainment/toys-collectibles/imagine-spending-usd8-4-million-on-a-pokemon-card",
+      "summary": "Raincoat Pikachu becomes the second most valuable card in history.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T16:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/qdLba2EzRCAeHbDdY6vvpi-1920-80.jpg"
+    },
+    {
+      "title": "Vauxhall reveals \"bold and pure\" new logo design",
+      "url": "https://www.creativebloq.com/design/logos-icons/vauxhall-reveals-bold-and-pure-new-logo-design",
+      "summary": "For the first time since 1915, the flag is no more.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T15:14:24",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/dssXVXXYHcByfh2PhotWJY-1920-80.jpg"
+    },
+    {
+      "title": "It's International Coffee Day, and there's up to 50% off coffee makers at Amazon",
+      "url": "https://www.creativebloq.com/design/product-design/its-international-coffee-day-and-theres-up-to-50-percent-off-coffee-makers-at-amazon",
+      "summary": "Today's the day to upgrade your home coffee setup.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T15:03:56",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/wNVHwqBhTzvzUoJRjQuPrk-1920-80.jpg"
+    },
+    {
+      "title": "Turn Any Photo Into Retro ASCII Art in Seconds",
+      "url": "https://webdesignerdepot.com/turn-any-photo-into-retro-ascii-art-in-seconds/",
+      "summary": "Turn any photo into gloriously retro ASCII art — made entirely from letters, symbols, and tiny bits of chaos. This free tool turns your dog, face, logo, or worst holiday photo into something that belongs on a 1980s terminal. You will absolutely waste 10 minutes on it.",
+      "source": "Web Designer Depot",
+      "icon": "🎨",
+      "lang": "en",
+      "published": "2026-10-01T14:19:00",
+      "image_url": "https://d3tamksjp7q04h.cloudfront.net/2026/09/25111750/Screenshot-2026-09-25-at-11.16.49-AM-1024x510.jpeg"
+    },
+    {
+      "title": "6 Design-Forward Essentials for the Minimalist Bedroom",
+      "url": "https://design-milk.com/minimalist-bedroom-design-essentials/",
+      "summary": "Clean lines, natural materials, and clever storage bring a sense of calm to these six furnishings designed for pared-back spaces",
+      "source": "Design Milk",
+      "icon": "🥛",
+      "lang": "en",
+      "published": "2026-10-01T14:00:26",
+      "image_url": "https://design-milk.com/images/2026/09/Ratio-Series-Wood-Storage-Furniture-FRAMA-6-1280x900-1.jpg"
+    },
+    {
+      "title": "San Francisco exhibition explores the \"radical imagination\" of Rael San Fratello",
+      "url": "https://www.dezeen.com/2026/10/01/rael-san-fratello-san-francisco-exhibition-yerba-buena-broom-roof/",
+      "summary": "<p>A structure made of bio-based thermoplastic and recycled broom heads is among the works featured in a mid-career retrospective of design studio Rael San Fratello at San Francisco's Yerba Buena Center for the Arts. The exhibition, Rael San Fratello: Prototypes and Provocations, features a range of",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T14:00:13",
+      "image_url": "http://static.dezeen.com/uploads/2026/10/rafael-san-fratello-exhibition-san-francisco_dezeen_2364_sq-411x411.jpg"
+    },
+    {
+      "title": "Bitreel’s AI Knowledge Agents Are Reshaping the Design Process",
+      "url": "https://design-milk.com/bitreel-ai-knowledge-agents/",
+      "summary": "By streamlining tedious behind-the-scenes tasks, Bitreel’s AI Knowledge Agents give designers more time to focus on the creative work that matters.",
+      "source": "Design Milk",
+      "icon": "🥛",
+      "lang": "en",
+      "published": "2026-10-01T13:00:26",
+      "image_url": "https://design-milk.com/images/2026/09/Virtual_environment_render.png"
+    },
+    {
+      "title": "Our Planet carpet collection by Gensler and Ege Carpets",
+      "url": "https://www.dezeen.com/2026/10/01/our-planet-gensler-ege-carpets-dezeen-showroom/",
+      "summary": "<p>Dezeen Showroom: architecture studio Gensler worked with Danish manufacturer Ege Carpets to produce Our Planet, a collection of landscape-inspired carpets and rugs. The global architecture and design firm served as product design consultants on Our Planet, exploring how flooring can shape spatial",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T13:00:23",
+      "image_url": "http://static.dezeen.com/uploads/2026/09/our-planet-carpets-gensler-ege-design_dezeen_2364_sq-411x411.jpg"
+    },
+    {
+      "title": "Design of the Day: The iconic coffee machine that's kept us caffeinated since 1974",
+      "url": "https://www.creativebloq.com/design/product-design/design-of-the-day-moccamaster-kbg-select-coffee-maker",
+      "summary": "This International Coffee Day, we look at a design icon.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T11:33:51",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/UB6kbQYpX2fBgkEiMHPHhe-1920-80.jpg"
+    },
+    {
+      "title": "White-brick extension defines Design Museum Gent revamp",
+      "url": "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
+      "summary": "<p>Architecture studios Carmody Groarke, Atama and Re-st have completed the revamp of Design Museum Gent in Belgium, adding a geometric volume wrapped in waste-based white bricks. Set to reopen to the public in Ghent this weekend, the timber-framed wing introduces educational and event spaces to the",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T10:45:07",
+      "image_url": "http://static.dezeen.com/uploads/2026/10/design-museum-gent-carmody-groarke-atama-belgium-sq_dezeen_2364_col_1-411x411.jpg"
+    },
+    {
+      "title": "CF Møller transforms psychiatric hospital in Denmark into museum",
+      "url": "https://www.dezeen.com/2026/10/01/cf-moller-mind-museum/",
+      "summary": "<p>Danish studio CF Møller has completed the Mind Museum on the island of Funen in Denmark, guided by the \"clear spatial structure\" of the former psychiatric hospital it occupies. Located in the town of Middelfart, the Mind Museum tells the history of psychiatry in Denmark and the early 19th-century",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T10:30:02",
+      "image_url": "http://static.dezeen.com/uploads/2026/09/mind-museum-cf-moller-architecture-adaptive-reuse-public-leisure_dezeen_2364_sq-411x411.jpg"
+    },
+    {
+      "title": "Dezeen's favourite furniture and lighting from September",
+      "url": "https://www.dezeen.com/2026/10/01/dezeens-favourite-furniture-and-lighting-from-september/",
+      "summary": "<p>Dezeen's editorial team has been trawling design weeks across Europe this month to seek out some of the best new furniture and lighting. Below, we've compiled ten favourites from London Design Festival, Helsinki Design Week, Currents and beyond. Split Lamp by Jake Robertson chosen by Amy Frearson",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T10:15:05",
+      "image_url": "http://static.dezeen.com/uploads/2026/09/gubi-lotus-lamp-411x411.jpg"
+    },
+    {
+      "title": "David Chipperfield Architects celebrates two of its \"most important projects\" in short film",
+      "url": "https://www.dezeen.com/2026/10/01/david-chipperfield-hepworth-turner-contemporary/",
+      "summary": "<p>British studio David Chipperfield Architects celebrates 15 years of the Hepworth Wakefield and Turner Contemporary in this short film, shared exclusively with Dezeen. Opened within weeks of each other in 2011, the Hepworth Wakefield gallery in West Yorkshire and the Turner Contemporary museum in ",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T10:00:53",
+      "image_url": "http://static.dezeen.com/uploads/2026/10/david-chipperfield-short-film-turner-contemporary-hepworth-wakefield_dezeen_1704_sq-411x411.jpg"
+    },
+    {
+      "title": "Tutorial: How to draw monstrous milkshakes",
+      "url": "https://www.creativebloq.com/art/traditional-art/tutorial-how-to-draw-monstrous-milkshakes",
+      "summary": "What better way to embrace the spirit of Spooktober than to design some ghoulish beverages?",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T10:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/HxLP23NcSdzXNipR9QDtBf-1920-80.png"
+    },
+    {
+      "title": "Eight architecture and design events in October from Dezeen Events Guide",
+      "url": "https://www.dezeen.com/2026/10/01/architecture-design-events-october-2026/",
+      "summary": "<p>Archtober, Design Week Lagos, Designblok and Design Week Mexico are among the key events featured in Dezeen Events Guide this October. Other events taking place during the month include the Stirling Prize ceremony, Dutch Design Week, Design Miami Paris and Design Week South Africa. Archtober 1 to",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T09:30:59",
+      "image_url": "http://static.dezeen.com/uploads/2022/10/Archtober-2022_dezeen_2364_col_1-411x411.jpg"
+    },
+    {
+      "title": "\"Reinventing higher education requires architecture to reinvent itself too\"",
+      "url": "https://www.dezeen.com/2026/10/01/higher-education-cedric-price-owen-hopkins-opinion/",
+      "summary": "<p>With Britain's universities in dire straits, a radical rethink of how these institutions manifest as physical infrastructure is long overdue, writes Owen Hopkins. University campuses are bustling once again, studios are hives of activity and lectures are in full swing. It's a cycle that's been re",
+      "source": "Dezeen",
+      "icon": "🏛",
+      "lang": "en",
+      "published": "2026-10-01T09:00:30",
+      "image_url": "http://static.dezeen.com/uploads/2026/09/potteries-thinkbelt-cedric-price-moma-sq_dezeen_1704_col_0-411x411.jpg"
+    },
+    {
+      "title": "\"Most things I taught myself\": Bente Schlick on becoming a successful fantasy illustrator",
+      "url": "https://www.creativebloq.com/3d/video-game-design/most-things-i-taught-myself-bente-schlick-on-becoming-a-successful-fantasy-illustrator",
+      "summary": "From Warrior Cats to the Last Vampire, the illustrator discusses her art process and inspirations.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T09:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/c3gUKgNBguK99orCyKdBGm-1920-80.jpg"
+    },
+    {
+      "title": "\"They weren't planned out\": the messy stories behind retro gaming's golden age",
+      "url": "https://www.creativebloq.com/3d/video-game-design/they-werent-planned-out-the-messy-stories-behind-retro-gamings-golden-age",
+      "summary": "For more than 20 years, journalist Paul Drury has interviewed the people behind coin-op classics. His new book tells their stories in their own words – messier and more human than the legend.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T07:37:13",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/w4uowTcpdeeor8uSrfQ2hM-1920-80.jpg"
+    },
+    {
+      "title": "Blender for Android could mean iPad is no longer the obvious choice of tablet for creatives",
+      "url": "https://www.creativebloq.com/3d/blender-for-android-could-mean-ipad-is-no-longer-the-obvious-tablet-choice-for-creatives",
+      "summary": "The Android port of the open-source 3D modelling software looks fantastic.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T07:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/DMk7HoYY7stGaWCnhQXQJL-1920-80.jpg"
+    },
+    {
+      "title": "Forget GTA 6, this solo indie dev made a PS2-style '70s Istanbul GTA in Unreal Engine 5",
+      "url": "https://www.creativebloq.com/entertainment/gaming/forget-gta-6-this-solo-indie-dev-made-a-ps2-style-70s-istanbul-gta-in-unreal-engine-5",
+      "summary": "Alaturka has heavy driving physics and doner kebab deliveries, and it's development was live streamed.",
+      "source": "Creative Bloq",
+      "icon": "🖌",
+      "lang": "en",
+      "published": "2026-10-01T06:00:00",
+      "image_url": "https://cdn.mos.cms.futurecdn.net/EuhLy8PC3FQZskW5nKAGDo-1920-80.jpg"
+    },
+    {
+      "title": "A Warsaw Law Office Finds Common Ground Between Japan and New York",
+      "url": "https://design-milk.com/baker-mckenzie-warsaw-office/",
+      "summary": "Bit Creative brings Japanese restraint and New York energy together inside Baker McKenzie’s three-floor workplace atop Warsaw’s Varso Tower",
+      "source": "Design Milk",
+      "icon": "🥛",
+      "lang": "en",
+      "published": "2026-10-01T02:15:58",
+      "image_url": "https://design-milk.com/images/2026/09/Baker-McKenzie_BIT-CREATIVE_fot.-Fotomohito-4.jpg"
+    },
+    {
+      "title": "A Bahrain Bay Apartment Finds Its Rhythm in Art and Curves",
+      "url": "https://design-milk.com/bahrain-bay-apartment/",
+      "summary": "Qreative Design transforms a contemporary waterfront apartment with wave-inspired forms, warm walnut, collectible design, and art sourced from Bahrain and beyond",
+      "source": "Design Milk",
+      "icon": "🥛",
+      "lang": "en",
+      "published": "2026-10-01T01:35:48",
+      "image_url": "https://design-milk.com/images/2026/09/5.-DSC00026.jpg"
+    },
+    {
       "title": "Five-step color balancing with GenAI",
       "url": "https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4",
       "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1802/1*6ah6Bk3d0xv3NgQqL9dTMg.png\" width=\"1802\" /></a></p><p class=\"medium-feed-snipp",
@@ -51,56 +420,6 @@
       "image_url": "https://cdn-images-1.medium.com/max/1024/1*uh2XZkP1uAqIPMzhDwJYaQ.jpeg"
     },
     {
-      "title": "SEOのために、アナリティクスやサーチコンソールのどこを見る？ 頻度は？",
-      "url": "https://webtan.impress.co.jp/e/2026/10/01/53359",
-      "summary": "<div class=\"field--name-body\"><p class=\"narrow2\">ひとりで頑張るSEO担当者さんの悩みに答える本連載。今回の質問は「SEOのために、アナリティクスやサーチコンソールのどこを見る？ 頻度は？」です。</p><p class=\"narrow2\">この回答は「異常がないかを週1回程度確認し、施策につながる項目は必要に応じて見れば十分」です。</p>\n\n<div><figure class=\"image image-box-center\">  \n                  <source height=\"252\" media=\"(max-widt",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-30T22:05:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/article2023/sumi_seo/seo81_ogp.png?itok=q5aIaAMF"
-    },
-    {
-      "title": "SEOの歴史対談！ 生成AI時代、SEOはどこへ向かうのか？ 住氏がこれからのSEOを展望【第5回】",
-      "url": "https://webtan.impress.co.jp/e/2026/10/01/53325",
-      "summary": "<div class=\"field--name-body\"><p class=\"narrow2\">これまで4回にわたり、1990年代後半のSEO黎明期から約30年にわたるSEOの歴史を、各時代を知る方々と住氏との対談という形で振り返ってきた。</p><div class=\"kakomi-kami aki-topbottom1 narrow2\"><p><a href=\"https://webtan.impress.co.jp/e/2026/09/03/53147\"><span class=\"yn-ignore\">第1回：1990年代終わり～2011年</span></a><br /><a hre",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-30T22:05:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base_nq/public/images/article2026/20thanniversary/SEO_history/sumi_ogp.jpg?itok=OJrxvXil"
-    },
-    {
-      "title": "オラクルがAIエージェント実行基盤「Oracle Fusion Claw」発表、25の新アプリを提供開始",
-      "url": "https://webtan.impress.co.jp/n/2026/10/01/53377",
-      "summary": "<span class=\"field--name-title\">オラクルがAIエージェント実行基盤「Oracle Fusion Claw」発表、25の新アプリを提供開始</span>\n\n            <div class=\"field--name-field-brief-desc\">「Fusion Agentic Applications」を拡張、推論はAI、大量処理は決定論的計算で</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/6653\" title=\"",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-30T22:03:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/1001_oracle01.jpg?itok=Tp7YDeZc"
-    },
-    {
-      "title": "SprocketがWeb接客のクリエイティブを作るAIエディターを提供開始、プレビューをクリックして調整",
-      "url": "https://webtan.impress.co.jp/n/2026/10/01/53376",
-      "summary": "<span class=\"field--name-title\">SprocketがWeb接客のクリエイティブを作るAIエディターを提供開始、プレビューをクリックして調整</span>\n\n            <div class=\"field--name-field-brief-desc\">「Sprocket Personalize for Web」で導入企業が自ら改善に取り組める環境を提供<br />\n</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/6653\" ",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-30T22:02:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/1001_sprocket01_v1.jpg?itok=_ff0b_Qb"
-    },
-    {
-      "title": "トライベックが「Hirameki 7」の「AIサイト」でCMS機能を提供、記事更新やテンプレートを管理",
-      "url": "https://webtan.impress.co.jp/n/2026/10/01/53375",
-      "summary": "<span class=\"field--name-title\">トライベックが「Hirameki 7」の「AIサイト」でCMS機能を提供、記事更新やテンプレートを管理</span>\n\n            <div class=\"field--name-field-brief-desc\">中小企業向けDXプラットフォームでサイト公開後の更新や運用ができる環境を提供</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/6653\" title=\"ユーザープロフィールの表示\"",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-30T22:01:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/1001_tribeck01.png?itok=9Qy3Jrw0"
-    },
-    {
       "title": "The Dexter Hotel Makes a Case for Made-in-Michigan Design",
       "url": "https://design-milk.com/dexter-hotel-michigan/",
       "summary": "Daniel Caudill taps northern Michigan’s creative community for a 29-room hotel filled with locally made furniture, lighting, ceramics, signage, and art",
@@ -111,84 +430,14 @@
       "image_url": "https://design-milk.com/images/2026/09/0512_Dexter-9451-Edit.jpg"
     },
     {
-      "title": "SNSのAIボット投稿、6割が見抜けず！ “好意的なコメント”ほど気づきにくい？【Surfshark調べ】",
-      "url": "https://webtan.impress.co.jp/n/2026/10/01/53361",
-      "summary": "<span class=\"field--name-title\">SNSのAIボット投稿、6割が見抜けず！ “好意的なコメント”ほど気づきにくい？【Surfshark調べ】</span>\n\n            <div class=\"field--name-field-brief-desc\">SNS上でボットと人間をどう見分ける？ “親しみやすいAI”ほど危険性アリ。</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/6542\" title=\"ユーザープロフィールの表",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-30T21:00:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0925_Surfshark_01.png?itok=Gn6gcgYn"
-    },
-    {
-      "title": "Prim Estudio orients low-slung house for viewing Argentinian countryside",
-      "url": "https://www.dezeen.com/2026/09/30/los-tigres-house-prim-estudio-argentina/",
-      "summary": "<p>Local studio Prim Estudio has designed a white house with a balcony inset into an asymmetrical zinc roof and arched windows for contemplating the landscape outside Buenos Aires, Argentina. Known as Los Tigres, the 187-square-metre house sits on an expansive property in Villa Rosa, on the banks of",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T16:54:57",
-      "image_url": "http://static.dezeen.com/uploads/2026/09/los-tigres-house-prim-estudio-designs-argentina_dezeen_2364_sq_0-411x411.jpg"
-    },
-    {
-      "title": "You can now use ChatGPT and Claude to speed up 3D art in Cinema 4D",
-      "url": "https://www.creativebloq.com/ai/you-can-now-use-chatgpt-and-claude-to-speed-up-3d-art-in-cinema-4d",
-      "summary": "Maxon's latest update brings AI assistants to its 3D modelling and animation software.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-30T16:14:50",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/DT46hrKgj3M2G2y2xf3KA3-1920-80.jpg"
-    },
-    {
-      "title": "The next James Bond actor won't be who you think",
-      "url": "https://www.creativebloq.com/entertainment/the-next-james-bond-actor-wont-be-who-you-think",
-      "summary": "The Bond brand is bigger than any celebrity.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-30T15:52:52",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/YJjM49a2puUB7sRaZQoEpK-1920-80.jpg"
-    },
-    {
-      "title": "Samsung aims Galaxy Tab S12 Series at creatives with Photoshop preinstalled",
-      "url": "https://www.creativebloq.com/tech/phones-tablets/samsung-aims-galaxy-tab-s12-series-at-creatives-with-photoshop-preinstalled",
-      "summary": "The new Tabs are thinner and better but bloomin' expensive.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-30T15:19:35",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/t3sxFTmU9CXHGsbeXBqkCH-1920-80.jpg"
-    },
-    {
       "title": "「定年まで勤めることを前提としていない」大学生が8割超える【パーソルキャリア調べ】",
       "url": "https://webtan.impress.co.jp/n/2026/10/01/53372",
       "summary": "<span class=\"field--name-title\">「定年まで勤めることを前提としていない」大学生が8割超える【パーソルキャリア調べ】</span>\n\n            <div class=\"field--name-field-brief-desc\">就活の相談相手として生成AIを活用する大学生は3割超。</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/621\" title=\"ユーザープロフィールの表示\">atomik</a></span>\n<sp",
       "source": "Web担当者Forum",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-09-30T15:06:30",
+      "published": "2026-09-30T21:30:00",
       "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0928_persol_date_01.jpg?itok=xdy0f9id"
-    },
-    {
-      "title": "Urban settlement for extreme ecosystem among projects from Tulane University",
-      "url": "https://www.dezeen.com/2026/09/30/tulane-group-project-university-schoolshows/",
-      "summary": "<p>Dezeen School Shows: a proposal for sustainable urban settlements in the Atacama Desert is among projects from students at Tulane University. Also featured is a project focusing on the preservation of historic buildings across the US Gulf Coast region, and a community-oriented proposal for afford",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T15:00:07",
-      "image_url": "http://static.dezeen.com/uploads/2026/09/Featured-Urban-Settlements-Atacama-Desert-Tulane-University_dezeen_2364_col_0-411x411.jpg"
-    },
-    {
-      "title": "Synthetic memories feature in MoMA information design exhibition",
-      "url": "https://www.dezeen.com/2026/09/30/moma-information-design-exhibition-full-disclosure/",
-      "summary": "<p>New York's Museum of Modern Art has exhibited Full Disclosure: The Edge of Information Design, curated by Paola Antonelli, which features information design from classic infographics to a project with missing memories created using AI. On display in a windowed gallery on the Museum of Modern Art'",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T14:00:50",
-      "image_url": "http://static.dezeen.com/uploads/2026/09/moma-full-disclosure-data-exhibition_dezeen_2364_sq-411x411.jpg"
     },
     {
       "title": "Under Autumn’s Spell (October 2026 Wallpapers Edition)",
@@ -201,26 +450,6 @@
       "image_url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fdda8cd-7c63-4b61-86f6-f3188d312aaf/oct-20-magical-october-preview-opt.png"
     },
     {
-      "title": "Camelot seating system by Antonio Citterio for Flexform",
-      "url": "https://www.dezeen.com/2026/09/30/camelot-seating-system-antonio-citterio-flexform-dezeen-showroom/",
-      "summary": "<p>Dezeen Showroom: elegance meets modularity in the Camelot seating system, created by architect Antonio Citterio and Italian brand Flexform. A dignified frame and plump goose down-filled cushioning meet in the Camelot seating system, which was built to excel in both customisability and comfort. Th",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T13:00:18",
-      "image_url": "http://static.dezeen.com/uploads/2026/09/camelot-seating-antonio-citterio-flexform-design_dezeen_2364_sq2-411x411.jpg"
-    },
-    {
-      "title": "What the magic of Harry Potter's Hogwarts letter can teach brands",
-      "url": "https://www.creativebloq.com/design/branding/what-brands-can-learn-from-the-magic-of-harry-potters-hogwarts-letter",
-      "summary": "Physical media is back, and more important than ever.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-30T11:51:55",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/weCmeCfbhwd4eYY8UKqjkD-1920-80.jpg"
-    },
-    {
       "title": "The economics of attention in the age of AI",
       "url": "https://uxdesign.cc/the-economics-of-attention-in-the-age-of-ai-5f92e7e0fb49?source=rss----138adf9c44c---4",
       "summary": "<h4>When machines pay attention, what deserves ours?</h4><figure><img alt=\"A woman checking her notification. Concept of AI filtering the information reaching us, shaping the economics of human attention. AI-generated visual, Aurélie Radom ©\" src=\"https://cdn-images-1.medium.com/max/1024/1*wgcbjGIuB",
@@ -229,96 +458,6 @@
       "lang": "en",
       "published": "2026-09-30T11:14:25",
       "image_url": "https://cdn-images-1.medium.com/max/1024/1*wgcbjGIuBCpXmEIoZgd-nA.png"
-    },
-    {
-      "title": "Rare Collectiv surrounds Norwegian sauna with timber ribs that \"evoke the hull of a ship\"",
-      "url": "https://www.dezeen.com/2026/09/30/rare-collectiv-skroget-sauna/",
-      "summary": "<p>A skeletal frame of reclaimed timber surrounds the elongated form of Skroget, a community sauna and public deck in Norway designed by student architecture studio Rare Collectiv. Overlooking the busy harbour of Båtsfjord, known as Norway's fishing capital, the structure was designed and built by 1",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T10:30:26",
-      "image_url": "http://static.dezeen.com/uploads/2026/09/rare-collectiv-skroget-timber-sauna-norway-sq_dezeen_2364_col_0-411x411.jpg"
-    },
-    {
-      "title": "Dezeen's top five houses of September 2026",
-      "url": "https://www.dezeen.com/2026/09/30/top-houses-september-2026/",
-      "summary": "<p>A monolithic grey-brick home in Northern Ireland and a skinny house in Kyoto are among the most popular houses featured on Dezeen this month. Also included in our monthly roundup of our readers' favourite residences is a lime-rendered house in Mexico, a cross-laminated timber holiday home in Swed",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T10:00:33",
-      "image_url": "http://static.dezeen.com/uploads/2026/09/september-2026-houses_dezeen_2364_col_2-411x411.jpg"
-    },
-    {
-      "title": "This chair is so comfortable I haven’t got up in 3 days",
-      "url": "https://www.creativebloq.com/tech/chairs-desks/this-chair-is-so-comfortable-i-havent-got-up-in-3-days",
-      "summary": "The LiberNovo Omni Pro is a premium office chair that hits the sweet spots of comfort, ergonomics and design.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-30T10:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/hZwzJ6kzoYrAzpkkp344KV-1920-80.jpg"
-    },
-    {
-      "title": "Vauxhall unveils \"sharper, cleaner\" griffin logo",
-      "url": "https://www.dezeen.com/2026/09/30/vauxhall-griffin-logo-streamline/",
-      "summary": "<p>British carmaker Vauxhall has updated its griffin emblem, which has been pared back and lost its flag for the first time. The logo is the 13th iteration of the brand's logo, which has incorporated a griffin since 1915. In the latest update, Vauxhall's previous flat logo introduced in 2020 was fur",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T09:45:54",
-      "image_url": "http://static.dezeen.com/uploads/2026/09/vauxhall-griffin-logo-streamline_dezeen_2364_sq_2-411x411.jpg"
-    },
-    {
-      "title": "RIBA paid £150,000 to former president Alan Jones to settle legal dispute",
-      "url": "https://www.dezeen.com/2026/09/30/riba-alan-jones-legal-dispute/",
-      "summary": "<p>The Royal Institute of British Architects has paid £150,000 to its former president Alan Jones, settling a long-running legal dispute over its handling of his personal information. The £150,000 payment was listed in a draft of the institute's annual financial report, seen by the British magazine ",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T09:00:02",
-      "image_url": "http://static.dezeen.com/uploads/2018/08/alan-jones-riba-president_dezeen_2364_sq-411x411.jpg"
-    },
-    {
-      "title": "Meet the 3D printing tool I can’t believe I ever went without",
-      "url": "https://www.creativebloq.com/creative-inspiration/digital-crafting/meet-the-3d-printing-tool-i-cant-believe-i-ever-went-without",
-      "summary": "Removing supports has never looked so easy thanks to the Hozo NeoSander.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-30T09:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/2RDdLhU2deao9E4wgFWsdh-1920-80.jpg"
-    },
-    {
-      "title": "Recyclable Wildflower installation among timber prototypes at BuildFest 2026",
-      "url": "https://www.dezeen.com/2026/09/30/recyclable-wildflower-timber-installation-buildfest-2026/",
-      "summary": "<p>A recyclable timber pavilion designed to mimic wildflowers is among the prototypes built by students at BuildFest 2026, shown in this video produced by Dezeen. Designed by students from Lehigh University and Syracuse University, Wildflowers uses custom-designed 3D-printed joints to connect timber",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T07:00:08",
-      "image_url": "http://static.dezeen.com/uploads/2026/09/wildflower_sq1-411x411.jpg"
-    },
-    {
-      "title": "Tested: Is the Asus ROG Zephyrus Duo the year’s most expensive laptop?",
-      "url": "https://www.creativebloq.com/tech/laptops/tested-is-the-asus-rog-zephyrus-duo-the-years-most-expensive-laptop",
-      "summary": "Two screens and a huge GPU",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-30T07:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/qrToYbcFmkJKNyqvZDsCsf-1920-80.jpg"
-    },
-    {
-      "title": "Photoshop's controversial new AI tool is dividing opinion",
-      "url": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
-      "summary": "Does Relight transform photo retouching.... or turn people into video game characters?",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-30T07:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/naMDw2juYUcAcYp2AbFJGU-1920-80.webp"
     },
     {
       "title": "カオスを楽しみ、まだ見ぬ未来へ“Charge”する──グッドパッチグループ15周年記念総会｜Blog｜Goodpatch グッドパッチ",
@@ -331,16 +470,6 @@
       "image_url": "https://i0.wp.com/cms.goodpatch.com/wp-content/uploads/2026/09/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2026-09-06-19.33.13.jpeg?fit=917%2C516&ssl=1"
     },
     {
-      "title": "This pixel art game lets you destroy almost any website (including ours)",
-      "url": "https://www.creativebloq.com/3d/video-game-design/this-pixel-art-game-lets-you-destroy-almost-any-website-including-ours",
-      "summary": "Destroy Any Website lets you blast through text blocks, banners and images.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-30T06:00:00",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/9f3hBVaKpYX64e8Xhuxhjj-1920-80.jpg"
-    },
-    {
       "title": "Web担 編集後記 2026年9月",
       "url": "https://webtan.impress.co.jp/editors_note",
       "summary": "<span class=\"field--name-title\">Web担 編集後記 2026年9月</span>\n\n            <div class=\"field--name-field-brief-desc\">Web担当者Forumの編集者による編集後記、毎月更新する予定……そう、予定は未定！</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/2\" title=\"ユーザープロフィールの表示\">webtan</a></span>\n<span class=\"f",
@@ -351,16 +480,6 @@
       "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/editorial_note/editorial_note_2025.jpg?itok=3HcbCoqT"
     },
     {
-      "title": "Snøhetta designs Hong Kong clubhouse with undulating playground and rope-climbing tower",
-      "url": "https://www.dezeen.com/2026/09/30/snohetta-sky-house-pavilia-farm-hong-kong/",
-      "summary": "<p>Architecture studio Snøhetta added tunnelling playgrounds to Sky House, the final of four clubhouses that make up its Pavilia Farm residential development in Tai Wai, Hong Kong. Called Sky House, the clubhouse was designed as a playground and fitness centre for all ages and combines play spaces w",
-      "source": "Dezeen",
-      "icon": "🏛",
-      "lang": "en",
-      "published": "2026-09-30T05:00:05",
-      "image_url": "http://static.dezeen.com/uploads/2026/09/snohetta-sky-house-pavilia-farm-playground-community-centre-hong-kong_dezeen_2364_col_2-1704x2560-1-411x411.jpg"
-    },
-    {
       "title": "MADEとバービカンがインテリアコレクションを発表。ブルータリズム建築の意匠を家具や照明に展開",
       "url": "https://www.axismag.jp/posts/2026/09/723308.html",
       "summary": "イギリスのインテリアブランドMADEは、ロンドンの複合文化施設バービカンと協働し、インテリアコレクション「MADE×Barbican」を発表した。1965年に着工し、11年をかけて建設された巨大集合住宅バービカン・エステ [&#8230;]",
@@ -369,7 +488,7 @@
       "lang": "ja",
       "published": "2026-09-30T02:40:00",
       "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/09/G27_CR_ITH01099_SM_V45_001.jpg",
-      "body_ja": "NEWS ｜ インテリア / プロダクト\n21時間前\nイギリスのインテリアブランドMADEは、ロンドンの複合文化施設バービカンと協働し、インテリアコレクション「MADE×Barbican」を発表した。1965年に着工し、11年をかけて建設された巨大集合住宅バービカン・エステートのブルータリズム建築とインテリアを着想源に、その特徴を現代の住空間へと再解釈するコレクションである。\n同コレクションは、家具、照明、テキスタイル、アクセサリーなど全23点で構成される。MADEの社内デザイナーはバービカンのチームと協働し、バービカン・エステートの建築的・文化的な歴史を広く調査した。アーカイブ資料、当初の住戸レイアウト、1960年代後半のモデル住戸を手がけたMiriam Howitt(ミリアム・ハウィット)の仕事を参照し、建築的な要素をプロダクトへと展開した。\n同コレクションでは、バービカン・エステートのブルータリズム建築を特徴づけるコンクリートの質感、幾何学的な構成、グリッドや曲線の要素などを、家具"
+      "body_ja": "NEWS ｜ インテリア / プロダクト\n2026.09.30 11:40\nイギリスのインテリアブランドMADEは、ロンドンの複合文化施設バービカンと協働し、インテリアコレクション「MADE×Barbican」を発表した。1965年に着工し、11年をかけて建設された巨大集合住宅バービカン・エステートのブルータリズム建築とインテリアを着想源に、その特徴を現代の住空間へと再解釈するコレクションである。\n同コレクションは、家具、照明、テキスタイル、アクセサリーなど全23点で構成される。MADEの社内デザイナーはバービカンのチームと協働し、バービカン・エステートの建築的・文化的な歴史を広く調査した。アーカイブ資料、当初の住戸レイアウト、1960年代後半のモデル住戸を手がけたMiriam Howitt(ミリアム・ハウィット)の仕事を参照し、建築的な要素をプロダクトへと展開した。\n同コレクションでは、バービカン・エステートのブルータリズム建築を特徴づけるコンクリートの質感、幾何学的な構成、グリッドや"
     },
     {
       "title": "新しいものが大好きなGoodpatchで9月話題になったアプリ、サービス、デザインまとめ（2026）｜Blog｜Goodpatch グッドパッチ",
@@ -422,16 +541,6 @@
       "image_url": "https://design-milk.com/images/2026/09/1.-VEN04963-Enhanced-NR-Edit.jpg"
     },
     {
-      "title": "Bambu Lab’s massive Halloween sale is all treat, with up to 30% off 3D printing  supplies",
-      "url": "https://www.creativebloq.com/3d/3d-printing/bambu-labs-massive-halloween-sale-is-all-treat-with-up-to-30-percent-of-3d-printing-supplies",
-      "summary": "There are frightfully good deals on Halloween decorations too.",
-      "source": "Creative Bloq",
-      "icon": "🖌",
-      "lang": "en",
-      "published": "2026-09-29T18:22:51",
-      "image_url": "https://cdn.mos.cms.futurecdn.net/QSbyfWMo7Rnx8LHgTyAhTF-1920-80.jpg"
-    },
-    {
       "title": "How the Prompt Box is Swallowing Website Interfaces Whole",
       "url": "https://webdesignerdepot.com/how-the-prompt-box-is-swallowing-website-interfaces-whole/",
       "summary": "For decades, web designers obsessed over perfecting menus, tabs, and dropdowns. Now a single empty prompt box is quietly replacing them all. As AI turns websites into conversations, we're gaining incredible speed—but we may be losing something unexpected: the joy of discovery.",
@@ -440,16 +549,6 @@
       "lang": "en",
       "published": "2026-09-29T12:18:00",
       "image_url": "https://d3tamksjp7q04h.cloudfront.net/2026/09/29105429/434.png"
-    },
-    {
-      "title": "If you want to design for underserved users, look at farmers’ markets",
-      "url": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4",
-      "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*R-4SK7YbFVFV1AgY5S4PQg.jpeg\" width=\"6625\" /></a",
-      "source": "UX Collective",
-      "icon": "✏️",
-      "lang": "en",
-      "published": "2026-09-29T12:10:56",
-      "image_url": "https://cdn-images-1.medium.com/max/2600/1*R-4SK7YbFVFV1AgY5S4PQg.jpeg"
     },
     {
       "title": "横浜で移動用小型車「スロモビ」のシェアサービス開始。ラストワンマイルを歩行する時速6kmの小型モビリティ",
@@ -472,26 +571,6 @@
       "published": "2026-09-29T04:32:19",
       "image_url": "https://www.axismag.jp/axismag-admin/wp-content/uploads/2026/09/04_VDM_Geoffrey-Bawa.jpg",
       "body_ja": "NEWS ｜ 展覧会 / 建築\n2026.09.29 13:32\nドイツのヴィトラ・デザイン・ミュージアムで、「ジェフリー・バワ：五感のための建築」展が9月26日（土）から2027年2月28日（日）まで開催されている。スリランカの建築家ジェフリー・バワの仕事を紹介する大規模な回顧展で、M+、ヴュステンロート財団、Geoffrey Bawa Trustとの協働により実現した。\nジェフリー・バワ（1919–2003）は、20世紀アジアを代表する建築家のひとりである。約50年にわたる活動のなかで200を超えるプロジェクトを手がけ、住宅、学校、ホテル、工場、スリランカ国会議事堂など、多岐にわたる建築を残した。その仕事は、モダニズムの原理とスリランカの豊かな建築史を結びつけ、地域の素材や文化的文脈に応答する独自の建築言語を築いたものとして知られる。\nバワは、当時セイロンと呼ばれていたスリランカに生まれ、弁護士として働いたのち建築を学び直し、1957年にロンドンのAAスクールを卒業した。比較的遅い出"
-    },
-    {
-      "title": "The strategic designer: navigating the Jevons paradox in the AI age",
-      "url": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4",
-      "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/1376/1*NasC0V1EwOSP32HqOouZ9w.jpeg\" width=\"1376\" /></a>",
-      "source": "UX Collective",
-      "icon": "✏️",
-      "lang": "en",
-      "published": "2026-09-29T03:41:54",
-      "image_url": "https://cdn-images-1.medium.com/max/1376/1*NasC0V1EwOSP32HqOouZ9w.jpeg"
-    },
-    {
-      "title": "The next larger context",
-      "url": "https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4",
-      "summary": "<div class=\"medium-feed-item\"><p class=\"medium-feed-image\"><a href=\"https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4\"><img src=\"https://cdn-images-1.medium.com/max/2388/57c076bfa3105c41a754a345d5d0917a86486478a825815c67a32a73cb106311\" width=\"2388\" /></a></p><p c",
-      "source": "UX Collective",
-      "icon": "✏️",
-      "lang": "en",
-      "published": "2026-09-28T22:29:04",
-      "image_url": "https://cdn-images-1.medium.com/max/2388/57c076bfa3105c41a754a345d5d0917a86486478a825815c67a32a73cb106311"
     },
     {
       "title": "Traditional Web Development is Dead…(and Honestly? Good Riddance.)",
@@ -545,16 +624,6 @@
       "image_url": "https://d3tamksjp7q04h.cloudfront.net/2026/09/24132959/8256a24b-ef4c-4ebc-a682-6acdcfd2e1ba.png"
     },
     {
-      "title": "Hannah Buechler Finds Inspiration in Music, Fashion + Experimentation",
-      "url": "https://design-milk.com/friday-five-hannah-buechler/",
-      "summary": "The Los Angeles-based textile artist shares the influences behind her tactile practice, from heavy metal and collecting to material experimentation and her Boston Terrier, Stevie",
-      "source": "Design Milk",
-      "icon": "🥛",
-      "lang": "en",
-      "published": "2026-09-25T13:00:35",
-      "image_url": "https://design-milk.com/images/2026/09/Hannah-Buechler-Headshot.png"
-    },
-    {
       "title": "松屋銀座で「リサ・ラーソン 追悼展」開催。アーティスト・デザイナーとしての姿と、インスピレーションの源をたどる",
       "url": "https://www.axismag.jp/posts/2026/09/720799.html",
       "summary": "人とイヌ（ユニークピース） Lisa Larson. 2026 松屋銀座は、「リサ・ラーソン 追悼展―アーティスト・デザイナー・インスピレーションの源」を、9月25日（金）から10月12日（月・祝）まで、8階イベントスク [&#8230;]",
@@ -588,26 +657,6 @@
       "body_ja": "INFO ｜ インテリア / 展覧会\n2026.09.25 10:19\nAXIS 11月号増刊「SEMBA NEW STATEMENT 空間の解放」の発刊（2026年10月5日）を記念して、10月2日（金）から10月4日（日）まで、東京・表参道のスパイラルにて写真展「空間の解放展」が開催されます。\n同増刊号では、「空間の再解釈」と題して、船場が手がけた空間を、6人の気鋭写真家が独自の視点で撮り下ろしています。\n本展は、写真家それぞれの感性で解釈した作品を通じて、既成概念に捉われない空間のあり方やその本質的な価値を探り、空間がもたらす未来の可能性を問いかけていきます。\nSEMBA　空間の解放展\n写真家 6人の視点\n- 会期\n- 2026年10月2日（金）〜10月4日（日）\n- 会場\n- スパイラルガーデン（スパイラル1階）東京都港区南青山5-6-23\n- 参加写真家\n- 安藤瑠美、金本凜太朗、草野庸子、小林健太、小見山 峻、濵本 奏（五十音順、敬称略）\n- 詳細\n- https://www"
     },
     {
-      "title": "MSCHF Twists and Stretches Lexus Cars Into Surreal Sculptures",
-      "url": "https://design-milk.com/mschf-lexus-motomorphosis/",
-      "summary": "For MOTOMORPHOSIS, the Brooklyn art collective transforms two Lexus vehicles into impossible forms inspired by the visual language of digital manipulation",
-      "source": "Design Milk",
-      "icon": "🥛",
-      "lang": "en",
-      "published": "2026-09-24T23:30:53",
-      "image_url": "https://design-milk.com/images/2026/09/05_Lexus_MHartz-0129_V1.jpg"
-    },
-    {
-      "title": "The Porsche 550 Spyder Gets a Smaller, Electric Second Act",
-      "url": "https://design-milk.com/porsche-550-j-hedley-studios/",
-      "summary": "Porsche and Hedley Studios shrink a 1950s racing icon to 80% scale without sacrificing the details that made the original so recognizable",
-      "source": "Design Milk",
-      "icon": "🥛",
-      "lang": "en",
-      "published": "2026-09-24T16:52:53",
-      "image_url": "https://design-milk.com/images/2026/09/339618_4500x3000-e1790268554758.jpg"
-    },
-    {
       "title": "Nobody Wants Your Damn App",
       "url": "https://webdesignerdepot.com/nobody-wants-your-damn-app/",
       "summary": "Nobody wants another app cluttering their phone—so why does every website keep begging us to install one? The web already perfected the experience: click, load, done.  Maybe it’s time we stopped trying to ruin it.",
@@ -616,26 +665,6 @@
       "lang": "en",
       "published": "2026-09-24T15:57:00",
       "image_url": "https://d3tamksjp7q04h.cloudfront.net/2026/09/16104404/d06a3191-7379-4d86-9422-7cdeafb4eea0.png"
-    },
-    {
-      "title": "Elizabeth Herrmann Clads a Cornwall Home in Gendai Yakisugi",
-      "url": "https://design-milk.com/milo-house-gendai-yakisugi-vermont/",
-      "summary": "Charred cedar gives Milo House a bark-like exterior that settles into its wooded Vermont hillside",
-      "source": "Design Milk",
-      "icon": "🥛",
-      "lang": "en",
-      "published": "2026-09-24T15:00:30",
-      "image_url": "https://design-milk.com/images/2026/09/milo-house-elizabeth-herrmann-architecture-16-e1789677650524.jpg"
-    },
-    {
-      "title": "Wrensilva Gives Its Studio Record Console a Lighter Look in White Oak",
-      "url": "https://design-milk.com/wrensilva-studio-white-oak-record-console/",
-      "summary": "The compact record console pairs rift- and quarter-sawn White Oak grain with natural speaker fabric, caramel leather, and Wrensilva’s audio system",
-      "source": "Design Milk",
-      "icon": "🥛",
-      "lang": "en",
-      "published": "2026-09-24T14:00:41",
-      "image_url": "https://design-milk.com/images/2026/09/Wrensilva-Studio-in-White-Oak.png"
     },
     {
       "title": "京都・上羽絵惣の「不易流行展」。日本画絵具と現代の日本画家が示す伝統と未来",
@@ -711,16 +740,6 @@
       "image_url": "https://d3tamksjp7q04h.cloudfront.net/2026/09/08121349/016e5aa1-8d98-4d15-8cb2-21a5df3eee87.png"
     },
     {
-      "title": "Chrome Can Now Measure Exactly How Obnoxious Your Website’s Ads Are",
-      "url": "https://webdesignerdepot.com/chrome-can-now-measure-exactly-how-obnoxious-your-websites-ads-are/",
-      "summary": "Chrome can now measure exactly how obnoxious a website’s ads are, from how much of your screen they swallow to how much data and CPU time they burn. Those ad-stuffed websites can finally be measured, and the results are public.",
-      "source": "Web Designer Depot",
-      "icon": "🎨",
-      "lang": "en",
-      "published": "2026-09-17T15:00:00",
-      "image_url": "https://d3tamksjp7q04h.cloudfront.net/2026/09/16121819/e4ccfbc5-80f7-4d58-a307-400c3d6dac7c-1.png"
-    },
-    {
       "title": "コープデリ「ほぺたんアプリ」プロジェクト　デザイナーとエンジニアの連携で目指す理想のユーザー体験｜Blog｜Goodpatch グッドパッチ",
       "url": "https://goodpatch.com/blog/2026-09-hopetan",
       "summary": "コープデリグループ（関東信越1都7県）の6会員生協に対し、『チェーン本部機能』を担う『コープデリ生活協同組合連合会（以下、コープデリ）』。宅配・店舗事業における商品調達・物流・システムなどの基幹業務を受託し、総勢550万 [&#8230;]",
@@ -739,16 +758,6 @@
       "lang": "en",
       "published": "2026-09-16T13:00:00",
       "image_url": "http://files.smashing.media/articles/stop-treating-css-container-queries-traditional-media-queries/stop-treating-css-container-queries-traditional-media-queries.jpg"
-    },
-    {
-      "title": "サントリーホールディングス、NTT西日本、LIXIL、めちゃコミック、小川卓氏など登壇。Web担2026秋【11/5～6赤坂リアル】",
-      "url": "https://webtan.impress.co.jp/events/202611",
-      "summary": "<div class=\"field--name-body\"><!-- html作成日時=2026-09-30 17:14:20 -->\n<!-- ＜％コンテンツ部分ここから％＞ -->\n<!-- ＜％イベント用のデフォルトラッパー％＞ -->\n<div id=\"event-wrap\">\n<div class=\"event-wrap clearfix\" id=\"event-wrap-first\">\n\n\t\n\n\n    <!-- ＜％ここにメインビジュアルなど入る％＞ -->\n\t<div id=\"mainImageArea\">\n\t\t\n\n\t\t<!-- オンデマンド後 -->\n\t\t<!--\n\t\t<sou",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-09-15T07:00:00",
-      "image_url": "https://evt-entry.impress.co.jp/lp_webtan_tokyo202611/images/ond_web_1140_300.jpg?t=rev2"
     },
     {
       "title": "UIデザイナーがいかにして「開発」まで越境したか？　「カイポケ」開発メンバーに聞く、生成AI時代の画面開発の新常識｜Blog｜Goodpatch グッドパッチ",
@@ -899,18 +908,8 @@
       "lang": "en",
       "published": "2026-08-11T10:00:00",
       "image_url": "http://files.smashing.media/articles/building-tactile-ux-honoring-intentional-design-lottie/building-tactile-ux-honoring-intentional-design-lottie.jpg"
-    },
-    {
-      "title": "BtoBマーケ施策の統合、なぜ進まない？ “バラバラ”運用でコスト増や機会損失【Bizibl / IDEATECH調べ】",
-      "url": "https://webtan.impress.co.jp/n/2026/04/14/52465",
-      "summary": "<span class=\"field--name-title\">BtoBマーケ施策の統合、なぜ進まない？ “バラバラ”運用でコスト増や機会損失【Bizibl / IDEATECH調べ】</span>\n\n            <div class=\"field--name-field-brief-desc\">BtoBマーケティングの統合的運用を目指す「オーケストレーション」とは？</div>\n      <span class=\"field--name-uid\"><a href=\"https://webtan.impress.co.jp/user/id/6542\" title=\"ユーザープロフ",
-      "source": "Web担当者Forum",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-04-13T21:15:00",
-      "image_url": "https://webtan.impress.co.jp/sites/default/files/styles/picturize_base/public/images/news2026/0408_BiziblTechnologies_01.jpg?itok=sTw2irYl"
     }
   ],
-  "last_updated": "2026-10-01T10:02:47.811361+09:00",
+  "last_updated": "2026-10-02T10:16:31.835531+09:00",
   "count": 90
 }
