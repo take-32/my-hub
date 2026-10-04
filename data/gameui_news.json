@@ -1,6 +1,236 @@
 {
   "articles": [
     {
+      "title": "声で岩を呼び，足場を動かす「ミナと言霊の物語」。言葉を操作に変える3Dアクションを試遊し，開発者に話を聞いた［OIGS2026］",
+      "url": "https://www.4gamer.net/games/047/G104752/20261004002/",
+      "summary": "「ロック」と唱えると岩が現れ，「エレベ」と唱えると足場が動く。OIGS2026で試遊した「ミナと言霊の物語」は，コントローラでの移動と，声で物を呼び出す操作を組み合わせた3Dアクションゲームだ。声を使う遊びの面白さを紹介し，音声認識エンジンを自作した開発者のyoshi氏へのインタビューをお届けする。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-04T00:20:00",
+      "image_url": "https://www.4gamer.net/games/047/G104752/20261004002/SS/002.jpg",
+      "body_ja": "| エジプトのような雰囲気にもこだわりが感じられた | \nまずは，石造りの遺跡を進みながら，言葉を使った操作を覚えていく。マイクに向かって「ロック」と唱えると，目の前に岩が現れ，足場として使えるのだ。にぎやかな会場であったにもかかわらず，呪文が問題なく認識されたことに驚かされた。\n新しい呪文は，ステージ内の案内を読むと覚えられる。筆者は岩の足場を動かす「エレベ」の案内に気付かず，岩を積み上げて高所にのぼっていた。あとで引き返すことになったが，こういう攻略もできるのは面白い。\n続いて，詠唱時間に応じて足場が上昇する呪文「エレベーーート」も試した。声の長さによって動作を変える仕組みは特許出願中とのことだ。\n音声認識を使えば，大量のアイテムが並ぶインベントリから欲しい物を探す手間を省けるかもしれない。戦闘中に岩を呼び出し，バリケードを作るような使い方も楽しそうだと想像した。こうした遊びの可能性や開発の経緯について，個人で本作を制作するyoshi氏に話を聞いた。\n欲しい物を声で呼び出す遊びは，ど"
+    },
+    {
+      "title": "自分好みの美少女プラモで対戦。3Dアクション「カスタムメカ娘ファイターズ」の開発者に，カスタマイズとバトルの楽しさを聞いた［OIGS2026］",
+      "url": "https://www.4gamer.net/games/047/G104751/20261004001/",
+      "summary": "好きなボディや武器を組み合わせたメカ娘で，1対1のバトルを繰り広げる「カスタムメカ娘ファイターズ」。OIGS2026で試遊したところ，機体のカスタマイズが楽しそうだと感じた。ディレクターのカーバンクル氏とプログラマーの山田裕貴氏に，企画の出発点やカスタマイズを支える仕組み，今後の展開について聞いた。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-04T00:10:00",
+      "image_url": "https://www.4gamer.net/games/047/G104751/20261004001/SS/008.jpg",
+      "body_ja": "カスタマイズ画面では，ボディ，右手と左手の武器，背中の武器，脚のパーツを選べる。武器には説明文のほか，攻撃力や弾速，追尾力，連射力の目安も表示される。武器を替えると装備の形や色も変わるので，組み合わせを考えるだけでも楽しかった。\n対戦中は，ジャンプや空中ダッシュで移動しながら，3つの武器を撃ち分ける。右手の武器の弾はまっすぐ飛び，左手の武器の弾は弧を描くとのことだ。飛び方の違いによって，攻撃が届く場所も変わる。\n本作のイベント出展は今回が初めてだという。好みの見た目を作る楽しさと，それを使って戦う楽しさを，どのように形にしているのか。ディレクターのカーバンクル氏と，プログラマーの山田裕貴氏に話を聞いた。\n好みの見た目のメカ娘で，自分の考えた戦い方を\n4Gamer：\nまず，本作で目指している遊びを教えてください。\n山田氏：\nカスタマイズとバトルの二つを軸にしています。コンセプトは「自分で考えた最強の美少女プラモを作って戦わせる」です。パーツの組み合わせによって，見た目だけでなく，近距離で戦"
+    },
+    {
+      "title": "クナイを足場に，時間を止めて道を開く。2D探索型アクション「常夜渡りの忍」の手触りのよさはどう生まれるのか［OIGS2026］",
+      "url": "https://www.4gamer.net/games/047/G104750/20261003008/",
+      "summary": "OIGS2026で，2D探索型アクション「常夜渡りの忍」を試遊した。壁に刺したクナイに乗り，時間を止めて空中にも足場を作る。アクションゲームが苦手な筆者にも遊びやすく，ダッシュやジャンプが気持ちよい。手触りを磨く工夫や，クナイと時間停止を組み合わせた経緯を，開発者のキャス氏に聞いた。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-04T00:00:00",
+      "image_url": "https://www.4gamer.net/games/047/G104750/20261003008/TN/003.gif",
+      "body_ja": "主人公は忍者見習いの少年「迅」。さらわれた「桜乃姫」を救うため，妖怪の現れた瑞谷国を進んでいく。竹林や城が描かれた和風の世界を，ダッシュやジャンプで駆け抜けるのが気持ちよい。新しい能力を身に付けることで，行ける場所が広がっていく探索型のゲームだ。\n迅の武器であるクナイは，敵を倒すだけでなく，壁に刺せば足場にもなる。さらに，刺したクナイに別のクナイを刺して，足場を延ばせるのも面白いところ。小さな刃の上に乗って，高い場所へ跳ぶという使い方が新鮮だった。足場は細く，乗るには少し慎重さが必要だ。この乗りづらさも，クナイを足場にする面白さにつながっている。\n時間を止める力「常夜渡り」を得ると，クナイの使い方はさらに広がる。投げたクナイを空中で止めれば，壁のない場所にも足場を作れるのだ。試遊では，最初は越えられなかった場所へ，この力を使って進めるようになった。どこにクナイを置き，どこから跳ぶか。道筋を考える感覚には，パズルのような楽しさもあった。\n仕掛けを突破したときに舞う紙吹雪も楽しい。新しい能力"
+    },
+    {
+      "title": "Uncharted: The Lost Legacy Is Still the Best Uncharted Game",
+      "url": "https://www.polygon.com/uncharted-lost-legacy-rec-playstation-naughty-dog/",
+      "summary": "Naughty Dog's 2017 standalone spinoff that leaves Nathan Drake behind is an underappreciated masterpiece, and its director is leading Uncharted 5",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T23:00:16",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/lost-legacy-chloe-cropped.jpg"
+    },
+    {
+      "title": "Stephen King’s Bleakest Movie, With an Ending He Couldn’t Imagine, Is Free on Streaming",
+      "url": "https://www.polygon.com/stephen-king-the-mist-movie-free-to-stream/",
+      "summary": "The 2007 Stephen King adaptation remains one of horror's most devastating movies, and it's free on Roku.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T22:00:17",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-mist-lede.jpg"
+    },
+    {
+      "title": "Netflix Sets The Witcher Season 5's Fate",
+      "url": "https://www.polygon.com/the-witcher-season-5-when-release-date-netflix/",
+      "summary": "Netflix's The Witcher season 5 was expected to have its final showing in 2026, but has been quietly delayed to 2027, according to What's On Netflix.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T20:13:16",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25459854/Witcher_Hemsworth.jpeg"
+    },
+    {
+      "title": "Ken Russell's The Devils Gets 4K, NC-17 Release from Warner Bros.",
+      "url": "https://www.polygon.com/ken-russell-the-devils-movie-4k-restoration-nc-17-rating/",
+      "summary": "Warner Bros. is releasing Ken Russell's 1971 psychological horror drama The Devils in theaters this October, in restored 4K and uncensored.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T20:10:25",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-devils.jpg"
+    },
+    {
+      "title": "A RuneScape Animated Show Is Coming With a World-Famous Content Creator Attached",
+      "url": "https://www.polygon.com/runescape-animated-series-announced/",
+      "summary": "A RuneScape animated adaptation is on the way from Jagex, in partnership with MoistCr1TiKaL and Lyrical Media.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T20:00:17",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/runescape-animated-show.jpg"
+    },
+    {
+      "title": "Metroid Meets Dead Cells In October's Coolest New Action Game",
+      "url": "https://www.polygon.com/castlevania-belmonts-curse-release-date-metroidvania/",
+      "summary": "October's most exciting new action game brings modern sensibilities to a beloved franchise that hasn't seen a proper entry in far too long.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T20:00:17",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-2-07-19-pm.png"
+    },
+    {
+      "title": "RuneScape 4 Officially Revealed by Jagex",
+      "url": "https://www.polygon.com/runescape-4-announcement-runefest-reveal-jagex/",
+      "summary": "Unveiled at RuneFest, RuneScape 4 is another MMO being developed in Unreal Engine, and it's in the works at Jagex.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T20:00:17",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/runescape-4.jpg"
+    },
+    {
+      "title": "Amazon's New 8-Episode Action Spinoff Dethrones Reacher to Become No. 1 Streaming Series",
+      "url": "https://www.polygon.com/reacher-neagley-spinoff-prime-video-streaming-success-october-2026/",
+      "summary": "Reacher spinoff Neagley is dominating the Prime Video streaming charts in the U.S. and worldwide.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T19:50:12",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/rspi_s1_ut_108_250520_mahsha_00228r_cropc_3000.jpg"
+    },
+    {
+      "title": "The 7 Best Games Like Hollow Knight: Silksong to Speed Up the Wait for Sea of Sorrows",
+      "url": "https://www.polygon.com/best-games-like-silksong-sea-sorrows-wait/",
+      "summary": "From brutal boss fights to precise platforming challenges, here are 7 games like SiIlksong to play while you wait for new DLC.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T19:37:08",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/hollow-knight-silksong-sea-sorrow.png"
+    },
+    {
+      "title": "Overwatch's Most Radical Hero Rework in Years is Coming Soon",
+      "url": "https://www.polygon.com/overwatch-sombra-rework-support-dps-alec-dawson/",
+      "summary": "Overwatch DPS hero Sombra is changing to a support role in season 5, but Blizzard says her lethality and aggressive play style isn't changing.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-03T19:28:12",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24974859/sombra_overwatch_2.jpg"
+    },
+    {
+      "title": "Watch a Coffee Machine Rebuilt From a Technical Drawing in This Short Film",
+      "url": "https://80.lv/articles/watch-a-coffee-machine-rebuilt-from-a-technical-drawing-in-this-short-film/",
+      "summary": "<p>Ronan Mahon demonstrated impressively realistic texturing.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-10-03T14:00:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41817/images/6abeabba46a13/cover_800x800.jpg"
+    },
+    {
+      "title": "Check Out Astridr's Character Model From Senua's Saga: Hellblade 2",
+      "url": "https://80.lv/articles/check-out-astridr-s-character-model-from-senua-s-saga-hellblade-2/",
+      "summary": "<p>Take a look at Gabriel Dias Maia's work and <span>explore more characters created by the Ninja Theory team.</span></p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-10-03T13:00:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/41821/images/6abe9067842a9/cover_800x800.jpg"
+    },
+    {
+      "title": "週刊Steam広場 第173号：「真・三國無双2 with 猛将伝 Remastered」や「ACE COMBAT 8: WINGS OF THEVE」が発売に",
+      "url": "https://www.4gamer.net/games/038/G003821/20261003005/",
+      "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，リマスター版「真・三國無双2with猛将伝Remastered」や，祖国を追われた人々の戦いを題材とするシリーズ最新作「ACECOMBAT8:WINGSOFTHEVE」がリリースされた。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T09:00:00",
+      "image_url": "https://www.4gamer.net/games/038/G003821/20261003005/TN/008.jpg",
+      "body_ja": "週刊Steam広場では，Valveが運営するPCゲームのダウンロード販売サイト「Steam」で今週発売・発表された注目タイトルや，セール情報などをお届けします。\n真・三國無双2 with 猛将伝 Remastered\n三国志の世界を舞台とするタクティカルアクション「真・三國無双2」と，追加コンテンツを収録した「真・三國無双2 猛将伝」を1本にまとめたリマスター版。総勢40人以上の武将から1人を選び，Unreal Engine 5で描き直された広大な戦場へと出陣する。群がる敵兵を次々となぎ倒しながら敵将を討ち取っていく，といった体験が味わえる作品だ。\nACE COMBAT 8: WINGS OF THEVE\n祖国を追われた人々の戦いを題材とするドラマティックフライトシューティング。救難ボートで漂流していたところを旧式空母「エンデュランス」に拾われたプレイヤーは，希望の象徴として語られる伝説のエース「シーヴの翼」の名を託され，3人の仲間とともに再び空へ向かう。偽りの名声を背負ったパイロットが"
+    },
+    {
+      "title": "「プロセカ」，ラビットホールをリズムゲーム楽曲に追加",
+      "url": "https://www.4gamer.net/games/476/G047609/20261002036/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T06:00:00",
+      "image_url": "https://www.4gamer.net/games/476/G047609/20261002036/SS/001.jpg",
+      "body_ja": "| プロジェクトセカイ カラフルステージ！ feat. 初音ミク プロジェクトセカイ カラフルステージ！ feat. 初音ミク |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/10/03 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n「ラビットホール」をリズムゲーム楽曲として追加！\n株式会社セガ（本社：東京都品川区、代表取締役 社長執行役員COO：内海州史）と株式会社Colorful Palette（本社：東京都目黒区、代表取締役社長：近藤裕一郎）は、iOS/Android向けリズム&アドベンチャー『プロジェクトセカイ カラフルステージ！ feat. 初音ミク（以下、プロジェクトセカイ）』について、2026年10月3日（土）より、「6周年記念楽曲追加キャンペーン」として新たに「ラビットホール」（作詞・作曲：DECO*27）をリズムゲーム楽曲に追加いたしました。\n本楽曲は、「音楽ショップ」で「ミュージックカード」と交換することで、リズムゲームの楽曲と"
+    },
+    {
+      "title": "お母さんドラゴンが愛の力で大活躍。「フリッキー」や「ファンタジーゾーン」にインスパイアされたゲームボーイカラー向けの新作「Drakoko」のクラウドファンディング実施中",
+      "url": "https://www.4gamer.net/games/999/G999903/20261003006/",
+      "summary": "お母さんドラゴンが愛の力で活躍するゲームボーイカラー向けの新作「Drakoko」のクラウドファンディングがKickstarterで実施中だ。7歳になる息子のアイデアを取り入れた，愛にあふれる作品で，システム面では「フリッキー」や「ファンタジーゾーン」にインスパイアされたという。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T04:51:46",
+      "image_url": "https://www.4gamer.net/games/999/G999903/20261003006/SS/001.jpg",
+      "body_ja": "プレッジ（支援）の受付締切は，日本時間2026年10月9日17：32。記事執筆時点で，目標額8000ユーロ（約142万円）に対して5728ユーロ（約101万8000円）が集まっている。\n本作の主人公は母ドラゴンの「Drakoko」（ドラココ）だ。彼女が住む「Dokoland」では，支配者「Dokuro」（ドクロ）の放った呪いによって善良なドラゴンの「Kokori」（ココリ）たちは闇に染まってしまった。Drakokoは愛の波動でKokoriたちを元の姿に戻しつつ，子ドラゴンの「Kokko」（コッコ）を探すことになる。\nフィールドは上下左右がつながった無限スクロールになっており，これは開発者のRyuha氏が「フリッキー」「テディボーイブルース」「ファンタジーゾーン」といった石井洋児氏の作品にインスパイアされたためだという。\nDrakokoがピンクのハートを放てば，真っ黒なKokoriたちが元の明るい黄色に戻るなど，愛にあふれた内容だが，開発者のブログによれば，もともとは宇宙船で戦うシューティ"
+    },
+    {
+      "title": "懐かしのパソコンを携帯ゲーム機風にアレンジ。25本のゲームを遊べる「C64 Handheld」「Spectrum Handheld」の発売が延期に",
+      "url": "https://www.4gamer.net/games/999/G999902/20261003004/",
+      "summary": "懐かしのパソコンを折り畳み式の携帯ゲーム機風にアレンジした「C64Handheld」「SpectrumHandheld」の発売が2027年4月22日に延期された。それぞれ25本のゲームを内蔵し，新しい作品をSDカードで追加することもできるというユニークな製品だ。概要と収録作品のリストも紹介したい。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T03:13:43",
+      "image_url": "https://www.4gamer.net/games/999/G999902/20261003004/SS/008.jpg",
+      "body_ja": "延期の理由は「製品のいくつかの構造が基準を満たしていない」ことだという。一部の問題に対応したうえで2026年に発売することも検討したが，最高の体験を届けるために発売延期を決めたとのこと。\nなお，2026年10月30日に発売される携帯ゲーム機「EVERCADE NEXUS」に影響はなく，予定どおりにリリースされるという。\n| 「C64 Handheld」（左）と「Spectrum Handheld」（右） | \n|---|\n「C64 Handheld」と「Spectrum Handheld」は，懐かしのパソコンを折り畳み式の携帯ゲーム機風にアレンジしたもの。それぞれが25本のゲームを内蔵し，新しい作品をSDカードで追加することもできるというユニークな製品だ。\nBlaze Entertainmentは，「Super Pocket」「Super Micro」「EVERCADE」シリーズなど，正式ライセンスを取得したレトロゲームが動作するゲーム機やカートリッジを販売しているメーカーだ。\n「C64"
+    },
+    {
+      "title": "「AION2」，10月4日20：00に配信予定の「正式サービス前夜特番」の内容を公開。アーリーアクセス中のプレイヤーと「炎の神殿」に挑戦",
+      "url": "https://www.4gamer.net/games/440/G044032/20261002052/",
+      "summary": "NCは本日（2026年10月3日），クロスワールドMMORPG「AION2」の特別番組「AION2LIVE正式サービス前夜特別生放送」について，番組内容の詳細を公開した。配信は10月4日20：00から。アーリーアクセス中のプレイヤーと挑む「炎の神殿」への挑戦や「天魔ぶらりアトレイア旅」などを予定している。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T03:00:00",
+      "image_url": "https://www.4gamer.net/games/440/G044032/20261002052/SS/002.jpg",
+      "body_ja": "「AION2」は，10月5日に正式サービスを開始予定のMMORPGだ。現在は正式サービスに先駆けたアーリーアクセスが実施されており，今回の番組ではプレイヤー参加型の企画が行われるほか，正式サービス開始後の情報が紹介される。\nMMORPGの王道を征き，ガチャなしで挑む新作「AION2」。現代路線の真逆を進み，2か月未満で多くのプレイヤーの愛を集める【PR】\nNCの新作MMORPG「AION2」が，2026年9月にグローバルリリースされる。先行配信地域で大きな反響を生み出した，オートバトルもガチャも搭載しないメンバーシップ主軸のサービス。現代路線とは真逆を行く背景を，開発陣に尋ねた。\n番組には，松澤ネキさん，若桜有理さん，シスルさんに加えて，日本運営チームの笠松誠一氏，イ・ウンジ氏が出演する。若桜さんとシスルさんは，それぞれ天族と魔族のコスプレ姿で登場する予定だ。主な番組内容は以下のとおり。\n| コーナー | 内容 | \n|---|---|\n| スタイルショップコンテスト | ゲーム内のスタ"
+    },
+    {
+      "title": "「Call of Duty: Modern Warfare 4」がブラジルゲームショウ2026に試遊出展。，36の試遊台に加えて6v6の勝ち抜きトーナメントも実施される予定",
+      "url": "https://www.4gamer.net/games/010/G101087/20261001019/",
+      "summary": "10月23日の発売を控えている「CallofDuty:ModernWarfare4」が，一足先に中南米最大のゲームイベントに登場する。さらにBGSのメインeスポーツステージでは「CallofDuty:BlackOps7」の1v1対決も実施する予定だ。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T03:00:00",
+      "image_url": "https://www.4gamer.net/games/010/G101087/20261001019/SS/001.webp",
+      "body_ja": "エナジードリンクブランドのMonster Energyとのパートナーシップによる出展で，BGS 2026は中南米の一般ユーザーが本作に触れられる最初の機会になるとしている。\n「Call of Duty: Modern Warfare 4」は，Infinity Wardが開発を手がけるシリーズ最新作で，CoDシリーズとしては初めてNintendo Switch 2にも対応するタイトルとなる。\n今回は同イベントの任天堂ブースにも試遊出展し，8月に実施された先行ベータではマルチプレイヤーに加えてキャンペーンの1ミッションとWarzoneが試遊でき，スキルベースマッチメイキングを緩和した「オープンマッチメイキング」の比較テストが行われるなど，発売前から話題を集めてきた作品だ。\n試遊もガチ対戦も。ブースは「Freeplay」と「Pro」の二本立て\n会場でのMW4体験の拠点となるのが，Monster Energyのブースだ。「Monster Arena Freeplay」には36台のプレイステーショ"
+    },
+    {
+      "title": "「チェンクロ」，チーカ（CV：今井麻美）」が登場する“未来への導標「竜の眷属」フェス”を開催",
+      "url": "https://www.4gamer.net/games/223/G022384/20261002040/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T02:00:00",
+      "image_url": "https://www.4gamer.net/games/223/G022384/20261002040/SS/002.jpg",
+      "body_ja": "| チェインクロニクル チェインクロニクル |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/10/03 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n「チーカ（CV：今井麻美）」が新登場する“未来への導標「竜の眷属」フェス”開催！\n大好評配信中のスマートフォン向けマルチ・チェインシナリオRPG『チェインクロニクル第5部 ―未来への導標（しるべ）―』では、「＜＜Y.G.1009＞＞竜の眷属 チーカ（CV：今井麻美）」が新登場するフェスを2026年10月3日（土）より開催します。\n「時の楔」を所持した「チーカ」が登場！ “未来への導標「竜の眷属」フェス”\n開催期間：2026年10月3日（土）11:00〜10月10日（土）10:59\n約千年後の未来で出会った「チーカ」が登場する“未来への導標「竜の眷属」フェス”を開催！\n「＜＜Y.G.1009＞＞竜の眷属 チーカ」は「超共鳴必殺」や第5部以降に登場する一部のキャラクターが持つ「リーダーアビリティ」「リーダ"
+    },
+    {
       "title": "Star Wars: Galactic Racer is the Best-Reviewed Star Wars Game in 20 Years",
       "url": "https://80.lv/articles/star-wars-galactic-racer-is-the-best-reviewed-star-wars-game-in-20-years/",
       "summary": "<p>Star Wars: Galactic Racer combines Burnout-style takedowns, exhilarating podracing, and an addictive roguelike campaign—and it's already the best-reviewed Star Wars game in over 20 years.</p>",
@@ -21,16 +251,6 @@
       "image_url": "https://cdn.80.lv/api/upload/post/41840/images/6ac03a7d63f14/cover_800x800.jpg"
     },
     {
-      "title": "There’s Literally Never Been a Better Time to Get Into Tactics Games",
-      "url": "https://www.polygon.com/tactics-games-2026-best-year/",
-      "summary": "The tactics genre is undergoing a renaissance right now, and it's the perfect time to give the games a shot.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T23:00:18",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/tactics-genre-renaissance.jpg"
-    },
-    {
       "title": "Behind the Scenes: How the Marvel Rivals Art Team Builds a Character",
       "url": "https://80.lv/articles/inside-marvel-rivals-character-art-vfx-destruction-pipeline/",
       "summary": "<p>Marvel Rivals combines decades of comic history with custom NPR/PBR rendering, hero-specific VFX, alternate costumes, and scalable destruction. The game's Art Team explains how those systems come together.</p>",
@@ -49,96 +269,6 @@
       "lang": "en",
       "published": "2026-10-02T21:31:04",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltf5175e900278af9d/6ac02246e406a36670f9b7a6/reigns.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "10 New Movies to Watch this Weekend on Prime Video, HBO Max, and Hulu (October 2-4)",
-      "url": "https://www.polygon.com/new-movies-streaming-this-weekend-prime-video-october-2-4/",
-      "summary": "This week's movie column has several exciting movies, including an indie art-horror, a Warner Bros. movie that was infamously shelved, and more.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T21:00:16",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdtese_k3001.jpg"
-    },
-    {
-      "title": "New Fast and Furious Release Now Streaming on Peacock",
-      "url": "https://www.polygon.com/fast-and-furious-lego-how-to-train-your-dragon-peacock/",
-      "summary": "Fast & Furious gets its strangest crossover yet as LEGO DREAMZzz and How to Train Your Dragon collide in a new Peacock animated special.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T20:58:51",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22830176/FastNFurious2001.jpeg"
-    },
-    {
-      "title": "How to Get Pokémon's Special Mewtwo 30th Anniversary Card",
-      "url": "https://www.polygon.com/pokemon-30th-anniversary-cards-release-date-mewtwo-promo-how-to-get/",
-      "summary": "The Mewtwo promo card drops later this year at select retailers like Best Buy and GameStop",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T20:57:37",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/1-mewtwo.jpg"
-    },
-    {
-      "title": "5 TMNT Episodes That Prove the Original Was Better Than 'X-Men: The Animated Series'",
-      "url": "https://www.polygon.com/best-tmnt-episodes-better-than-x-men-the-animated-series/",
-      "summary": "X-Men '97 puts renewed emphasis on X-Men: The Animated Series, the other mutant-based cartoon from the '90s deserves some more recognition.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T20:06:20",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/untitled-presentation-1.jpg"
-    },
-    {
-      "title": "30 Years Later, Nintendo's Forgotten N64 Racing Game Deserves a Switch 2 Rebirth",
-      "url": "https://www.polygon.com/wave-race-64-nintendo-64-retrospective/",
-      "summary": "Released not long after the Nintendo 64 launched, one great racing game showed what the hardware could do.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T20:00:16",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/1405026/N64-Console-Set.0.jpg"
-    },
-    {
-      "title": "8 New TV Shows To Watch This Weekend on Netflix, HBO, and Disney (October 2-4)",
-      "url": "https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-2-4/",
-      "summary": "This weekend's TV column has some exciting releases, from Netflix's awaited American epic to HBO's new British legal drama.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T20:00:16",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/east-of-eden.jpg"
-    },
-    {
-      "title": "DC Studios' Fate Under Paramount-Warner Bros. Officially Revealed",
-      "url": "https://www.polygon.com/dc-studios-james-gunn-peter-safran-warner-bros-paramount-merger-skydance/",
-      "summary": "James Gunn and Peter Safran are staying on as the heads of DC Studios after the Warner Bros. and Paramount merger.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T19:08:47",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/super-man-smiling.jpg"
-    },
-    {
-      "title": "Nintendo Switch 2 Just Got 2 of the Last Decade's Best RPGs",
-      "url": "https://www.polygon.com/dragon-quest-11-switch-2-rpgs/",
-      "summary": "Dragon Quest 11's Switch 2 port, along with Switch 2 versions of the Octopath Traveler games, make welcome improvements",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T19:00:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dragon-quest-switch-2-rpgs.jpg"
-    },
-    {
-      "title": "12 Replay Ideas That Make Zelda: TOTK Feel Like a Brand-New Game",
-      "url": "https://www.polygon.com/zelda-totk-replay-ideas/",
-      "summary": "Looking to replay Zelda: Tears of the Kingdom? Here are 12 challenge runs and roleplay ideas that make it feel like a brand new game.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-02T18:46:52",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24652437/Tears_of_the_Kingdom_Guide_and_Walkthrough_Lede.jpg"
     },
     {
       "title": "Recreating Armenia's Natural Monument Made up of Basalt Columns in 3D",
@@ -171,39 +301,6 @@
       "image_url": "https://cdn.80.lv/api/upload/post/41833/images/6abfd97f65c68/cover_800x800.jpg"
     },
     {
-      "title": "荒れ地に植物を根づかせ，生態系を再生する。ソイルパンクなシミュレーションゲーム「The Regreening」，日本語対応デモをSteamで公開",
-      "url": "https://www.4gamer.net/games/999/G099914/20261003002/",
-      "summary": "PositiveImpactGamesとByteRockers'Gamesは2026年10月1日，自然環境の再生をテーマにしたシミュレーションゲーム「TheRegreening」のデモ版をSteamで公開した。デモ版のSteamストアページには，日本語への対応が記載されている。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T15:45:03",
-      "image_url": "https://www.4gamer.net/games/999/G099914/20261003002/SS/003.jpg",
-      "body_ja": "「The Regreening」は，荒廃した土地に植物を植え，失われた生態系を取り戻していくシミュレーションゲームだ。開発元は本作のコンセプトを“soilpunk”（ソイルパンク）と定義し，自然の回復そのものがゲームの進行に組み込まれているのが特徴だ。\nプレイヤーは新たな種子を見つけ，植物同士の相性を考えながら植生を広げ，動物が戻れる生息地を整えていく。植生が広がると荒れ地は緑地へと変わり，生態系全体に変化が波及していく仕組みだ。\n探索中に回収したガラクタを素材にすれば，自宅に置ける装飾品や植物用の散水設備などにアップサイクルできる。また，バルト地方の民間伝承をモチーフにした自然の精霊たちが登場し，彼らを助けることで新たな能力を得られるという。\n本作は，今回のデモ版をもって10月開催のSteam Next Festにも参加予定だ。これまでに4回のプレイテストが行われ，計7300人以上が参加。Steamでのウィッシュリスト登録数は5万5000件を超えているという。"
-    },
-    {
-      "title": "「Pixel Party Program」，10月16日にSteamで発売。開発者が経営するゲームバーから生まれた2〜8人用対戦パーティーゲーム",
-      "url": "https://www.4gamer.net/games/999/G999901/20261003001/",
-      "summary": "個人ゲーム開発者のtdhr氏の新作「PixelPartyProgram」が，2026年10月16日にSteamで発売される。tdhr氏が経営するゲームバーで生まれたパーティーゲームで，2〜8人でミニゲームを楽しめる。価格は240円。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T15:21:46",
-      "image_url": "https://www.4gamer.net/games/999/G999901/20261003001/SS/002.jpg",
-      "body_ja": "本作は，tdhr氏が運営するゲームバーで楽しめるタイトルとして，約7年前に原型が誕生した。その後ブラッシュアップを重ね，今回Steamでリリースされることとなった。\nゲームは，ドット絵で描かれたシンプルなキャラクターを操作し，16種類のミニゲームからランダムで選ばれる5種類に挑戦して，その合計スコアを競い合うというもの。2〜8人でプレイでき，操作は移動とジャンプのみ。1ラウンド約10秒で決着するテンポのよさも特徴だ。\n本作はローカルマルチプレイに加え，SteamのRemote Play Togetherにも対応している。なお，キーボードで操作できるのは1人のみで，参加人数に応じてゲームパッドを用意する必要がある。"
-    },
-    {
-      "title": "バンダイナムコタイトルのTGS2026先行販売グッズの受注販売がアソビストアでスタート。「ACE COMBAT 8」や「テイルズ オブ」シリーズ30周年記念グッズをゲットするチャンス",
-      "url": "https://www.4gamer.net/games/969/G096901/20261002053/",
-      "summary": "バンダイナムコエンターテインメントは現在，東京ゲームショウ2026で先行販売した新作グッズについて，アソビストアで受注販売を受け付けている。期間は10月26日23：59まで。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T15:00:00",
-      "image_url": "https://www.4gamer.net/games/969/G096901/20261002053/SS/002.jpg",
-      "body_ja": "ラインナップには，発売されたばかりの「ACE COMBAT 8」や，10月15日に発売を控える「テイルズ オブ エターニア リマスター」，さらには「パックマン」「塊魂」「太鼓の達人」「リトルナイトメア」など，新旧さまざまな作品のグッズが並んでいる。\nアソビストアの商品ページでは，これらのグッズを画像付きで確認できる。詳細が気になる人は，そちらをチェックして購入の参考にしてほしい。\n\t\t2026/10/03 00:00\nニュース\n　バンダイナムコエンターテインメントは，東京ゲームショウ2026で先行販売した新作グッズについて，同社が運営する「アソビストア」で受注販売を受け付けている。販売期間は10月26日23：59まで。\n \nラインナップには，発売されたばかりの「ACE COMBAT 8」や，10月15日に発売を控える「テイルズ オブ エターニア リマスター」，さらには「パックマン」「塊魂」「太鼓の達人」「リトルナイトメア」など，新旧さまざまな作品のグッズが並んでいる。\n \nアソビストアの"
-    },
-    {
       "title": "This Puzzle Platformer Takes You Inside Laptop For Dose Of Pure Y2K Web Nostalgia",
       "url": "https://80.lv/articles/this-puzzle-platformer-takes-you-inside-laptop-for-dose-of-pure-y2k-web-nostalgia/",
       "summary": "<p>Welcome to Snaptic.</p>",
@@ -214,17 +311,6 @@
       "image_url": "https://cdn.80.lv/api/upload/post/41836/images/6abfbc7c6fd13/cover_800x800.jpg"
     },
     {
-      "title": "「新約・怒首領蜂大復活」，全ステージ対応のトレーニングモードを本日実装。今冬には「ブラックレーベル」も実装予定",
-      "url": "https://www.4gamer.net/games/997/G099714/20261002051/",
-      "summary": "ケイブは本日（2026年10月2日），弾幕シューティング「新約・怒首領蜂大復活」に新要素を追加する大型アップデート“Version1.1.0”をリリースした。あわせて，今冬までのアップデート計画が公開されている。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T13:57:56",
-      "image_url": "https://www.4gamer.net/games/997/G099714/20261002051/SS/002.jpg",
-      "body_ja": "「新約・怒首領蜂大復活」は，2008年にアーケードで稼働した「怒首領蜂大復活」をベースに，多数の新要素を追加したタイトルだ。新たなステージやキャラクターに加え，最大10人で同時に戦う「弾幕対戦モード ロワイヤル」などが盛り込まれている。\n今回のアップデートでは，新モード「トレーニングモード」が追加された。トレーニングモードでは，新ステージ「AREA6」を含む全ステージから任意のAREAを選び，練習やパターン構築を行える。\n今後は11月中にロワイヤルへAREA6が追加され，今冬には「ブラックレーベル」が実装予定となっている。「ブラックレーベル」は，アーケード版「怒首領蜂大復活」のマイナーチェンジ版として登場したもので，本作ではアシストモードにも対応したものになる。\n| 2026年11月 | ・「弾幕対戦モード ロワイヤル」AREA6追加 ・各種モードのコイン獲得場所拡張 ・マッチング待機時間調整 | \n| 今冬 | ・「ブラックレーベル」実装 ・AREA6を追加 ・AREA6に新BGM追加"
-    },
-    {
       "title": "From Old Country Bumpkin to Master Swordsman's Beryl Looks Like a Deformed Potato in 3D",
       "url": "https://80.lv/articles/from-old-country-bumpkin-to-master-swordsman-s-beryl-looks-like-a-deformed-potato-in-3d/",
       "summary": "<p>YAMATOWORKS' Ryo Tsunoda, Meiya Okuda, and Kaito Kobayashi explained how they warped Beryl's anatomy in 3D to achieve the right expressions in 2D.</p>",
@@ -233,92 +319,6 @@
       "lang": "en",
       "published": "2026-10-02T13:37:00",
       "image_url": "https://cdn.80.lv/api/upload/post/41834/images/6abfac10c3a7c/cover_800x800.jpg"
-    },
-    {
-      "title": "約5cmのガンプラで戦うボードゲーム「GUNDAM ASSEMBLE」，10月31日に発売決定",
-      "url": "https://www.4gamer.net/games/987/G098756/20261002049/",
-      "summary": "BANDAISPIRITSホビーディビジョンは本日（2026年10月2日），新作ボードゲーム「GUNDAMASSEMBLE」を10月31日に世界同時発売すると発表した。本作は，約5cmサイズのガンプラで部隊を構築して戦略目標の達成を目指す，1対1の戦略シミュレーションゲームだ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T13:05:36",
-      "image_url": "https://www.4gamer.net/games/987/G098756/20261002049/SS/001.jpg",
-      "body_ja": "本作は，約5cmサイズのガンプラで部隊を構築して戦略目標の達成を目指す，1対1の戦略シミュレーションゲームだ。ユニットごとに機体の特徴を反映した能力が設定されており，ユニットカードや戦術カードを組み合わせながら，自分だけの部隊で戦略的なバトルを楽しめるという。\n10月31日に発売される「GUNDAM ASSEMBLE STARTER SET 01」は，ゲームプレイに必要なミニチュア，ユニットカード，戦術カード，ゲームマップ，ダイスなどを同梱したスターターセットだ。最小3対3の小隊編成によるスピーディーなバトルを楽しめるほか，組み立てや塗装によって自分だけのミニチュアを作り上げることもできる。\n発売に先駆けて，10月15日から10月18日まで，SHIBUYA TSUTAYA 1Fにて「GUNDAM ASSEMBLE」の世界観と遊びを体験できるローンチイベントが開催される。会場では商品やジオラマの展示，映像放映，デモプレイ，先行試遊体験，ミニチュアのペイント体験など，ゲームの魅力を体感できる"
-    },
-    {
-      "title": "便利機能を搭載した，遊びやすいロックマンライクな2Dアクション「RoboGAL：プルートスター・ミッション」が10月29日にSteamで発売へ",
-      "url": "https://www.4gamer.net/games/047/G104748/20261002050/",
-      "summary": "NuntiusGamesとVsooGamesは，TwinkleSoftが手がける2Dアクションプラットフォーマー「RoboGAL：プルートスター・ミッション」を2026年10月29日にSteamで発売すると発表した。それに合わせて，最新ゲームプレイトレイラーも公開されている。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T13:05:29",
-      "image_url": "https://www.4gamer.net/games/047/G104748/20261002050/SS/001.jpg",
-      "body_ja": "本作は，レトロな名作2Dアクションに影響を受けたという作品だ。世界から隔絶された孤島を舞台に，中央タワーの見張り役であるRRoboGAL「レイ・ボー」が，島へ墜落した謎の宇宙船を探索していく。\nゲーム開始時には6つのステージが用意され，好きな順番で攻略できる。各ステージには固有のテーマやギミックが設定され，最後に待ち受けるボスを倒すと，対応する特殊武器が手に入る。特殊武器はほかのボスの弱点を突く鍵でもあり――と，基礎構造はかなり「ロックマン」シリーズに近い。\n特徴的なのは操作周りの仕様で，ボタンを押さずとも自動でチャージショットを溜めてくれたり，スライディング操作を簡略化できたりと，全体的に遊びやすく調整されている。チェックポイントも多く用意され，プレイヤーに優しい設計になっているようだ。\n一方で，本作は「東方Project」シリーズにも影響を受けているとのことで，弾幕STGに近い要素も取り入れられている。プレイフィールの味付けは「ロックマン」シリーズとは少し違ったものになりそうだ。難度"
-    },
-    {
-      "title": "「SEGA STORE OSAKA」，心斎橋PARCO 6階に本日オープン。大阪限定のグッズを展開",
-      "url": "https://www.4gamer.net/games/991/G999106/20261002047/",
-      "summary": "セガは本日（2026年10月2日），常設の旗艦店「SEGASTORE」の関西エリア第1号店として，「SEGASTOREOSAKA」を心斎橋PARCO6階にオープンした。ここでしか手に入らない限定商品や，人気キャラクターのグッズを多数展開する。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T12:55:09",
-      "image_url": "https://www.4gamer.net/games/991/G999106/20261002047/SS/008.jpg",
-      "body_ja": "同店は，2025年7月にオープンした国内初の旗艦店「SEGA STORE TOKYO」に続くものだ。ここでしか手に入らない限定商品や，人気キャラクターのグッズを多数展開する。\nグランドオープンに先立ち，オープニングセレモニーが10月1日に行われた。セレモニーには，セガ 代表取締役 社長執行役員 COO 内海州史氏，常務執行役員 トランスメディア統括本部長 ジャスティン・スカルポーネ氏，パルコ 心斎橋店 店長 菅原 崇氏が参加した。\nリリース文では，「ソニック・ザ・ヘッジホッグ」のぬいぐるみやショッピングバッグ，ラバーストラップ・ステッカーセットなど，SEGA STORE OSAKA限定商品の一部が紹介されている。"
-    },
-    {
-      "title": "「ソニック・ザ・ヘッジホッグ」35周年記念企画，10月5日より始動。東京メトロとのコラボや池袋PARCOで展覧会を開催",
-      "url": "https://www.4gamer.net/games/882/G088214/20261002048/",
-      "summary": "",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T12:49:07",
-      "image_url": "https://www.4gamer.net/games/882/G088214/20261002048/SS/001.jpg",
-      "body_ja": "| 「ソニック・ザ・ヘッジホッグ」35周年記念企画 |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/10/02 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n東京メトロとのコラボキャンペーンがスタート＆池袋PARCOにて展覧会「SONIC the Exhibition -ACROSS GENERATIONS-」開催決定！\n株式会社セガは、「ソニック」の35周年を記念し、東京地下鉄株式会社（以下「東京メトロ」）とのコラボレーション企画、および池袋PARCOにて展覧会「SONIC the Exhibition -ACROSS GENERATIONS-」の開催が決定したことをお知らせいたします。\n東京メトロ×「ソニック・ザ・ヘッジホッグ」35周年記念企画を10月5日（月）よりスタート！\n2026年10月5日（月）より、「東京メトロ×セガ『ソニック・ザ・ヘッジホッグ』35周年記念企画」を実施します。ラッピング車両の運行を皮切りに、沿線各所をめぐるデジタルス"
-    },
-    {
-      "title": "「日本事故物件監視協会4」制作中。発表に合わせて，過去に発売された3作品のセールをSteamで実施",
-      "url": "https://www.4gamer.net/games/047/G104747/20261002044/",
-      "summary": "本日，「日本事故物件監視協会-JapanStigmatizedProperty-」シリーズの公式Xで「日本事故物件監視協会4」が制作中であることが明らかになった。今回の発表に合わせて，これまで発売されてきた3作品のセールを実施している。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T12:23:30",
-      "image_url": "https://www.4gamer.net/games/047/G104747/20261002044/SS/001.jpg",
-      "body_ja": "| ※画像は公式Xより | \n|---|\n本シリーズは，実在する日本国内の物件を監視し，異常を見つけて報告するゲームシリーズだ。2025年8月15日に第1作が発売され，それ以降，別の物件を監視する続編が登場している。\n今回の発表に合わせて，これまで発売されてきた3作品のセールをSteamで実施している。\n日本事故物件監視協会4\n制作中です pic.twitter.com/OCVSmgD8Rz\n— 【公式】日本事故物件監視協会 -Japan Stigmatized Property- (@JSP_Report) October 2, 2026"
-    },
-    {
-      "title": "「龍が如く 極3 / 龍が如く3外伝 Dark Ties」が50％オフ。セガ，「Steam Autumn Sale」を開催中",
-      "url": "https://www.4gamer.net/games/947/G094758/20261002046/",
-      "summary": "",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-02T12:22:39",
-      "image_url": "https://www.4gamer.net/games/947/G094758/20261002046/SS/001.jpg",
-      "body_ja": "| 「Steam Autumn Sale」 |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/10/02 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n株式会社セガは、Steamにて販売中の一部PC用セガ・アトラスタイトルを対象とし、期間限定で特別価格にて販売する「Steam Autumn Sale」を開催中です。\n今回のセールでは、セガから『龍が如く 極３ / 龍が如く３外伝 Dark Ties』が通常版、デラックス・エディションともに50％オフで登場。また、『龍が如く０ 誓いの場所 Director's Cut』も50％オフで登場します。そのほかにも、『ぷよぷよ テトリス ２』などの人気タイトルが特別価格でラインナップされています。\nアトラスからは、『RAIDOU Remastered: 超力兵団奇譚』が通常版、デジタルデラックス版ともに45％オフでセールに登場します。また、『メタファー：リファンタジオ』も通常版、「アトラスブランド35thデジタ"
-    },
-    {
-      "title": "Check Out This Add-On That Adds Advanced Weight Painting Tools to Blender",
-      "url": "https://80.lv/articles/check-out-this-add-on-that-adds-advanced-weight-painting-tools-to-blender/",
-      "summary": "<p>The tool allows for painting and fine-tuning weights for multiple bones without leaving Edit Mode.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-02T11:38:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41832/images/6abf97ab475ac/cover_800x800.jpg"
-    },
-    {
-      "title": "Major Free Update for METRO 2033 Redux Coming Later This Month",
-      "url": "https://80.lv/articles/major-free-update-for-metro-2033-redux-coming-later-this-month/",
-      "summary": "<p>And we have one thing to say – holy 4K.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-02T11:24:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/41829/images/6abf85b32d1cb/cover_800x800.jpg"
     },
     {
       "title": "キルモーションに異常なこだわり「王道の恐竜ぶちのめしシューター」が現代に復活！『Turok: Origins』TGS2026プレイレポート【PR】",
@@ -511,6 +511,6 @@
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt0498d6158e01e04b/6aba60d573fa40680f5482de/Nadella_Xbox.png?width=720&quality=80&disable=upscale"
     }
   ],
-  "last_updated": "2026-10-03T09:54:39.751864+09:00",
+  "last_updated": "2026-10-04T09:21:20.120831+09:00",
   "count": 50
 }

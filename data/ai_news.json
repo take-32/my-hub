@@ -1,6 +1,169 @@
 {
   "articles": [
     {
+      "title": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿",
+      "url": "https://www.itmedia.co.jp/news/article/2610/04/2000001986/",
+      "summary": "OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した。現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘。原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T23:05:47",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/04/2000001986/10008354/2048",
+      "body_ja": "「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿\n米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。\n同氏は、AI企業が十分に慎重ではないという点で、最近退社した他の従業員と同じ考えだとした。その上で、問題の根は個別のルールや新たな法律よりも深いところにあり、企業文化について議論する必要があると訴えている。\nロビンソン氏はOpenAIに3年半在籍し、社内で最も在籍期間が長い従業員の1人だったという。現行の「Preparedness Framework」の起草を主導し、12件のフロンティアモデルのリリースで安全性報告書の作成を監督した。\n同氏は、OpenAIが採"
+    },
+    {
+      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-03T18:43:57",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024"
+    },
+    {
+      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-03T16:30:01",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798"
+    },
+    {
+      "title": "画面フリップ型モバイルノートPC「VAIO T」実機レビュー＝キーボード・タッチパッドもVAIOクオリティー",
+      "url": "https://ascii.jp/elem/000/004/439/4439697/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533181/s/d9095660e590a418.jpg\" width=\"60\" />画面フリップで変形する「VAIO T」の実機レビューです。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T15:01:00",
+      "image_url": "https://ascii.jp/img/2026/10/02/4533181/s/d9095660e590a418.jpg"
+    },
+    {
+      "title": "RTX 5090搭載PCが14万円引き！ パソコンショップSEVEN、10月4日限定セール",
+      "url": "https://ascii.jp/elem/000/004/438/4438365/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/30/4531933/s/597237cd5e2ebfce.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、10月4日0:00から23:59までの24時間限定で最新ゲーミングPCやデスクトップPCを対象に最大140,000円オフとなるセールを実施する。ZEFT G62BG、ZEFT R60GV、ZEFT Z58Xなど全10商品が送料無料で販売される。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/30/4531933/s/597237cd5e2ebfce.png"
+    },
+    {
+      "title": "All the AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-03T14:00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813"
+    },
+    {
+      "title": "【2026秋アニメまとめ】この秋も話題作多すぎ！ 90作品以上の秋アニメを全チェック！",
+      "url": "https://ascii.jp/elem/000/004/439/4439810/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/03/4533815/s/583f704c31d3385f.jpg\" width=\"60\" />この秋も話題作多すぎでどれも見逃せない！　今クールはなんと90本以上の作品を紹介予定です！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/03/4533815/s/583f704c31d3385f.jpg"
+    },
+    {
+      "title": "【2026秋アニメ】『#ゾンビさがしてます』に『生徒会にも穴はある！』『幻想水滸伝』と注目の新作放送開始",
+      "url": "https://ascii.jp/elem/000/004/439/4439809/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/03/4533764/s/6a1007f62a872ba8.jpg\" width=\"60\" />秋アニメ特集第3回は『#ゾンビさがしてます』『生徒会にも穴はある！』『幻想水滸伝』『野生のラスボスが現れた！ 第2期』『らんま1/2 第3期』の5作品を紹介。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T10:55:00",
+      "image_url": "https://ascii.jp/img/2026/10/03/4533764/s/6a1007f62a872ba8.jpg"
+    },
+    {
+      "title": "グラビア界屈指の知性派美女、谷 碧が4th DVDでバニー衣装や料理シーンに挑戦！",
+      "url": "https://ascii.jp/elem/000/004/438/4438352/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/29/4531736/s/a30e3dc0403c2efa.jpg\" width=\"60\" />レースアンバサダーの名門「2026 Pacific Fairies」でも活躍中。「グラビア界のカトパン」こと谷 碧さんが、4th DVD「アジュール」の発売記念イベントを9月23日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/29/4531736/s/a30e3dc0403c2efa.jpg"
+    },
+    {
+      "title": "立体駐車場に入る質感重視のCX-30か、最新ITと広さのCX-5か？ 価格がダブるマツダSUVの「罪深き比較検証」",
+      "url": "https://ascii.jp/elem/000/004/439/4439772/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533486/s/ab7eec1008080004.jpg\" width=\"60\" />マツダ「CX-30 Air Edition」と新型「CX-5」は、同じ2.5Lエンジンで同価格という異例の競合関係にあります。立体駐車場に対応し上質な内装を持つCX-30と、広い室内と最新インフォテインメントを備えるCX-5。乗り心地やサイズ感が異なる2台の選び方を解説します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/02/4533486/s/ab7eec1008080004.jpg"
+    },
+    {
+      "title": "AIボイスレコーダー買ってから、“ひとりでずっと”スマホに話しかけ続けてます。",
+      "url": "https://ascii.jp/elem/000/004/439/4439744/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533318/s/d63ce6e39e824f71.jpg\" width=\"60\" />「思いつきをすぐ残したい」「口頭指示を記録したい」。生活から仕事まで、すべて記録してくれる専属秘書がいたらと妄想したことはありませんか？ SwitchBotの「AIマインドクリップ」は、そんな貴方にピッタリのガジェットです！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/02/4533318/s/d63ce6e39e824f71.jpg"
+    },
+    {
+      "title": "薄さと保護力を両立！ ベルキンの「SheerForce Protect+」はiPhone 18 Proと相性抜群",
+      "url": "https://ascii.jp/elem/000/004/439/4439708/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533271/s/34eed9687bfc56c8.png\" width=\"60\" />Amazon.co.jpで、ベルキンのiPhone 18 Proシリーズ向けの「SheerForce™ Protect+ シリーズケース」が販売中だ。価格は4990円から。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/02/4533271/s/34eed9687bfc56c8.png"
+    },
+    {
+      "title": "Amazon、データセンター批判に反論　10億ドル超の地域支援策も発表",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001985/",
+      "summary": "AWSのマット・ガーマンCEOは、データセンター建設批判に反論する声明を出した。水資源枯渇などの懸念を「迷信”と否定しつつ、電力料金負担や自治体とのNDA撤廃を含む行動指針を発表。さらに地域支援として、資格取得や省エネ改修などを助成する10億ドル超の基金を立ち上げる。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T08:52:00",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/03/2000001985/10008350/2048",
+      "body_ja": "Amazon、データセンター批判に反論 10億ドル超の地域支援策も発表\n米AmazonのAWS部門CEO、マット・ガーマン氏は10月2日（現地時間）、データセンター建設を巡る米国内の批判に反論を、長文の公式ブログで公開した。データセンター運営の行動指針「Amazon Data Center Commitment」と、データセンターのある地域を対象とする新たな投資プログラム「Built Together」もあわせて発表した。\n米国では、データセンター建設への反発が強まっている。米Gallupが5月に発表した調査では、居住地域でのAIデータセンター建設に71％が反対と回答した。\nガーマン氏は、現在のデジタルインフラ整備を1956年に始まった州間高速道路網の建設になぞらえ、税金ではなく民間企業が費用を負担していると強調した。AIで先行する国が経済と安全保障で最大の恩恵を受けることから整備は急を要する規模だとし、全米で100件を超えるデータセンターの建設一時停止措置が検討されていることについて、"
+    },
+    {
+      "title": "人気のシマエナガドーナツ再び！道内のクリスピー・クリームにて",
+      "url": "https://ascii.jp/elem/000/004/439/4439638/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533081/s/e00e1c0d1c8b0105.jpg\" width=\"60\" />クリスピー・クリーム・ドーナツ・ジャパンは北海道の5店舗にて、10月7日より期間限定で「クリスピー・クリーム・プレミアム 北海道 ミルキーホワイト シマエナガ」を販売します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T08:30:00",
+      "image_url": "https://ascii.jp/img/2026/10/02/4533081/s/e00e1c0d1c8b0105.jpg"
+    },
+    {
+      "title": "【決定版・大和統治の軌跡ベスト5】豊臣秀長が大和に残した国づくり施策！ 「秀長の国」「和を以て、大和をなす」の感動を聖地で追体験する",
+      "url": "https://ascii.jp/elem/000/004/437/4437863/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/28/4531150/s/0843089b92b91f3c.png\" width=\"60\" />政治、経済、インフラ、そして現代のSNS映えが交差する「メタ観光」の視点で、秀長の行政的施策が生んだ大和のスポットベスト5をお届けする。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-03T08:00:00",
+      "image_url": "https://ascii.jp/img/2026/09/28/4531150/s/0843089b92b91f3c.png"
+    },
+    {
+      "title": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開　「Raspberry Pi」などに対応",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001984/",
+      "summary": "Metaは、パーソナルAI「Muse」と連携するガジェットを自作できるプロジェクト「Muse Gadgets」を発表した。ESP32やRaspberry Pi向けSDKをGitHubでオープンソース公開。自作機器や家電と連携させる専用デバイス「Muse Home Link」も米国の有料会員向けに無償提供する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-03T01:41:21",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/03/2000001984/10008346/2048",
+      "body_ja": "Meta、AIエージェント「Muse」とつながる自作ガジェット向けSDKをオープンソースで公開 「Raspberry Pi」などに対応\n米Metaは10月2日（現地時間）、同社のパーソナルAIエージェント「Muse」と連携するデバイスを自作するためのサイドプロジェクト「Muse Gadgets」を発表した。市販の「ESP32」搭載ボードや「Raspberry Pi」に同社のSDKを組み込み、ディスプレイやボタン、センサー、アクチュエーターなどの手持ちの機器をMuseに接続できるようにするものだ。デバイス向けSDKとファームウェアは、Apache License 2.0の下、GitHubで公開した。\nMuseは、Metaが9月に米国で提供を開始したAIエージェント。チャット形式で指示を受け、メールの送信や旅行の予約、フォームへの入力などのタスクを代行する。\nSDKは、ESP32向けの「ESP32 Device SDK」と、Linux向けの「Linux Device SDK」の2種類を用意す"
+    },
+    {
       "title": "Meta wants your next gadget to be Muse-infused",
       "url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
       "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
@@ -11,24 +174,15 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800"
     },
     {
-      "title": "大画面で仕事がはかどる、実用性重視の16型ビジネスノート「ThinkPad E16 Gen 3」が50％オフ",
-      "url": "https://ascii.jp/elem/000/004/439/4439757/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533360/s/ac741b69133c70c9.jpg\" width=\"60\" />レノボの「ThinkPad E16 Gen 3 ILL」が10月15日まで50％オフセール中。Copilot+ PCに対応した16型ビジネスノートPCで、優れた耐久性と16:10の大画面を備える。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」",
+      "url": "https://www.itmedia.co.jp/news/article/2610/03/2000001983/",
+      "summary": "Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-03T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/02/4533360/s/ac741b69133c70c9.jpg"
-    },
-    {
-      "title": "おやつ棚をピザポテトで埋め尽くせ！ 「ピザポテトBIG」12袋が644円オフ",
-      "url": "https://ascii.jp/elem/000/004/439/4439647/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533088/s/a96435490f9c52d3.jpg\" width=\"60\" />「ピザポテトBIG 126g×12袋」が、Amazonで14％オフ販売中です。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-03T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/02/4533088/s/a96435490f9c52d3.jpg"
+      "published": "2026-10-03T00:38:06",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/03/2000001983/10008341/2048",
+      "body_ja": "Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」\n米Appleは10月2日（現地時間）、macOSの「フルディスクアクセス」（Full Disk Access）権限について、ユーザーがアプリにこの権限を与える際の制御を強化する方針を開発者向けサイトで発表した。具体的な導入時期や仕組みは明らかにしていない。\nAppleによると、同社は開発者に強力なAPIを提供する一方、ユーザーのプライベートなデータを守るための一連の制御を設けている。フルディスクアクセスは、バックアップアプリがMac上で正しく機能できるよう、こうした制御の大部分を迂回する権限だ。\nAppleは、一部の開発者がこの権限をユーザーを危険にさらしかねない形で利用しており、ユーザーが十分に理解しないまま、ファイルやメール、メッセージ、さらには閲覧履歴まで、システム上のあらゆるものがさらされていると指摘した。コミュニケーションアプリの場合、ユーザーのやり取りの相手の"
     },
     {
       "title": "Sean Parker is rebuilding Stability AI around music",
@@ -91,16 +245,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Jas-Khaira_Speaker-16x9-Dark.png?resize=1200,675"
     },
     {
-      "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-      "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
-      "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-02T17:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Circuit-Labs-founders-2.jpeg?resize=1200,1037"
-    },
-    {
       "title": "Redefining enterprise intelligence with autonomous AI",
       "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
       "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. F",
@@ -109,16 +253,6 @@
       "lang": "en",
       "published": "2026-10-02T15:49:04",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Social-Card-1.png?resize=1200,600"
-    },
-    {
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-02T15:39:41",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/Screenshot-2025-06-18-at-10.00.59AM.png?w=950"
     },
     {
       "title": "AIエージェントの導入課題10個を調査データで解説！導入前後の壁と解決策",
@@ -143,36 +277,6 @@
       "body_ja": "AIエージェントの導入効果は、業務時間やコストの削減にとどまらず、対応品質の安定や売上・顧客体験の改善にまで及びます。\nとはいえ、経営層から「入れると何がどれだけ良くなるのか」と問われ、効果を根拠付きで説明できずに稟議が止まる担当者は少なくありません。\nPwCの2026年の調査では、日本企業で生成AIが「期待を大きく上回る効果」を生んだ割合は9%にとどまりました。効果の種類と測り方を決めないまま導入すると、AIエージェントも同じ結果になるでしょう。\n本記事では、AIエージェントで得られる8つの導入効果と、公式発表で数値を確認できた企業事例を中心に解説します。効果を測る指標と、効果が出ない原因もあわせて紹介します。\n読み終えるころには、自社で狙う効果を他社の実績値とともに経営層へ説明し、導入後に成果を数値で示せる計画を立てられるようになります。\nAIエージェントで得られる8つの導入効果\nAIエージェントの導入効果は、以下の8つに整理できます。\n- 業務時間が削減される\n- 人件費や外注費が"
     },
     {
-      "title": "パソコンショップSEVEN、10月3日限定で最新ゲーミングPC最大62,000円オフのセールを実施",
-      "url": "https://ascii.jp/elem/000/004/438/4438364/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/30/4531932/s/2ef10b71fc60e43b.png\" width=\"60\" />パソコンショップSEVENが10月3日限定で実施する24時間セールについて、最大62,000円オフの対象機種や価格、購入方法を紹介する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-02T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/30/4531932/s/2ef10b71fc60e43b.png"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "url": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-02T14:30:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Kareem-Amin_Speaker-16x9-Dark.png?resize=1200,675"
-    },
-    {
-      "title": "6万3800円安い！ 最大50TOPS、しかも有機ELの「Lenovo Chromebook Plus」が12万4740円",
-      "url": "https://ascii.jp/elem/000/004/439/4439436/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4532896/s/25949dc21fa5cdd3.jpg\" width=\"60\" />Lenovoの「Chromebook Plus（83MY000QJP）」がAmazonでセール対象。過去価格188,540円から34％オフの124,740円で販売中。最大50TOPSのNPUを備えるMediaTek Kompanio Ultra 910を搭載し、14型WUXGA有機ELディスプレーや16GBメモリ、256GB UFSを採用する。オンデバイスでAI処理が",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-02T12:30:00",
-      "image_url": "https://ascii.jp/img/2026/10/02/4532896/s/25949dc21fa5cdd3.jpg"
-    },
-    {
       "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
       "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual com",
@@ -181,46 +285,6 @@
       "lang": "en",
       "published": "2026-10-02T12:10:00",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/healthy-habits.jpg?resize=1200,600"
-    },
-    {
-      "title": "4Kゲーミングも視野に入るハイスペック！ Ryzen 7 9800X3D＆RTX 5080搭載PCが登場",
-      "url": "https://ascii.jp/elem/000/004/439/4439725/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533289/s/85440e50a7c36405.png\" width=\"60\" />STORMが販売するTGS限定ゲーミングPC「GKP98X3DB858」は、Ryzen 7 9800X3DとGeForce RTX 5080を搭載。32GBメモリーや1TB SSD、1200W GOLD電源も備えた高性能モデルだ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-02T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/02/4533289/s/85440e50a7c36405.png"
-    },
-    {
-      "title": "PS5を横置きで安定！ USB拡張と冷却効率アップを叶えるハブスタンドが27％オフ",
-      "url": "https://ascii.jp/elem/000/004/439/4439702/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533229/s/484534465d2fe668.jpg\" width=\"60\" />Amazon.co.jpにて、アンサーのPS5向けゲーミング横置きUSBハブスタンドが売れています。不足しがちなUSBポートを拡張するほか、隙間を空けて通気性を確保し、冷却効率も高めます。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-02T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/02/4533229/s/484534465d2fe668.jpg"
-    },
-    {
-      "title": "【注目】VAIOを買って旧ノートPCの買い取りを申し込むと査定金額に＋5000円上乗せ！",
-      "url": "https://ascii.jp/elem/000/004/439/4439419/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/01/4532830/s/4356ff00af65263b.png\" width=\"60\" />VAIOは2026年9月18日(金)10時から12月18日(金)9時59分までの期間中、直販サイト「VAIOストア」でPCを購入したうえでノートPCの買い取りを申し込むと、通常の買い取り金額に＋5000円上乗せされる「買い替え応援キャンペーン」を実施している。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-02T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/01/4532830/s/4356ff00af65263b.png"
-    },
-    {
-      "title": "人気作品の新シリーズが続々放映開始！ 『東京リベンジャーズ 三天戦争編』に『桃源暗鬼 ～日光・華厳の滝編～』",
-      "url": "https://ascii.jp/elem/000/004/439/4439762/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533402/s/4ec61d731e529c9a.jpg\" width=\"60\" />秋アニメ特集の第2回は人気作の新シリーズが続々。『東京リベンジャーズ 三天戦争編』に『桃源暗鬼 ～日光・華厳の滝編～』の2作品。さらに『テムパル～アイテムの力～』『しろたん』『Spookiz - Breaking the Curse -』を紹介する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-02T11:10:00",
-      "image_url": "https://ascii.jp/img/2026/10/02/4533402/s/4ec61d731e529c9a.jpg"
     },
     {
       "title": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開",
@@ -232,26 +296,6 @@
       "published": "2026-10-02T11:04:32",
       "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/02/2000001965/10008269/2048",
       "body_ja": "国産AI「LLM-jp-4」ベースのAIモデル、KDDI傘下のELYZAが無料公開\nKDDIグループのAI開発企業ELYZA（東京都文京区）は10月2日、AIモデル「ELYZA-Thinking-1.0-llm-jp-4-33b」および「ELYZA-Thinking-1.0-llm-jp-4-32b-a3b」を無料で公開した。国立情報学研究所（NII）が開発したオープンなAIモデル「LLM-jp-4」シリーズをベースに事後学習を実施し、性能を強化したという。\n今回発表した2モデルは、国産のAIモデルであるLLM-jp-4シリーズをベースに、主に日本語の処理性能に焦点を当て、中間・事後学習を実施した。一部のベンチマークでは、NIIが9月28日に発表したLLM-jp-4の事後学習の改善版「LLM-jp-4.1」シリーズを上回るスコアを示したという。\nELYZA-Thinking-1.0-llm-jp-4-33bと、ELYZA-Thinking-1.0-llm-jp-4-32b-a3bのライセ"
-    },
-    {
-      "title": "MacBookやiPadに最適！ UGREENの高性能ハブ「Revodok Pro 8-in-1」が36％オフ",
-      "url": "https://ascii.jp/elem/000/004/439/4439670/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533148/s/b74a20a17078257c.jpg\" width=\"60\" />Amazon.co.jpにて、UGREENのUSB-Cハブ「Revodok Pro 8-in-1」がタイムセール中です。スマホやPC、タブレットなど多彩な機器を1台で接続拡張できます。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-02T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/02/4533148/s/b74a20a17078257c.jpg"
-    },
-    {
-      "title": "ガッツリ食べたい日に備えよう！ 「日清焼そばU.F.O. 大盛」12個が807円オフ",
-      "url": "https://ascii.jp/elem/000/004/439/4439643/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/02/4533078/s/4806abe1d6d942aa.jpg\" width=\"60\" />「日清焼そばU.F.O. 大盛 167g×12個」が、Amazonでセール売中です。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-02T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/02/4533078/s/4806abe1d6d942aa.jpg"
     },
     {
       "title": "ChatGPTの“利用制限”リセットへ　有料ユーザー向け",
@@ -329,39 +373,6 @@
       "body_ja": "小林啓倫のエマージング・テクノロジー論考\n「長く働くAI」が裏目に？ OpenAIの“脱走事件”が示すリスクの変化 企業に求められる対応は（1/3 ページ）\n米OpenAIは9月10日、AIエージェントを構築するための新しい基盤「Agents API」を公開した。コンテキスト（AIが一度に参照できる作業記憶）の自動圧縮、サブエージェントへの分業、ファイルやコードを扱う実行環境を備え、「数時間、あるいは数日にわたる」ワークフローを安定して走らせることを設計目標に掲げている。\nその翌日の9月11日、オーストラリアのサイバーセキュリティ当局であるASD（Australian Signals Directorate）が、「Agentic AI Harnesses」と題するガイダンスを公表した。AIモデルそのものではなく、モデルにツールや権限を与えて働かせる「ハーネス」層に着目した、当局としては珍しい文書である。\n開発側は「長く働くAI」の基盤を整え、当局側は「長く働くAI」向けの手綱の在りかを示"
     },
     {
-      "title": "「DMに逃げる理由は秘密保持ではない」　人とAIエージェントの“最強チーム”を作るベストプラクティス",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/02/news009.html",
-      "summary": "Anthropicは、人間とAIエージェントによる効果的なチームを構築するためのベストプラクティスをまとめたブログ記事を公開した。Slack社の最高製品責任者（CPO）へのインタビューに基づいている。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-01T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2610/02/cover_news009.jpg",
-      "body_ja": "Anthropicは、人間とAIエージェントによる効果的なチームを構築するためのベストプラクティスをまとめたブログ記事を公開した。Slack社の最高製品責任者（CPO）へのインタビューに基づいている。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nAnthropicは2026年8月19日（米国時間）、人間とAIエージェントによる効果的なチームを構築するためのベストプラクティスをまとめたブログ記事を公開した。Slack社で最高製品責任者（CPO）を務めるジェイミー・デランゲ氏へのインタビューに基づいている。\nこの記事は、人間とAIエージェントのチームをテーマとするブログ記事シリーズの第2弾だ。第1弾ではAnthropic自身の社内での取り組みを紹介していた。今回Slack社が取り上げられたのは、同社がAIの登場するはるか以前から、人間とAIエージェントのチームについて考えてきた企業だからだ。\nデランゲ氏は2017年にSlack社に入社し、検索と機械学習を担当した。「"
-    },
-    {
-      "title": "ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能",
-      "url": "https://www.itmedia.co.jp/news/article/2610/02/2000001945/",
-      "summary": "OpenAIは、ChatGPTにバーチャル試着やお気に入り保存などの新機能を追加した。商品情報カードから自身の写真を使って服やアクセサリーを着用した姿を生成できる。気になった商品の整理機能も備える。また、iOSアプリに、連続撮影した書類を自動で1つのPDFにまとめて送信できるスキャン機能も導入した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-01T22:17:12",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/02/2000001945/10008206/2048",
-      "body_ja": "ChatGPTにAIでバーチャル試着機能とカメラでの書類スキャン→PDF化機能\n米OpenAIは10月1日（現地時間）、ChatGPTのリリースノートを更新し、ショッピング関連の新機能と、カメラで書類をスキャンする新機能を紹介した。\nショッピング関連では、服やアクセサリーをバーチャル試着できる機能を追加した。Webおよびモバイル版で利用可能だ。「秋物のシャツを探して」などと頼むと表示される商品情報カードに「試着する」ボタンが追加された。日本語版のChatGPTでも、国内のECサイトの商品にこのボタンが表示されることを確認した。\nこのボタンを選択して「セルフィーを撮影」または「セルフィーを選択」から自分の写真を用意すると、画像生成機能「ChatGPT Images」で、その商品を身に着けた自分の姿を生成できる。\n全身写真をアップロードするとそれが参照写真として保存され、次回以降の試着にも使われる。以下はアップロードした写真とそれを元に試着した結果の画像だ（写真はGeminiで生成した架空の"
-    },
-    {
-      "title": "「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap",
-      "url": "https://kn.itmedia.co.jp/kn/article/2610/02/2000001932/",
-      "summary": "「2週間で約3倍高速化」という驚きの成果を上げたClaude。いったい、Anthropicの開発者たちは何を変えたのか。短期間での高速化を支えたのは、ある開発アプローチだった。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-01T22:00:00",
-      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2610/02/2000001932/10006895/2048",
-      "body_ja": "「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap\n「2週間で約3倍高速化」という驚きの成果を上げたClaude。いったい、Anthropicの開発者たちは何を変えたのか。短期間での高速化を支えたのは、ある開発アプローチだった。\n開発支援ツール「Claude Code」は、コードの作成だけでなく、既存コードの調査や修正、テストまでこなすようになっている。最近では、人間が細かな作業を一つずつ指示しなくても、与えられた目標に向けて自ら作業を進めるケースも報告されている。\nそんな中、「Claude」の開発元であるAnthropicは、Webサービス版「claude.ai」とデスクトップアプリの利用体験を「2週間で約3倍高速化した」と発表した。ところが、今回の高速化を支えたのは、人間の開発者だけではない。その過程では、Claude自身が改善すべきポイントを見つけ、修正を重ねていたという。単にAIにコードを書かせるだけではない、少し意外な開発手"
-    },
-    {
       "title": "The Download: AI “mind-reading” and creative uses for small batteries",
       "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by analyzin",
@@ -390,17 +401,6 @@
       "lang": "en",
       "published": "2026-10-01T10:00:00",
       "image_url": "https://wp.technologyreview.com/wp-content/uploads/2026/09/POPWHEELS_HORZ-4-2.jpg?resize=1200,600"
-    },
-    {
-      "title": "人間は「取締役2人だけ」　実務をAIが担う新会社、セキュリティサービスのHENNGE",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
-      "summary": "セキュリティサービスなどを手掛けるHENNGEは、AI活用におけるガバナンス・コスト管理を支援する新会社「HENNGE AI」を設立したと発表した。人間の従業員は取締役の2人を除いて配置せず、自律的にタスクをこなすAIエージェントが実務を担う。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-01T09:01:23",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/01/2000001936/10008182/2048",
-      "body_ja": "人間は「取締役2人だけ」 実務をAIが担う新会社、セキュリティサービスのHENNGE（1/2 ページ）\nセキュリティサービスなどを手掛けるHENNGE（東京都渋谷区）は10月1日、AI活用におけるガバナンス・コスト管理を支援する新会社「HENNGE AI」を設立したと発表した。取締役の2人を除いて従業員を配置せず、自律的にタスクをこなすAIエージェントが実務を担う。\nHENNGE AIでは、複数のAIモデルへの接続を一元化して管理する「AI Gateway」サービスを開発する。ユーザーやグループごとのAIモデルの割り当てや、利用コストの可視化、セキュリティ設定などの機能を搭載するほか、「ChatGPT」「Claude」といったAIサービスとの連携も目指す。2027年9月までの提供開始を予定する。\nHENNGE AIの設立には、AIエージェントを活用するために最適な組織構造を検証する狙いもある。開発やマーケティング、カスタマーサポートなどの実務をAIエージェントが担い、利点や課題点を洗い出"
     },
     {
       "title": "AIエージェントの10大リスクと事故事例から学ぶ管理の進め方",
@@ -521,6 +521,6 @@
       "body_ja": "「AIエージェント元年」という言葉を目にする一方で、期待ほど成果が出ないという声も聞き、本当に伸びる技術なのか判断できずにいる方は多いでしょう。\n結論から言えば、AIエージェントの将来性は高いと言えます。ただし現在は期待が先行する時期でもあり、すべての導入が成功するわけではありません。\n根拠を知らないままブームに乗ると、成果の出ない検証に予算を使い続けることになります。反対に様子見を続ければ、業務を自動化した競合に生産性で差をつけられるでしょう。\n本記事では、AIエージェントの将来性を裏づける市場予測と、2030年に向けた進化の見通しを中心に、普及を左右する課題まで解説します。\n読み終える頃には、社内で根拠を示して投資判断を説明でき、自分が次に何をすべきかも決められるようになります。まずは将来性の根拠から確認していきましょう。\nAIエージェントの将来性が高いと言える5つの根拠\nAIエージェントの将来性が高いと言える根拠は、以下の5つです。\n- 市場規模が年率40%超で拡大している\n- L"
     }
   ],
-  "last_updated": "2026-10-03T09:54:11.637578+09:00",
+  "last_updated": "2026-10-04T09:20:37.686289+09:00",
   "count": 50
 }
