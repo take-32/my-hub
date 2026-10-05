@@ -1,137 +1,214 @@
 {
   "articles": [
     {
-      "title": "声で岩を呼び，足場を動かす「ミナと言霊の物語」。言葉を操作に変える3Dアクションを試遊し，開発者に話を聞いた［OIGS2026］",
-      "url": "https://www.4gamer.net/games/047/G104752/20261004002/",
-      "summary": "「ロック」と唱えると岩が現れ，「エレベ」と唱えると足場が動く。OIGS2026で試遊した「ミナと言霊の物語」は，コントローラでの移動と，声で物を呼び出す操作を組み合わせた3Dアクションゲームだ。声を使う遊びの面白さを紹介し，音声認識エンジンを自作した開発者のyoshi氏へのインタビューをお届けする。",
+      "title": "推理ADV「ナカノ人格移植研究所」を試遊。乗り移った研究員の性別や所属によって，探索できる場所が広がっていく［OIGS2026］",
+      "url": "https://www.4gamer.net/games/949/G094993/20261004012/",
+      "summary": "長身の研究員の身体を乗っ取れば，自分では届かない棚の上も調べられる。「ナカノ人格移植研究所」は，人格を他人に移す技術が研究されている船を舞台に，事件の謎を追う推理アドベンチャーゲームだ。OIGS2026では，同僚の失踪をきっかけに1周15分のループが始まるまでの導入部を試遊した。",
       "source": "4Gamer",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-04T00:20:00",
-      "image_url": "https://www.4gamer.net/games/047/G104752/20261004002/SS/002.jpg",
-      "body_ja": "| エジプトのような雰囲気にもこだわりが感じられた | \nまずは，石造りの遺跡を進みながら，言葉を使った操作を覚えていく。マイクに向かって「ロック」と唱えると，目の前に岩が現れ，足場として使えるのだ。にぎやかな会場であったにもかかわらず，呪文が問題なく認識されたことに驚かされた。\n新しい呪文は，ステージ内の案内を読むと覚えられる。筆者は岩の足場を動かす「エレベ」の案内に気付かず，岩を積み上げて高所にのぼっていた。あとで引き返すことになったが，こういう攻略もできるのは面白い。\n続いて，詠唱時間に応じて足場が上昇する呪文「エレベーーート」も試した。声の長さによって動作を変える仕組みは特許出願中とのことだ。\n音声認識を使えば，大量のアイテムが並ぶインベントリから欲しい物を探す手間を省けるかもしれない。戦闘中に岩を呼び出し，バリケードを作るような使い方も楽しそうだと想像した。こうした遊びの可能性や開発の経緯について，個人で本作を制作するyoshi氏に話を聞いた。\n欲しい物を声で呼び出す遊びは，ど"
+      "published": "2026-10-05T00:20:00",
+      "image_url": "https://www.4gamer.net/games/949/G094993/20261004012/SS/001.jpg",
+      "body_ja": "同チームは2025年に，1周約5分の短編を繰り返し遊ぶアドベンチャーゲーム「アイアイ喫茶店」を発売している。本作も同様の作りで，研究員の失踪事件が起きたあとは，1周15分のループで物語が進む。プレイヤーは容疑者たちの身体に乗り移りながら，事件の真相に迫っていく。\nデモでは，主人公の間宮 鴎が同僚の星平 遥に連れられ，研究船「ナカノ人格移植研究所」を訪れる。船内を歩き回って出会うのは，フォアグラを欲しがる梅小路彩乃，頭がネズミ入りのガラス容器になっているオリヴァー，お化け嫌いの四ツ谷 裕，口数の少ない柿池 鴻と，ひと癖ある研究員ばかりだ。誰もがどこか怪しい。\n星平が自分の研究室で披露するのは，他人の身体を乗っ取るための装置「人格移植機」だ。「臓器みたいに，人格を他人に移すの！」と明るく語るものの，扱っている技術はなかなか不穏である。そしてその夜，柿池が何者かに襲われてしまう。\n翌日，デッキで倒れている柿池が見つかる。「柿池が死んじゃったあ！」と騒ぐ星平に，当の本人が「いや普通に生きてるし」"
     },
     {
-      "title": "自分好みの美少女プラモで対戦。3Dアクション「カスタムメカ娘ファイターズ」の開発者に，カスタマイズとバトルの楽しさを聞いた［OIGS2026］",
-      "url": "https://www.4gamer.net/games/047/G104751/20261004001/",
-      "summary": "好きなボディや武器を組み合わせたメカ娘で，1対1のバトルを繰り広げる「カスタムメカ娘ファイターズ」。OIGS2026で試遊したところ，機体のカスタマイズが楽しそうだと感じた。ディレクターのカーバンクル氏とプログラマーの山田裕貴氏に，企画の出発点やカスタマイズを支える仕組み，今後の展開について聞いた。",
+      "title": "止まれないカエルを操るジャンプアクション「Super Froppings」。どちらが上の階まで行けるかを競う2人対戦を試遊［OIGS2026］",
+      "url": "https://www.4gamer.net/games/047/G104762/20261004013/",
+      "summary": "左右に動き続けるカエルを，ジャンプと，向きを変えるフリップの2ボタンで上の階へ導く。「SuperFroppings」は，「CASSETTEBOY」に収録されたミニゲームを，マルチプレイ向けに作り直したタイトルである。OIGS2026では，2人でどちらが上の階まで行けるかを競う「VSバトル」を試遊した。",
       "source": "4Gamer",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-04T00:10:00",
-      "image_url": "https://www.4gamer.net/games/047/G104751/20261004001/SS/008.jpg",
-      "body_ja": "カスタマイズ画面では，ボディ，右手と左手の武器，背中の武器，脚のパーツを選べる。武器には説明文のほか，攻撃力や弾速，追尾力，連射力の目安も表示される。武器を替えると装備の形や色も変わるので，組み合わせを考えるだけでも楽しかった。\n対戦中は，ジャンプや空中ダッシュで移動しながら，3つの武器を撃ち分ける。右手の武器の弾はまっすぐ飛び，左手の武器の弾は弧を描くとのことだ。飛び方の違いによって，攻撃が届く場所も変わる。\n本作のイベント出展は今回が初めてだという。好みの見た目を作る楽しさと，それを使って戦う楽しさを，どのように形にしているのか。ディレクターのカーバンクル氏と，プログラマーの山田裕貴氏に話を聞いた。\n好みの見た目のメカ娘で，自分の考えた戦い方を\n4Gamer：\nまず，本作で目指している遊びを教えてください。\n山田氏：\nカスタマイズとバトルの二つを軸にしています。コンセプトは「自分で考えた最強の美少女プラモを作って戦わせる」です。パーツの組み合わせによって，見た目だけでなく，近距離で戦"
+      "published": "2026-10-05T00:10:00",
+      "image_url": "https://www.4gamer.net/games/047/G104762/20261004013/SS/001.jpg",
+      "body_ja": "本作は，譽田 潔氏が代表を務めるワンダーランドカザキリが開発した「CASSETTE BOY（カセットボーイ）」に収録されているミニゲームを，マルチプレイ向けに作り直したタイトルである。プロデュースはキマイラ機関代表の新川宗平氏（関連記事），作曲は永松 亮氏が担当している。モードは，1人で記録を目指す「ハイスコアモード」，2人対戦の「VSバトル」，最大8人で遊べる「サバイバルモード」の3つだ。\n今回試遊したVSバトルは，どちらが上の階まで行けるかを競うモードで，100階に着けばその時点で勝ちとなる。操作はジャンプとフリップのみで，左右に動き続けるカエルをタイミングよく跳ばせて，上の足場へ移らせていく。向きを変えるフリップには，道中で拾えるチェリーが必要だ。チェリーは，ジャンプボタンの長押しで出せる大ジャンプにも使う。\n足場に置かれた紫色のドクロに触れると，カエルはやられてしまう。ジャンプ中はカエルの頭が2段上の高さまで届くため，その位置にあるドクロにも当たる。上の階に進むと，足場の見た目が"
     },
     {
-      "title": "クナイを足場に，時間を止めて道を開く。2D探索型アクション「常夜渡りの忍」の手触りのよさはどう生まれるのか［OIGS2026］",
-      "url": "https://www.4gamer.net/games/047/G104750/20261003008/",
-      "summary": "OIGS2026で，2D探索型アクション「常夜渡りの忍」を試遊した。壁に刺したクナイに乗り，時間を止めて空中にも足場を作る。アクションゲームが苦手な筆者にも遊びやすく，ダッシュやジャンプが気持ちよい。手触りを磨く工夫や，クナイと時間停止を組み合わせた経緯を，開発者のキャス氏に聞いた。",
+      "title": "Fire Emblem Fans Need to Play 2017's Stellar Revenge-Saga RPG",
+      "url": "https://www.polygon.com/fire-emblem-tales-of-berseria/",
+      "summary": "Fire Emblem has taken Leda players on a path of revenge. Yet another game is perfect for those who enjoy supporting women's wrongs.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-10-05T00:00:15",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/fire-emblem-fortunes-weave-which-character-4.jpg"
+    },
+    {
+      "title": "アルファベット牌で英単語を作る麻雀風対戦ゲーム「WORJONG」。手牌が次の局へ残る独自ルールや，麻雀との違いについて聞いた［OIGS2026］",
+      "url": "https://www.4gamer.net/games/047/G104761/20261004011/",
+      "summary": "アルファベット牌で3文字の英単語を4つ作り，アガリを目指す。OIGS2026で試遊した「WORJONG」は，そんな麻雀風対戦ゲームだ。誰かがアガっても，ほかの人の手牌はそのまま残るのが大きな特徴となっている。単語を判定する辞書づくりや独自ルールの狙いを，開発者のKEN氏らに聞いた。",
       "source": "4Gamer",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-04T00:00:00",
-      "image_url": "https://www.4gamer.net/games/047/G104750/20261003008/TN/003.gif",
-      "body_ja": "主人公は忍者見習いの少年「迅」。さらわれた「桜乃姫」を救うため，妖怪の現れた瑞谷国を進んでいく。竹林や城が描かれた和風の世界を，ダッシュやジャンプで駆け抜けるのが気持ちよい。新しい能力を身に付けることで，行ける場所が広がっていく探索型のゲームだ。\n迅の武器であるクナイは，敵を倒すだけでなく，壁に刺せば足場にもなる。さらに，刺したクナイに別のクナイを刺して，足場を延ばせるのも面白いところ。小さな刃の上に乗って，高い場所へ跳ぶという使い方が新鮮だった。足場は細く，乗るには少し慎重さが必要だ。この乗りづらさも，クナイを足場にする面白さにつながっている。\n時間を止める力「常夜渡り」を得ると，クナイの使い方はさらに広がる。投げたクナイを空中で止めれば，壁のない場所にも足場を作れるのだ。試遊では，最初は越えられなかった場所へ，この力を使って進めるようになった。どこにクナイを置き，どこから跳ぶか。道筋を考える感覚には，パズルのような楽しさもあった。\n仕掛けを突破したときに舞う紙吹雪も楽しい。新しい能力"
+      "published": "2026-10-05T00:00:00",
+      "image_url": "https://www.4gamer.net/games/047/G104761/20261004011/SS/009.jpg",
+      "body_ja": "ルールは麻雀をもとにしており，AからZまでのアルファベット牌を使って遊ぶ。手牌は11枚で，そこに1枚加えて3文字の英単語を4つ作ればアガリとなる。\nアガるのに役が必要なのも麻雀と同じだが，リーチや一発といったおなじみのものに加えて，4つの単語で文章を作る「文法成立」のように，英単語ならではの役もある。打牌の候補を教えてくれるヒント機能があるので，迷ったときも手を進めやすい。\n麻雀と大きく違うのは，誰かがアガっても，ほかの人の手牌がそのまま次の局へ持ち越される点だ。手を作り直すのはアガった人だけなので，テンパイのまま局をまたぐこともある。では，英単語で麻雀をするという遊びは，どのように形になったのか。開発者のKEN氏と，その友人で，来場者への説明を担当していたpatioglass氏に話を聞いた。\n単語と文法をゲームが判定できるように，辞書づくりから始めた\n| 開発者のKEN氏（左）と，来場者への説明を担当していたpatioglass氏（右） | \n4Gamer：\n開発にあたって，影響を受け"
     },
     {
-      "title": "Uncharted: The Lost Legacy Is Still the Best Uncharted Game",
-      "url": "https://www.polygon.com/uncharted-lost-legacy-rec-playstation-naughty-dog/",
-      "summary": "Naughty Dog's 2017 standalone spinoff that leaves Nathan Drake behind is an underappreciated masterpiece, and its director is leading Uncharted 5",
+      "title": "80年代への郷愁と文学的世界が溶け合うコマンド入力式ADV「駅前のカフカ」をプレイ。なぜコマンド入力式を選んだのか開発者に聞いた［OIGS2026］",
+      "url": "https://www.4gamer.net/games/964/G096416/20261004010/",
+      "summary": "10月3日と4日に大阪で開催された「OSAKAINDIEGAMESSUMMIT2026」にて，Neji.Gamesの新作コマンド入力式ADV「駅前のカフカ」が試遊出展された。80年代PCゲームへのノスタルジー漂う本作のプレイレポートに加え，開発者へのミニインタビューをお届けしよう。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-05T00:00:00",
+      "image_url": "https://www.4gamer.net/games/964/G096416/20261004010/SS/016.jpg",
+      "body_ja": "用意された選択肢はない。英単語を直接打ち込むクラシックな体験\n「駅前のカフカ」は，ノスタルジックなピクセルアートと叙情的なサウンドが印象的なコマンド入力式アドベンチャーゲームだ。1980年代の国産PC向けテキストADVのシステムに強い影響を受けており，昨今のADVにおける主流である「画面上に表示された選択肢を選ぶ方式」を採用していない。\nプレイヤーはキーボードを使い，主人公に行わせたい行動を「英単語」で直接打ち込んでいく。移動したいときは「right」「left」，周囲を観察したいときは「look」，近くの少女へ声をかけたいときは「talk girl」と，画面上の情景やテキストからやるべきことを読み解き，実行に移して物語を動かしていく。\nとはいえ，現代にあわせてゲームの難度自体はカジュアルに調整されているようで，必要になる名詞は地の文で英単語が併記されているのでキーワードは分かりやすいし，よく使われる英単語さえ押さえておけば，少なくともデモ版では問題なさそうだった。\n| 机のうえに用意さ"
+    },
+    {
+      "title": "Pokémon's Official Halloween Collection is Live and Full of Incredible Merch",
+      "url": "https://www.polygon.com/pokemon-center-official-halloween-2026-collection-merch/",
+      "summary": "The Pokémon Center released its Halloween 2026 merchandise collection with Pokémon yard statues, Gengar sleepwear, and more.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-10-03T23:00:16",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/lost-legacy-chloe-cropped.jpg"
+      "published": "2026-10-04T23:38:17",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemon-halloween-merch.jpg"
     },
     {
-      "title": "Stephen King’s Bleakest Movie, With an Ending He Couldn’t Imagine, Is Free on Streaming",
-      "url": "https://www.polygon.com/stephen-king-the-mist-movie-free-to-stream/",
-      "summary": "The 2007 Stephen King adaptation remains one of horror's most devastating movies, and it's free on Roku.",
+      "title": "テキストはゼロ。手がかりは観察だけの猫メトロイドヴァニア「GLIDE」［OIGS 2026］",
+      "url": "https://www.4gamer.net/games/047/G104763/20261005001/",
+      "summary": "猫は高いところが好きだ。棚の上，冷蔵庫の上，カーテンレールの上。理由はよく分からないが，とにかく上を目指す。そんな猫の本能をそのままゲームにしたような作品が，「GLIDE」である。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-04T23:30:00",
+      "image_url": "https://www.4gamer.net/games/047/G104763/20261005001/SS/003.jpg",
+      "body_ja": "猫は高いところが好きだ。棚の上，冷蔵庫の上，カーテンレールの上。理由はよく分からないが，とにかく上を目指す。そんな猫の本能をそのままゲームにしたような作品が，「GLIDE」である。\n2026年10月3日，4日に大阪・コングレスクエア グラングリーン大阪で開催されたインディーゲームイベント「OSAKA INDIE GAMES SUMMIT 2026」（以下，OIGS 2026）で，個人開発者BruteForceが手がける本作が，プレイアブル出展されていた。\n2026年8月に韓国・釜山で開催された「BIC 2026」で，吉田修平氏がピックアップしたタイトルのリストにも名を連ねていた作品だ。その吉田氏も「かわいいのに難しい」と評していたという本作だが，実際に遊んでみると，まさに言葉どおりだった。\n［インタビュー］良い意味での“インディー感”が戻ってきた釜山（BIC 2026）で，コントローラー文化のない韓国に「英語とコントローラー対応を早く！」 30本のリストを片手に吉田修平氏が，韓国と世界の"
+    },
+    {
+      "title": "【今週のモチベ】「マビノギモバイル」や「AION 2」が発売される 2026年10月5日〜10月11日",
+      "url": "https://www.4gamer.net/games/954/G095479/20261004006/",
+      "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，モバイル向けに作り直されたほのぼのMMORPG「マビノギモバイル」や，自由な飛行が軸となったオープンワールドMMORPG「AION2」が発売される。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-04T23:00:00",
+      "image_url": "https://www.4gamer.net/games/954/G095479/20261004006/SS/003.jpg",
+      "body_ja": "今週も月曜日がやってきた。我々ゲーマーにとって，期待の新作が発売される週ほどワクワクするものはないわけだが，今週は何が発売されるかを抜かりなくキチンと把握している人は，どれくらいいるのだろうか。週刊連載「今週のモチベ」では，「え？あれって今週発売だったの!?」となりがちな人のために，今週発売される期待のタイトルをおさらいしていこう。\nマビノギモバイル\n| 発売日：2026年10月7日（水） ストア：App Store / Google Play / PC 価格：基本プレイ無料 |  | \n|---|---|\nストア：App Store / Google Play / PC\n価格：基本プレイ無料\n2005年に日本でサービスを開始したPCオンラインゲーム「マビノギ」の世界観を受け継ぐ，ほのぼのオンラインRPG。ストーリーは原作の世界観を継承しつつ再構築され，温かみのあるアートスタイルはそのままに，モバイル向けに最適化された操作体系が採用されている。戦闘だけでなく料理や釣り，キャンプといった生"
+    },
+    {
+      "title": "ウィンドウを傾け，ブロックをはめ込み，データを運ぶ。自力でローディングを100％まで進める「NowLoadingが終わらない」［OIGS2026］",
+      "url": "https://www.4gamer.net/games/047/G104759/20261004008/",
+      "summary": "ゲームを起動して，タイトル画面で「ニューゲーム」を選ぶ。画面に現れるのは「NowLoading...」と書かれた小さなウィンドウ。そして，そのローディングは待っていても終わらない。「利用規約に同意したい」の作者による，ひとクセある新作をプレイしてきた。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-04T22:45:00",
+      "image_url": "https://www.4gamer.net/games/047/G104759/20261004008/SS/016.jpg",
+      "body_ja": "2026年10月3日，4日に大阪・コングレスクエア グラングリーン大阪で開催されたインディーゲームイベント「OSAKA INDIE GAMES SUMMIT 2026」（以下，OIGS 2026）で，べすとまん氏が手がける「NowLoadingが終わらない」がプレイアブル出展されていた。\nべすとまん氏といえば，2025年12月にSteamで発売された「利用規約に同意したい」の作者だ。横スクロールアクション「ドキドキアクションゲーム」を遊ぶために，利用規約全12項目に同意することを目指すという作品で，100種類を超える規約画面には反射神経やパズル力を試すさまざまな仕掛けが施されていた。\n| ゲーム本編「ファイナルテイルズクエスト」のタイトル画面。ここから先に進むまでが本番だ | \n|---|\nさまざまな仕掛けが施された利用規約に同意していく「利用規約に同意したい」，Steamで配信開始。全12項目に同意すると実際にゲームが遊べる\nべすとまん氏は本日，PC用ソフト「利用規約に同意したい」の配"
+    },
+    {
+      "title": "MMOを運営する「MMO98」と，XP風UIの新作「Silicon Architect」。BiteMe Gamesが出展する2タイトルを紹介［OIGS2026］",
+      "url": "https://www.4gamer.net/games/047/G104758/20261004004/",
+      "summary": "OIGS2026に，ベルギーのインディースタジオBiteMeGamesが2タイトルを出展した。90年代風のデスクトップ画面でMMOスタジオを経営するインクリメンタルシミュレーション「MMO98」と，WindowsXP風の画面で自分だけのCPUを設計する新作「SiliconArchitect」だ。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-04T22:30:00",
+      "image_url": "https://www.4gamer.net/games/047/G104758/20261004004/SS/001.jpg",
+      "body_ja": "“運営する側”として体験できるのが，ベルギー・アントワープのインディースタジオBiteMe Gamesが手がける「MMO98」だ。\n2026年10月3日と4日に大阪・コングレスクエア グラングリーン大阪で開催されたインディーゲームイベント「OSAKA INDIE GAMES SUMMIT 2026」（以下，OIGS 2026）で，同スタジオは発売中の「MMO98」と，開発中の新作「Silicon Architect」の2タイトルを出展していた。\n90年代風デスクトップで，小さなMMOスタジオを世界一へ\n「MMO98」は，小さなMMO開発スタジオを世界一のゲームスタジオへと成長させていくインクリメンタル（放置系）シミュレーションだ。2026年4月20日にSteamで発売されており，日本語にも対応している。\nゲーム画面は，その名のとおり90年代のパソコンのデスクトップを思わせるデザイン。ゲームの状況を表示するウィンドウ，プレイヤーのチャットが流れる「IRC」，サーバーノードを購入する「運営」"
+    },
+    {
+      "title": "恐竜やエイリアンが待ち受ける惑星が舞台。PvEシューティング「Turok: Origins」の開発陣に，環境デザインや戦闘システムについて聞いた",
+      "url": "https://www.4gamer.net/games/865/G086591/20260921049/",
+      "summary": "恐竜やエイリアンの脅威に立ち向かうシューティングゲーム「Turok:Origins」。本稿では，TGS2026に合わせて実施した開発者インタビューの模様をお伝えしよう。シリーズの多彩な要素を受け継いだ世界観や，惑星ごとに異なる生き物のデザイン，武器を強化して繰り返し戦う楽しさについて尋ねた。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-04T22:00:00",
+      "image_url": "https://www.4gamer.net/games/865/G086591/20260921049/SS/004.jpg",
+      "body_ja": "本作では，銃や弓による射撃のほか，近接攻撃や特殊能力を駆使して戦い，敵などから得たDNAでスーツを進化させていく。冒険の舞台となる惑星はそれぞれ環境も生き物も異なり，戦闘だけでなく探索も楽しめる。\nシリーズの原点は，1997年に発売されたNINTENDO 64用ソフト「時空戦士テュロック」だ。2008年には，ストーリーなどを一新したPS3 / XBOX 360用ソフト「テュロック」も発売されている。\n4Gamerは，東京ゲームショウ2026に合わせて，「Turok: Origins」のゲームディレクターを務めるJesús Iglesias氏に話を聞いた。恐竜だけにとどまらないシリーズの魅力から，惑星ごとの生き物のデザイン，自分に合った戦い方を選べる仕組みまで，その内容をお届けしよう。\n| ゲームディレクターのJesús Iglesias氏（右） | \n恐竜やエイリアンが暮らす，多彩な惑星を巡る\n4Gamer：\nまずは，「Turok: Origins」を手がけることになった経緯から教えてく"
+    },
+    {
+      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年9月28日〜10月4日",
+      "url": "https://www.4gamer.net/games/040/G004099/20261004007/",
+      "summary": "2026年9月28日〜10月4日，4Gamerに掲載された記事は261本でした。「東京ゲームショウ2026」の関連記事や，秋の夜長に楽しめそうなゲームの情報など，いろいろな記事を掲載した4Gamerと世界のゲーム業界の1週間をさくっと振り返りましょう。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-04T22:00:00",
+      "image_url": "https://www.4gamer.net/games/040/G004099/20261004007/SS/033.jpg",
+      "body_ja": "全国的に10月に突入した2026年9月28日〜10月4日，4Gamerに掲載された記事は261本でした。北海道の旭岳で初冠雪が観測されましたが，気象庁は今シーズンから目視観測を廃止して「解析積雪深」に切り替えたそうです。それがなんなのか，調べてもちょっとよく分かりませんでしたが，なんだかハイテクっぽいです。最近流行のAIとかも使っているんじゃないでしょうか。なんにせよ，もう秋なんだなあ。\n| ［プレイレポ］オシャレと交流，そして現代的な程よい距離感を楽しむ，「マビノギモバイル」での異世界暮らし | \n|---|\nさて，9月17日〜21日に開催された「東京ゲームショウ2026」（21日のオフライン開催は中止されましたが）については，先週もいくつかの関連記事を掲載しました。なかなか終わりません。\n試遊レポートやニュースなどはさすがに出尽くした感じですが，ふだん会う機会の少ない人に話を聞いた，読み応えのあるインタビュー記事が並んでおり，先週のアクセスランキングのトップ10にもいくつか顔を出して"
+    },
+    {
+      "title": "8 Video Game Villains With Motives You Can't Argue With",
+      "url": "https://www.polygon.com/video-game-villains-who-were-right/",
+      "summary": "From Renoir to Andrew Ryan, these 8 video game villains perhaps had a point…buried under the body count",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-10-03T22:00:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/the-mist-lede.jpg"
+      "published": "2026-10-04T20:00:15",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/22989776/ss_4b2b412307b72a21f68148c32fab7a278875d139.jpg"
     },
     {
-      "title": "Netflix Sets The Witcher Season 5's Fate",
-      "url": "https://www.polygon.com/the-witcher-season-5-when-release-date-netflix/",
-      "summary": "Netflix's The Witcher season 5 was expected to have its final showing in 2026, but has been quietly delayed to 2027, according to What's On Netflix.",
+      "title": "25 Years Later, Ridley Scott’s Most Controversial Thriller Is Officially Free on Youtube",
+      "url": "https://www.polygon.com/ridley-scott-hannibal-2001-controversy/",
+      "summary": "Ridley Scott is known for his epic sci-fi films, such 'Alien' and 'Blade Runner.' But in 2001, a controversial adaptation almost changed everything.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-10-03T20:13:16",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25459854/Witcher_Hemsworth.jpeg"
+      "published": "2026-10-04T19:00:16",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/3.jpg"
     },
     {
-      "title": "Ken Russell's The Devils Gets 4K, NC-17 Release from Warner Bros.",
-      "url": "https://www.polygon.com/ken-russell-the-devils-movie-4k-restoration-nc-17-rating/",
-      "summary": "Warner Bros. is releasing Ken Russell's 1971 psychological horror drama The Devils in theaters this October, in restored 4K and uncensored.",
+      "title": "Nintendo's Zelda: Ocarina of Time Remake Gets Official Instrument Support and More",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-new-features-notes-app-nintendo/",
+      "summary": "The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 will include a playable flute, Zelda Notes support, and an official Zelda quiz.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-10-03T20:10:25",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/the-devils.jpg"
+      "published": "2026-10-04T18:19:15",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/ocarina.JPG"
     },
     {
-      "title": "A RuneScape Animated Show Is Coming With a World-Famous Content Creator Attached",
-      "url": "https://www.polygon.com/runescape-animated-series-announced/",
-      "summary": "A RuneScape animated adaptation is on the way from Jagex, in partnership with MoistCr1TiKaL and Lyrical Media.",
+      "title": "Forget Star Wars Movies, the Franchise’s Future Belongs to Video Games",
+      "url": "https://www.polygon.com/star-wars-video-games-coming-for-movies-lunch/",
+      "summary": "Zero Company, Galactic Racer, KOTOR, and upcoming new games make SW look more like D&amp;D than the MCU",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-10-03T20:00:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/runescape-animated-show.jpg"
+      "published": "2026-10-04T18:00:15",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-zero-company.jpg"
     },
     {
-      "title": "Metroid Meets Dead Cells In October's Coolest New Action Game",
-      "url": "https://www.polygon.com/castlevania-belmonts-curse-release-date-metroidvania/",
-      "summary": "October's most exciting new action game brings modern sensibilities to a beloved franchise that hasn't seen a proper entry in far too long.",
+      "title": "'Buffy the Vampire Slayer' Would Be Much Better if It Were 2 Seasons Shorter",
+      "url": "https://www.polygon.com/buffy-season-5-hot-take/",
+      "summary": "Buffy the Vampire Slayer ran for seven seasons, but cutting two of its weakest would have made the beloved series even better.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-10-03T20:00:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/screenshot-2026-06-07-at-2-07-19-pm.png"
+      "published": "2026-10-04T17:00:16",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/spike-2.jpg"
     },
     {
-      "title": "RuneScape 4 Officially Revealed by Jagex",
-      "url": "https://www.polygon.com/runescape-4-announcement-runefest-reveal-jagex/",
-      "summary": "Unveiled at RuneFest, RuneScape 4 is another MMO being developed in Unreal Engine, and it's in the works at Jagex.",
+      "title": "Tom Cruise Just Experienced His Worst Opening Weekend In Nearly 20 Years",
+      "url": "https://www.polygon.com/digger-tom-cruise-box-office/",
+      "summary": "Digger did not do very well in theaters during its opening weekend, hitting a grossing low Tom Cruise hasn't seen in almost 20 years",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-10-03T20:00:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/runescape-4.jpg"
+      "published": "2026-10-04T16:22:10",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/digger-tom-cruise.jpg"
     },
     {
-      "title": "Amazon's New 8-Episode Action Spinoff Dethrones Reacher to Become No. 1 Streaming Series",
-      "url": "https://www.polygon.com/reacher-neagley-spinoff-prime-video-streaming-success-october-2026/",
-      "summary": "Reacher spinoff Neagley is dominating the Prime Video streaming charts in the U.S. and worldwide.",
+      "title": "Link And GTA 6's Jason Get Into A Heated Debate In Hilarious SNL Weekend Update Bit",
+      "url": "https://www.polygon.com/saturday-night-live-zelda-vs-gta-6/",
+      "summary": "There are only two weeks between the launch of the Ocarina of Time remake and GTA 6, which led to a rivalry between the games' protagonists on SNL.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-10-03T19:50:12",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/rspi_s1_ut_108_250520_mahsha_00228r_cropc_3000.jpg"
+      "published": "2026-10-04T16:03:18",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/saturday-night-live-snl-gta-zelda-sketch.jpg"
     },
     {
-      "title": "The 7 Best Games Like Hollow Knight: Silksong to Speed Up the Wait for Sea of Sorrows",
-      "url": "https://www.polygon.com/best-games-like-silksong-sea-sorrows-wait/",
-      "summary": "From brutal boss fights to precise platforming challenges, here are 7 games like SiIlksong to play while you wait for new DLC.",
+      "title": "Fire Emblem: Fortune's Weave true ending, explained",
+      "url": "https://www.polygon.com/fire-emblem-fortunes-weaves-ending-explained/",
+      "summary": "Based on Fire Emblem: Fortune's Weave ending and post-credit scene, we can especulate that Sothis' story hasn't ended yet.",
       "source": "Polygon",
       "icon": "🕹",
       "lang": "en",
-      "published": "2026-10-03T19:37:08",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/hollow-knight-silksong-sea-sorrow.png"
-    },
-    {
-      "title": "Overwatch's Most Radical Hero Rework in Years is Coming Soon",
-      "url": "https://www.polygon.com/overwatch-sombra-rework-support-dps-alec-dawson/",
-      "summary": "Overwatch DPS hero Sombra is changing to a support role in season 5, but Blizzard says her lethality and aggressive play style isn't changing.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-10-03T19:28:12",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24974859/sombra_overwatch_2.jpg"
+      "published": "2026-10-04T16:00:15",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fefortunesweave_sothis.jpg"
     },
     {
       "title": "Watch a Coffee Machine Rebuilt From a Technical Drawing in This Short Film",
@@ -152,83 +229,6 @@
       "lang": "en",
       "published": "2026-10-03T13:00:00",
       "image_url": "https://cdn.80.lv/api/upload/post/41821/images/6abe9067842a9/cover_800x800.jpg"
-    },
-    {
-      "title": "週刊Steam広場 第173号：「真・三國無双2 with 猛将伝 Remastered」や「ACE COMBAT 8: WINGS OF THEVE」が発売に",
-      "url": "https://www.4gamer.net/games/038/G003821/20261003005/",
-      "summary": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，リマスター版「真・三國無双2with猛将伝Remastered」や，祖国を追われた人々の戦いを題材とするシリーズ最新作「ACECOMBAT8:WINGSOFTHEVE」がリリースされた。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-03T09:00:00",
-      "image_url": "https://www.4gamer.net/games/038/G003821/20261003005/TN/008.jpg",
-      "body_ja": "週刊Steam広場では，Valveが運営するPCゲームのダウンロード販売サイト「Steam」で今週発売・発表された注目タイトルや，セール情報などをお届けします。\n真・三國無双2 with 猛将伝 Remastered\n三国志の世界を舞台とするタクティカルアクション「真・三國無双2」と，追加コンテンツを収録した「真・三國無双2 猛将伝」を1本にまとめたリマスター版。総勢40人以上の武将から1人を選び，Unreal Engine 5で描き直された広大な戦場へと出陣する。群がる敵兵を次々となぎ倒しながら敵将を討ち取っていく，といった体験が味わえる作品だ。\nACE COMBAT 8: WINGS OF THEVE\n祖国を追われた人々の戦いを題材とするドラマティックフライトシューティング。救難ボートで漂流していたところを旧式空母「エンデュランス」に拾われたプレイヤーは，希望の象徴として語られる伝説のエース「シーヴの翼」の名を託され，3人の仲間とともに再び空へ向かう。偽りの名声を背負ったパイロットが"
-    },
-    {
-      "title": "「プロセカ」，ラビットホールをリズムゲーム楽曲に追加",
-      "url": "https://www.4gamer.net/games/476/G047609/20261002036/",
-      "summary": "",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-03T06:00:00",
-      "image_url": "https://www.4gamer.net/games/476/G047609/20261002036/SS/001.jpg",
-      "body_ja": "| プロジェクトセカイ カラフルステージ！ feat. 初音ミク プロジェクトセカイ カラフルステージ！ feat. 初音ミク |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/10/03 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n「ラビットホール」をリズムゲーム楽曲として追加！\n株式会社セガ（本社：東京都品川区、代表取締役 社長執行役員COO：内海州史）と株式会社Colorful Palette（本社：東京都目黒区、代表取締役社長：近藤裕一郎）は、iOS/Android向けリズム&アドベンチャー『プロジェクトセカイ カラフルステージ！ feat. 初音ミク（以下、プロジェクトセカイ）』について、2026年10月3日（土）より、「6周年記念楽曲追加キャンペーン」として新たに「ラビットホール」（作詞・作曲：DECO*27）をリズムゲーム楽曲に追加いたしました。\n本楽曲は、「音楽ショップ」で「ミュージックカード」と交換することで、リズムゲームの楽曲と"
-    },
-    {
-      "title": "お母さんドラゴンが愛の力で大活躍。「フリッキー」や「ファンタジーゾーン」にインスパイアされたゲームボーイカラー向けの新作「Drakoko」のクラウドファンディング実施中",
-      "url": "https://www.4gamer.net/games/999/G999903/20261003006/",
-      "summary": "お母さんドラゴンが愛の力で活躍するゲームボーイカラー向けの新作「Drakoko」のクラウドファンディングがKickstarterで実施中だ。7歳になる息子のアイデアを取り入れた，愛にあふれる作品で，システム面では「フリッキー」や「ファンタジーゾーン」にインスパイアされたという。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-03T04:51:46",
-      "image_url": "https://www.4gamer.net/games/999/G999903/20261003006/SS/001.jpg",
-      "body_ja": "プレッジ（支援）の受付締切は，日本時間2026年10月9日17：32。記事執筆時点で，目標額8000ユーロ（約142万円）に対して5728ユーロ（約101万8000円）が集まっている。\n本作の主人公は母ドラゴンの「Drakoko」（ドラココ）だ。彼女が住む「Dokoland」では，支配者「Dokuro」（ドクロ）の放った呪いによって善良なドラゴンの「Kokori」（ココリ）たちは闇に染まってしまった。Drakokoは愛の波動でKokoriたちを元の姿に戻しつつ，子ドラゴンの「Kokko」（コッコ）を探すことになる。\nフィールドは上下左右がつながった無限スクロールになっており，これは開発者のRyuha氏が「フリッキー」「テディボーイブルース」「ファンタジーゾーン」といった石井洋児氏の作品にインスパイアされたためだという。\nDrakokoがピンクのハートを放てば，真っ黒なKokoriたちが元の明るい黄色に戻るなど，愛にあふれた内容だが，開発者のブログによれば，もともとは宇宙船で戦うシューティ"
-    },
-    {
-      "title": "懐かしのパソコンを携帯ゲーム機風にアレンジ。25本のゲームを遊べる「C64 Handheld」「Spectrum Handheld」の発売が延期に",
-      "url": "https://www.4gamer.net/games/999/G999902/20261003004/",
-      "summary": "懐かしのパソコンを折り畳み式の携帯ゲーム機風にアレンジした「C64Handheld」「SpectrumHandheld」の発売が2027年4月22日に延期された。それぞれ25本のゲームを内蔵し，新しい作品をSDカードで追加することもできるというユニークな製品だ。概要と収録作品のリストも紹介したい。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-03T03:13:43",
-      "image_url": "https://www.4gamer.net/games/999/G999902/20261003004/SS/008.jpg",
-      "body_ja": "延期の理由は「製品のいくつかの構造が基準を満たしていない」ことだという。一部の問題に対応したうえで2026年に発売することも検討したが，最高の体験を届けるために発売延期を決めたとのこと。\nなお，2026年10月30日に発売される携帯ゲーム機「EVERCADE NEXUS」に影響はなく，予定どおりにリリースされるという。\n| 「C64 Handheld」（左）と「Spectrum Handheld」（右） | \n|---|\n「C64 Handheld」と「Spectrum Handheld」は，懐かしのパソコンを折り畳み式の携帯ゲーム機風にアレンジしたもの。それぞれが25本のゲームを内蔵し，新しい作品をSDカードで追加することもできるというユニークな製品だ。\nBlaze Entertainmentは，「Super Pocket」「Super Micro」「EVERCADE」シリーズなど，正式ライセンスを取得したレトロゲームが動作するゲーム機やカートリッジを販売しているメーカーだ。\n「C64"
-    },
-    {
-      "title": "「AION2」，10月4日20：00に配信予定の「正式サービス前夜特番」の内容を公開。アーリーアクセス中のプレイヤーと「炎の神殿」に挑戦",
-      "url": "https://www.4gamer.net/games/440/G044032/20261002052/",
-      "summary": "NCは本日（2026年10月3日），クロスワールドMMORPG「AION2」の特別番組「AION2LIVE正式サービス前夜特別生放送」について，番組内容の詳細を公開した。配信は10月4日20：00から。アーリーアクセス中のプレイヤーと挑む「炎の神殿」への挑戦や「天魔ぶらりアトレイア旅」などを予定している。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-03T03:00:00",
-      "image_url": "https://www.4gamer.net/games/440/G044032/20261002052/SS/002.jpg",
-      "body_ja": "「AION2」は，10月5日に正式サービスを開始予定のMMORPGだ。現在は正式サービスに先駆けたアーリーアクセスが実施されており，今回の番組ではプレイヤー参加型の企画が行われるほか，正式サービス開始後の情報が紹介される。\nMMORPGの王道を征き，ガチャなしで挑む新作「AION2」。現代路線の真逆を進み，2か月未満で多くのプレイヤーの愛を集める【PR】\nNCの新作MMORPG「AION2」が，2026年9月にグローバルリリースされる。先行配信地域で大きな反響を生み出した，オートバトルもガチャも搭載しないメンバーシップ主軸のサービス。現代路線とは真逆を行く背景を，開発陣に尋ねた。\n番組には，松澤ネキさん，若桜有理さん，シスルさんに加えて，日本運営チームの笠松誠一氏，イ・ウンジ氏が出演する。若桜さんとシスルさんは，それぞれ天族と魔族のコスプレ姿で登場する予定だ。主な番組内容は以下のとおり。\n| コーナー | 内容 | \n|---|---|\n| スタイルショップコンテスト | ゲーム内のスタ"
-    },
-    {
-      "title": "「Call of Duty: Modern Warfare 4」がブラジルゲームショウ2026に試遊出展。，36の試遊台に加えて6v6の勝ち抜きトーナメントも実施される予定",
-      "url": "https://www.4gamer.net/games/010/G101087/20261001019/",
-      "summary": "10月23日の発売を控えている「CallofDuty:ModernWarfare4」が，一足先に中南米最大のゲームイベントに登場する。さらにBGSのメインeスポーツステージでは「CallofDuty:BlackOps7」の1v1対決も実施する予定だ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-03T03:00:00",
-      "image_url": "https://www.4gamer.net/games/010/G101087/20261001019/SS/001.webp",
-      "body_ja": "エナジードリンクブランドのMonster Energyとのパートナーシップによる出展で，BGS 2026は中南米の一般ユーザーが本作に触れられる最初の機会になるとしている。\n「Call of Duty: Modern Warfare 4」は，Infinity Wardが開発を手がけるシリーズ最新作で，CoDシリーズとしては初めてNintendo Switch 2にも対応するタイトルとなる。\n今回は同イベントの任天堂ブースにも試遊出展し，8月に実施された先行ベータではマルチプレイヤーに加えてキャンペーンの1ミッションとWarzoneが試遊でき，スキルベースマッチメイキングを緩和した「オープンマッチメイキング」の比較テストが行われるなど，発売前から話題を集めてきた作品だ。\n試遊もガチ対戦も。ブースは「Freeplay」と「Pro」の二本立て\n会場でのMW4体験の拠点となるのが，Monster Energyのブースだ。「Monster Arena Freeplay」には36台のプレイステーショ"
-    },
-    {
-      "title": "「チェンクロ」，チーカ（CV：今井麻美）」が登場する“未来への導標「竜の眷属」フェス”を開催",
-      "url": "https://www.4gamer.net/games/223/G022384/20261002040/",
-      "summary": "",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-03T02:00:00",
-      "image_url": "https://www.4gamer.net/games/223/G022384/20261002040/SS/002.jpg",
-      "body_ja": "| チェインクロニクル チェインクロニクル |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/10/03 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n「チーカ（CV：今井麻美）」が新登場する“未来への導標「竜の眷属」フェス”開催！\n大好評配信中のスマートフォン向けマルチ・チェインシナリオRPG『チェインクロニクル第5部 ―未来への導標（しるべ）―』では、「＜＜Y.G.1009＞＞竜の眷属 チーカ（CV：今井麻美）」が新登場するフェスを2026年10月3日（土）より開催します。\n「時の楔」を所持した「チーカ」が登場！ “未来への導標「竜の眷属」フェス”\n開催期間：2026年10月3日（土）11:00〜10月10日（土）10:59\n約千年後の未来で出会った「チーカ」が登場する“未来への導標「竜の眷属」フェス”を開催！\n「＜＜Y.G.1009＞＞竜の眷属 チーカ」は「超共鳴必殺」や第5部以降に登場する一部のキャラクターが持つ「リーダーアビリティ」「リーダ"
     },
     {
       "title": "Star Wars: Galactic Racer is the Best-Reviewed Star Wars Game in 20 Years",
@@ -511,6 +511,6 @@
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt0498d6158e01e04b/6aba60d573fa40680f5482de/Nadella_Xbox.png?width=720&quality=80&disable=upscale"
     }
   ],
-  "last_updated": "2026-10-04T09:21:20.120831+09:00",
+  "last_updated": "2026-10-05T09:25:19.625379+09:00",
   "count": 50
 }
