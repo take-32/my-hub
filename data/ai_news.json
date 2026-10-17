@@ -1,64 +1,156 @@
 {
   "articles": [
     {
-      "title": "マウスコンピューターの「信頼」を支える最前線——埼玉サービスセンターに見るアフターサポートとリファービッシュ事業",
-      "url": "https://ascii.jp/elem/000/004/443/4443107/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4539193/s/063e6a0e49761269.jpg\" width=\"60\" />マウスコンピューターの「信頼」を支える最前線——埼玉サービスセンターに見るアフターサポートとリファービッシュ事業</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
+      "summary": "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-17T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/15/4539193/s/063e6a0e49761269.jpg"
+      "published": "2026-10-17T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2610/18/cover_news004.png",
+      "body_ja": "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\n「OpenClaw」「Claude Cowork」「Copilot Cowork」などの登場により、AIエージェントに複数の手順からなる作業を任せ、業務プロセスを自動化する動きが広まっています。開発現場でも、生成AIにコーディングだけでなく、設計やレビューやテスト、デプロイといった開発ライフサイクルの各工程をAIエージェントに委ね、複数のタスクを並行して進めるようなAI駆動開発が広まりつつあります。\nそこで問題になるのが、AIエージェントにどこまで権限を与えるかです。高い自律性は生産性向上につながる半面、「判断」を誤ったAIエージェントが本番環境まで操作できてしまうと、被害も一気に拡大します"
     },
     {
-      "title": "ガジェットマニアとは何か―――変態ガジェットフリマとアワード2026",
-      "url": "https://ascii.jp/elem/000/004/443/4443078/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4539159/s/06d8c8f6394a9b29.png\" width=\"60\" />デジタルガジェットマニアは、新しい機械が好きな人のことではない。寝返りの勝敗を数えるスマートウォッチ、マトリョーシカ型モバイルバッテリー、30本見て見送る包囲戦、そして開封の儀。2026年11月8日の変態ガジェットフリマ／アワード2026が開催。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/15/4539159/s/06d8c8f6394a9b29.png"
-    },
-    {
-      "title": "【決定版・関東の味覚狩り】10月に旬を迎える味覚狩りスポットベスト5！ 関東・山梨エリアの豊かな自然で秋の味覚を堪能する",
-      "url": "https://ascii.jp/elem/000/004/441/4441034/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539724/s/ffc44ed3d14d54d2.png\" width=\"60\" /> 今回は、10月にまさに旬を迎える極上の味覚に絞り、関東・山梨エリアでファミリー層の週末のお出かけニーズに応える、絶対に外せないスポットベスト5をお届け。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/16/4539724/s/ffc44ed3d14d54d2.png"
-    },
-    {
-      "title": "ファーウェイ、イヤーカフ型のフラグシップモデル「HUAWEI FreeClip 2 S」の一般販売を開始",
-      "url": "https://ascii.jp/elem/000/004/443/4443511/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/17/4539943/s/69532a85c8a746eb.jpg\" width=\"60\" />ファーウェイ・ジャパンは、クラウドファンディングで先行販売していたイヤーカフ型イヤホンのフラグシップモデル「HUAWEI FreeClip 2 S」の一般販売を開始した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-16T23:30:00",
-      "image_url": "https://ascii.jp/img/2026/10/17/4539943/s/69532a85c8a746eb.jpg"
-    },
-    {
-      "title": "原状回復しなくていい部屋を借りた　理想のアトリエを目指してDIY改装してみる",
-      "url": "https://ascii.jp/limit/group/ida/elem/000/004/441/4441903/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/13/4537871/s/d13b56ab58347435.jpg\" width=\"60\" />新しく住む部屋をDIYで改装している。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-16T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/13/4537871/s/d13b56ab58347435.jpg"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
-      "published": "2026-10-16T21:22:28",
+      "published": "2026-10-17T21:31:32",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024"
+    },
+    {
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-17T20:21:19",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798"
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-17T18:48:08",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
+    },
+    {
+      "title": "RTX 5080搭載ゲーミングPCが9万円オフ！ パソコンショップSEVEN、10月18日限定セール",
+      "url": "https://ascii.jp/elem/000/004/442/4442683/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4538882/s/4dbf47a66e2642ea.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、10月18日限定で最新のゲーミングPCやデスクトップPCを最大9万円オフで販売する24時間限定セールを実施する。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/15/4538882/s/4dbf47a66e2642ea.png"
+    },
+    {
+      "title": "FMV直販で24万2000円！ 23.8型の一体型デスクトップPCがセール対象に",
+      "url": "https://ascii.jp/elem/000/004/443/4443092/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T13:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
+    },
+    {
+      "title": "Apple「iPad Air」もプライム感謝祭で値下げ！ M4搭載の11型モデルが10％オフの11万6800円に",
+      "url": "https://ascii.jp/elem/000/004/443/4443121/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539340/s/b626d97c9dddc5cb.jpg\" width=\"60\" />Appleの11型タブレット「iPad Air（M4）」がAmazonのプライム感謝祭セール対象。プライム会員限定で、参考価格129,800円から10％オフの116,800円で販売中。M4チップ、11型Liquid Retinaディスプレー、128GBストレージを搭載したWi-Fiモデル。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T12:50:00",
+      "image_url": "https://ascii.jp/img/2026/10/16/4539340/s/b626d97c9dddc5cb.jpg"
+    },
+    {
+      "title": "FMV直販に注目！ 持ち運べる11.6型ノートPCが、なんと10万円台！",
+      "url": "https://ascii.jp/elem/000/004/443/4443088/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T12:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png"
+    },
+    {
+      "title": "Core Ultra 7 255U+16GBメモリー搭載のノートPCが、FMV直販で26万4000円！",
+      "url": "https://ascii.jp/elem/000/004/443/4443084/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png"
+    },
+    {
+      "title": "アイドルらしからぬ「まさか」の写真も!? 元「ナナランド」の大場はるか、ファッションに振った1stフォトブック発売！",
+      "url": "https://ascii.jp/elem/000/004/441/4441860/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/13/4537718/s/27f982797d8e1c56.jpg\" width=\"60\" />アイドルグループ「ナナランド」の二代目リーダーとして活躍した大場はるか（おおば・はるか）さんが、1stフォトブック「SPECIAL FAN BOOK 大場はるか」の発売記念イベントを10月3日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/13/4537718/s/27f982797d8e1c56.jpg"
+    },
+    {
+      "title": "750万円の水素SUV「NEXO」フルモデルチェンジ！ EV時代にあえて燃料電池車を選ぶ理由はあるか？",
+      "url": "https://ascii.jp/elem/000/004/442/4442840/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4539011/s/aba1fd8370ebe4b2.jpg\" width=\"60\" />ヒョンデの燃料電池車（FCEV）「NEXO」がフルモデルチェンジし、航続距離1014kmを実現しました。充填時間はわずか3分で、滑らかな走りと高い静粛性、広い荷室が魅力です。一方で、全国141ヵ所しかない水素ステーションの少なさがネックとなり、長距離移動には依然として不安が残ります。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/15/4539011/s/aba1fd8370ebe4b2.jpg"
+    },
+    {
+      "title": "まるで「足元に置くエアコン」 温風＆冷風が出るフットレストを使ってみたら快適すぎた",
+      "url": "https://ascii.jp/elem/000/004/442/4442220/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4539143/s/eb4ad4dbe5eecd41.png\" width=\"60\" />今回紹介するのは、山善の「足もと ホット＆クール」。名前のとおり、足元に温風や涼風を送れるうえ、フットレストとしても使えるアイテムです。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/15/4539143/s/eb4ad4dbe5eecd41.png"
+    },
+    {
+      "title": "【決定版・東海の実りの秋を満喫】10月に旬を迎える味覚狩りスポットベスト5！ 東海エリアの自然と果実が織りなす秋の味覚を堪能する",
+      "url": "https://ascii.jp/elem/000/004/441/4441354/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539768/s/aa4bd7d9d7057578.jpg\" width=\"60\" />10月にまさに旬を迎える極上の味覚に絞り、東海エリアでファミリー層の週末のお出かけニーズに応える、絶対に外せないスポットベスト5をお届け。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T09:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/16/4539768/s/aa4bd7d9d7057578.jpg"
+    },
+    {
+      "title": "【2026秋アニメまとめ】この秋も話題作多すぎ！ 90作品以上の秋アニメを全チェック！",
+      "url": "https://ascii.jp/elem/000/004/439/4439810/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/03/4533815/s/583f704c31d3385f.jpg\" width=\"60\" />この秋も話題作多すぎでどれも見逃せない！　今クールはなんと90本以上の作品を紹介予定です！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-17T08:40:00",
+      "image_url": "https://ascii.jp/img/2026/10/03/4533815/s/583f704c31d3385f.jpg"
+    },
+    {
+      "title": "「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html",
+      "summary": "SHIFT AIが65歳以上の親を持つ全国の30～50代男女723人を対象とした「シニア×AIの意識調査」の結果を発表。親に生成AIを使ってほしくない子世代が69.3％に達したという結果とともに、その理由や自身の利用頻度、親に教える際の障壁などを示した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-17T08:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2610/17/cover_news007.jpg",
+      "body_ja": "SHIFT AIが65歳以上の親を持つ全国の30〜50代男女723人を対象とした「シニア×AIの意識調査」の結果を発表。親に生成AIを使ってほしくない子世代が69.3％に達したという結果とともに、その理由や自身の利用頻度、親に教える際の障壁などを示した。\n生成AI学習コミュニティーを運営するSHIFT AIは2026年10月1日、65歳以上の親を持つ全国の30〜50代男女723人を対象とした「シニア×AIの意識調査」の結果を発表した。親に生成AIを使ってほしくない子世代が69.3％に達した一方、自身が日常的に利用する層では過半数が「使ってほしい」と回答した。\n子世代が把握する範囲で親が「ChatGPT」など生成AIを使っている割合は22.8％、「使っていないと思う」は67.2％だった。\n親の利用には、「あまり使ってほしくない」（37.8％）と「使ってほしくない」（31.5％）の否定派が計69.3％に上り、「ぜひ使ってほしい」（6.2％）と「どちらかといえば使ってほしい」（24.5％）の肯"
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -120,26 +212,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800"
     },
     {
-      "title": "「RTX Spark」でAI動画を生成したら爆速すぎだった＝ASUS「ProArt P14」実機レビュー＝3D性能はRTX5060レベル",
-      "url": "https://ascii.jp/elem/000/004/443/4443110/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539240/s/60c2231083f5f64a.jpg\" width=\"60\" />「NVIDIA RTX Spark」を搭載するノートPC「ProArt P14」で速度を計り、ローカルAIでムービーを生成してみました。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-16T15:01:00",
-      "image_url": "https://ascii.jp/img/2026/10/16/4539240/s/60c2231083f5f64a.jpg"
-    },
-    {
-      "title": "ゲーミングPCが最大18万7000円引き・送料無料！ パソコンショップSEVENの10月17日限定セール",
-      "url": "https://ascii.jp/elem/000/004/442/4442682/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4538863/s/b618b363f8b1698d.png\" width=\"60\" />パソコンショップSEVENが10月17日に24時間限定セールを実施し、最新のゲーミングPCやデスクトップPCを最大187,000円オフで販売する内容だ。主力モデルの構成、価格、購入方法を整理する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-16T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/15/4538863/s/b618b363f8b1698d.png"
-    },
-    {
       "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
       "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
       "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
@@ -160,46 +232,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675"
     },
     {
-      "title": "約1kgの軽量「GALLERIA」が14万9980円から！ Core Ultra 5搭載、ワコム製ペンタブレットも動作検証済み",
-      "url": "https://ascii.jp/elem/000/004/443/4443103/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4539190/s/cbff29e801525ffa.jpg\" width=\"60\" />ドスパラでは、クリエイター向け14型ノートPC「GALLERIA NSC5L-IG-C4」を販売中。Core Ultra 5 125Uを搭載し、重量約1.0kgの軽量ボディーを採用する。16GBメモリモデルは14万9980円、32GBモデルは19万9980円。イラスト制作向けモデルもラインアップしている。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-16T14:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/15/4539190/s/cbff29e801525ffa.jpg"
-    },
-    {
-      "title": "表参道でレコード体験に出会えるイベント「MEET RECORDS, MEET DENON.」が今週末に開催だ！",
-      "url": "https://ascii.jp/elem/000/004/443/4443502/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539824/s/7c022c2bb048d490.jpg\" width=\"60\" />デノンは10月17日と18日の2日間、表参道のLIGHT BOX ATELIERで、ポップアップイベント「MEET RECORDS, MEET DENON.」を開催する。入場料は無料。\n</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-16T13:17:00",
-      "image_url": "https://ascii.jp/img/2026/10/16/4539824/s/7c022c2bb048d490.jpg"
-    },
-    {
-      "title": "iPhone Airが21％オフの14万9800円！ 6.5型なのにわずか165g【プライム感謝祭セール】",
-      "url": "https://ascii.jp/elem/000/004/443/4443028/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4539124/s/634b168b961b952c.jpg\" width=\"60\" />Appleの「iPhone Air（256GB）」がAmazonのプライム感謝祭セール対象。プライム会員限定で、参考価格189,800円から21％オフの149,800円で販売中。6.5型の大画面を搭載しながら、厚さ5.64mm、重さ165gを実現。超薄型・超軽量でありながら、A19 Proのパワーも備えた一台だ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-16T13:10:00",
-      "image_url": "https://ascii.jp/img/2026/10/15/4539124/s/634b168b961b952c.jpg"
-    },
-    {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-16T12:55:09",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300415994.jpg?w=1024"
-    },
-    {
       "title": "The Download: failed social media bans, and extending pets’ lives",
       "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve.   —Michal Luria, Aliya Bhatia, and Danah Boyd Social media bans are sta",
@@ -211,7 +243,7 @@
     {
       "title": "This implant can restore sight for patients with macular degeneration",
       "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
-      "summary": "More than 5 million people around the world with age-related macular degeneration (AMD) experience atrophy in their retinas. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting FDA clearance in the US, changes that. It combin",
+      "summary": "More than 5 million people around the world have an advanced form of age-related macular degeneration (AMD) called geographic atrophy, in which cells in the retinas die off. And until now, no treatment could restore their vision. The PRIMA system, which was approved in Europe in July and is awaiting",
       "source": "MIT Tech Review",
       "icon": "🔬",
       "lang": "en",
@@ -331,38 +363,6 @@
       "published": "2026-10-16T01:14:18",
       "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/16/2000002313/10009515/2048",
       "body_ja": "「Claude Haiku 5.5」は本当にコスパがいいのか？ 3つの日本語タスクで検証してみた\n米Anthropicは10月7日（現地時間）、同社モデルの中で最軽量の「Claude Haiku 5.5」（以下、Haiku 5.5）をリリースした。同社は「コスト重視、速度重視のタスクに適している」とうたっているが、日本のビジネスパーソンの利用シーンでその性能は本当に生きるのか。上位モデルの「Claude Sonnet 5.5」（以下、Sonnet 5.5）、競合モデルの「GPT-6 Luna」と比較検証した。\nなお、今回の検証は10月9日時点のものであり、モデルの性能は今後のアップデートで変わる可能性がある。\n検証方法\n検証のお題は（1）納期遅延のお詫びメール、（2）走り書きメモからの議事録作成、（3）海外取引先からの英文メールの要約・論点整理・英文返信、の3つ。いずれもツールやWeb検索は使わせず、プロンプトに記載した情報だけで回答させた。\n3モデルそれぞれで思考量の設定を「mediu"
-    },
-    {
-      "title": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与　公表に拒否権なし",
-      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002315/",
-      "summary": "Anthropicは、AI評価団体METRに従業員並みのアクセス権を与える常駐評価を開始した。端末やオフィスを提供して社内システムへのアクセスを認め、リスクや障害の独自公表を許可する。公表拒否はできず、伏せ字要請のみ可能。OpenAIも同様の外部評価機関受け入れを準備している。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-16T00:49:28",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002315/10009521/2048",
-      "body_ja": "Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与 公表に拒否権なし\n米Anthropicは10月15日（現地時間）、AIモデルを評価する米非営利団体METRのチームに、従業員並みのアクセス権限を与え始めたと発表した。ダリオ・アモデイCEOが9月のエッセイ「We Must Pace the Frontier」で打ち出した「常駐評価者」構想を具体化した。\nMETRのスタッフ6人に、同社の端末とオフィススペースを提供し、社内ツールやシステムへのアクセスを認めた。提供範囲は同社のリスク評価チームとおおむね同等という。顧客データやモデルのアーキテクチャ情報など、少数のカテゴリは共有の対象外とした。\nMETRは、同社のリスクレベルやインシデントについての分析を公表する。Anthropicは公表を拒否できないが、事前に定めたカテゴリの情報については伏せ字化を要請できる。METRは、伏せ字化が妥当だったかどうかの見解を公表することも可能だ。\nAnthropicは評価機"
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-15T23:44:56",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900"
-    },
-    {
-      "title": "日本に本当に勝ち筋はあるのか　ヒューマノイド「解剖」で見る中国の強さと課題",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/16/news017.html",
-      "summary": "中国では現在、ヒューマノイドロボットの開発や量産、社会実装に向けた動きが加速している。しかし、完成品の動向を追うだけでは、その競争力の源泉や本格普及に向けた課題までは見えてこない。SUGENAのセミナー「フィジカルAI解体新書」では、ヒューマノイドをAIや関節、センサー、手などに“解体”し、中国勢の強さと残された課題を解説した。本稿ではその内容を基に、日本企業が勝負できる領域を見ていく。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-15T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/16/cover_news017.jpg",
-      "body_ja": "中国では現在、ヒューマノイドロボットの開発や量産、社会実装に向けた動きが加速している。しかし、完成品の動向を追うだけでは、その競争力の源泉や本格普及に向けた課題までは見えてこない。SUGENAのセミナー「フィジカルAI解体新書」では、ヒューマノイドをAIや関節、センサー、手などに“解体”し、中国勢の強さと残された課題を解説した。本稿ではその内容を基に、日本企業が勝負できる領域を見ていく。\n観光地でのコーヒー販売、無人薬局での薬の受け渡し、送電設備の点検など、中国ではロボットが研究開発の段階を越え、社会の中で使われ始めている。中でもヒューマノイドは量産が急速に進み、2026年上半期の中国メーカーによる出荷台数は1万8500台に達し、2025年の世界の年間出荷台数を半年で上回った。\nなぜ中国はこれほど速く、安く、大量にヒューマノイドを作れるのか。そして、これからの日本の勝ち筋はどこにあるのか。\n中国ビジネス支援を手掛けるSUGENAは2026年9月29日、オンラインセミナー「フィジカルAI解"
     },
     {
       "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
@@ -511,6 +511,6 @@
       "body_ja": "AIエージェントの導入課題は、導入前は「目的・データ・人材」、導入後は「連携・精度・定着」と、段階によって中身が変わります。\n経営層から検討を任されたものの、どこでつまずくのかが見えず計画を立てられない担当者は少なくありません。PoCを始めてから、データの不備や現場の協力不足に気づくケースも多くあります。\nGartnerは、2027年末までにAIエージェント関連プロジェクトの40%超が中止されると予測しています。課題を知らないまま走り出せば、自社もその側に入るでしょう。\n本記事では、国内外の調査データで見た導入前後の課題10個と、課題ごとの解決策を中心に解説します。課題を乗り越えた企業の取り組みもあわせて紹介します。\n読み終えるころには、つまずく前に対策を導入計画へ組み込み、経営層やベンダーに根拠を持って説明できるようになります。\n調査データで見るAIエージェントの導入課題の全体像\n調査データを見ると、AIエージェントの導入課題には以下の2つの特徴があります。\n- AIエージェントは検討"
     }
   ],
-  "last_updated": "2026-10-17T09:08:01.807361+09:00",
+  "last_updated": "2026-10-18T08:43:11.558033+09:00",
   "count": 50
 }
