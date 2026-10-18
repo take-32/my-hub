@@ -1,6 +1,159 @@
 {
   "articles": [
     {
+      "title": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減",
+      "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/",
+      "summary": "Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した。AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した。自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつける労働観は共通していた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-18T23:02:13",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/19/2000002353/10009703/2048",
+      "body_ja": "Anthropic、社内でAIエージェントの稼働時間が人間の6倍に 技術系初級職の採用比率は27％→9％に激減\n米Anthropicは10月16日（現地時間）、2本の調査レポートを公開した。「How employment is changing at Anthropic」は、AIが同社内の雇用や働き方をどう変えたかを分析したもの。「The AI expectations gap」は、同社従業員と米国の一般市民がAIの将来をどう予測しているかを比較したものだ。AI導入の最前線にある同社の状況は、AIが経済全体の仕事のあり方や採用、労働需要をどう変えるかの先行指標になり得るとしている。\nAnthropicでの雇用に関するレポートは、雇用やAI利用、成果指標、従業員調査、カレンダー、採用評価などの社内データと、従業員17人へのインタビューに基づく。それによると、技術部門の従業員に占めるエントリーレベル（初級職）の比率は、2025年初めの21％から14％に低下した。技術職の採用に占めるエントリー"
+    },
+    {
+      "title": "Newオンプレミス、RAG、SREはもう“幻滅期”　2026年、「過度な期待」のピークにある5項目とは？",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/19/news029.html",
+      "summary": "ガートナーが、2026年の日本におけるクラウドとAIのハイプサイクルを発表。Newオンプレミス、RAG、SREが“幻滅期”に入る一方で、“過度な期待”のピークに立つ5項目が示された。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-18T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2610/19/cover_news029.jpg",
+      "body_ja": "ガートナーが、2026年の日本におけるクラウドとAIのハイプサイクルを発表。Newオンプレミス、RAG、SREが“幻滅期”に入る一方で、“過度な期待”のピークに立つ5項目が示された。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nガートナージャパン（以下、ガートナー）は2026年9月28日、「日本におけるクラウドとAIのハイプサイクル：2026年」を発表した。31の先端的なクラウドとAIのテクノロジーやイノベーションを取り上げている。\n2026年版では、「Newオンプレミス」「ソブリン・クラウド」「検索拡張生成（RAG）」「サイト・リライアビリティ・エンジニアリング」（SRE）、「IaC」（Infrastructure as Code）、「クラウド・ネイティブ」などが“幻滅期”や“啓発期”に入った。\n一方、「AI駆動型クラウド・コンピューティング」「宇宙コンピューティング」「ネオクラウド（Neocloud）」「ソブリンAI」「A2Aプロトコル」（Agent-to-"
+    },
+    {
+      "title": "サンワサプライ、65WノートPC用ACアダプタ「ACA-DC116ML」発売　変換プラグ6種付属",
+      "url": "https://ascii.jp/elem/000/004/443/4443586/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/19/4540223/s/e9334d7f0b97dfc6.jpg\" width=\"60\" />サンワサプライが、最大65W出力のノートPC用ACアダプタ「ACA-DC116ML」を発売。6種類の変換プラグが付属し、各社の対応ノートPCで使用可能。電源プラグ一体型のコンパクト設計で、出張時の持ち運びや自宅・オフィスの予備用に便利。価格は6,820円。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T23:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/19/4540223/s/e9334d7f0b97dfc6.jpg"
+    },
+    {
+      "title": "Webサイトのデータベースを狙う攻撃が顕著に増加／情シス担当の半数が転職意向、背後にある変化／AI業務活用、実態は“AIオペレーター”？、ほか",
+      "url": "https://ascii.jp/elem/000/004/443/4443530/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/17/4539980/s/7361ebd65caa7e59.jpg\" width=\"60\" />今回（2026年10月10日～10月16日）は、ランサムウェア攻撃や国家支援型APT攻撃の最新動向、Webサイトに対する攻撃の急増やそこに見られる変化、情報システム担当者の転職意向とその背景、企画／マーケティング職のAI活用実態と得られた／得られなかったものについてのデータを紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T23:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/17/4539980/s/7361ebd65caa7e59.jpg"
+    },
+    {
+      "title": "GPT-4o級モデルが自宅のPCで動いた！　ローカルAIの常識を変える「Strata」",
+      "url": "https://ascii.jp/elem/000/004/443/4443584/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/19/4540209/s/fe64dc2fecf516dc.png\" width=\"60\" />ローカルLLMの推論エンジン「Strata」を実機で検証。GPU・RAM・SSDを活用して巨大モデルを動かし、検索や画像生成へ拡張できる一方、社内運用ではRAM容量と複数人利用時の待ち時間が課題となった。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T22:30:00",
+      "image_url": "https://ascii.jp/img/2026/10/19/4540209/s/fe64dc2fecf516dc.png"
+    },
+    {
+      "title": "日本企業の「AI業務実装の壁」を打ち破る ― RPAのパイオニアが「AI×RPA×人」の統合基盤を国内展開",
+      "url": "https://ascii.jp/elem/000/004/443/4443113/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539306/s/cbdfa1bff3b69bde.jpg\" width=\"60\" />SS&amp;C Blue Prismは、2026年10月7日、業務自動化プラットフォーム「WorkHQ」の日本語版を提供開始した。これは、AIエージェントやRPA、人を適材適所でつなぎ、部分最適な自動化を全体最適へと発展させるための基盤である。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T22:30:00",
+      "image_url": "https://ascii.jp/img/2026/10/16/4539306/s/cbdfa1bff3b69bde.jpg"
+    },
+    {
+      "title": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは　データ活用“逆算”の鉄則",
+      "url": "https://kn.itmedia.co.jp/kn/article/2610/19/2000002342/",
+      "summary": "生成AIを実業務に定着させるには、明確な目的設定とデータの整備・統合が不可欠だ。NECと東京都足立区の事例を通じて、AIエージェントによるデータ分析・施策立案の実践と、統合的なAI基盤を活用した持続的な業務変革の要点を解説する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-18T22:00:00",
+      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2610/19/2000002342/10008885/2048",
+      "body_ja": "「言い訳文化」から脱却のNECが足立区に伝授した生成AI活用術とは データ活用“逆算”の鉄則\n生成AIを実業務に定着させるには、明確な目的設定とデータの整備・統合が不可欠だ。NECと東京都足立区の事例を通じて、AIエージェントによるデータ分析・施策立案の実践と、統合的なAI基盤を活用した持続的な業務変革の要点を解説する。\nAIをコア業務に組み込むには、明確な「目的」を設定し、それを基に洗い出した「データ」を適切に活用できる状態（AIレディ化）にすることが極めて重要だ。\n実際にこのアプローチを実践し、AIを活用した「防犯ダッシュボード」の構築を成功させたのが東京都足立区だ。同区は達成すべき目的から逆算して必要なデータを洗い出し、環境を整備し、職員がAIと対話しながら地域特性に根差した施策案を導き出せる仕組みを実現した。\n足立区の取り組みを支援した日本電気（NEC）の野口圭氏が、生成AIを実務へ適用する際に生じる課題と、その解決策を解説した。本記事では、NEC自身の実践内容や足立区の取り組み"
+    },
+    {
+      "title": "スマホ10万円時代対策！ お手頃アンドロイドの買い方＆オススメ機種教えますの巻：スマホ総研定例会394",
+      "url": "https://ascii.jp/elem/000/004/443/4443583/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png\" width=\"60\" />スマホの価格がどんどん上昇する中、Androidスマホならお手頃価格でもまだ入手が可能です！ では、どんな点に注意して選べばいいのか、オススメ製品はどれか、わかりやすく紹介します！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/21/4324644/s/e5d31b25c80240f3.png"
+    },
+    {
+      "title": "「アスキーグルメNEWS」生放送（2026年10月23日号）",
+      "url": "https://ascii.jp/elem/000/004/443/4443442/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/07/4510618/s/78ae0faafceb5a53.png\" width=\"60\" />巷で話題のおいしいグルメ情報を生放送でご紹介します。ぜひ、お昼ごはんを楽しみながらどうぞ！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/08/07/4510618/s/78ae0faafceb5a53.png"
+    },
+    {
+      "title": "難リサイクルの複合プラを再生材へ、独自技術で安定供給と利用開拓を推進",
+      "url": "https://ascii.jp/elem/000/004/443/4443421/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539540/s/ca704b96b66f1de0.jpg\" width=\"60\" />株式会社esaは10月13日、資金調達と合わせてこれまで分別や再資源化が困難とされてきた複合プラスチックを再生ペレット化し供給する循環型技術の事業化加速を発表した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/16/4539540/s/ca704b96b66f1de0.jpg"
+    },
+    {
+      "title": "自作PCトーク『ジサトラKTU』生放送～RTX Spark N1Xの性能やいかに!? Surface Laptop Ultraベンチマーク～",
+      "url": "https://ascii.jp/elem/000/004/443/4443414/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg\" width=\"60\" />RTX Spark N1Xの性能やいかに!? Surface Laptop Ultraベンチマーク。木曜20:00から放送スタート！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T22:00:00",
+      "image_url": "https://ascii.jp/img/2025/09/19/4324489/s/4111cde7c86cf0b4.jpg"
+    },
+    {
+      "title": "自然言語で業務手順をコード化、チーム運用と制御を備えたAIエージェント実行基盤",
+      "url": "https://ascii.jp/elem/000/004/443/4443388/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539539/s/710155a75ad7efd1.jpg\" width=\"60\" />株式会社デライトは10月13日、AIエージェント実行基盤「Agentino（エージェンティーノ）」のPublic β版の提供を開始したと発表した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/16/4539539/s/710155a75ad7efd1.jpg"
+    },
+    {
+      "title": "長寿薬にクローン、冷凍保存——ペットを「手放さない」のは良いことか？",
+      "url": "https://ascii.jp/elem/000/004/443/4443587/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />低温保存されたペットが蘇る見込みは、限りなくゼロに近い。それでも、死んだペットを極低温で保存するサービスや、遺伝的に同一のペットを作るクローン作製には需要がある。喪失の悲しみに、技術はどこまで応えるべきなのか。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-18T21:32:35",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-18T20:37:40",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024"
+    },
+    {
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-18T16:30:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675"
+    },
+    {
       "title": "「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html",
       "summary": "AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。",
@@ -40,106 +193,6 @@
       "lang": "en",
       "published": "2026-10-17T18:48:08",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800"
-    },
-    {
-      "title": "RTX 5080搭載ゲーミングPCが9万円オフ！ パソコンショップSEVEN、10月18日限定セール",
-      "url": "https://ascii.jp/elem/000/004/442/4442683/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4538882/s/4dbf47a66e2642ea.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、10月18日限定で最新のゲーミングPCやデスクトップPCを最大9万円オフで販売する24時間限定セールを実施する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/15/4538882/s/4dbf47a66e2642ea.png"
-    },
-    {
-      "title": "FMV直販で24万2000円！ 23.8型の一体型デスクトップPCがセール対象に",
-      "url": "https://ascii.jp/elem/000/004/443/4443092/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
-    },
-    {
-      "title": "Apple「iPad Air」もプライム感謝祭で値下げ！ M4搭載の11型モデルが10％オフの11万6800円に",
-      "url": "https://ascii.jp/elem/000/004/443/4443121/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539340/s/b626d97c9dddc5cb.jpg\" width=\"60\" />Appleの11型タブレット「iPad Air（M4）」がAmazonのプライム感謝祭セール対象。プライム会員限定で、参考価格129,800円から10％オフの116,800円で販売中。M4チップ、11型Liquid Retinaディスプレー、128GBストレージを搭載したWi-Fiモデル。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T12:50:00",
-      "image_url": "https://ascii.jp/img/2026/10/16/4539340/s/b626d97c9dddc5cb.jpg"
-    },
-    {
-      "title": "FMV直販に注目！ 持ち運べる11.6型ノートPCが、なんと10万円台！",
-      "url": "https://ascii.jp/elem/000/004/443/4443088/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/08/13/4512536/s/5ad305b594f6c0c1.png"
-    },
-    {
-      "title": "Core Ultra 7 255U+16GBメモリー搭載のノートPCが、FMV直販で26万4000円！",
-      "url": "https://ascii.jp/elem/000/004/443/4443084/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457951/s/4464a8b8deda21c1.png"
-    },
-    {
-      "title": "アイドルらしからぬ「まさか」の写真も!? 元「ナナランド」の大場はるか、ファッションに振った1stフォトブック発売！",
-      "url": "https://ascii.jp/elem/000/004/441/4441860/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/13/4537718/s/27f982797d8e1c56.jpg\" width=\"60\" />アイドルグループ「ナナランド」の二代目リーダーとして活躍した大場はるか（おおば・はるか）さんが、1stフォトブック「SPECIAL FAN BOOK 大場はるか」の発売記念イベントを10月3日、ソフマップAKIBA アミューズメント館で開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/13/4537718/s/27f982797d8e1c56.jpg"
-    },
-    {
-      "title": "750万円の水素SUV「NEXO」フルモデルチェンジ！ EV時代にあえて燃料電池車を選ぶ理由はあるか？",
-      "url": "https://ascii.jp/elem/000/004/442/4442840/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4539011/s/aba1fd8370ebe4b2.jpg\" width=\"60\" />ヒョンデの燃料電池車（FCEV）「NEXO」がフルモデルチェンジし、航続距離1014kmを実現しました。充填時間はわずか3分で、滑らかな走りと高い静粛性、広い荷室が魅力です。一方で、全国141ヵ所しかない水素ステーションの少なさがネックとなり、長距離移動には依然として不安が残ります。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/15/4539011/s/aba1fd8370ebe4b2.jpg"
-    },
-    {
-      "title": "まるで「足元に置くエアコン」 温風＆冷風が出るフットレストを使ってみたら快適すぎた",
-      "url": "https://ascii.jp/elem/000/004/442/4442220/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/15/4539143/s/eb4ad4dbe5eecd41.png\" width=\"60\" />今回紹介するのは、山善の「足もと ホット＆クール」。名前のとおり、足元に温風や涼風を送れるうえ、フットレストとしても使えるアイテムです。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/15/4539143/s/eb4ad4dbe5eecd41.png"
-    },
-    {
-      "title": "【決定版・東海の実りの秋を満喫】10月に旬を迎える味覚狩りスポットベスト5！ 東海エリアの自然と果実が織りなす秋の味覚を堪能する",
-      "url": "https://ascii.jp/elem/000/004/441/4441354/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/16/4539768/s/aa4bd7d9d7057578.jpg\" width=\"60\" />10月にまさに旬を迎える極上の味覚に絞り、東海エリアでファミリー層の週末のお出かけニーズに応える、絶対に外せないスポットベスト5をお届け。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T09:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/16/4539768/s/aa4bd7d9d7057578.jpg"
-    },
-    {
-      "title": "【2026秋アニメまとめ】この秋も話題作多すぎ！ 90作品以上の秋アニメを全チェック！",
-      "url": "https://ascii.jp/elem/000/004/439/4439810/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/03/4533815/s/583f704c31d3385f.jpg\" width=\"60\" />この秋も話題作多すぎでどれも見逃せない！　今クールはなんと90本以上の作品を紹介予定です！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-17T08:40:00",
-      "image_url": "https://ascii.jp/img/2026/10/03/4533815/s/583f704c31d3385f.jpg"
     },
     {
       "title": "「そもそも親にAIなんて必要ない」　65歳以上の生成AI利用、子世代の7割が拒否する理由",
@@ -210,26 +263,6 @@
       "lang": "en",
       "published": "2026-10-16T15:33:49",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/vercel-2249343327-smaller.jpg?resize=1200,800"
-    },
-    {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-16T14:26:51",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800"
-    },
-    {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-16T14:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Tiffany-Crown-e1791967522628.jpeg?resize=1200,675"
     },
     {
       "title": "The Download: failed social media bans, and extending pets’ lives",
@@ -330,39 +363,6 @@
       "published": "2026-10-16T02:00:00",
       "image_url": "https://image.itmedia.co.jp/ait/articles/2610/16/cover_news032.jpg",
       "body_ja": "AIエージェントが社内システムやデータを自律的に操作するようになるとき、どのようなセキュリティ対策が必要なのか。NVIDIAは、AIへの指示だけに頼らず、実行環境でのアクセス制御や権限管理、継続的な検証を組み合わせることの重要性を指摘する。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nAIエージェントは、与えられた指示に基づいて推論し、外部のツールやシステムを利用してタスクを実行する。業務の自動化が進む一方、AIエージェントが誤った判断をしたり、外部から与えられた悪意ある指示に従ったりすることで、意図しない操作を実行するリスクも生じる。\nこれに対してNVIDIAは2026年9月21日（米国時間）、AIエージェントのセキュリティ設計についてブログ記事「AI Security Is an Engineering Problem - How to Solve It at Every Layer of the Agent Stack」で解説した。同社が強調するのは、AI"
-    },
-    {
-      "title": "TSMCが純利益68.7％増で最高益更新　魏会長「需要は極めて堅調」",
-      "url": "https://www.itmedia.co.jp/business/articles/2610/16/news052.html",
-      "summary": "【台北＝西見由章】半導体受託生産の世界最大手、台湾積体電路製造（TSMC）が15日発表した2026年7～9月期決算は、売上高が前年同期比50.9％増の1兆4942億台湾元（約7兆2900億円）、純利益は68.7％増の7630億台湾元だった。いずれも四半期として過去最高を更新した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-16T01:30:00",
-      "image_url": "https://image.itmedia.co.jp/business/articles/2610/16/cover_news052.jpg",
-      "body_ja": "» 2026年10月16日 10時30分 公開\n[産経新聞]\n【台北＝西見由章】半導体受託生産の世界最大手、台湾積体電路製造（TSMC）が10月15日に発表した2026年7〜9月期決算は、売上高が前年同期比50.9％増の1兆4942億台湾元（約7兆2900億円）、純利益は68.7％増の7630億台湾元だった。いずれも四半期として過去最高を更新した。\n- 「たった14人」の挑戦から7兆円の逆転劇へ　ラピダス小池社長の「TSMCとは戦わない」2ナノ半導体の勝算\n世界の半導体市場を台湾TSMCが席巻する中、7兆円規模の国家プロジェクトとして最先端「2ナノ」の量産化に挑むのがラピダスだ。同社はTSMCとの規模の勝負を避け、設計から前後工程を一棟で完結させる「RUMS」による多品種生産で勝負する。「たった14人」の同志でスタートした原点から、北海道を「次のシリコンバレー」へと変える小池淳義社長の戦略に迫る。\n- 「新幹線料金と同じ」　ラピダス小池社長が明かす、2ナノ半導体“短納期”の勝算\nラピダス"
-    },
-    {
-      "title": "Amazon、Beeの新AIデバイス2機種発表　リストバンド型とスマホ装着型、会話を要約し「Alexa+」と連携",
-      "url": "https://www.itmedia.co.jp/news/article/2610/16/2000002316/",
-      "summary": "Amazonは、傘下BeeブランドのAIデバイス2機種を発表した。手首や衣服に着ける「Bee Frontier」とスマホ背面に貼る「Bee Eclipse」で、会話の要約やToDo作成を行う。「Alexa+」やAmazon.comとも連携し、音声や要約はNitro基盤の暗号化環境で保護される。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-16T01:27:57",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/16/2000002316/10009529/2048",
-      "body_ja": "Amazon、Beeの新AIデバイス2機種発表 リストバンド型とスマホ装着型、会話を要約し「Alexa+」と連携\n米Amazonは10月15日（現地時間）、傘下のBeeブランドのAIデバイス2機種を発表した。手首などに着ける「Bee Frontier」と、スマートフォンの背面にマグネットで装着する「Bee Eclipse」だ。いずれも会話を聞き取り、要約やToDo、リマインダーなどを作成する。米国での価格はBee Frontierが74.99ドル、Bee Eclipseが99.99ドルから。日本での発売については言及していない。\nBeeは、会話を自動で文字起こし・要約するAIリストバンドを開発していた米新興企業で、Amazonが2025年7月に買収した。Amazonは初代製品を「Bee Pioneer」と呼んでおり、Bee Frontierはその次世代機に当たる。\nBee Frontierは手首に着けるほか、クリップで衣服に留めても使える。本体サイズは36×19×13.4mm。IP67の"
-    },
-    {
-      "title": "「Claude Haiku 5.5」は本当にコスパがいいのか？　3つの日本語タスクで検証してみた",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/",
-      "summary": "Anthropicの最軽量モデル「Claude Haiku 5.5」を、3つの日本語タスクで「Sonnet 5.5」「GPT-6 Luna」と比較検証。定型文書では上位モデルに迫る一方、自らの立場を把握した上での返答が必要な課題では回答が揺れた。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-16T01:14:18",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/16/2000002313/10009515/2048",
-      "body_ja": "「Claude Haiku 5.5」は本当にコスパがいいのか？ 3つの日本語タスクで検証してみた\n米Anthropicは10月7日（現地時間）、同社モデルの中で最軽量の「Claude Haiku 5.5」（以下、Haiku 5.5）をリリースした。同社は「コスト重視、速度重視のタスクに適している」とうたっているが、日本のビジネスパーソンの利用シーンでその性能は本当に生きるのか。上位モデルの「Claude Sonnet 5.5」（以下、Sonnet 5.5）、競合モデルの「GPT-6 Luna」と比較検証した。\nなお、今回の検証は10月9日時点のものであり、モデルの性能は今後のアップデートで変わる可能性がある。\n検証方法\n検証のお題は（1）納期遅延のお詫びメール、（2）走り書きメモからの議事録作成、（3）海外取引先からの英文メールの要約・論点整理・英文返信、の3つ。いずれもツールやWeb検索は使わせず、プロンプトに記載した情報だけで回答させた。\n3モデルそれぞれで思考量の設定を「mediu"
     },
     {
       "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
@@ -511,6 +511,6 @@
       "body_ja": "AIエージェントの導入課題は、導入前は「目的・データ・人材」、導入後は「連携・精度・定着」と、段階によって中身が変わります。\n経営層から検討を任されたものの、どこでつまずくのかが見えず計画を立てられない担当者は少なくありません。PoCを始めてから、データの不備や現場の協力不足に気づくケースも多くあります。\nGartnerは、2027年末までにAIエージェント関連プロジェクトの40%超が中止されると予測しています。課題を知らないまま走り出せば、自社もその側に入るでしょう。\n本記事では、国内外の調査データで見た導入前後の課題10個と、課題ごとの解決策を中心に解説します。課題を乗り越えた企業の取り組みもあわせて紹介します。\n読み終えるころには、つまずく前に対策を導入計画へ組み込み、経営層やベンダーに根拠を持って説明できるようになります。\n調査データで見るAIエージェントの導入課題の全体像\n調査データを見ると、AIエージェントの導入課題には以下の2つの特徴があります。\n- AIエージェントは検討"
     }
   ],
-  "last_updated": "2026-10-18T08:43:11.558033+09:00",
+  "last_updated": "2026-10-19T08:53:04.282838+09:00",
   "count": 50
 }
