@@ -1,59 +1,271 @@
 {
   "articles": [
     {
-      "title": "EIZO、ColorEdge初の4K QD-OLED「CG3200X」　HDR制作向けに輝度低下を抑える独自制御",
-      "url": "https://ascii.jp/elem/000/004/444/4444342/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/21/4541235/s/87128630fab34d01.jpg\" width=\"60\" />EIZOがColorEdgeシリーズ初となるQD-OLED採用の31.5型4Kカラーマネージメントモニター「ColorEdge CG3200X」を12月1日に発売する。HDR表示の安定性を高める独自ABL制御や各種表示補正機能、USB Type-C給電など、映像制作向けの特徴をまとめた。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "Google Cloudに「Astra」含むOpenAIのモデルが追加　「主要3社のクローズドモデル使える唯一のハイパースケーラー」に",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/",
+      "summary": "Google CloudのModel GardenにOpenAIの「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」が追加された。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-21T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/21/4541235/s/87128630fab34d01.jpg"
+      "published": "2026-10-21T23:52:59",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/22/2000002487/10010117/2048",
+      "body_ja": "Share\nGoogle Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパースケーラー」に（1/2 ページ）\n                                公開\n                                    \n                            \n                                更新\n                                    \n                            \n主要3社のクローズドモデル使える唯一のハイパースケーラーに――米Google Cloudは10月21日（現地時間）、このようにアピールし、「Google Cloud」のモデルカタログ「Model Garden」に「GPT-6 Astra」を含む米OpenAIのモデルが追加されたと発表した。\n従来もGoogle CloudからAP"
     },
     {
-      "title": "プロジェクトマネジメントの祭典「Backlog World」今年も開催！ お得な早割チケットは10月末まで",
-      "url": "https://ascii.jp/elem/000/004/443/4443918/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/20/4540792/s/7186c59309c9a778.jpg\" width=\"60\" />プロジェクト・タスク管理ツール「Backlog」のユーザーグループ「Japan Backlog User Group（JBUG・ジェイバグ）」は、「Backlog World 2026」を2026年11月28日にパシフィコ横浜で開催する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "AIで“ゴジラになって”街破壊　富士通が体験型展示　「体操の採点システム」活用",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002364/",
+      "summary": "AIで“ゴジラになって”街を破壊する――富士通が「CEATEC 2026」で公開した体験型展示「GODZILLA in Motion」の狙いとは。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-21T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/20/4540792/s/7186c59309c9a778.jpg"
+      "published": "2026-10-21T23:00:00",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/22/2000002364/10009731/2048",
+      "body_ja": "AIで“ゴジラになって”街破壊 富士通が体験型展示 「体操の採点システム」活用\n“ゴジラになって”街を破壊する――富士通の骨格認識AIを使った体験型展示「GODZILLA in Motion」の様子だ。10月13日から16日まで幕張メッセ（千葉県）で開催されたイベント「CEATEC 2026」で富士通が公開した。\n来場者がカメラの前で15秒間暴れると、その動きをAIがデータ化し、街を破壊するゴジラのCGとして再現する。動きの認識に使っているのは、世界体操連盟（旧：国際体操連盟）の採点支援で使われている人の動きの解析技術だ。\nカメラ4台で撮影、40秒ほどで“ゴジラ化”\nGODZILLA in Motionの参加者は、床の印に立ち、周囲に置かれた4台のカメラに囲まれる。画面に破壊対象の建物が示され、カウントダウンの後、15秒間、体全体を使って自由に暴れる。体にマーカーやセンサー付きのスーツを着ける必要はなく、服装もそのままでよい。\n撮影が終わると、富士通の技術紹介動画が流れている間に解析が進"
     },
     {
-      "title": "セキュリティ意識向上は戦略的投資になりつつある（2025年グローバル調査レポートより）",
-      "url": "https://ascii.jp/elem/000/004/443/4443592/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/19/4540247/s/dbb32b3c7d48350d.jpg\" width=\"60\" />2025年セキュリティ意識向上とトレーニングに関するグローバル調査レポートによると、意思決定者の95%が、より多くのセキュリティ意識向上がサイバー攻撃の削減に役立つと考えています。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "AIカメラで「最後の砦は人」を脱却、レンゴーとキリンビールの工場安全DX",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news017.html",
+      "summary": "「ファクトリーイノベーションWeeK2026秋」において、特別講演「【工場の安全対策】AI／デジタルICTで従業員の安全を守るには」が行われ、レンゴーとキリンビールが登壇した。AIやIoT、ウェアラブル機器などを活用した安全対策に関する両社の講演を抜粋して紹介する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-21T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/19/4540247/s/dbb32b3c7d48350d.jpg"
+      "published": "2026-10-21T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/22/mn10xx_factoryinovation_001_w250.jpg",
+      "body_ja": "「ファクトリーイノベーションWeeK2026秋」において、特別講演「【工場の安全対策】AI／デジタルICTで従業員の安全を守るには」が行われ、レンゴーとキリンビールが登壇した。AIやIoT、ウェアラブル機器などを活用した安全対策に関する両社の講演を抜粋して紹介する。\n「ファクトリーイノベーションWeeK 2026秋」（2026年9月9〜11日、幕張メッセ）において、特別講演「【工場の安全対策】AI／デジタルICTで従業員の安全を守るには」が行われ、レンゴー パッケージング部門 技術開発本部 技術開発第一部 技術開発課長の藤岡寛史氏と、キリンビール 生産本部技術部 主査の宮浦直人氏が登壇した。\n藤岡氏はAI（人工知能）カメラと生産設備を連動させた安全対策を紹介。宮浦氏はAIやIoT（モノのインターネット）、ロボット、ウェアラブル機器などを活用したプラントオペレーションの変革について講演した。両者の講演を抜粋して紹介する。\n製造現場で安全対策を徹底しても、最後に残るのは「人」に起因するリスク"
     },
     {
-      "title": "1日1000通も届く請求書　不夜城と化したオフィスから、市民開発による542％の業務改善効果で1年で脱出",
-      "url": "https://ascii.jp/elem/000/004/431/4431424/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/09/01/4520351/s/4ecdd9b50be21a59.jpg\" width=\"60\" />サイボウズは、kintoneユーザーの事例イベントである「kintone hive 2026 tokyo」を開催。7番手として登壇したJTBグローバルマーケティング＆トラベルの山本宗慎さんと飯島希実さんが披露したのは、インバウンド増加の影響で不夜城と化したオフィスで市民開発を進め、542％の業務改善効果を得た事例だ。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-21T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/09/01/4520351/s/4ecdd9b50be21a59.jpg"
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-21T22:51:22",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799"
     },
     {
-      "title": "SDもCFexpressもSSDも1台に集約！ ラトックシステム「RS-MR48EX」、10Gbps対応リーダーライター",
-      "url": "https://ascii.jp/elem/000/004/444/4444341/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/21/4541229/s/d5dfdb8c216c6bff.jpg\" width=\"60\" />ラトックシステムが、SDカードやCFexpress、SSDなど多様なメディアに対応したUSB3.2 Gen2接続のプロメディア向けリーダーライター「RS-MR48EX」を10月下旬に発売する。複数メディアの同時アクセスやWindows 11向けHotPlugツールに対応し、映像制作など業務用途での活用を想定する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "なぜルネサスは、TSMCに勝てなかったのか　“電子立国ニッポン”当時を知る日立のキーマンが語る",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/22/news021.html",
+      "summary": "業績が好調な半導体大手のTSMC。かつては日本も半導体が強い時期があった。なぜルネサスは勝てなかったのか。当時を知る日立製作所のキーマンが語った。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-20T23:15:00",
-      "image_url": "https://ascii.jp/img/2026/10/21/4541229/s/d5dfdb8c216c6bff.jpg"
+      "published": "2026-10-21T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2610/22/cover_news021.jpg",
+      "body_ja": "半導体市場の成長が止まらない。米国の半導体工業会（Semiconductor Industry Association）は10月5日、1〜8月で、世界の半導体売上高が1兆ドル（約158兆円）を超えたと発表した。12月には1兆6000億ドルを上回る見通しだ。\n10月15日には、半導体受託生産大手の台湾積体電路製造（TSMC）が、2026年7〜9月期決算を発表。売上高は1兆4942億台湾ドル（約7兆2900億円）で前年同期比50.9％増となり、同社史上最高を記録した。\n“半導体ブーム”の中、日本はどうか。1980年代には、日本の半導体産業が世界を圧倒した。NEC、日立製作所、東芝などが「高品質」「大量生産」などの強みを生かして躍進したが、その“黄金期”は過去のものになった。\n当時を知る日立製作所の無藤里志氏（モノづくり戦略本部 シニアアドバイザー兼インダストリアルプロダクツビジネスユニット モノづくり統括）は、自身の経歴に触れながらこう振り返る。\n「1985年に日立製作所に入りました。当時は"
+    },
+    {
+      "title": "クレーム対応ばかりでオペレーターが辞めていく　「カスハラ義務化」時代にAIはどう現場を守る？",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/22/news033.html",
+      "summary": "簡単な問い合わせをAIに任せた結果、現場に難解なクレームだけが残りオペレーターが疲弊する――。AI導入で起きるコンタクトセンターの皮肉な逆転現象と、カスハラ対策義務化に企業はどう向き合うべきか。世界大手Genesysのアジア太平洋営業責任者に、業務支援AIによる現場防衛術や「65％は人間と話したい」という顧客心理、そしてコスト削減の自動化からCX向上へシフトする運用の要諦を聞いた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-21T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2610/22/cover_news033.jpg",
+      "body_ja": "「簡単な対応をAIに任せたら、現場には難解なクレーム対応だけが残った」\nAIでコールセンター業務を効率化したはずが、かえってオペレーターが疲弊していく。そんな皮肉な状況がいま、多くの職場で起きている。AIが単純な問い合わせを瞬時に捌く結果、人間の手元には「AIでは解決できない複雑な要求」や「怒りに満ちたトラブル」ばかりが残ってしまうのだ。\n10月には、法改正により企業はカスタマーハラスメント（カスハラ）対策が義務付けられ、現場を守るプレッシャーはかつてなく高まっている。\n過酷なクレーム対応の最前線に立つ現場スタッフを、企業はどう守り抜けばいいのか。世界8000超の組織にコンタクトセンター向けクラウド基盤を提供する米Genesysのアジア太平洋営業責任者、アルバート・ネル氏に「現場崩壊を防ぐ処方箋」を聞いた。\n――コンタクトセンターの運営において、日本の経営層はどんな課題や悩みを抱えているのでしょうか。\n一般的に経営の上層部は、コストの最適化を課題としており、常に効率化の視点で現場を見てい"
+    },
+    {
+      "title": "SynopsysとAnsysの技術統合が切り開く、AI時代の新たな設計／解析プロセス",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news029.html",
+      "summary": "アンシス・ジャパンは、年次イベント「Ansys Simulation World 2026 Japan」を開催した。基調講演と特別セッションでは、SynopsysとAnsysの技術統合によって進む半導体からシステム全体までを対象とした設計／解析環境の進化や、AIと物理シミュレーションを組み合わせたエンジニアリングの将来像を紹介。さらに、AIエージェントによる解析業務の効率化、デジタルツインやフィジカルAIへの取り組みなども披露された。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-21T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/22/cover_news029.jpg",
+      "body_ja": "アンシス・ジャパンは、年次イベント「Ansys Simulation World 2026 Japan」を開催した。基調講演と特別セッションでは、SynopsysとAnsysの技術統合によって進む半導体からシステム全体までを対象とした設計／解析環境の進化や、AIと物理シミュレーションを組み合わせたエンジニアリングの将来像を紹介。さらに、AIエージェントによる解析業務の効率化、デジタルツインやフィジカルAIへの取り組みなども披露された。\nアンシス・ジャパンは2026年10月9日、東京都内で年次イベント「Ansys Simulation World 2026 Japan」を開催した。基調講演と特別セッションでは、SynopsysとAnsysの技術統合の進展や、AI（人工知能）を活用した次世代エンジニアリングの方向性が示された。\n基調講演に登壇した、Ansys Part of Synopsys S&A カスタマーエクセレンス担当 シニアバイスプレジデントのAnthony Dawson（アンソニ"
+    },
+    {
+      "title": "なぜ上場を捨ててまでAIに賭けたのか？　カオナビが非公開化して進める「脱・勘と経験の人事」",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/22/news032.html",
+      "summary": "人事データを可視化しても「勘と経験と社内政治」で決まる日本の人事。タレントマネジメント大手カオナビはこの課題に終止符を打つべく、株式非公開化という重い決断を下した。四半期決算の呪縛を断ち、5年間をAIと人事データの融合にあてる。同社が掲げる「タレントインテリジェンス」構想の全貌とは。2030年の再上場を見据えた佐藤寛之CEOの背水の変革戦略に迫る。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-21T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2610/22/cover_news032.jpg",
+      "body_ja": "高額なタレントマネジメントシステムを導入し、社員の人事評価とスキルシートをクラウドに並べた。だが、いざ役員会や配属会議が始まると「あいつはガッツがある」「あの部署の空気に合わない」というように“勘と経験と社内政治”で人事案が決まっていく──。\n日本の大企業が幾度となく繰り返してきたこのやりとりに、タレントマネジメント市場を切り拓いてきたカオナビ（東京・港区）が、自ら終止符を打とうとしている。同社は「株式の非公開化」（TOB）という極めて重い経営決断を下した。\n目指すのは、データを眺めるだけの管理ツールからの完全脱却だ。社内に眠る人材データとAIを融合させ、経営陣から現場に至るまでが自ら考え、自信を持って次の行動を決定できる世界の実現を掲げる。\nなぜ上場企業という看板を捨ててまで、5年間の集中投資に打って出たのか。AI時代に、経営者に残された「真の仕事」とは何か。代表取締役社長CEOの佐藤寛之氏に、背水の陣で挑む組織変革を聞いた。\nカオナビは2025年10月に「タレントインテリジェンス」と"
+    },
+    {
+      "title": "旧世代NVIDIAを循環利用、クラウド接続の「自社専用AI基盤」を1GPUから提供",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/22/news039.html",
+      "summary": "エクストリームーDら3社は、中古GPUを活用したAIインフラサービス「Raplase RCA」を開始した。最短即日かつ1GPUから定額利用でき、柔軟な構成変更にも対応する。機密データを扱う製造業が求める「プライベートAI」を低コストで実現する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-21T21:45:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/22/cover_news039.jpg",
+      "body_ja": "エクストリームーDら3社は、中古GPUを活用したAIインフラサービス「Raplase RCA」を開始した。最短即日かつ1GPUから定額利用でき、柔軟な構成変更にも対応する。機密データを扱う製造業が求める「プライベートAI」を低コストで実現する。\nエクストリームーD、TES-AMM JAPAN、Cornelis Networksの3社は2026年10月20日、中古のGPUサーバ（循環型GPUサーバ）を活用した企業向けAI（人工知能）インフラサービス「Raplase RCA」の提供を開始したと発表した。3社はそれぞれの技術と供給網を持ち寄り、製造業などに求められる機密性の高い「プライベートAI」環境を、低コストかつ短納期で構築できる仕組みを実現する。\n生成AIの普及に伴い、GPUサーバをはじめとするAIインフラへの需要が急増している。しかし、市場では直近で機器の購入価格が跳ね上がっており、発注から納品までに数カ月〜10カ月程度を要するケースも出ているなど、調達リードタイムの長期化と価格高騰が"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-21T21:16:20",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?resize=1200,800"
+    },
+    {
+      "title": "三菱電機、ヒューマノイドと工作機械が連携して加工　JIMTOF20226でデモ",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news073.html",
+      "summary": "三菱電機は、フィジカルAIを介してヒューマノイドロボットとCNC工作機械が連携する加工システムを開発した。自然言語の指示から加工タスクを自動生成し、現場の省人化に貢献する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-21T21:15:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/21/l_mn1022_mitsubishi_001.jpg",
+      "body_ja": "三菱電機は、フィジカルAIを介してヒューマノイドロボットとCNC工作機械が連携する加工システムを開発した。自然言語の指示から加工タスクを自動生成し、現場の省人化に貢献する。\n三菱電機は2026年10月21日、業界で初めてフィジカルAI（人工知能）を介してヒューマノイドロボットとCNC工作機械がシームレスに連携する加工システムを開発したと発表した。「JIMTOF2026」（同年10月26〜31日、東京ビッグサイト）において、同加工システムのデモンストレーションを展示する。\n製造業では人手不足が深刻化しており、スマートファクトリー化による生産効率の向上と無人加工工場の実現が求められている。同加工システムは、従来オペレーターが担ってきた段取りや清掃、完成品の取り出し、搬送、検査、トラブル対応などの工作機械に関する作業をヒューマノイドに置き換え、加工現場の省人化に貢献するという。\n今回の加工システムは、オペレーターから自然言語で指示を受けて加工タスクを自動生成し、工作機械とヒューマノイドロボット"
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-21T21:14:19",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
+    },
+    {
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-21T20:27:41",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800"
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "summary": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-21T19:30:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800"
+    },
+    {
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-21T17:59:12",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-460689215.jpg?resize=1200,801"
+    },
+    {
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-21T17:18:27",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Blacksmith.jpg?resize=1200,800"
+    },
+    {
+      "title": "PHPの脆弱性、OpenAIのAIで発見　「同様の発見、今後数カ月で急増」",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/22/2000002482/",
+      "summary": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-21T16:12:28",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/22/2000002482/10010092/2048",
+      "body_ja": "Share\nPHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」（1/2 ページ）\n                                公開\n                                    \n                            \n                                更新\n                                    \n                            \n米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。「同様の発見は今後数カ月で急増する」と予測している。\nOpenAIによるオープンソースソフトウェアのセキュリティ支援プロジェクト「Patch the Planet」の一環で、セキュリティ企業の米CalifがAIモデル"
+    },
+    {
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-21T14:00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900"
+    },
+    {
+      "title": "The Download: introducing the Impossible issue",
+      "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Becau",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-10-21T12:10:00"
+    },
+    {
+      "title": "We can do impossible things",
+      "url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+      "summary": "I’d wager everyone has a rehearsed response to what’s absolutely one of the world’s worst interview questions: “What’s your biggest weakness?” Whenever I’ve gotten it, I take a slow—even pensive—breath and rattle off my line: “I say no to myself too much.”&#160; I won’t lie. It’s a bit shameless—a d",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-10-21T09:00:00"
+    },
+    {
+      "title": "Nuclear-powered spaceships",
+      "url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+      "summary": "Just before the Artemis II crew began its historic slingshot around the moon this past April, NASA announced plans to build Space Reactor-1 Freedom. SR-1, the first-ever nuclear-reactor-­powered interplanetary spacecraft, is meant to fly an uncrewed mission to Mars by the end of 2028, arriving in 20",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-10-21T09:00:00"
+    },
+    {
+      "title": "Exercise in a pill",
+      "url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+      "summary": "We all know exercise is good for us. It builds muscle, strengthens bones, lowers blood pressure, and boosts mood. By deciphering how movement benefits the body, researchers hope to develop medicines that can offer some of the same perks—without the workout. The idea isn’t to replace exercise but to ",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-10-21T09:00:00"
+    },
+    {
+      "title": "Interspecies communication",
+      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "summary": "Humans are far from the only species with a gift for gab, and our furry, feathered, and finned friends could have a lot to tell us. Decoding how animals communicate with one another could offer a window into the inner lives of other species and help humans realize that “animals are sentient creature",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-10-21T09:00:00"
+    },
+    {
+      "title": "Cleaning up PFAS",
+      "url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+      "summary": "Scrubbing Earth of per- and polyfluoroalkyl substances—a.k.a. PFAS or forever chemicals—could eliminate a list of woes for people and planet. Used for decades in everything from nonstick pans to firefighting foams, PFAS have been linked to increased risks of fertility challenges, developmental delay",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-10-21T09:00:00"
+    },
+    {
+      "title": "Solid-state batteries",
+      "url": "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
+      "summary": "The rise of the lithium-ion battery, which powers everything from the smallest personal electronics to gargantuan energy storage systems, has been nothing short of revolutionary. But as anyone who’s boarded a plane in the last decade could tell you, storing and pumping out energy by moving charged l",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-10-21T09:00:00"
+    },
+    {
+      "title": "Eliminating traffic deaths",
+      "url": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
+      "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. “Traffic deaths are a leading cause of preventable",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-10-21T09:00:00"
     },
     {
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
@@ -61,140 +273,14 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
     },
     {
-      "title": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体",
-      "url": "https://mag.executive.itmedia.co.jp/executive/article/2610/21/2000002352/",
-      "summary": "予算をつけ、製品を入れても、ゼロトラストの移行が止まっている企業は少なくありません。米国の調査会社は、米国連邦機関が失敗する理由に資金と専門人材の不足を挙げました。一方、日本の公的な調査には、インシデントを経験した後でも対策を強化しない組織の姿が表れています。止めているのは技術でも予算でもなく、どこにも数字として出てこない「組織の摩擦」ではないか。250社を超える企業のゼロトラスト実装ワークショップを主導してきた当方が、この摩擦を1つの係数で捉える「組織摩擦係数」を、名前、式、体質、金額、下げ方の順に全5回でお話しします。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T23:00:00",
-      "image_url": "https://mag.executive.itmedia.co.jp/executive/article/ogp/2610/21/2000002352/10009695/2048",
-      "body_ja": "予算がついても、製品を入れても止まる――ゼロトラストを止めている「組織摩擦」の正体（1/2 ページ）\n稟議は通しました。増員も認めました。製品も入れました。それなのに四半期ごとの報告に並ぶのは「引き続き推進中」の一行だけで、投資した側から見れば、これほど手応えのない案件もありません。\n止まっている理由を問われた担当部門が最初に口にするのは、おそらく「予算が」と「人が」の2つでしょう。そこで予算を足し、可能であれば人を足してみます。次の四半期に起きるのは、計画表の線が右に伸びること。線を引き直す技術だけは、どの会社も年々上達しているんですよね。\n当方はゼットスケーラーに所属し、250社を超える企業のゼロトラスト実装ワークショップを主導してきました。その会議室で繰り返し目にしてきたのは、予算がついた後も計画がほとんど進まないか、部分的な対策だけで終わってしまう光景です。「ついた予算がまだ足りないだけだ」という反論は、もちろんあり得ます。ただ、それなら足りないぶんだけ遅れるはずで、同じところで"
-    },
-    {
-      "title": "【Nothing Phone (4b)】 5万円台でFeliCa＆大容量バッテリー！ コスト高騰に抗う最強ミドルスマホ",
-      "url": "https://ascii.jp/elem/000/004/443/4443905/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/19/4540710/s/cab782cbad8ebce7.jpg\" width=\"60\" />Nothingから5万9800円の新型スマホ「Nothing Phone (4b)」が登場しました。プラスチックユニボディの美しい透明デザインと光るGlyphバーを継承。FeliCaや同社史上最大の5200mAhバッテリーを備え、日常使いに最適な実用性と個性を両立した1台です。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-20T23:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/19/4540710/s/cab782cbad8ebce7.jpg"
-    },
-    {
-      "title": "工作機械の不具合対応を生成AIが支援、DMG森精機が新サービス",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news034.html",
-      "summary": "DMG森精機は、ユーザー専用のポータルサイト「my DMG MORI」において、生成AI（人工知能）を活用した新機能「サービスエージェント」の提供を開始したと発表した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T22:45:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/21/l_mn1021_dmgmori_001.jpg",
-      "body_ja": "DMG森精機は、ユーザー専用のポータルサイト「my DMG MORI」において、生成AI（人工知能）を活用した新機能「サービスエージェント」の提供を開始したと発表した。\nDMG森精機は2026年10月19日、ユーザー専用のポータルサイト「my DMG MORI」において、生成AI（人工知能）を活用した新機能「サービスエージェント」の提供を開始したと発表した。\nサービスエージェントは、工作機械に不具合が発生した際、AIとの対話を通じて状況を整理し、その場で試せる解決策を提示する。加えて、Webでの修理や復旧の問い合わせに必要な情報も自動で作成する。顧客自身による初動対応を円滑にし、工作機械のダウンタイム短縮に貢献するという。「JIMTOF2026」（同年10月26〜31日、東京ビッグサイト）では、サービスエージェントのデモンストレーションを披露する。\n近年、製造現場では自動化が進んでおり、夜間や休日を含む連続運転中に発生した不具合に対して、いかに早く一次対応に着手できるかが生産計画を左右す"
-    },
-    {
-      "title": "乗れたらラッキー！ ANA「ちいかわジェット」は機内までかわいい、特別仕様を大紹介",
-      "url": "https://ascii.jp/elem/000/004/443/4443904/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/19/4540692/s/b37398e9787318ae.png\" width=\"60\" />ANAと「ちいかわ」がコラボした特別デザイン機「ちいかわジェット」が10月19日、国内線で運航を開始しました。初便の様子とともに、運航路線や限定グッズなど、ファン必見の情報を紹介します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-20T22:30:00",
-      "image_url": "https://ascii.jp/img/2026/10/19/4540692/s/b37398e9787318ae.png"
-    },
-    {
-      "title": "乱立するイノベーション活動をどう束ねるか。人材開発から始まる大企業の組織づくり",
-      "url": "https://ascii.jp/elem/000/004/442/4442106/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/13/4538027/s/2e52dbb20a986759.jpg\" width=\"60\" />新規事業に向いている人材は、どう見極め、育てればいいのか。コニカミノルタの宮木俊明氏と『新規事業の本質』著者の羽山友治氏が、人材開発やチームづくり、出島型組織の経験をもとに、大企業で乱立する新規事業をどう束ね、組織全体のイノベーションにつなげるかを議論した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-20T22:30:00",
-      "image_url": "https://ascii.jp/img/2026/10/13/4538027/s/2e52dbb20a986759.jpg"
-    },
-    {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
       "published": "2026-10-20T22:24:02",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789"
-    },
-    {
-      "title": "「PC市場の成長ストップ」で苦戦のインテル　「半導体の崖」突破できるか、社長が語る変革への道筋",
-      "url": "https://www.itmedia.co.jp/business/articles/2610/21/news013.html",
-      "summary": "かつて“半導体の巨人”と呼ばれていたIntelは、PC市場の成長鈍化などを受け不調の中にある。AI時代で半導体需要が高まる中、“最大の経営課題”を解決して変革を起こせるか。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T22:00:00",
-      "image_url": "https://image.itmedia.co.jp/business/articles/2610/21/cover_news013.jpg",
-      "body_ja": "「インテル入ってる」――このキャッチコピーとともに、PC向けチップで一時代を築いた米Intel。かつて“半導体の巨人”といわれた同社は、危機にひんしていた。自前主義が重荷になり、台頭する他のCPUメーカーとの戦いに疲弊し、大量のリストラや赤字決算が続いた。\nしかし、AIブームを追い風に、復活の兆しが見え始めている。先端半導体製造プロセスを用いた量産にこぎ着け、半導体の需要をつかむ準備が整った。期待を受け、右肩下がりだったIntelの株価は、2025年6月から2026年6月にかけて約6倍に上昇した。\nしかし、AIの進化に見合う半導体を作り続けるのは簡単ではない。工程は複雑になり、工場で使う電力と水の量も膨らむ一方だ。そこでIntelは、日立製作所と組んで次世代の半導体工場づくりに乗り出した。新たな取り組みについて、Intel日本法人のインテルと日立製作所が語った。\n本記事は、日立製作所が主催したイベント「Hitachi Social Innovation Forum 2026 JAPAN」"
-    },
-    {
-      "title": "PFNとTenstorrentがタッグ、生成AI特化プロセッサ開発へ　超高メモリ帯域幅、光電融合技術を実装",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002438/",
-      "summary": "Preferred Networks（以下、PFN）と米Tenstorrentが、AIの学習・推論を高性能・高効率に実行可能な生成AI向けプロセッサを含むシステム開発を共同で始めた。CPUの開発は米Tenstorrentが担い、米NVIDIAのGPUがデファクトスタンダードとなっている「AIプロセッサ」の開発はPFNが担う。光電融合技術と最先端パッケージング技術を活用し、AIプロセッサのシステム化技術の開発を2社で行う。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T22:00:00",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/21/2000002438/10009959/2048",
-      "body_ja": "PFNとTenstorrentがタッグ、生成AI特化プロセッサ開発へ 超高メモリ帯域幅、光電融合技術を実装\nPreferred Networks（以下、PFN）と米Tenstorrentは10月20日、AIの学習・推論を高性能・高効率に実行可能な生成AI向けプロセッサを含むシステム開発を共同で始めたと発表した。CPUの開発は米Tenstorrentが担い、米NVIDIAのGPUがデファクトスタンダードとなっている「AIプロセッサ」の開発はPFNが担う。光電融合技術と最先端パッケージング技術を活用し、AIプロセッサのシステム化技術の開発を2社で行う。\n国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）の公募に採択された。2031年度まで研究開発を進め、期間終了後には研究成果の事業化を目指す。\nTenstorrentは米AMDやApple、Teslaでチップ設計を手がけたジム・ケラー氏が率いる半導体開発企業。オープンソースな命令セットアーキテクチャ「RISC-V」（リスク・ファイ"
-    },
-    {
-      "title": "「6億台のコネクテッドカー」動かす光技術　IOWNは欧州のデータセンター危機を救うか？",
-      "url": "https://www.itmedia.co.jp/business/articles/2610/21/news044.html",
-      "summary": "生成AIの需要爆発で欧州データセンターの空き容量が逼迫する中、NTTが提唱する次世代光技術「IOWN」が脚光を浴びている。電力危機を打破する切り札として期待が高まる光通信革命の最前線を、オランダ現地取材から追う。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T22:00:00",
-      "image_url": "https://image.itmedia.co.jp/business/articles/2610/21/cover_news044.jpg",
-      "body_ja": "「交差点を行き交う無数の車両や歩行者の動態を1ミリ秒の遅延もなく解析し、街全体の交通網をAIが自律制御する」\nそんな映画のようなテクノロジー革命がいよいよ現実のビジネスとして動き出そうとしている。2030年にはネットワークにつながるコネクテッドカーが世界で6億台を突破する見通しだ。そうしたモビリティの世界を電子空間上に再現するデジタルツイン構想が「Edge Twin」（エッジツイン）である。\n南米チリの過酷な銅鉱山では最大1500キロ離れた拠点間を超低遅延ネットワークで結び、重機を遠隔操作する実証が始まった。これらの巨大な産業変革の裏側で、ひそかに世界の情報通信インフラ基盤を塗り替えようとしているのが、NTTが提唱する次世代光通信技術「IOWN」（アイオン）だ。\nこれまでサーバのラックの中に閉じこもっていたAIを物理世界で直接動かす「フィジカルAI」。その中核インフラとして、IOWNが今、世界を揺るがし始めている。\n10月初め、IOWNの国際推進組織「IOWN Global Forum」"
-    },
-    {
-      "title": "AIが着こなしを自動再現。商品の寸法からシルエットの違いまでささげ業務を効率化",
-      "url": "https://ascii.jp/elem/000/004/443/4443867/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/19/4540510/s/9263f0d270519578.jpg\" width=\"60\" />グラムス株式会社は10月15日、ECサイト出品に必要な「ささげ業務」（撮影・採寸・原稿作成）を効率化するツール「SASAGE.APP」において、商品の実寸値を反映したモデル着用画像をつくる新機能「Virtual Try On Version 2（VTO2）」の提供を開始した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-20T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/19/4540510/s/9263f0d270519578.jpg"
-    },
-    {
-      "title": "ヤマトの宅配網を活用した対面マーケ支援。ネット広告が届かない層へ直接アプローチ",
-      "url": "https://ascii.jp/elem/000/004/443/4443866/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/19/4540504/s/b1a9c6845ee98af2.jpg\" width=\"60\" />株式会社パートナープロップは10月14日、ヤマト運輸株式会社と連携し、セールスドライバーの対面接点を活用したマーケティング支援サービス「こねこのお便り」の実証実験を開始したと発表した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-20T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/19/4540504/s/b1a9c6845ee98af2.jpg"
-    },
-    {
-      "title": "Rapidusで製造できるか、推論特化2nm世代半導体で医用画像処理システムを開発",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/21/news045.html",
-      "summary": "LSTCと北海道大学、富士フイルム、GEヘルスケア・ジャパン、imecが、推論に特化した2nm世代半導体を活用する医用画像処理システムの開発プロジェクトについて説明。現行GPUと比較して画像処理速度5倍以上、画像処理のエネルギー効率10倍以上の達成を目指す中で、2nm世代半導体の製造はRapidusが望ましいものの現時点では未定とした。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T21:30:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/21/cover_news045.jpg",
-      "body_ja": "LSTCと北海道大学、富士フイルム、GEヘルスケア・ジャパン、imecが、推論に特化した2nm世代半導体を活用する医用画像処理システムの開発プロジェクトについて説明。現行GPUと比較して画像処理速度5倍以上、画像処理のエネルギー効率10倍以上の達成を目指す中で、2nm世代半導体の製造はRapidusが望ましいものの現時点では未定とした。\n次世代半導体の量産技術の実現を目的とした研究機関であるLSTC（最先端半導体技術センター）と北海道大学、富士フイルム、GEヘルスケア・ジャパン、ベルギーの半導体研究開発機関であるimecは2026年10月20日、東京都内で会見を開き、5社が共同して取り組む推論に特化した2nm世代半導体を活用する医用画像処理システムの開発プロジェクトについて説明した。現行GPUと比較して画像処理速度5倍以上、画像処理のエネルギー効率10倍以上の達成を目指す中で、2nm世代半導体についてはIBMが設計することを想定しており、製造はRapidusが望ましいものの現時点では未定"
-    },
-    {
-      "title": "Anthropic’s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-20T21:25:22",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800"
     },
     {
       "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
@@ -213,304 +299,8 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "Melt it, spin it, use it again",
-      "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
-      "summary": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on that textile waste with a new type of yarn.&#160; The thermoplastic yarn mimics the properties of conventional elastic yarns, which typically combine ",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "A reason to eat carbs",
-      "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
-      "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketogenic diet may also increase the risk of cancer in the small intestine. This type of diet forces the body to burn fatty a",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "Robotic therapy for stroke patients",
-      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-      "summary": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy.&#160; Johannes Lachner, a former MIT",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "Taking a swing at a pickleball startup",
-      "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
-      "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances.  He did not. “I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I don’t leave, I will di",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "A good TA: priceless",
-      "url": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
-      "summary": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting 49 out of 100 was a soul-crushing experience. I can still picture the TA, Leszek Pawlowicz, PhD ’87, returning my paper. He had a big smile on&#8230;",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "Nebraska native explores galaxies far, far away",
-      "url": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
-      "summary": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learning how the wider universe works by studying galaxy clusters. Donahue discovered her passion for physics in that library at age 12 and started her pat",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "A champion for brain injury patients",
-      "url": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
-      "summary": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with brain injuries for support and socializing. “That group was a great way to learn about the human experience of what people go through when they experien",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "A cleaner path to rare earth metals",
-      "url": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
-      "summary": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a steel manufacturing and metal fabrication hub. Even as a child, he realized it was problematic to breathe that air.&#160; “I’m motivated because I’ve se",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-20T21:00:00"
-    },
-    {
-      "title": "会議の記録を残さない人が50.2％　AI議事録が便利でも企業に浸透しない理由",
-      "url": "https://kn.itmedia.co.jp/kn/article/2610/21/2000002415/",
-      "summary": "会議の内容を記録していない人は50.2％に上る一方、議事録作成ツールの利用者では73.2％が負担軽減を実感している。なぜツールの活用は進まないのか。調査結果から、議事録作成の実態とAI活用の可能性、導入に向けた課題を探る。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T21:00:00",
-      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2610/21/2000002415/10009895/2048",
-      "body_ja": "会議の記録を残さない人が50.2％ AI議事録が便利でも企業に浸透しない理由\n会議の内容を記録していない人は50.2％に上る一方、議事録作成ツールの利用者では73.2％が負担軽減を実感している。なぜツールの活用は進まないのか。調査結果から、議事録作成の実態とAI活用の可能性、導入に向けた課題を探る。\n会議の内容を後から確認したいのに、決定事項や担当者が分からない。議事録を作成する必要性は感じていても、記録や整理に手間がかかり、十分に対応できていない。会議で何が決まり、誰が次のアクションを実行するのか。議事録の記録と共有が、見えにくい負担になっている。\n法人向けSaaS比較サイト「アスピック」を運営する一般社団法人日本クラウド産業協会が、全国の会社員と経営者、役員241人を対象に実施した「議事録作成に関するアンケート調査」によると、普段の社内会議や打ち合わせで「特に何もしていない」と回答した人は42.7％に上った。また、会議内容を「特に記録していない」人も50.2％と半数を占めた。\nWeb"
-    },
-    {
-      "title": "GMO、生成AIの「答えるだけ問題」を解消へ　社内ナレッジを業務フローにつなぐ",
-      "url": "https://kn.itmedia.co.jp/kn/article/2610/21/2000002373/",
-      "summary": "生成AIに社内規定やマニュアルを参照させても、その後の申請やデータ登録は人手に頼る場合がある。GMOプライム・ストラテジーとGMO AIコネクトは、RAGと業務自動化基盤を連携し、社内ルールに沿った判断から業務処理までの自動化を目指す。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T21:00:00",
-      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2610/21/2000002373/10009760/2048",
-      "body_ja": "GMO、生成AIの「答えるだけ問題」を解消へ 社内ナレッジを業務フローにつなぐ\n生成AIに社内規定やマニュアルを参照させても、その後の申請やデータ登録は人手に頼る場合がある。GMOプライム・ストラテジーとGMO AIコネクトは、RAGと業務自動化基盤を連携し、社内ルールに沿った判断から業務処理までの自動化を目指す。\n社内規定やマニュアルを生成AIに読み込ませても、回答を受け取った後の申請やデータ登録、関係者への通知などは、人が手作業で進めなければならない。生成AIを業務に導入しても、回答を得ることと実際の業務を完了させることの間には、依然として隔たりがある。\n社内規定や業務マニュアルが改定された際に、業務自動化の仕組みに設定した判断基準まで更新する必要があれば、運用負荷も増える。社内ナレッジの活用と業務の自動化を、どう一体化するかが課題となっている。\nこうした課題に対し、GMOプライム・ストラテジーとGMO AIコネクトは2026年10月19日、企業向けRAG（検索拡張生成）ソフトウェア"
-    },
-    {
-      "title": "SpaceX’s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-20T20:40:41",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200"
-    },
-    {
-      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-20T20:35:10",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800"
-    },
-    {
-      "title": "AIコーディングのAPIキーが狙われている　OpenCodeのキー流出とインフォスティーラー「Aoki」から学ぶ対策",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2610/21/news011.html",
-      "summary": "AIコーディングツールの認証情報を盗むマルウェアと、保存されたAPIキーが流出した可能性のあるサービスの侵害が、同じ週に公表された。盗まれたキーで何が起きるのか、手元のキーをどう守るかを整理する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T20:00:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2610/21/cover_news011.jpg",
-      "body_ja": "AIコーディングツールの認証情報を盗むマルウェアと、保存されたAPIキーが流出した可能性のあるサービスの侵害が、同じ週に公表された。盗まれたキーで何が起きるのか、手元のキーをどう守るかを整理する。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nAIコーディングツールのAPIキー（サービスを呼び出すための認証用の文字列）が盗まれたら、何が起きるか。心配すべきなのは、コードの流出だけではない。第三者があなたのアカウントでAIを使い、その利用料金をあなたが負担することになる。\nこの1週間で、AIの認証情報が狙われる動きが2つの形で明らかになった。10月15日、セキュリティ企業Symantec（Broadcom）が、情報窃取マルウェア「Aoki」の新しい版に、Claude、OpenAIのCodex、Cursor、Geminiなどの認証情報を盗む機能が加わったと公表した。10月17日には、オープンソースのAIコーディングエージェント「OpenCode」の運営元が、クラウド側"
-    },
-    {
-      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-20T18:38:24",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800"
-    },
-    {
-      "title": "ChatGPT now lets you lock your chats",
-      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-20T18:36:53",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800"
-    },
-    {
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-20T17:55:12",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024"
-    },
-    {
-      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "summary": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-20T17:12:48",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024"
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "summary": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-20T16:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800"
-    },
-    {
-      "title": "「どの国のモデルか」は本質ではない　「中国製LLMは危険な指示を実行」発言で話題の専門家に補足してもらった",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/20/2000002430/",
-      "summary": "中国製LLMは本当に危険なのか。一連の情報漏えい騒動とAIの関係について、問題の本質はどこにあるのか。取材での回答が話題になっている専門家に聞いた。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-20T08:43:38",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/20/2000002430/10009942/2048",
-      "body_ja": "「どの国のモデルか」は本質ではない 「中国製LLMは危険な指示を実行」発言で話題の専門家に補足してもらった（1/2 ページ）\n中国企業が開発したLLMは、危険な指示をそのまま受け取って実行してしまう――テレビ高知の取材でのセキュリティの専門家の回答が話題だ。\nこれに対してXや転載先のYahoo!ニュースのコメントでは中国製モデルを危険視する見方が相次いでいるが、「モデルの国籍は関係ないのでは」といった指摘もある。\n中国製LLMは本当に危険なのか。そして、一連の情報漏えい騒動とAIの関係について、問題の本質はどこにあるのか。渦中の専門家、VLCセキュリティラボの中本有哉代表に聞いた。\n中国製LLMは危険？\nテレビ高知の記事では、中本氏の発言として「中国の企業が開発したLLMは、危険な指示や『攻撃する方法を教えて』といった指示を、そのまま受け取って実行してしまう」と引用されているが、これは中国製モデル全般に当てはまるのか。\n中本氏は今回の説明が中国製モデル全般に一律に当てはまるわけではないと"
-    },
-    {
-      "title": "AIエージェントおすすめ17選！料金・無料枠・セキュリティを種類別に比較",
-      "url": "https://ainow.ai/2026/10/20/278446/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%258a%25e3%2581%2599%25e3%2581%2599%25e3%2582%258117%25e9%2581%25b8%25ef%25bc%2581%25e6%2596%2599%25e9%2587%2591%25e3%2583%25bb%25e7%2584%25a1%25e6%2596%2599%25e6%259e%25a0%25e3%2583%25bb%25e3%2582%25bb%25e3%2582%25ad",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12434;&#21517;&#20055;&#12427;&#12484;&#12540;&#12523;&#12364;&#22679;&#12360;&#12377;&#12366;&#12390;&#12289;&#12393;&#12428;&#12434;&#36984;&#12409;&#12400;&#12424;&#12356;&#12363;&#36855;&#12387;&#12390;&#12356;&#12414;&#12379;&#12435;&#12363",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-19T16:45:43",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-11.jpg",
-      "body_ja": "AIエージェントを名乗るツールが増えすぎて、どれを選べばよいか迷っていませんか。本記事では、法人で選ぶ価値のあるAIエージェント17選を、料金・無料で試せるか・学習利用の有無まで2026年10月時点の公式情報で比較します。\nChatGPTやCopilotは使っているものの、Agentforce・Dify・Gensparkなどと何が違うのか、自社にはどれが合うのか判断がつかない。DX推進や情シスの担当者ほど、候補選びで手が止まりやすいでしょう。\n2026年はAIエージェントの名称変更や料金改定が相次いでいます。半年前の比較記事をもとに稟議を出すと、製品名や価格の誤りで差し戻されるおそれがあります。\n本記事では、おすすめの17ツールを汎用型・業務システム搭載型・業務特化型・ノーコード型・開発支援型に分けて紹介し、社内で使っているシステム別の早見表と、無料トライアルで見極める手順を解説します。\n読み終えるころには、自社に合う候補を2〜3個に絞り込み、料金とセキュリティの根拠をそろえてトライアル"
-    },
-    {
-      "title": "AIエージェントの種類一覧！5つの分類軸と代表サービス・選び方を解説",
-      "url": "https://ainow.ai/2026/10/20/278443/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e7%25a8%25ae%25e9%25a1%259e%25e4%25b8%2580%25e8%25a6%25a7%25ef%25bc%25815%25e3%2581%25a4%25e3%2581%25ae%25e5%2588%2586%25e9%25a1%259e%25e8%25bb%25b8%25e3%2581%25a8%25e4%25bb%25a3%25e8%25a1%25a8%25e3%2582%25b5",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12398;&#31278;&#39006;&#12399;&#12289;&#21205;&#20316;&#12398;&#20181;&#32068;&#12415;&#12539;&#12471;&#12473;&#12486;&#12512;&#27083;&#25104;&#12539;&#29992;&#36884;&#12539;&#25552;&#20379;&#24418;&#24907;&#12539;&#33258;&#24459;&#24615;&#12398",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-19T16:16:13",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-10.jpg",
-      "body_ja": "AIエージェントの種類は、動作の仕組み・システム構成・用途・提供形態・自律性の5つの軸で整理できます。本記事では、5つの軸ごとの種類と代表的なサービスを一覧で解説します。\nAgentforce、Copilot Studio、Difyなど、AIエージェントを名乗るサービスが次々と登場しています。記事ごとに分け方が違い、どれがどの種類なのか整理できずに困っている方も多いでしょう。\n種類の違いを押さえないまま選ぶと、目的に合わないツールでPoCを始め、時間と予算を無駄にします。反対に分類軸を理解すれば、社内で候補を説明し、比較の土台を作れます。\n本記事では、5つの分類軸ごとのAIエージェントの種類と、学術上の分類と実際のサービスの対応関係を中心に解説します。\n読み終えるころには、自社の業務に合う種類を絞り込み、試すべき候補を2〜3個に決められる状態になります。気になっているサービスを思い浮かべながら読み進めてください。\nAIエージェントの種類は5つの分類軸で整理できる\nAIエージェントの種類は"
-    },
-    {
-      "title": "AIエージェントを自作する方法7選！無料で始める手順と費用の目安",
-      "url": "https://ainow.ai/2026/10/14/278439/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b%25e6%2596%25b9%25e6%25b3%25957%25e9%2581%25b8%25ef%25bc%2581%25e7%2584%25a1%25e6%2596%2599%25e3%2581%25a7%25e5%25a7%258b%25e3%2582%2581%25e3%2582%258b",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12399;&#12289;Gemini&#12420;Claude&#12398;&#30011;&#38754;&#12391;&#25351;&#31034;&#25991;&#12434;&#30331;&#37682;&#12377;&#12427;&#12384;&#12369;&#12391;&#12418;&#33258;&#20316;&#12391;&#12365;&#12414;&#12377;&#12290;&#26412;&#35352;&#20107;&#1",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-14T12:30:49",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail_new.jpg",
-      "body_ja": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。\n「AIエージェントを自作して情報収集を自動化した」という投稿を見て、自分も作りたいと考えたことはないでしょうか。いざ調べると、Difyやn8n、Pythonなど選択肢が多すぎて手が止まりがちです。\n自作の成否は、自分のスキルに合う方法を選べるかで決まります。いきなりコードから始めると環境構築でつまずき、逆に指示文だけで済ませると定時実行のような自動化に手が届きません。\n本記事では、指示型・連携型・自律型の3段階に分けた自作方法と、「毎朝の業界ニュース要約エージェント」を各段階で作り比べる手順を中心に紹介します。\n読み終えるころには、自分が最初に作るエージェントと、その作り方が決まっています。まずは7つの方法の違いから確認していきましょう。\nAIエージェントを自作する方法は難易度別に7つ\nAI"
-    },
-    {
-      "title": "AIエージェントの作り方を初心者向けに解説！Geminiで無料作成する5ステップ",
-      "url": "https://ainow.ai/2026/10/14/278436/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e4%25bd%259c%25e3%2582%258a%25e6%2596%25b9%25e3%2582%2592%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e5%2590%2591%25e3%2581%2591%25e3%2581%25ab%25e8%25a7%25a3%25e8%25aa%25ac%25ef%25bc%2581gemini%25e3%2581%25a7",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12434;&#20316;&#12387;&#12390;&#12415;&#12383;&#12356;&#12418;&#12398;&#12398;&#12289;&#35299;&#35500;&#35352;&#20107;&#12434;&#35501;&#12416;&#12392;Dify&#12420;Python&#12398;&#35441;&#12400;&#12363;&#12426;&#12391;&#12289;&#20309;&#12363;&#124",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-14T12:06:50",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-9.jpg",
-      "body_ja": "AIエージェントを作ってみたいものの、解説記事を読むとDifyやPythonの話ばかりで、何から手をつければよいかわからない方は多いのではないでしょうか。\n初心者がAIエージェントを作るなら、普段使っているGeminiの「スキル」機能から始めるのが最短ルートです。無料で使え、指示文を入力するだけで完成するため、プログラミングの知識はいりません。\n一方で、2026年はChatGPTのGPTsが廃止予定となり、GeminiのGemsもスキルへの移行が決まりました。古い解説記事のとおりに作ると、作り直しになるおそれがあります。\n本記事では、Geminiで最初の1体を作る5ステップと、初心者でも精度が出る指示文の型を中心に解説しています。\n読み終える頃には、自分専用のAIエージェントが1体動いている状態になっているでしょう。まずは初心者に合うツールから確認していきましょう。\n初心者におすすめのAIエージェント作成ツール4選\n初心者がプログラミングなしでAIエージェントを作れるツールは、以下の4つ"
-    },
-    {
-      "title": "AIエージェントを自作する3つの方法！初心者でも無料から始められる手順",
-      "url": "https://ainow.ai/2026/10/12/278433/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2582%2592%25e8%2587%25aa%25e4%25bd%259c%25e3%2581%2599%25e3%2582%258b3%25e3%2581%25a4%25e3%2581%25ae%25e6%2596%25b9%25e6%25b3%2595%25ef%25bc%2581%25e5%2588%259d%25e5%25bf%2583%25e8%2580%2585%25e3%2581%25a7%25e3%2582%2582",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12399;&#12289;&#20316;&#12426;&#12383;&#12356;&#12418;&#12398;&#12395;&#21512;&#12387;&#12383;&#12484;&#12540;&#12523;&#12434;&#36984;&#12409;&#12400;&#20491;&#20154;&#12391;&#12418;&#33258;&#20316;&#12391;&#12365;&#12414;&#12377;&#12290;&#26412",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-12T13:00:55",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-8.jpg",
-      "body_ja": "AIエージェントは、作りたいものに合ったツールを選べば個人でも自作できます。本記事では、チャット型・自動化型・実行型の3つの自作方法と、Geminiスキル・n8n・Claude Codeを使った具体的な手順を解説します。\nChatGPTやGeminiに毎日同じ指示を打ち込むたびに、「この作業をAIに丸ごと任せられないか」と感じていないでしょうか。\nAIエージェントの自作は、ツール選びで成否が分かれます。作りたいものに合わない方法を選ぶと、設定に何日もかけたのに動かない、使わない有料プランに課金し続けるといった失敗に陥るでしょう。\n本記事では、作りたいもの別に選べる3つの自作方法と、プログラミングなしで始められるGeminiスキル・n8nの手順を中心に解説します。\n読み終えるころには、自分に合う方法で最初の1体を今日から作り始められる状態になります。\nAIエージェントの自作方法は作りたいもの別に3つ\nAIエージェントの自作方法は、作りたいものに合わせて以下の3つから選びます。\n- 【チャッ"
-    },
-    {
-      "title": "AIエージェント構築の手順7ステップ！基盤の選び方と本番運用のコツ",
-      "url": "https://ainow.ai/2026/10/12/278430/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e6%25a7%258b%25e7%25af%2589%25e3%2581%25ae%25e6%2589%258b%25e9%25a0%25867%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e5%259f%25ba%25e7%259b%25a4%25e3%2581%25ae%25e9%2581%25b8%25e3%2581%25b3",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12398;&#27083;&#31689;&#12434;&#20219;&#12373;&#12428;&#12383;&#12418;&#12398;&#12398;&#12289;&#12393;&#12398;&#38918;&#30058;&#12391;&#20309;&#12434;&#27770;&#12417;&#12428;&#12400;&#12424;&#12356;&#12363;&#36855;&#12387;&#12390;&#12356;&#12414",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-12T12:50:16",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-7.jpg",
-      "body_ja": "AIエージェントの構築を任されたものの、どの順番で何を決めればよいか迷っていませんか。本記事では、業務の絞り込みから本番公開までの構築手順7ステップと、自社に合う構築基盤の選び方を解説します。\nDifyやCopilot Studioで試作はできても、社内システムとの連携や権限設計で手が止まる担当者は少なくありません。AIエージェントの構築は、任せる業務を1つに絞り、LLM・ツール連携・安全対策を順番に組み上げる作業です。\nGartnerは、エージェント型AIのプロジェクトの40%超が2027年末までに中止されると予測しています。基盤選びや安全設計を後回しにしたまま試作を進めると、自社の案件も中止される側に回るでしょう。\n出典：Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027（Gartner）\n本記事では、構築の7ステップと、構築基盤を選ぶ判断軸を中心に解説します。主要8サービス"
-    },
-    {
-      "title": "AIエージェント開発とは？進め方8ステップと費用相場・失敗しないコツ",
-      "url": "https://ainow.ai/2026/10/10/278427/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e9%2596%258b%25e7%2599%25ba%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e9%2580%25b2%25e3%2582%2581%25e6%2596%25b98%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25e3%2581%25a8%25e8%25b2%25bb%25e7%2594%25a8",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#38283;&#30330;&#12392;&#12399;&#12289;LLM&#12395;&#12484;&#12540;&#12523;&#12420;&#35352;&#25014;&#12289;&#27177;&#38480;&#12434;&#32068;&#12415;&#21512;&#12431;&#12379;&#12289;&#26989;&#21209;&#12434;&#33258;&#24459;&#30340;&#12395;&#36914;&#12",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-09T18:55:03",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-6.jpg",
-      "body_ja": "AIエージェント開発とは、LLMにツールや記憶、権限を組み合わせ、業務を自律的に進めるシステムを作ることです。本記事では、要件定義から運用改善までの8ステップと、費用相場・内製と外注の判断基準を解説します。\n経営層から「自社でもAIエージェントを作れないか」と相談され、何から手を付ければよいか迷っている方も多いでしょう。ChatGPTやDifyで試作はできても、社内システムとつなぐ段階で止まるケースは少なくありません。\nAIエージェント開発は、任せる業務を絞り、PoCの合格基準を決めてから小さく作ると軌道に乗ります。反対に、目的や基準があいまいなまま始めると、試作が動いただけで終わります。\nGartnerは、エージェント型AIプロジェクトの40%以上が2027年末までに中止されると予測しました。理由として、コストの増加、ビジネス価値の不明確さ、リスク管理の不足を挙げています。\n出典：Gartner Predicts Over 40% of Agentic AI Projects Will"
-    },
-    {
-      "title": "AIエージェントの導入方法4パターン！自社に合う選び方と進め方",
-      "url": "https://ainow.ai/2026/10/08/278424/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5%25e6%2596%25b9%25e6%25b3%25954%25e3%2583%2591%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%25ef%25bc%2581%25e8%2587%25aa%25e7%25a4%25be%25e3%2581%25ab%25e5%2590%2588%25e3%2581%2586",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12434;&#23566;&#20837;&#12375;&#12383;&#12356;&#12418;&#12398;&#12398;&#12289;&#26082;&#35069;&#12484;&#12540;&#12523;&#12434;&#22865;&#32004;&#12377;&#12427;&#12398;&#12363;&#12289;&#33258;&#31038;&#12391;&#20316;&#12427;&#12398;&#12363;&#12289",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-07T18:42:03",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-5.jpg",
-      "body_ja": "AIエージェントを導入したいものの、既製ツールを契約するのか、自社で作るのか、開発会社に頼むのかを決められない。本記事では、AIエージェントの4つの導入方法と、自社に合う方法を選ぶ判断軸を、社内検討の資料にそのまま使える形で整理します。\nChatGPTやMicrosoft 365 Copilotは社内で使い始めたものの、AIエージェントは何から手を付けるべきかわからない。そう迷うDX推進担当者は多いでしょう。\nAIエージェントの導入方法は、既製ツールのエージェント機能を使う方法から個別開発まで4パターンに分かれ、どれを選ぶかで費用も立ち上げ期間も大きく変わります。方法を比べないままベンダーや製品から決めると、PoC止まりや過剰投資に陥りやすくなります。\n本記事では、4つの導入パターンの比較と、業務範囲・社内スキル・システム連携・予算の4軸で方法を選ぶ考え方を中心に解説します。内製・共創・外注の体制選びや、導入の5ステップも調査データとあわせて紹介します。\n読み終えるころには、自社が取るべ"
-    },
-    {
-      "title": "AIエージェント導入手順8ステップ！失敗しない進め方と期間の目安",
-      "url": "https://ainow.ai/2026/10/08/278421/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e6%2589%258b%25e9%25a0%25868%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597%25ef%25bc%2581%25e5%25a4%25b1%25e6%2595%2597%25e3%2581%2597%25e3%2581%25aa%25e3%2581%2584%25e9%2580%25b2",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12398;&#23566;&#20837;&#12434;&#20219;&#12373;&#12428;&#12383;&#12418;&#12398;&#12398;&#12289;&#20309;&#12363;&#12425;&#25163;&#12434;&#12388;&#12369;&#12428;&#12400;&#12424;&#12356;&#12363;&#36855;&#12387;&#12390;&#12356;&#12414;&#12379;&#12435",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-07T18:16:03",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-4.jpg",
-      "body_ja": "AIエージェントの導入を任されたものの、何から手をつければよいか迷っていませんか。本記事では、業務選定から本番運用までの導入手順8ステップを、各ステップの成果物・担当・期間・次へ進む条件とあわせて解説します。\n「AIエージェントを入れられないか検討して」と指示されても、最初の会議に出す計画表すら作れない担当者は少なくありません。AIエージェントの導入は、業務を1つに絞って小さく試し、任せる権限を段階的に広げる手順で進めるのが確実です。\nGartnerは、エージェント型AIのプロジェクトの40%超が2027年末までに中止されると予測しています。理由はコストの高騰、ビジネス価値の不明確さ、リスク管理の不備です。手順を飛ばしてPoCに入ると、自社の案件も中止される側に回るでしょう。\n出典：Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027（Gartner）\n本記事では、導入手順8ステッ"
-    },
-    {
-      "title": "AIエージェント導入支援とは？支援内容・費用相場・選び方と補助金を解説",
-      "url": "https://ainow.ai/2026/10/07/278418/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e5%25b0%258e%25e5%2585%25a5%25e6%2594%25af%25e6%258f%25b4%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%2594%25af%25e6%258f%25b4%25e5%2586%2585%25e5%25ae%25b9%25e3%2583%25bb%25e8%25b2%25bb%25e7%2594%25a8%25e7%259b%25b8%25e5%25a0%25b4",
-      "summary": "<p>AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12434;&#23566;&#20837;&#12375;&#12383;&#12356;&#12364;&#12289;&#31038;&#20869;&#12395;&#30693;&#35211;&#12364;&#12394;&#12367;&#12289;&#12393;&#12398;&#25903;&#25588;&#20250;&#31038;&#12395;&#20309;&#12434;&#38972;&#12417;&#12400;&#12424;&#12356",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-06T16:00:12",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-3.jpg",
-      "body_ja": "AIエージェントを導入したいが、社内に知見がなく、どの支援会社に何を頼めばよいか判断できない。本記事では、導入支援で頼める支援内容、フェーズ別の費用、支援会社を比べる判断軸、使える補助金を、社内の選定資料にそのまま使える形で整理します。\nCopilot StudioやDifyで試作はできたものの、業務システムとの連携や現場への定着をどう進めるかで手が止まっている担当者は多いでしょう。そこで検討されるのが、外部の専門家が伴走するAIエージェント導入支援です。\nただし支援範囲を見極めずに依頼すると、高額な費用を払ってもPoCで止まり、ノウハウも社内に残りません。依頼前に「何を頼み、何を自社に残すか」を決めておくことが成否を分けます。\n本記事では、AIエージェント導入支援の5つの支援内容と費用相場、支援会社を比べる7つの判断軸を中心に、公式情報をもとに解説します。\n読み終えるころには、自社に必要な支援範囲と比較の根拠がそろい、支援会社の選定を社内で通せる状態になります。まずは支援内容から確認し"
     }
   ],
-  "last_updated": "2026-10-21T09:21:49.702821+09:00",
-  "count": 50
+  "last_updated": "2026-10-22T09:26:30.025157+09:00",
+  "count": 30
 }
