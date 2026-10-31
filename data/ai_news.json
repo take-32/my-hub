@@ -1,248 +1,332 @@
 {
   "articles": [
     {
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
-      "published": "2026-10-30T01:20:48",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840"
+      "published": "2026-10-31T01:20:05",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800"
     },
     {
-      "title": "映画監督も絶賛する作業効率。MSI、クリエイター向け最新AIステーション＆34インチQD-OLEDモニターを発表",
-      "url": "https://ascii.jp/elem/000/004/447/4447029/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545836/s/fe76f18914d2d9b1.png\" width=\"60\" />エムエスアイコンピュータージャパン（MSI）は10月28日、新製品発表会を開催した。本発表会では、急速に拡大するローカルAI需要とプロのクリエイティブワークに応える最新ハードウェアがお披露目された。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T01:15:00",
-      "image_url": "https://ascii.jp/img/2026/10/29/4545836/s/fe76f18914d2d9b1.png"
-    },
-    {
-      "title": "Linuxに深刻度9.8の脆弱性、認証なしでroot権限奪取　AnthropicのAIが攻撃を実証",
-      "url": "https://ascii.jp/elem/000/004/447/4447103/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546021/s/9ed2e843c6a56a5a.png\" width=\"60\" />Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T01:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4546021/s/9ed2e843c6a56a5a.png"
-    },
-    {
-      "title": "遅延最大34％低減をうたうWi-Fi 8ルーター　ASUS「ROG Rapture GT-BN98」がAmazon限定発売",
-      "url": "https://ascii.jp/elem/000/004/447/4447093/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4545991/s/1ebf8244206d8fa3.jpg\" width=\"60\" />ASUSのWi-Fi 8ゲーミングルーター「ROG Rapture GT-BN98」がAmazon限定発売。遅延を最大34％低減するとうたうAI Game Boostやデュアル10Gポートを搭載し、対戦ゲームや配信時の安定した通信を追求する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T01:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4545991/s/1ebf8244206d8fa3.jpg"
-    },
-    {
-      "title": "【本日】肉・麺・飯の背徳コンボ！ 大阪王将「悪魔の肉雪崩」がすごそう",
-      "url": "https://ascii.jp/elem/000/004/447/4447002/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545936/s/88e39782ce4a733f.jpg\" width=\"60\" />大阪王将は10月30日から、肉のボリューム感が特徴の期間限定メニュー「悪魔の肉雪崩！禁断のWポークまぜそば」を販売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T01:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/29/4545936/s/88e39782ce4a733f.jpg"
-    },
-    {
-      "title": "AI エージェントの VM から IoT デバイスは見えるか：Meta Muse と SORACOM Arc の検証記録",
-      "url": "https://ascii.jp/elem/000/004/447/4447096/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546006/s/0fb5bea74820913e.png\" width=\"60\" />AI エージェントの VM から IoT デバイスは見えるか：Meta Muse と SORACOM Arc の検証記録</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T00:45:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4546006/s/0fb5bea74820913e.png"
-    },
-    {
-      "title": "ASUS ROG、発熱と電力の偏りを抑えるケーブル付属のPC電源5製品　1200W／1000Wを展開",
-      "url": "https://ascii.jp/elem/000/004/447/4447089/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4545957/s/744ff572c92d04fe.png\" width=\"60\" />ASUS JAPANがROGブランドの電源ユニット新モデル5製品を10月30日に発売。ROGイコライザーケーブルを標準付属し、1200Wと1000Wの高出力モデルを展開する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4545957/s/744ff572c92d04fe.png"
-    },
-    {
-      "title": "【本日】総重量600g、肉2倍盛りも！ 牛ハラミ×豚バラの豪快焼肉丼がすた丼に",
-      "url": "https://ascii.jp/elem/000/004/446/4446614/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545588/s/de08f84c770b9439.jpg\" width=\"60\" />「伝説のすた丼屋」は本日10月30日より、新商品「牛ハラミ豚バラすたみな焼肉丼」を期間限定で販売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/29/4545588/s/de08f84c770b9439.jpg"
-    },
-    {
-      "title": "生成AIに入れちゃダメな情報、わかってますか？　不正アクセスだけじゃない情報漏洩の原因",
-      "url": "https://ascii.jp/elem/000/004/445/4445971/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/27/4544044/s/c1c967d6eb48725f.jpg\" width=\"60\" />本連載は生成AIをこれから活用しようとしている方たちのために、生成AIの基本やコピペしてそのまま使えるプロンプトなどを紹介。兎にも角にも生成AIに触り始めることで、AIに対する理解を深め、AIスキルを身につけて欲しい。第77回は、生成AIへの入力やアップロードによる情報漏洩の事例から、生成AIに入力してはいけない情報について解説する。</p><br clear=\"le",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/27/4544044/s/c1c967d6eb48725f.jpg"
-    },
-    {
-      "title": "「LPWA」って何？ 少ない電力で遠くまで届くIoT向け通信の仕組み",
-      "url": "https://ascii.jp/elem/000/004/441/4441389/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/09/4536558/s/00c6bd6a914895f5.png\" width=\"60\" />IoTに関連する専門用語の数々をわかりやすく解説していきます。今回は「LPWA（エルピーダブリューエー）」をご紹介</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/09/4536558/s/00c6bd6a914895f5.png"
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-29T23:42:22",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721"
-    },
-    {
-      "title": "MSI「MEG X」登場、5層タンデムOLEDで黒と文字の見やすさを追求",
-      "url": "https://ascii.jp/elem/000/004/447/4447088/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4545949/s/384e86f363aa15a1.png\" width=\"60\" />MSIのQD-OLEDゲーミングモニター「MEG X」が11月下旬以降に発売。応答速度0.03ms、5層タンデムOLED、内蔵AIによるゲーム支援が特徴。文字の色にじみを抑える構造や焼き付き防止機能も搭載し、予想価格は30万2500円前後。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-29T23:30:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4545949/s/384e86f363aa15a1.png"
-    },
-    {
-      "title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
-      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
-      "summary": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた。",
+      "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
+      "summary": "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている。Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか。利用状況の可視化から予算の配分まで、3つの機能の中身とは。",
       "source": "ITmedia AI+",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-29T23:24:32",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/30/2000002735/10010955/2048",
-      "body_ja": "OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記\n米OpenAIは10月29日（現地時間）、同社のAIモデルがどう振る舞うべきかを定めた公開文書「Model Spec」の改定版を公開した。\n指針全体を5つの価値観に沿って再構成し、会話履歴やメモリなどのコンテキストの扱い方や、人間による監督への協力などに関する規定を新たに加えた。一方、「人類を愛する」「合理的に楽観的である」などのChatGPTの人格設定、応答の文体や口調に関する詳細なガイドラインの大半は削除した。\nModel Specとは、ChatGPTやAPIで提供するGPTモデルの望ましい振る舞いを示す文書で、2024年5月に初版が公開された。OpenAI、開発者、ユーザーの指示が食い違った場合の優先順位や、生成してはならないコンテンツの範囲などを定めている。改定は8月18日以来となる。\n新版が柱に据えたのは「人間の意図への忠実さ」「害の最小化」「誠実さと透明性」「人間の主体性」「配"
+      "published": "2026-10-31T00:00:00",
+      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2610/31/cover_news009.jpg",
+      "body_ja": "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている。Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか。利用状況の可視化から予算の配分まで、3つの機能の中身とは。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\nAIにいくら使い、その結果、何ができるようになったのか――。AIにかかるコストが当初の予想を超えるケースが出てくる中で、費用対効果が厳しく問われる傾向は強まるばかりだ。\nAnthropicは2026年10月28日（現地時間）、企業向けプラン「Claude Enterprise」に3つの機能を追加し、一般提供を始めたと発表した。\nこの中には管理者が利用の実態を把握し、投資計画の判断材料を得るための機能も含まれている。\nAnthropicによると、多くの組織では既にメンバーがClaudeを生かした独自の使い方を見つけており、次の段階はそれを全てのチームに広げることだという。そのために、3"
     },
     {
-      "title": "AIは「組織能力の増幅器」、パナソニック新CAIOが描く人とAIの共進化",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news053.html",
-      "summary": "パナソニック ホールディングスでは、2026年4月にグループCAIO（Chief AI Officer）に就任した、執行役員 榊原彰氏が合同取材に応じ、グループ内のAI活用の展望について説明した。",
+      "title": "これからの季節も足元ぽかぽか！ アイリスオーヤマの折りたたみデスクパネルヒーター",
+      "url": "https://ascii.jp/elem/000/004/447/4447407/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546263/s/e735c8595edc00be.jpg\" width=\"60\" />Amazon.co.jpでアイリスオーヤマの「パネルヒーター」が売れています。足元をじんわり温めてくれる冷え対策グッズが、7690円となります。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T00:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/30/4546263/s/e735c8595edc00be.jpg"
+    },
+    {
+      "title": "この価格で冬の寒さ対策！ チャンピオンの暖かいボアフリースジャケットに注目",
+      "url": "https://ascii.jp/elem/000/004/447/4447388/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546227/s/db67f4e77963bd05.jpg\" width=\"60\" />Amazon.co.jpでチャンピオンのボアフリース「ジップフーデッドジャケット」がセール中です。メンズ向けのふわふわで軽いジャケットが、37％オフで買えます。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T00:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/30/4546227/s/db67f4e77963bd05.jpg"
+    },
+    {
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+      "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-30T22:56:13",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847"
+    },
+    {
+      "title": "GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html",
+      "summary": "2026年10月26～30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。",
       "source": "ITmedia AI+",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-29T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/30/cover_news053.jpg",
-      "body_ja": "パナソニック ホールディングスでは、2026年4月にグループCAIO（Chief AI Officer）に就任した、執行役員 榊原彰氏が合同取材に応じ、グループ内のAI活用の展望について説明した。\nパナソニック ホールディングスの執行役員で、2026年4月にグループCAIO（Chief AI Officer）に就任した榊原彰氏（パナソニック コネクト 執行役員）が合同取材に応じ、10月1日に新設した「AI・ロボティクス研究開発本部」の狙いや、グループ内のAI（人工知能）活用の展望について説明した。\nパナソニック ホールディングスでは、PX（Panasonic Transformation）として組織変革を進めているが、その1つとしてAI活用を核とした事業モデル、業務プロセス、企業カルチャーの進化に取り組む「AI-driven Transformation」を推進している。このAI-driven Transformationをけん引するのが、榊原氏である。\n榊原氏は「AI活用によりソリュー"
+      "published": "2026-10-30T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/31/cover_news013.jpg",
+      "body_ja": "2026年10月26〜30日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。\nサイバー攻撃や不正アクセスによる被害報告が後を絶ちません。インターネットインフラ事業などを展開するGMOインターネットグループは2026年10月21日、連結子会社が提供する「お名前.com デスクトップクラウド」への不正アクセス被害を発表しました。\n同社によると、10月19日に顧客からの問い合わせを受けて調査を開始し、翌20日に一部のサーバ環境に第三者による不正プログラムが設置されていることを確認しました。サーバ内に保存されていた取引口座のログイン情報等が第三者に取得され、不正利用された可能性があるとしています。\n事態を受け、同社は20日に新規申し込みなどを停止し、21日午前4時からは被害拡大を防ぐため全プランのサーバを順次停止。また、顧客に対して一律5000円のお見舞金や、公開が確認された情報の区分に応じた最大300万円の特別お見舞金の支払いを決定するなどの対応を進め"
     },
     {
-      "title": "物理ソルバーからMODSIM、AIへ　SIMULIAが描く次世代の設計／シミュレーション",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2610/30/news004.html",
-      "summary": "ダッソー・システムズは「SIMULIA Community Conference Japan 2026」を開催した。基調講演では、SIMULIAブランドの戦略を支える物理ソルバー、MODSIM、AIの3層構造を紹介。エンジニアと協働するAI「バーチャルコンパニオン」や生成型設計、NVIDIAとの協業などを通じて、設計／シミュレーションの将来像を示した。",
+      "title": "AIエージェントは「実運用」が主流に　「明確な成果」を得る企業の共通点は？",
+      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news008.html",
+      "summary": "生成AIの活用は「試す」段階から「使い広げる」段階へ移り、AIエージェントも実運用が主流になった。一方で、企業規模による差は広がっている。INDUSTRIAL-Xの調査が示す、成果を分ける“技術以外の要因”とは。",
       "source": "ITmedia AI+",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-29T22:00:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2610/30/cover_news004.jpg",
-      "body_ja": "ダッソー・システムズは「SIMULIA Community Conference Japan 2026」を開催した。基調講演では、SIMULIAブランドの戦略を支える物理ソルバー、MODSIM、AIの3層構造を紹介。エンジニアと協働するAI「バーチャルコンパニオン」や生成型設計、NVIDIAとの協業などを通じて、設計／シミュレーションの将来像を示した。\nダッソー・システムズは2026年9月11日、シミュレーションブランド「SIMULIA」のユーザー向けコミュニティーイベント「SIMULIA Community Conference Japan 2026」を開催した。基調講演では、Dassault Systemes SIMULIAブランド 最高経営責任者（CEO）を務めるMichelle Ash（ミシェル・アッシュ）氏が登壇し、「SIMULIA Brand Insights」と題して最新のブランド戦略と技術ビジョンを提示した。\nアッシュ氏が冒頭で提示したのが、SIMULIAブランドの戦略を"
+      "published": "2026-10-30T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2610/31/cover_news008.jpg",
+      "body_ja": "生成AIの活用は「試す」段階から「使い広げる」段階へ移り、AIエージェントも実運用が主流になった。一方で、企業規模による差は広がっている。INDUSTRIAL-Xの調査が示す、成果を分ける“技術以外の要因”とは。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\nAIの導入は進んだのに、「その結果得た成果は何か」という問いに明確に答えられない――。IT部門が直面しがちなこの課題を解消するヒントになりそうな調査結果が公開された。この調査について同社は、成果を左右するのはAIツールの良しあしではないと分析している。\nDXやAIの導入支援を手掛けるINDUSTRIAL-Xはこのほど、「AI/DX導入・活用実態調査2026」の結果を発表した。全国の企業就業者を対象にインターネットで調査し、1031人から有効回答を得た。\n生成AIを活用している企業（PoC・試験導入を含む）は全体の60.9％で、「全社的に活用」している企業は全体の26.7％と前年から7.7ポイント増えた。AIを活用して"
     },
     {
-      "title": "見積書100枚超をどうさばく？　「半日仕事」を約30分にした建設会社のAI活用",
-      "url": "https://kn.itmedia.co.jp/kn/article/2610/30/2000002725/",
-      "summary": "協力会社ごとに書式が異なる見積書の転記作業に、建設現場は多くの時間を費やしてきた。沖縄県の福地組はAI文書処理サービスを活用し、見積書1枚当たりの処理時間を10?15分から約1分に短縮した。",
+      "title": "【日曜まで】肉ピザがほぼ半額！ 2205円→1129円　ピザハットの「肉の日」日曜まで開催中",
+      "url": "https://ascii.jp/elem/000/004/447/4447316/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545583/s/0f24f4be21e65190.jpg\" width=\"60\" />ピザハットは、期間限定の「肉の日キャンペーン」を11月1日まで開催中。肉系ハーフ＆ハーフピザを持ち帰り1129円から販売します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-30T22:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/29/4545583/s/0f24f4be21e65190.jpg"
+    },
+    {
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-30T21:54:34",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800"
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-30T21:52:03",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024"
+    },
+    {
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-30T21:26:59",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800"
+    },
+    {
+      "title": "Cracks are emerging in the AI spending boom",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-30T21:17:40",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800"
+    },
+    {
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-30T17:47:12",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764"
+    },
+    {
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-30T17:00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800"
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-30T16:03:45",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800"
+    },
+    {
+      "title": "AMD Ryzen 9 9950X3D×RX 9070 XT搭載PCが10万7000円引き！ パソコンショップSEVENの10月31日限定セール",
+      "url": "https://ascii.jp/elem/000/004/447/4447094/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546000/s/2495847390c7e113.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、10月31日限定で最新ゲーミングPCやデスクトップPCを最大107,000円オフで販売する24時間限定セールを実施する。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-30T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/30/4546000/s/2495847390c7e113.png"
+    },
+    {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, ",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-30T14:00:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking-1.jpg?resize=1200,800"
+    },
+    {
+      "title": "10万円でお釣りがくる！ Core 5＋16GBメモリ搭載のLenovo「IdeaPad Slim 3」が21％オフの9万4800円",
+      "url": "https://ascii.jp/elem/000/004/444/4444327/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/20/4541140/s/fa51327bd1e94310.jpg\" width=\"60\" />Lenovoの15.3型ノートPC「IdeaPad Slim 3（83RR00BXJP）」がAmazonのタイムセール対象。過去価格99,800円から5％オフの94,800円で販売中。Core 5 320、16GBメモリ、512GB SSDを搭載し、15.3型WUXGA IPS液晶を採用。テンキー付き日本語キーボードや指紋認証も備え、10万円を切る価格でこれらの装備を",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-30T13:50:00",
+      "image_url": "https://ascii.jp/img/2026/10/20/4541140/s/fa51327bd1e94310.jpg"
+    },
+    {
+      "title": "直販サイトで23万円台！ Core Ultra 5搭載14.0型モバイルノート「FMV WU2-L3」",
+      "url": "https://ascii.jp/elem/000/004/447/4447033/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545817/s/8a89b279e9b03f43.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-30T13:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/29/4545817/s/8a89b279e9b03f43.png"
+    },
+    {
+      "title": "中身はハイエンド、姿はタブレット！ 64GBメモリー搭載のASUS「ROG Flow Z13」が5万円引き",
+      "url": "https://ascii.jp/elem/000/004/447/4447090/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4545951/s/442b2d79dd367700.jpg\" width=\"60\" />ASUSの13.4型ゲーミングPC「ROG Flow Z13（GZ302EA-AI916C64G）」がAmazonのタイムセール対象。参考価格509,800円から10％オフの459,800円で販売中。Ryzen AI MAX+ 395と64GBメモリーを搭載し、キーボードを取り外せばタブレットとしても使える。ハイエンドな構成ながら、ノートPCにもタブレットにもなる欲張",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-30T12:50:00",
+      "image_url": "https://ascii.jp/img/2026/10/30/4545951/s/442b2d79dd367700.jpg"
+    },
+    {
+      "title": "キオクシア中間決算「過去最高」連呼　純利益2.2兆円、初の配当実施　AI需要で「成長さらに加速」",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
+      "summary": "キオクシアHDは、2027年3月期の中間決算を発表した。純利益は2.2兆円。第2四半期の3カ月だけで前年通期の売り上げを上回った。好決算を受けて上場後初となる配当を実施する。",
       "source": "ITmedia AI+",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-10-29T21:00:00",
-      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2610/30/2000002725/10010918/2048",
-      "body_ja": "見積書100枚超をどうさばく？ 「半日仕事」を約30分にした建設会社のAI活用\n協力会社ごとに書式が異なる見積書の転記作業に、建設現場は多くの時間を費やしてきた。沖縄県の福地組はAI文書処理サービスを活用し、見積書1枚当たりの処理時間を10～15分から約1分に短縮した。\n福地組は嘉手納町に本店を置き、うるま市と那覇市に拠点を構える。戸建て住宅や医療施設、高齢者施設、公共施設の建築、土木工事などを手掛け、設計から施工まで自社で担う案件も多い。取引先の協力会社は数百社に上り、案件によっては見積書が100枚を超えるほか、協力会社1社から届く書類だけで数十ページに及ぶ場合もある。\n各社の見積書は書式や様式が統一されておらず、工事費の見積書や現場管理に使う実行予算書を作成する際、記載内容を自社の費用管理システムに手入力する必要があった。現場の従業員は日中の現場対応を優先する一方、民間工事では迅速な見積書の提出も求められる。こうした転記作業が、長時間労働の常態化や心理的負担を招く一因となっていた。"
+      "published": "2026-10-30T12:45:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2610/30/cover_news090.jpg",
+      "body_ja": "「AI需要の拡大を背景に、成長がさらに加速している」「前年度1年間で上げた売り上げが、第2四半期だけで上がってきた」――半導体メモリ大手のキオクシアホールディングス（HD）の河村芳彦氏（副社長執行役員）は、2027年3月期第2四半期（7〜9月）の決算説明会でこう述べた。\n第2四半期の業績については「売上収益は過去最高ですね」「純利益も過去最高であります」と説明し「過去最高」という言葉を連呼。売上収益は約2兆4800億円（前年同期比453.2％増）、純利益は約1兆3486億円（同3136.8％増）で、直近3カ月で2026年3月通期業績を上回った。\n「ハイライトは、売上収益、営業利益など全て、2025年度の12カ月で計上した1年分を、7〜9月の3カ月で上回っている点だ。収益力が非常に高まっている」（河村氏）\n第1四半期（4〜6月）の業績も軒並み過去最高だった。中間決算（4〜9月）では、売上収益が約4兆2471億円、純利益は2兆1978億円だった。第3四半期（10〜12月）は、売上収益が2兆5"
     },
     {
-      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "summary": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-29T20:08:31",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800"
+      "title": "ゴジラとコラボしたFMVノートPCが、直販サイトで10%オフに！",
+      "url": "https://ascii.jp/elem/000/004/447/4447035/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545818/s/51cfe0f382521055.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-30T12:30:00",
+      "image_url": "https://ascii.jp/img/2026/10/29/4545818/s/51cfe0f382521055.png"
     },
     {
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-29T20:05:47",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672"
+      "title": "なんと11万円台に！　FMVの16.0型ノートPC「FMV WA3-K3」がアウトレット価格",
+      "url": "https://ascii.jp/elem/000/004/447/4447030/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545816/s/076922c2201979d0.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-30T12:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/29/4545816/s/076922c2201979d0.png"
     },
     {
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last dec",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
       "lang": "en",
-      "published": "2026-10-29T19:56:19",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/ADT-logo.jpg?resize=1200,800"
+      "published": "2026-10-30T11:30:00"
     },
     {
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-29T19:14:36",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625"
+      "title": "重さは899g、メモリは32GB！ 軽さも中身も妥協しないASUS「Zenbook SORA」がAmazonタイムセールに",
+      "url": "https://ascii.jp/elem/000/004/446/4446959/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545760/s/5dd6eea0b7849083.jpg\" width=\"60\" />ASUSの14型ノートPC「Zenbook SORA（UX3407QA-PU32548GR）」がAmazonのタイムセール対象。参考価格264,800円から6％オフの249,800円で販売中。約899gの軽量ボディに32GBメモリを搭載し、動画再生時約15.8時間のバッテリー駆動にも対応。持ち歩きやすさを優先しても、メモリ容量は妥協したくない人にぴったりの構成だ。</",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-30T11:10:00",
+      "image_url": "https://ascii.jp/img/2026/10/29/4545760/s/5dd6eea0b7849083.jpg"
     },
     {
-      "title": "Granola crunches up a dictation feature to compete with Wispr",
-      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-      "summary": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa sh",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
       "lang": "en",
-      "published": "2026-10-29T17:54:38",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Granola.jpg?resize=1200,675"
+      "published": "2026-10-30T09:00:00"
     },
     {
-      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-      "summary": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-29T17:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798"
+      "title": "“でぶねこ”の重み公開　1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
+      "summary": "AI開発企業の仏Mistral AIは、AIモデル「Mistral Large 4」（通称Le Chonk）の重みをHugging Faceで公開した。コーディングやサイバーセキュリティ分野で高い性能を示すという。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-30T08:46:58",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/30/2000002762/10011028/2048",
+      "body_ja": "“でぶねこ”の重み公開 1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に（1/2 ページ）\nAI開発企業の仏Mistral AIは10月29日（現地時間）、AIモデル「Mistral Large 4」（通称Le Chonk、ぽっちゃりした猫の意味）の重みをHugging Faceで公開した。コーディングやサイバーセキュリティ分野で高い性能を示すという。商用利用もできるが、モデルそのものをサービスとして提供する場合は異なるライセンスが必要となる。\nMistral Large 4はマルチモーダル対応のAIモデルで、総パラメータ数は約1兆。「Mixture of Experts」を採用しており、入力に応じて約520億パラメータを動かす。日本語を含む160以上の言語に対応している。\nコーディング性能を測るベンチマーク「Artificial Analysis Coding Agent Index」では、中国Z.aiの「GLM-5.3」に匹敵するス"
     },
     {
-      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-29T16:42:32",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2022/09/nvidia-ceo-jensen-huang-with-geforce-rtx-4090.jpg?resize=1200,800"
+      "title": "Gemini Notebook、無料で数百冊の教科書にアクセス可能に　米国・インドの出版社提供　日本でも利用可",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/",
+      "summary": "Googleは、米国とインドのプロバイダーが提供する数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるようになったと発表した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-30T08:17:55",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/30/2000002760/10011027/2048",
+      "body_ja": "Share\nGemini Notebook、無料で数百冊の教科書にアクセス可能に 米国・インドの出版社提供 日本でも利用可\n                                公開\n                                    \n                            \n数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるように――米Googleは10月29日（現地時間）、このような新機能を発表した。ユーザーは米国とインドのプロバイダーが提供する教科書をGemini Notebookの「ソース」として追加できるようになる。ITmedia AI＋編集部の環境で確認したところ、日本からも利用できた。\n今回、Gemini Notebookでアクセスできるようになるのは、米国でオープンライセンスの教科書を出版するOpenStaxやOpen Textbook Library、インドの出版社S Chand Publishin"
     },
     {
-      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-29T16:21:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/TeamPhoto_1.png?resize=1200,675"
+      "title": "Geminiで生成したPDFやスライドを「チャット上で直接編集」可能に　個人プランとGoogle Workspaceで試してみた",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002757/",
+      "summary": "Geminiとのチャット内で直接、PDFやスライドなどを生成、プレビュー、編集できるようになった。ITmedia AI＋編集部の環境で同機能を試した結果をお届けする。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-30T06:31:36",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/30/2000002757/10011018/2048",
+      "body_ja": "Geminiで生成したPDFやスライドを「チャット上で直接編集」可能に 個人プランとGoogle Workspaceで試してみた（1/2 ページ）\nGeminiの中で直接、PDFやスライドなどを生成、プレビュー、編集できるように――米Googleは10月29日（現地時間）、AIチャット「Gemini」のこのような新機能を発表した。\nGoogleによると、Geminiとのチャット内で生成したPDFや「Googleドキュメント」「Googleスプレッドシート」、スライド、マークダウンファイル、テキストファイル、コードを、同画面上で直接プレビュー、編集できるようになったという。PDFのプレビューと編集はWeb版とモバイル版でサポートされるが、その他の形式についてはWeb版のみのサポートとなる。\nGoogleは、これらの機能は「Geminiが利用可能な全ての言語の全てのユーザー」が利用可能としている。\nPDFとスライドの生成・編集を試してみた\nITmedia AI＋編集部の環境（個人向け「Goo"
+    },
+    {
+      "title": "東京と台北を「17ミリ秒」で結ぶIOWN　アンリツCTOが語るデータセンター相互接続と日本の勝機",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/30/news038.html",
+      "summary": "アンリツ（神奈川県厚木市）の計測事業グループCTO（最高技術責任者）、ジョナサン・ボリル氏に日本の光通信技術が再び世界を制する可能性について聞いた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-30T03:30:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2610/30/cover_news038.jpg",
+      "body_ja": "約3000キロ離れた東京と台北が超高速光通信によってわずか「17ミリ秒」の遅れでつながる。一方、走行する車とクラウドが寸分のズレもなく呼吸を合わせ、交差点の死角がデジタルツインで把握する。こんな世界の実現にむけたカウントダウンが、ついに始まった。\n生成AIの広がりを受け、巨大データセンターの新設が進む中、次世代光通信技術「IOWN」の活用が新たにモビリティ分野へと踏み出した。IOWNを推進する国際組織「IOWN Global Forum」は10月にオランダのアムステルダムで年次中間会議を開き、電子空間上に自動車や歩行者などを再現するデジタルツイン技術「Edge Twin」（エッジツイン）を構築する計画を発表した。\nそうしたモビリティ・デジタルツインを実現するため、5G（第5世代通信システム）を自動車分野に活用しようとしている国際組織「5GAA」（5Gオートモーティブ・アソシエーション）や、コネクテッドカーの国際推進組織「AECC」（オートモーティブ・エッジ・コンピューティング・コンソーシ"
+    },
+    {
+      "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
+      "url": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
+      "summary": "イスラエルのテルアビブ大学に所属する研究者らが発表した論文「Watch and Crack: Password Inference from Smart-Glasses Video」は、スマートグラスで撮影された指の動きから、パスワードを解読する手法を実証した研究報告だ。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-30T03:00:00",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/30/2000002684/10010757/2048",
+      "body_ja": "Innovative Tech\nMeta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃\nInnovative Tech：\n2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2\nイスラエルのテルアビブ大学に所属する研究者らが発表した論文「Watch and Crack: Password Inference from Smart-Glasses Video」は、スマートグラスで撮影された指の動きから、パスワードを解読する手法を実証した研究報告だ。\nカフェなどの公共の場でスマートフォンにパスワードを入力する行為は、スマートグラスの普及によって脅威に晒されている。のぞき"
+    },
+    {
+      "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか　AIブームの実像、東京エレクトロン デバイス幹部が明かす",
+      "url": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
+      "summary": "AIブームの中、半導体の供給不足が叫ばれている。「データセンターに優先的に供給されている」という見方もあるが、東京エレクトロン デバイス幹部はそれを否定する。AIブームの実像とは。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-30T03:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2610/30/cover_news064.jpg",
+      "body_ja": "AI市場の拡大を受けてデータセンターの拡張、新設が世界各地で広がっている。巨額の投資マネーが半導体業界や周辺領域を潤す一方で、データセンター関連の旺盛な需要によって電子デバイス製品が不足しているという声もある。\n「AIサーバ、AIデータセンター向けに優先的に供給することは基本的にない」――こう断言したのは、半導体やIT機器の専門商社、東京エレクトロン デバイスの長谷川雅巳氏（コーポレートオフィサー 執行役員副社長 コーポレート営業統括 EC BU／BUGM）だ。\n同氏は10月29日、2027年3月期中間決算（4〜9月）の説明会で、半導体や電子デバイス製品の供給状況について説明。需要が高止まりしているこれら製品について、その流通を担う立場から見解を示した。\n東京エレクトロン デバイスは、半導体製造装置メーカーの東京エレクトロンから分社化した技術商社。半導体や電子デバイスの販売、自社製造を手掛ける「EC事業」と、ネットワークやセキュリティなどコンピュータシステム製品の販売、保守サービスを提供"
     },
     {
       "title": "The Download: AI agent tracking and climate feedback loops",
@@ -270,72 +354,6 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-10-29T10:00:00"
-    },
-    {
-      "title": "ChatGPTのPro・Businessプランで「API利用」可能に　月最大500ドル分",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002728/",
-      "summary": "米OpenAIは「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-29T08:46:39",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/29/2000002728/10010924/2048",
-      "body_ja": "Share\nChatGPTのPro・Businessプランで「API利用」可能に 月最大500ドル分（1/2 ページ）\n                                公開\n                                    \n                            \n米OpenAIは10月28日（現地時間）、「ChatGPT」のProおよびBusinessプランに、同社のAPIを利用できる特典を追加すると発表した。月最大500ドル分（約7万9000円、1ドル158円換算）の利用枠を付与する。無料プランとGo、Plus、Enterprise、Eduプランは対象外。\nPro（月額100ドル・200ドル・500ドル）の各プランは、1カ月ごとに月額と同等分。Businessプランは、1シートにつきスタンダードシートで月20ドル分、プレミアムシートで月100ドル分となる。ただし1ワークスペースの上限は月500ドル分。\n特典を受け取るには、Cha"
-    },
-    {
-      "title": "今、最も使われているプログラミング言語は？　AIコーディングでPython超えて急成長",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2610/29/2000002719/",
-      "summary": "Githubは年次レポート「GitHub Octoverse 2026」を公開。開発者が多いプログラミング言語のランキングが発表された。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-29T07:16:51",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2610/29/2000002719/10010896/2048",
-      "body_ja": "今、最も使われているプログラミング言語は？ AIコーディングでPython超えて急成長（1/2 ページ）\n最も急速に成長しているプログラミング言語は、最もAIと共に使われている言語――米Githubは10月28日（現地時間）に発表した年次レポート「GitHub Octoverse 2026」の中でこう述べ、「GitHub」で開発者が多いプログラミング言語のランキングを発表した。\nそれによると、「TypeScript」が年間を通してコントリビューター（開発プロジェクトに貢献したアカウント）の数で1位となり、2025年12月に「Python」を抜いて以降、首位を守っている。2位はPython、3位は「JavaScript」となっている。\nGitHubは、マージされたプルリクエストの内、AIの関与が検出されたものの割合においてTypeScriptが最も多かったとして、この言語の急成長にAIの利用が影響している可能性を示した。\nコード変更のプッシュ数は9月までの12カ月間で179億回となり、これ"
-    },
-    {
-      "title": "AIチャットが勧める広告商品、選択率が約3倍に　こっそり他商品けなし誘導　米研究者らが検証",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002680/",
-      "summary": "米プリンストン大学に所属する研究者らが4月に発表した論文「Commercial Persuasion in AI-Mediated Conversations」は、オンラインショッピングなどにおける対話型AIによる説得が消費者の選択をどれほど操作できるかを検証した研究報告だ。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-29T03:00:00",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002680/10010743/2048",
-      "body_ja": "ちょっと昔のInnovative Tech\nAIチャットが勧める広告商品、選択率が約3倍に こっそり他商品けなし誘導 米研究者らが検証\nちょっと昔のInnovative Tech：\n2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2\n米プリンストン大学に所属する研究者らが4月に発表した論文「Commercial Persuasion in AI-Mediated Conversations」は、オンラインショッピングなどにおける対話型AIによる説得が消費者の選択をどれほど操作できるかを検証した研究報告だ。\n実験では米国在住の2012人が、約55"
-    },
-    {
-      "title": "AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態",
-      "url": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
-      "summary": "独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設計された人材雇用マーケットプレース「RentAHuman」の求人情報を分析し、悪用されていないかを調査した研究報告だ。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-29T03:00:00",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/29/2000002679/10010739/2048",
-      "body_ja": "ちょっと昔のInnovative Tech\nAIが人間に“闇バイト”を発注？ AIが物理的労働を買う求人サイト「RentAHuman」の実態\nちょっと昔のInnovative Tech：\n2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2\n独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設"
-    },
-    {
-      "title": "「高度なAIスキル」だけではもう食えない？　IT人材が答えた「これからの必須スキル」",
-      "url": "https://kn.itmedia.co.jp/kn/article/2610/29/2000002688/",
-      "summary": "2027年度以降、IT国家試験の大幅な刷新が予定されている。企業のIT現場はこの変化をどう見ているのか。読者調査から、制度刷新への期待と懸念、資格取得意向の変化、AI・セキュリティなど今後重視されるスキルを探る。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-29T01:57:42",
-      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2610/29/2000002688/10010775/2048",
-      "body_ja": "IT資格の取得状況（2026年）／後編\n「高度なAIスキル」だけではもう食えない？ IT人材が答えた「これからの必須スキル」\n2027年度以降、IT国家試験の大幅な刷新が予定されている。企業のIT現場はこの変化をどう見ているのか。読者調査から、制度刷新への期待と懸念、資格取得意向の変化、AI・セキュリティなど今後重視されるスキルを探る。\n情報処理推進機構（IPA）は2026年6月30日、2027年度から開始を予定する新試験制度のシラバス案を公表した。情報処理技術者試験の区分の細分化に加え、試験方式や試験時間の変更など、大規模な見直しが予定されている。こうした制度刷新に対し、企業のIT現場ではどのような期待や懸念があるのだろうか。\nキーマンズネットが実施した企業読者への調査「IT資格の取得に関するアンケート」（実施期間：2026年10月2日～16日、回答件数：205件）から、制度刷新への期待と懸念、資格取得意向の変化、今後重視されるスキルを基に、企業ITの現場における資格の価値と役割を考え"
-    },
-    {
-      "title": "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
-      "url": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
-      "summary": "",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-29T01:12:13",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/28/2000002681/10010747/2048",
-      "body_ja": "Oracle CloudがGoogle TPU導入へ 2027年に提供を開始\nこの記事は新野淳一氏のブログ「Publickey」に掲載された「Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026」（2026年10月28日掲載）を、ITmedia NEWS編集部で一部編集し、転載したものです。\n米OracleはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しました。\nOracleは日本時間10月27日から米国ラスベガスで年次イベント「Oracle AI World 2026」を開催しています。\nOracle CloudへのGoogle TPU導入は、このイベントの基調講演で発表されました（下記スライドの右上に「Google TPUs」の表記が見"
     },
     {
       "title": "Creating AI value with enterprise context",
@@ -416,15 +434,6 @@
       "published": "2026-10-27T11:19:18"
     },
     {
-      "title": "How solid-state transformers could help power the AI boom",
-      "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world races",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-27T09:00:00"
-    },
-    {
       "title": "MCPとは？AIと業務ツールをつなぐ仕組みとAPIとの違いをわかりやすく解説",
       "url": "https://ainow.ai/2026/10/27/278481/?utm_source=rss&utm_medium=rss&utm_campaign=mcp%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259fai%25e3%2581%25a8%25e6%25a5%25ad%25e5%258b%2599%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab%25e3%2582%2592%25e3%2581%25a4%25e3%2581%25aa%25e3%2581%2590%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8api%25e3%2581%25a8%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584",
       "summary": "<p>&#12300;MCP&#23550;&#24540;&#12301;&#12392;&#12356;&#12358;&#35328;&#33865;&#12434;&#35211;&#12363;&#12369;&#12427;&#12418;&#12398;&#12398;&#12289;API&#12392;&#20309;&#12364;&#36949;&#12358;&#12398;&#12363;&#35500;&#26126;&#12391;&#12365;&#12394;&#12356;&#12290;&#26412;&#35352;&#20107;&#12391;&#1",
@@ -445,15 +454,6 @@
       "published": "2026-10-26T19:14:31",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-16.jpg",
       "body_ja": "AIエージェントを試したいものの、予算がなく無料でどこまで使えるのかわからない。本記事では、無料で使えるAIエージェント10選を、無料枠の上限と入力データの学習利用の扱いで比較し、業務で安全に検証する進め方まで解説します。\n上司から「AIエージェントを試してみて」と言われたものの、稟議の前で予算がない。無料と書かれたツールを試したら、クレジットがすぐ尽きて検証が止まった。このような経験を持つDX推進担当者は少なくないでしょう。\n無料のAIエージェントは、無料枠の仕組みがツールごとに大きく異なります。制限を知らずに使い始めると検証が途中で止まり、無料版に社内資料を入れて学習利用の問題を招くおそれもあります。\n本記事では、2026年10月時点で公式情報を確認した無料AIエージェント10選と、業務で試すときの注意点を中心に解説します。\n読み終えるころには、自分の業務に合う無料AIエージェントを1〜2個に絞り、無料枠の範囲で検証を始められる状態になっているはずです。\n無料のAIエージェントを比較"
-    },
-    {
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the compan",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-10-26T17:45:43"
     },
     {
       "title": "AIコーディングエージェントとは？主要10ツール比較と無料で始める選び方",
@@ -511,6 +511,6 @@
       "body_ja": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。\n「AIエージェントを自作して情報収集を自動化した」という投稿を見て、自分も作りたいと考えたことはないでしょうか。いざ調べると、Difyやn8n、Pythonなど選択肢が多すぎて手が止まりがちです。\n自作の成否は、自分のスキルに合う方法を選べるかで決まります。いきなりコードから始めると環境構築でつまずき、逆に指示文だけで済ませると定時実行のような自動化に手が届きません。\n本記事では、指示型・連携型・自律型の3段階に分けた自作方法と、「毎朝の業界ニュース要約エージェント」を各段階で作り比べる手順を中心に紹介します。\n読み終えるころには、自分が最初に作るエージェントと、その作り方が決まっています。まずは7つの方法の違いから確認していきましょう。\nAIエージェントを自作する方法は難易度別に7つ\nAI"
     }
   ],
-  "last_updated": "2026-10-30T10:31:13.481023+09:00",
+  "last_updated": "2026-10-31T10:24:25.073783+09:00",
   "count": 50
 }
