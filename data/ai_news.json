@@ -1,6 +1,157 @@
 {
   "articles": [
     {
+      "title": "印象が強い円形筐体を持つスピーカー「Beosoud A9」をフィーチャーした展示会に潜入",
+      "url": "https://ascii.jp/elem/000/004/447/4447547/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/31/4546448/s/2b40315882eb0c72.jpg\" width=\"60\" />Beosoud A9 Sienna Brownを中心に据えつつ、ギャラリー形式の新製品展示会「Rediscover Beosound A9」が、東京・広尾で10月27日に開催された。Beosound A9をキャンバスに見立てたアートプロジェクト「Art of the A9」の成果の一つとして、ソウルを拠点に活躍するアーティスト、ウ・クウォン氏の作品をプリントしたスペシ",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-01T00:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/31/4546448/s/2b40315882eb0c72.jpg"
+    },
+    {
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "url": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-10-31T23:31:07",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/01/2000002776/10011089/2048",
+      "body_ja": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明\n米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IETF（Internet Engineering Task Force）に提出したInternet-Draft（インターネット標準の草案）で提案されている。\nこれまでWebサイト運営者は、AI企業ごとにクローラーを識別し、それぞれに合わせてルールを書き分ける必要があった。新しい仕組みでは、Webサイトへのクローラーのアクセスを制御する「robots.txt」に共通のシグナルを記述することで、複数のAI企業に学習への利用を拒否または許可する意向を一括して"
+    },
+    {
+      "title": "最大20％ポイント還元！PayPay自治体キャンペーン 2026年11月開始分は岩手と群馬がアツい",
+      "url": "https://ascii.jp/elem/000/004/446/4446507/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/28/4544960/s/892db3987b682506.png\" width=\"60\" />PayPayのポイント還元率が大幅アップする「あなたのまちを応援プロジェクト」。この記事では2026年11月開始分の参加自治体をご紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T22:30:00",
+      "image_url": "https://ascii.jp/img/2026/10/28/4544960/s/892db3987b682506.png"
+    },
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-31T21:41:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024"
+    },
+    {
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-31T21:36:07",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800"
+    },
+    {
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-31T21:17:03",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800"
+    },
+    {
+      "title": "「未来」の現在：「永遠の化学物質」は消せるか？ PFAS除去の進捗",
+      "url": "https://ascii.jp/elem/000/004/447/4447549/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />フライパンのコーティングから泡消火剤まで使われてきたPFASは、がんや不妊リスクとの関連が指摘され、人の血液や南極の雪からも見つかっている。水から捕捉・分解する技術は着実に進んでいる。進捗度は10段階で6。ただ、大本の「蛇口」を閉めなければ、除去の努力は無駄になる。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T20:49:22",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-10-31T16:12:55",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024"
+    },
+    {
+      "title": "RTX 5070 Ti搭載PCが7万円オフ！ RTX 5080搭載モデルも値下げ、11月1日限定",
+      "url": "https://ascii.jp/elem/000/004/447/4447095/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546003/s/2482fab785689e57.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、11月1日限定で「2026/11/1 24時間限定セール」を開催する。最大86,000円オフのBTOパソコンセールとして、RTX 5080搭載モデルなど全10商品が対象となる。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/30/4546003/s/2482fab785689e57.png"
+    },
+    {
+      "title": "もはや“デスクトップ並み”に快適、ROG20周年のポータブルゲーミングPC「ROG Xbox Ally X20」",
+      "url": "https://ascii.jp/elem/000/004/445/4445700/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/26/4543594/s/ba36902b0eed7c1d.png\" width=\"60\" />「ROG Xbox Ally X20」は、ROGブランド誕生20周年を記念して作られたプレミアムなポータブルゲーミングPCです。ポータブル機の枠を軽々と飛び越え、デスクトップPCに迫る圧倒的なパフォーマンスと最高の操作性を実現。Windows 11搭載で、Xbox Game PassなどのPCゲームライブラリをどこへでも持ち運んで遊べちゃいます</p><br clea",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T13:20:00",
+      "image_url": "https://ascii.jp/img/2026/10/26/4543594/s/ba36902b0eed7c1d.png"
+    },
+    {
+      "title": "FMV直販に注目！ Core Ultra 5搭載14.0型モバイルノート「FMV WU2-L3」が23万円台！",
+      "url": "https://ascii.jp/elem/000/004/447/4447034/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545817/s/8a89b279e9b03f43.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T13:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/29/4545817/s/8a89b279e9b03f43.png"
+    },
+    {
+      "title": "16GB→32GBへの変更が9696円！ ドスパラのブラックフライデー先取りキャンペーンが熱い",
+      "url": "https://ascii.jp/elem/000/004/447/4447339/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546176/s/c1205eae805c10a0.jpg\" width=\"60\" />ドスパラでは現在、ブラックフライデー先取りキャンペーンを開催中。対象の新品パソコンで、16GBから32GBへのメモリ変更が9,696円、500GBから1TBへのSSD変更が19,696円など、指定カスタマイズを特別価格で利用できる。ゲーミングPCやクリエイター向けPC、スタンダードPCなどが対象となっている。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T12:30:00",
+      "image_url": "https://ascii.jp/img/2026/10/30/4546176/s/c1205eae805c10a0.jpg"
+    },
+    {
+      "title": "ファンなら絶対手に入れたい！ ゴジラ仕様のノートPCが、FMV直販で10%オフ！",
+      "url": "https://ascii.jp/elem/000/004/447/4447036/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545818/s/51cfe0f382521055.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T12:30:00",
+      "image_url": "https://ascii.jp/img/2026/10/29/4545818/s/51cfe0f382521055.png"
+    },
+    {
+      "title": "FMVの16.0型ノートPC「FMV WA3-K3」が、アウトレット価格で11万円台に！",
+      "url": "https://ascii.jp/elem/000/004/447/4447031/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545816/s/076922c2201979d0.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T12:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/29/4545816/s/076922c2201979d0.png"
+    },
+    {
+      "title": "「撮って出し」の立体感に唸る。α9 III×ソニーの「白レンズ」新超望遠でモータースポーツを追う",
+      "url": "https://ascii.jp/elem/000/004/447/4447474/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/31/4546364/s/d6ab997662ce8d27.jpg\" width=\"60\" />MotoGPでソニーの超望遠レンズ「FE 400mm F4.5 / 600mm F6.3 GM OSS」を実写レビュー。1kg未満の小型軽量設計により、手持ちでの超望遠撮影を現実のものにしています。逆光でもシャドウが潰れない圧倒的な解像力は、まさにプロ仕様のGマスターレンズです。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-10-31T11:00:00",
+      "image_url": "https://ascii.jp/img/2026/10/31/4546364/s/d6ab997662ce8d27.jpg"
+    },
+    {
       "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
       "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
@@ -20,26 +171,6 @@
       "published": "2026-10-31T00:00:00",
       "image_url": "https://image.itmedia.co.jp/enterprise/articles/2610/31/cover_news009.jpg",
       "body_ja": "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている。Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか。利用状況の可視化から予算の配分まで、3つの機能の中身とは。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\nAIにいくら使い、その結果、何ができるようになったのか――。AIにかかるコストが当初の予想を超えるケースが出てくる中で、費用対効果が厳しく問われる傾向は強まるばかりだ。\nAnthropicは2026年10月28日（現地時間）、企業向けプラン「Claude Enterprise」に3つの機能を追加し、一般提供を始めたと発表した。\nこの中には管理者が利用の実態を把握し、投資計画の判断材料を得るための機能も含まれている。\nAnthropicによると、多くの組織では既にメンバーがClaudeを生かした独自の使い方を見つけており、次の段階はそれを全てのチームに広げることだという。そのために、3"
-    },
-    {
-      "title": "これからの季節も足元ぽかぽか！ アイリスオーヤマの折りたたみデスクパネルヒーター",
-      "url": "https://ascii.jp/elem/000/004/447/4447407/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546263/s/e735c8595edc00be.jpg\" width=\"60\" />Amazon.co.jpでアイリスオーヤマの「パネルヒーター」が売れています。足元をじんわり温めてくれる冷え対策グッズが、7690円となります。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-31T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4546263/s/e735c8595edc00be.jpg"
-    },
-    {
-      "title": "この価格で冬の寒さ対策！ チャンピオンの暖かいボアフリースジャケットに注目",
-      "url": "https://ascii.jp/elem/000/004/447/4447388/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546227/s/db67f4e77963bd05.jpg\" width=\"60\" />Amazon.co.jpでチャンピオンのボアフリース「ジップフーデッドジャケット」がセール中です。メンズ向けのふわふわで軽いジャケットが、37％オフで買えます。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-31T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4546227/s/db67f4e77963bd05.jpg"
     },
     {
       "title": "Ollie, a privacy-focused AI assistant, is shutting down",
@@ -72,16 +203,6 @@
       "published": "2026-10-30T22:00:00",
       "image_url": "https://image.itmedia.co.jp/enterprise/articles/2610/31/cover_news008.jpg",
       "body_ja": "生成AIの活用は「試す」段階から「使い広げる」段階へ移り、AIエージェントも実運用が主流になった。一方で、企業規模による差は広がっている。INDUSTRIAL-Xの調査が示す、成果を分ける“技術以外の要因”とは。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\nAIの導入は進んだのに、「その結果得た成果は何か」という問いに明確に答えられない――。IT部門が直面しがちなこの課題を解消するヒントになりそうな調査結果が公開された。この調査について同社は、成果を左右するのはAIツールの良しあしではないと分析している。\nDXやAIの導入支援を手掛けるINDUSTRIAL-Xはこのほど、「AI/DX導入・活用実態調査2026」の結果を発表した。全国の企業就業者を対象にインターネットで調査し、1031人から有効回答を得た。\n生成AIを活用している企業（PoC・試験導入を含む）は全体の60.9％で、「全社的に活用」している企業は全体の26.7％と前年から7.7ポイント増えた。AIを活用して"
-    },
-    {
-      "title": "【日曜まで】肉ピザがほぼ半額！ 2205円→1129円　ピザハットの「肉の日」日曜まで開催中",
-      "url": "https://ascii.jp/elem/000/004/447/4447316/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545583/s/0f24f4be21e65190.jpg\" width=\"60\" />ピザハットは、期間限定の「肉の日キャンペーン」を11月1日まで開催中。肉系ハーフ＆ハーフピザを持ち帰り1129円から販売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T22:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/29/4545583/s/0f24f4be21e65190.jpg"
     },
     {
       "title": "Intel’s stock crashes, knocking $12B from government’s stake",
@@ -124,86 +245,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800"
     },
     {
-      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-30T17:47:12",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764"
-    },
-    {
-      "title": "Google’s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-30T17:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800"
-    },
-    {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-30T16:03:45",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800"
-    },
-    {
-      "title": "AMD Ryzen 9 9950X3D×RX 9070 XT搭載PCが10万7000円引き！ パソコンショップSEVENの10月31日限定セール",
-      "url": "https://ascii.jp/elem/000/004/447/4447094/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546000/s/2495847390c7e113.png\" width=\"60\" />パソコンショップSEVENを運営するセブンアールジャパンが、10月31日限定で最新ゲーミングPCやデスクトップPCを最大107,000円オフで販売する24時間限定セールを実施する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4546000/s/2495847390c7e113.png"
-    },
-    {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, ",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-10-30T14:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking-1.jpg?resize=1200,800"
-    },
-    {
-      "title": "10万円でお釣りがくる！ Core 5＋16GBメモリ搭載のLenovo「IdeaPad Slim 3」が21％オフの9万4800円",
-      "url": "https://ascii.jp/elem/000/004/444/4444327/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/20/4541140/s/fa51327bd1e94310.jpg\" width=\"60\" />Lenovoの15.3型ノートPC「IdeaPad Slim 3（83RR00BXJP）」がAmazonのタイムセール対象。過去価格99,800円から5％オフの94,800円で販売中。Core 5 320、16GBメモリ、512GB SSDを搭載し、15.3型WUXGA IPS液晶を採用。テンキー付き日本語キーボードや指紋認証も備え、10万円を切る価格でこれらの装備を",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T13:50:00",
-      "image_url": "https://ascii.jp/img/2026/10/20/4541140/s/fa51327bd1e94310.jpg"
-    },
-    {
-      "title": "直販サイトで23万円台！ Core Ultra 5搭載14.0型モバイルノート「FMV WU2-L3」",
-      "url": "https://ascii.jp/elem/000/004/447/4447033/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545817/s/8a89b279e9b03f43.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/29/4545817/s/8a89b279e9b03f43.png"
-    },
-    {
-      "title": "中身はハイエンド、姿はタブレット！ 64GBメモリー搭載のASUS「ROG Flow Z13」が5万円引き",
-      "url": "https://ascii.jp/elem/000/004/447/4447090/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4545951/s/442b2d79dd367700.jpg\" width=\"60\" />ASUSの13.4型ゲーミングPC「ROG Flow Z13（GZ302EA-AI916C64G）」がAmazonのタイムセール対象。参考価格509,800円から10％オフの459,800円で販売中。Ryzen AI MAX+ 395と64GBメモリーを搭載し、キーボードを取り外せばタブレットとしても使える。ハイエンドな構成ながら、ノートPCにもタブレットにもなる欲張",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T12:50:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4545951/s/442b2d79dd367700.jpg"
-    },
-    {
       "title": "キオクシア中間決算「過去最高」連呼　純利益2.2兆円、初の配当実施　AI需要で「成長さらに加速」",
       "url": "https://www.itmedia.co.jp/business/articles/2610/30/news090.html",
       "summary": "キオクシアHDは、2027年3月期の中間決算を発表した。純利益は2.2兆円。第2四半期の3カ月だけで前年通期の売り上げを上回った。好決算を受けて上場後初となる配当を実施する。",
@@ -215,26 +256,6 @@
       "body_ja": "「AI需要の拡大を背景に、成長がさらに加速している」「前年度1年間で上げた売り上げが、第2四半期だけで上がってきた」――半導体メモリ大手のキオクシアホールディングス（HD）の河村芳彦氏（副社長執行役員）は、2027年3月期第2四半期（7〜9月）の決算説明会でこう述べた。\n第2四半期の業績については「売上収益は過去最高ですね」「純利益も過去最高であります」と説明し「過去最高」という言葉を連呼。売上収益は約2兆4800億円（前年同期比453.2％増）、純利益は約1兆3486億円（同3136.8％増）で、直近3カ月で2026年3月通期業績を上回った。\n「ハイライトは、売上収益、営業利益など全て、2025年度の12カ月で計上した1年分を、7〜9月の3カ月で上回っている点だ。収益力が非常に高まっている」（河村氏）\n第1四半期（4〜6月）の業績も軒並み過去最高だった。中間決算（4〜9月）では、売上収益が約4兆2471億円、純利益は2兆1978億円だった。第3四半期（10〜12月）は、売上収益が2兆5"
     },
     {
-      "title": "ゴジラとコラボしたFMVノートPCが、直販サイトで10%オフに！",
-      "url": "https://ascii.jp/elem/000/004/447/4447035/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545818/s/51cfe0f382521055.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T12:30:00",
-      "image_url": "https://ascii.jp/img/2026/10/29/4545818/s/51cfe0f382521055.png"
-    },
-    {
-      "title": "なんと11万円台に！　FMVの16.0型ノートPC「FMV WA3-K3」がアウトレット価格",
-      "url": "https://ascii.jp/elem/000/004/447/4447030/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545816/s/076922c2201979d0.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T12:00:00",
-      "image_url": "https://ascii.jp/img/2026/10/29/4545816/s/076922c2201979d0.png"
-    },
-    {
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last dec",
@@ -242,16 +263,6 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-10-30T11:30:00"
-    },
-    {
-      "title": "重さは899g、メモリは32GB！ 軽さも中身も妥協しないASUS「Zenbook SORA」がAmazonタイムセールに",
-      "url": "https://ascii.jp/elem/000/004/446/4446959/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/29/4545760/s/5dd6eea0b7849083.jpg\" width=\"60\" />ASUSの14型ノートPC「Zenbook SORA（UX3407QA-PU32548GR）」がAmazonのタイムセール対象。参考価格264,800円から6％オフの249,800円で販売中。約899gの軽量ボディに32GBメモリを搭載し、動画再生時約15.8時間のバッテリー駆動にも対応。持ち歩きやすさを優先しても、メモリ容量は妥協したくない人にぴったりの構成だ。</",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-10-30T11:10:00",
-      "image_url": "https://ascii.jp/img/2026/10/29/4545760/s/5dd6eea0b7849083.jpg"
     },
     {
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
@@ -316,17 +327,6 @@
       "published": "2026-10-30T03:00:00",
       "image_url": "https://www.itmedia.co.jp/news/article/ogp/2610/30/2000002684/10010757/2048",
       "body_ja": "Innovative Tech\nMeta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃\nInnovative Tech：\n2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2\nイスラエルのテルアビブ大学に所属する研究者らが発表した論文「Watch and Crack: Password Inference from Smart-Glasses Video」は、スマートグラスで撮影された指の動きから、パスワードを解読する手法を実証した研究報告だ。\nカフェなどの公共の場でスマートフォンにパスワードを入力する行為は、スマートグラスの普及によって脅威に晒されている。のぞき"
-    },
-    {
-      "title": "なぜ「半導体の供給はデータセンター優先」に見えるのか　AIブームの実像、東京エレクトロン デバイス幹部が明かす",
-      "url": "https://www.itmedia.co.jp/business/articles/2610/30/news064.html",
-      "summary": "AIブームの中、半導体の供給不足が叫ばれている。「データセンターに優先的に供給されている」という見方もあるが、東京エレクトロン デバイス幹部はそれを否定する。AIブームの実像とは。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-10-30T03:00:00",
-      "image_url": "https://image.itmedia.co.jp/business/articles/2610/30/cover_news064.jpg",
-      "body_ja": "AI市場の拡大を受けてデータセンターの拡張、新設が世界各地で広がっている。巨額の投資マネーが半導体業界や周辺領域を潤す一方で、データセンター関連の旺盛な需要によって電子デバイス製品が不足しているという声もある。\n「AIサーバ、AIデータセンター向けに優先的に供給することは基本的にない」――こう断言したのは、半導体やIT機器の専門商社、東京エレクトロン デバイスの長谷川雅巳氏（コーポレートオフィサー 執行役員副社長 コーポレート営業統括 EC BU／BUGM）だ。\n同氏は10月29日、2027年3月期中間決算（4〜9月）の説明会で、半導体や電子デバイス製品の供給状況について説明。需要が高止まりしているこれら製品について、その流通を担う立場から見解を示した。\n東京エレクトロン デバイスは、半導体製造装置メーカーの東京エレクトロンから分社化した技術商社。半導体や電子デバイスの販売、自社製造を手掛ける「EC事業」と、ネットワークやセキュリティなどコンピュータシステム製品の販売、保守サービスを提供"
     },
     {
       "title": "The Download: AI agent tracking and climate feedback loops",
@@ -511,6 +511,6 @@
       "body_ja": "AIエージェントは、GeminiやClaudeの画面で指示文を登録するだけでも自作できます。本記事では、難易度別の7つの自作方法と、同じニュース要約エージェントを3通りの方法で作る手順を解説します。\n「AIエージェントを自作して情報収集を自動化した」という投稿を見て、自分も作りたいと考えたことはないでしょうか。いざ調べると、Difyやn8n、Pythonなど選択肢が多すぎて手が止まりがちです。\n自作の成否は、自分のスキルに合う方法を選べるかで決まります。いきなりコードから始めると環境構築でつまずき、逆に指示文だけで済ませると定時実行のような自動化に手が届きません。\n本記事では、指示型・連携型・自律型の3段階に分けた自作方法と、「毎朝の業界ニュース要約エージェント」を各段階で作り比べる手順を中心に紹介します。\n読み終えるころには、自分が最初に作るエージェントと、その作り方が決まっています。まずは7つの方法の違いから確認していきましょう。\nAIエージェントを自作する方法は難易度別に7つ\nAI"
     }
   ],
-  "last_updated": "2026-10-31T10:24:25.073783+09:00",
+  "last_updated": "2026-11-01T09:39:46.683468+09:00",
   "count": 50
 }
