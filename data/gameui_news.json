@@ -1,35 +1,394 @@
 {
   "articles": [
     {
-      "title": "Penguin Colony was made to 'put the games industry on notice'",
-      "url": "https://www.polygon.com/penguin-colony-interview-development/",
-      "summary": "Why the Xbox boycott and Palestinian crisis fuel Penguin Colony, a penguin adventure game set among Lovecraft's horrors.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-02T01:00:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/penguincolony.jpg"
-    },
-    {
-      "title": "8 Years Later, a Buffy Star's Obscure Thriller Is Waiting to Be Discovered on Free Streaming",
-      "url": "https://www.polygon.com/you-might-be-the-killer-free/",
-      "summary": "Remember, everyone, if you find a strange mask in the woods, don't put it on",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-02T01:00:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/mcdyomi_iz008.jpg"
-    },
-    {
-      "title": "Access Accepted第877回：AI革命にフルベットするEpic Gamesの新戦略とジレンマ",
-      "url": "https://www.4gamer.net/games/036/G003691/20261030033/",
-      "summary": "EpicGamesは生成AIを全面的に活用する「AIファースト」の開発体制へと舵を切っている。一方で，AIを用いた既存ゲームの無断複製問題なども浮上しており，著作権への対応も迫られている。EpicGamesが描く未来と，そのジレンマを追う。",
+      "title": "主人公だけでなく敵までもプレイヤーが操る。人形劇の舞台で戦うターン制パズル「The Lamb Chop Show」",
+      "url": "https://www.4gamer.net/games/055/G105509/20261102051/",
+      "summary": "サンフランシスコを拠点とするインディースタジオAbyssalBornStudioが，ターン制バトルとパズルを組み合わせた「TheLambChopShow」を開発している。バンコクで開催されたgamescomasiaxThailandGameShow2026の会場で，3DアーティストのIanLeung氏に話を聞いた。",
       "source": "4Gamer",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-11-02T00:00:00",
-      "image_url": "https://www.4gamer.net/games/036/G003691/20261030033/SS/006.jpg",
-      "body_ja": "Epic Gamesは生成AIを全面的に活用する「AIファースト」の開発体制へと舵を切っている。かつてメタバース構築を目指した「Epic 5.0」の次なる段階として，AIによるゲーム開発の変革を狙っているようだ。一方で，AIを用いた既存ゲームの無断複製問題なども浮上しており，著作権への対応も迫られている。Epic Gamesが描く未来と，そのジレンマを追う。\n“AIファースト”へ舵を切るEpic Games\nEpic Gamesのティム・スウィーニー（Tim Sweeney）CEOが，ゲーム開発における生成AIの利用に強気な姿勢を見せている。同氏は2026年10月23日，Steamが導入しているAI生成コンテンツの開示義務を批判。「将来的にはほとんどのゲーム制作でAIが使われるようになるため，特別な表示は不要だ」との考えを示した。\n本連載の「第771回：830人を解雇してまで次の段階に進むEpic Games」で紹介したとおり，大規模なリストラを断行した同社はエンジン開発やパブリッシング"
+      "published": "2026-11-03T03:00:00",
+      "image_url": "https://www.4gamer.net/games/055/G105509/20261102051/SS/008.jpg",
+      "body_ja": "「The Lamb Chop Show」は，サンフランシスコを拠点とするAbyssal Born Studioが開発中のターン制パズルゲームだ。gamescom asia x Thailand Game Show 2026の会場で，同スタジオの3DアーティストであるIan Leung氏に，ゲームの仕組みや開発チームの成り立ちを聞いた。\n物語は，優しい父親の声が読み聞かせる寝物語として始まる。魔法の鏡の中で冒険に出た幼い王女を主人公に，プレイヤーは語り手の声に沿ってパズルを解いていく。\nLeung氏は本作におけるプレイヤーの立場を，人形使い，あるいは劇場の主だと説明する。ショーを続けるには舞台全体を仕切る必要があり，主人公の王女だけでなく，彼女の敵まで自分で動かすことになるのだ。\n戦闘には，Leung氏が「独自のトークンシステム」と呼ぶ仕組みが採用されている。トークン（コイン）を使って攻撃や防御を選択し，戦闘とパズルを進めていく。\n舞台の上部には，剣や盾の絵が描かれた枠が並んでいる。王女と"
+    },
+    {
+      "title": "「Shadowverse: Worlds Beyond」と「ゴジラ」のミニコラボが決定。11月6日のメンテナンス後に開幕",
+      "url": "https://www.4gamer.net/games/760/G076035/20261102031/",
+      "summary": "Cygamesは本日（2026年11月3日），デジタルカードゲーム「Shadowverse:WorldsBeyond」と「ゴジラ」のミニコラボを，11月6日のメンテナンス後に開始すると発表した。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-03T03:00:00",
+      "image_url": "https://www.4gamer.net/games/760/G076035/20261102031/SS/001.jpg",
+      "body_ja": "本コラボでは，「ゴジラ」の描き下ろしイラストを使ったカードスタイルなどのアイテムが登場する。ゲーム公式Xでは予告映像も公開中だ。\nニュース\n「Shadowverse: Worlds Beyond」と「ゴジラ」のミニコラボが決定。11月6日のメンテナンス後に開幕\n- 関連タイトル： Shadowverse: Worlds Beyond\n- 関連タイトル： Shadowverse: Worlds Beyond\n- 関連タイトル： Shadowverse: Worlds Beyond\n- この記事のURL：\nキーワード\n（C） Cygames, Inc. TM & （C） TOHO"
+    },
+    {
+      "title": "「ゼルダの伝説」シリーズを溺愛するクラベの独断によるシリーズランキングTOP 10",
+      "url": "https://jp.ign.com/zelda/84510/top-10",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/zeldatwilightprincess-1280-1411493905240-9qkq_prmx.640.jpg\" vspace=\"5\" width=\"120\" />IGN USのランキングは納得いかなかったので\n<p>『ゼルダの伝説 時のオカリナ』の発売が2026年11月5日に迫っており、今年は「ゼルダの伝説」シリーズの40周年でもある。これを記念して、<a href=\"https://jp.ign.com/nin",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-11-03T02:30:33",
+      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/zeldatwilightprincess-1280-1411493905240-9qkq_prmx.jpg"
+    },
+    {
+      "title": "New Star Wars Book Reveals the Surprising '90s Inspiration for an Iconic New Character",
+      "url": "https://www.polygon.com/exclusive-look-the-art-of-the-mandalorian-and-grogu/",
+      "summary": "'The Art of Star Wars: The Mandalorian' by Phillip Szostak traces the film's evolution from beginning to end — with a shock reveal.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-03T00:47:17",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/mandalorian-grogu.jpg"
+    },
+    {
+      "title": "World of Warcraft Forever release time in your time zone",
+      "url": "https://www.polygon.com/world-of-warcraft-forever-wow-release-time-est-pst/",
+      "summary": "Here's what time World of Warcraft: Forever is set to launch in your time zone.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-02T23:01:17",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wow_forever_cinematic_still_10.jpeg"
+    },
+    {
+      "title": "「鳴潮」のVer3.8予告特別通信は11月6日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20261102037/",
+      "summary": "オープンワールドアクションRPG「鳴潮」のVer3.8予告特別通信が11月6日20：00から配信となる。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-02T23:00:00",
+      "image_url": "https://www.4gamer.net/games/421/G042182/20261102037/SS/003.jpg",
+      "body_ja": "ありとあらゆる発表/情報がオンラインで発信されるようになった昨今。情報の多さに，いつ，どこで目当ての番組が配信されるのか分からなくなることも多い。ゲーム関連の公式配信を中心に，見逃せない番組をピックアップしてお届けする連載「今週の公式配信番組」では，この1週間で予定されている番組情報を紹介する。\n今週の公式配信番組 ピックアップ\n・「リネージュ クラシック」の公式番組では，基本情報やクラスを紹介。最新情報も公開予定\n・新たな星5キャラクター「リリー」の情報が発表か？ 「鳴潮」Ver3.8予告特別通信\n・「アズールレーン」で開催されるテレビアニメ「2.5次元の誘惑」とのコラボを記念した番組\n「リネージュ クラシック」の公式番組では，基本情報やクラスを紹介。最新情報も公開予定\n2026年12月2日にプレオープンを迎えるPC向けMMORPG「リネージュ クラシック」。その公式番組「魔性のゲーム『リネージュ』」が11月4日20：00から配信予定だ。\n番組では，ゲームの基本情報やクラスを紹介するほ"
+    },
+    {
+      "title": "Nintendo Officially Comments on Zelda Remake's Divisive Graphics",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-art-style-link-zelda-puppets/",
+      "summary": "The Legend of Zelda: Ocarina of Time remake has a divisive graphical style. Nintendo explains the art direction behind the Switch 2 game.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-02T22:51:32",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/link-oot-remake.jpg"
+    },
+    {
+      "title": "Dead by Daylight Fans Are Uninstalling the Game in Protest",
+      "url": "https://www.polygon.com/dead-by-daylight-theburntpeanut-controversy-explained/",
+      "summary": "Behavior Interactive gifted Vtuber TheBurntPeanut all Dead by Daylight DLC, a controversial decision the community didn't take lightly.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-02T22:27:57",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dead-by-daylight-jason.jpg"
+    },
+    {
+      "title": "2024's Best Action Game Is (Mostly) Just as Good in Stunning Switch 2 Port",
+      "url": "https://www.polygon.com/stellar-blade-nintendo-switch-2-impressions/",
+      "summary": "Stellar Blade and its top-notch action have been ported to Nintendo Switch 2. It plays great, though in handheld mode its visuals falter at times.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-02T22:00:17",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/stellar-blade-nintendo-switch-2.jpg"
+    },
+    {
+      "title": "Daniel Craig's Taut 92-minute Thriller Is Blowing Up on Streaming",
+      "url": "https://www.polygon.com/daniel-craig-dream-house-streaming-success-hbo-max-november-2026/",
+      "summary": "Daniel Craig's forgotten psychological thriller is climbing HBO Max's charts, despite earning one of the worst Rotten Tomatoes scores of his career.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-02T21:23:51",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/dream-house-daniel-craig-1.jpg"
+    },
+    {
+      "title": "Jurassic Park Meets Outlast in Terrifying Steam Game Coming Next Week",
+      "url": "https://www.polygon.com/wilderdark-survival-horror-jurassic-park-steam-release/",
+      "summary": "Wilderdark, a survival horror game set on a dinosaur-infested island, is coming to Steam on Tuesday, Nov. 10.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-02T20:00:18",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/wilderdark-rec-header.jpg"
+    },
+    {
+      "title": "One of the GameCube’s Great Cult Classics Gets the Remaster It Deserves",
+      "url": "https://www.polygon.com/godzilla-destroy-all-monsters-melee-remastered-review/",
+      "summary": "Godzilla: Destroy All Monsters Remastered is a faithfully clumsy revival of a cult classic that's still a casual joy to play.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-02T19:31:18",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/godzilla-destroy-all-monsters-melee-city-destruction.jpg"
+    },
+    {
+      "title": "Hideo Kojima's Next Game Officially Gets New Teaser Image, Fans Already Hunting for Clues",
+      "url": "https://www.polygon.com/od-teaser-image-hideo-kojima-horror/",
+      "summary": "Kojima Productions released a new teaser image of OD for the studio's 10th anniversary exhibition.",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-02T19:30:27",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25152206/OD___TGA_2023_Teaser_Trailer____ESRB__4K_1_4_screenshot.jpg"
+    },
+    {
+      "title": "Toshihiro Nagoshi's post-Sega game studio, Nagoshi Studio, shuts down after NetEase funding cuts",
+      "url": "https://www.gamedeveloper.com/business/nagoshi-studio-toshihiro-nagoshi-s-game-development-studio-after-leaving-sega-closes-as-netease-cuts-its-funding",
+      "summary": "Founded in 2021, the studio was working on a game funded by NetEase announced just under a year ago, but the studio has reportedly collapsed.",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-11-02T19:15:00",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltad52dee3e8c29c8e/6ae8d5a4605218006443abe7/gangofdragonsteam.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "FF7 Remake and Rebirth Are Less than $8 Each on Nintendo Switch 2",
+      "url": "https://www.polygon.com/final-fantasy-7-remake-rebirth-switch-2-sale/",
+      "summary": "Square Enix's Nintendo eShop sale includes huge discounts for FF7 Remake and FF7 Rebirth on Switch 2, both of which are on sale for under $10 each",
+      "source": "Polygon",
+      "icon": "🕹",
+      "lang": "en",
+      "published": "2026-11-02T18:54:22",
+      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25331949/FINAL_FANTASY_VII_REBIRTH_20240304190955_1.jpg"
+    },
+    {
+      "title": "The number of game pages doubles on Itch.io as AI games flood the store",
+      "url": "https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-as-ai-clones-flood-the-store",
+      "summary": "The indie video game store that prides itself as an open marketplace is being deluged by game pages, doubling the usual number without a proportional increase in sales.",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-11-02T18:30:00",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt8e5eeb04d80d43e7/6ae8ce8d1b7efb35e8ec7357/itch.iorobots.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Halloween Showcase: Celebrating Our Artists",
+      "url": "https://80.lv/articles/halloween-showcase-celebrating-our-artists/",
+      "summary": "<p><span>Halloween may be over, but we still have a few treats to share!</span></p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T18:21:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42131/images/6ae8811905c3d/cover_800x800.jpg"
+    },
+    {
+      "title": "Zelda producer: Ocarina of Time remake helps junior staff learn classic insights",
+      "url": "https://www.gamedeveloper.com/production/zelda-producer-ocarina-of-time-remake-helps-junior-staff-learn-classic-insights",
+      "summary": "The latest The Legend of Zelda title remakes one of the series' most beloved games, which Eiji Aonuma chose to pursue to help junior staff think about the modern games differently.",
+      "source": "Game Developer",
+      "icon": "🎮",
+      "lang": "en",
+      "published": "2026-11-02T16:33:26",
+      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt6ce93ee9f28d1a85/6ae8b58f605218594c43ab90/zeldaootremake.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Free Affinity App For iPad Now Available",
+      "url": "https://80.lv/articles/free-affinity-app-for-ipad-now-available/",
+      "summary": "<p>You can design, edit photos, create page layouts, and even sketch on the go, all in the same file.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T16:13:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42138/images/6ae8b68c45daf/cover_800x800.jpg"
+    },
+    {
+      "title": "How Medium Rare Uses Pixel Art & Collages to Evoke Dread of Industrialized Cannibalism",
+      "url": "https://80.lv/articles/how-medium-rare-uses-pixel-art-collages-to-evoke-dread-of-industrialized-cannibalism/",
+      "summary": "<p>Payne Robinson, one of the developers of the <a href=\"https://store.steampowered.com/app/4909780/Medium_Rare/\" rel=\"noopener\" target=\"_blank\">Medium Rare</a> survival dungeon crawler, discussed how the team tries to evoke dread instead of horror, handles industrialized cannibalism without crossin",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T15:53:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42135/images/6ae8b40012dcb/cover_800x800.jpg"
+    },
+    {
+      "title": "Recreating Hiss Effect From Remedy's Control In Blender",
+      "url": "https://80.lv/articles/recreating-hiss-effect-from-remedy-s-control-in-blender/",
+      "summary": "<p>Learn from Volodymyr Kravchenko.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T15:09:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42136/images/6ae8a7b9e63a5/cover_800x800.jpg"
+    },
+    {
+      "title": "「農家は Replace() されました」の大型DLC「鉱夫はReplaceされました()_」が配信開始。スマホ版も同時に登場",
+      "url": "https://www.4gamer.net/games/952/G095288/20261102049/",
+      "summary": "Metarootは2026年11月3日，「農家はReplace()されました」の大型ダウンロードコンテンツ「鉱夫はReplaceされました()_」をSteamでリリースした。価格は1100円（税込）。また，スマホ版の配信もスタートした。こちらはゲーム本編とDLCをセットにしたものだ。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-02T15:00:00",
+      "image_url": "https://www.4gamer.net/games/952/G095288/20261102049/SS/001.jpg",
+      "body_ja": "Metarootは2026年11月3日，「農家は Replace() されました」（PC / Mac）の大型ダウンロードコンテンツ「鉱夫はReplaceされました()_」をSteamでリリースした。価格は1100円（税込）。\n「農家は Replace() されました」は，Pythonに似たプログラミング言語でドローンを制御し，作物の栽培から収穫までを全自動化するゲームだ。2025年10月にSteamでの配信がスタートしており，累計販売本数が100万本を超えるヒットを記録している。\n今回登場したDLCの舞台は地下世界だ。技術ツリーに新たなセクションが追加されたほか，石炭や水晶といった8種類の新たな地下資源も実装された。\nプレイヤーは，プログラミングで採掘ルートを最適化したり，色とりどりのキノコを仕分けたりと，さらに深みを増した自動化パズルと探検を満喫できるという。\nまた，スマートフォン版（iOS / Android）も同時リリースされた。アプリ本体は無料で，無料体験の終了後も続きをプレイす"
+    },
+    {
+      "title": "Claude Code Blocks Video Game Cloning & Some Reverse Engineering Tasks",
+      "url": "https://80.lv/articles/claude-code-blocks-video-game-cloning-some-reverse-engineering-tasks/",
+      "summary": "<p>A new rule stops the model from rebuilding specific existing games, but developers say it also blocks their own projects.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T13:36:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42134/images/6ae891c6a8b37/cover_800x800.jpg"
+    },
+    {
+      "title": "Pancake-Looking Manta Ray With Satisfying Jiggle Physics In Blender",
+      "url": "https://80.lv/articles/pancake-looking-manta-ray-with-satisfying-jiggle-physics-in-blender/",
+      "summary": "<p>What would you name it?</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T13:21:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42132/images/6ae88e5546c35/cover_800x800.jpg"
+    },
+    {
+      "title": "かしわぎつきこ氏原案の完全新作「フユウク」が2027年に発売へ。2097年のホッカイドーを少女とアンドロイドが旅する“ロードムービーADV”",
+      "url": "https://www.4gamer.net/games/055/G105512/20261102058/",
+      "summary": "ミュージックレインは本日（2026年11月2日），同社のクリエイティブブランド「Ray'nStudio」のインディーゲーム作品として，新作アドベンチャーゲーム「フユウク」を2027年に発売すると発表した。本作は，雪に覆われた2097年のホッカイドーを舞台とするロードムービーADVだ。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-02T13:05:56",
+      "image_url": "https://www.4gamer.net/games/055/G105512/20261102058/SS/001.jpg",
+      "body_ja": "ミュージックレインは本日（2026年11月2日），同社のクリエイティブブランド「Ray'n Studio」のインディーゲーム作品として，新作アドベンチャーゲーム「フユウク」を2027年に発売すると発表した。\n本作は，雪に覆われた“2097年のホッカイドー”を舞台とするロードムービーアドベンチャーだ。ほとんど何も残っていない大地を旅する少女とアンドロイドの，失われた記憶や約束をめぐる物語が描かれる。\n| オトメ カリン |  | \n|---|---|\n| ホッカイドーで時を待っていた英雄少女……？ とある理由で，永く深い眠りについていた少女。 親友の妹であるツキシロ トマに発見され， 彼女の姉を探して共に旅をすることになる。 好きなもの： おいしいもの，かわいいもの，たのしいこと |  | \n| ツキシロ サキナ |  | \n|---|---|\n| 約束のためにホッカイドーを踏破する少女……？ オトメ カリンを探して旅をしていた少女。 彼女の目的は彼女を探し出し，姉のところに連れて行くこと"
+    },
+    {
+      "title": "宇宙から届いた謎のメッセージの解読に挑むSFパズルゲーム「Message From Aliens」，配信開始",
+      "url": "https://www.4gamer.net/games/055/G105510/20261102057/",
+      "summary": "ArtlessGamesは本日（2026年11月2日），新作タイトル「MessageFromAliens」をリリースした。本作は，2058年の未来を舞台に，エイリアンの言語を解読していくSFパズルゲームだ。プレイヤーは宇宙から届いたメッセージを読み解くべく，大量の謎めいたシンボルと向き合うことになる。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-02T12:37:55",
+      "image_url": "https://www.4gamer.net/games/055/G105510/20261102057/SS/001.jpg",
+      "body_ja": "Artless Gamesは本日（2026年11月2日），新作タイトル「Message From Aliens」をリリースした。価格は1050円（税込）。\n本作は，2058年の未来を舞台に，エイリアンの言語を解読していくSFパズルゲームだ。プレイヤーは宇宙から届いたメッセージを読み解くべく，大量の謎めいたシンボルと向き合うことになる。\nエイリアンの言語は1000字以上の表意文字で構成されており，ゲーム内のテキストは2万字を超えているという。エンディングにたどり着くためにすべてを翻訳する必要はないが，より多くの文章を解読することで，より多くのコンテンツや秘密に触れられるそうだ。\nゲーム序盤をプレイできるデモ版も配信されている。データは製品版に引き継げるそうなので，興味がある人はまずそちらをプレイしてみよう。"
+    },
+    {
+      "title": "ついに登場したAndroid XRデバイス「XREAL AURA」を体験。Google製アプリは使いやすいが，それ以外のアプリはまだ課題も",
+      "url": "https://www.4gamer.net/games/740/G074096/20261102056/",
+      "summary": "2026年11月2日，XREALは，AndroidXR対応のXRHMD「XREALAURA」の一般向け予約受付を開始した。国内での発売は11月27日14時の予定だ。税込価格は，メインメモリ容量12GB，内蔵ストレージ容量256GBモデルが22万9800円。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-02T12:22:54",
+      "image_url": "https://www.4gamer.net/games/740/G074096/20261102056/SS/012.jpg",
+      "body_ja": "2026年11月2日，XREALは，Android XR対応のXRヘッドマウントディスプレイ（以下，HMD）「XREAL AURA」の一般向け予約受付を開始した。国内での発売は11月27日14時の予定だ。\n価格は，メインメモリ容量12GB，内蔵ストレージ容量256GBモデルが22万9800円（税込，以下同），メインメモリ容量16GB，内蔵ストレージ容量512GBモデルが26万9800円。\n全額前払いの一般予約で注文した場合，2万9900円のキャッシュバックを受けられるので，256GBモデルなら19万9900円で購入できる。\nまた同時に，純正のXREAL AURA用Bluetoothキーボード「XREAL ワイヤレスキーボード」（1万2980円）と，Bluetoothゲームパッド「XREAL ゲームコントローラー」（1万8890円）の予約受付も開始している。\nこれらをXREAL AURAとセットにしたバンドルモデルもラインナップしている。\n| XREAL ワイヤレスキーボード（左）と，XR"
+    },
+    {
+      "title": "Explore a Decaying Megastructure & Photograph Strange Plants in This Free Surreal Game",
+      "url": "https://80.lv/articles/explore-a-decaying-megastructure-photograph-strange-plants-in-this-free-surreal-game/",
+      "summary": "<p>HELENA: Cloud District is a surreal adventure where you explore a giant megastructure without a jump button.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T12:12:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42130/images/6ae87e339d299/cover_800x800.jpg"
+    },
+    {
+      "title": "「龍スタTV」，11月6日配信の第55回では「STRANGER THAN HEAVEN」を彩る音楽を特集",
+      "url": "https://www.4gamer.net/games/865/G086590/20261102055/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-02T11:58:59",
+      "image_url": "https://www.4gamer.net/games/865/G086590/20261102055/SS/001.jpg",
+      "body_ja": "| STRANGER THAN HEAVEN STRANGER THAN HEAVEN STRANGER THAN HEAVEN |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/11/02 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n「龍スタTV」第55回が11月6日（金）に配信決定\n■【新映像公開！】『STRANGER THAN HEAVEN』を彩る音の世界【龍スタTV #55】\nYouTube：https://youtube.com/live/5p27K-hVYMs\nニコニコ生放送：https://live.nicovideo.jp/watch/lv351694927\n株式会社セガは、「龍が如く」シリーズを手掛ける「RGGスタジオ」の最新情報をお伝えする番組「龍スタTV」の第55回を、2026年11月6日（金）20:00よりYouTube Live、ニコニコ生放送にて配信することを決定しました。\n「RGGスタジオ」の開発者や関係者が参加し、開"
+    },
+    {
+      "title": "「ソニックレーシング クロスワールド」，猫又おかゆと戌神ころねによる実況配信を11月4日に開催",
+      "url": "https://www.4gamer.net/games/882/G088214/20261102054/",
+      "summary": "",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-02T11:53:13",
+      "image_url": "https://www.4gamer.net/games/882/G088214/20261102054/SS/001.jpg",
+      "body_ja": "| ソニックレーシング クロスワールド ソニックレーシング クロスワールド Nintendo Switch 2 Edition ソニックレーシング クロスワールド ソニックレーシング クロスワールド ソニックレーシング クロスワールド ソニックレーシング クロスワールド ソニックレーシング クロスワールド |  |  |  | \n| 配信元 | セガ | 配信日 | 2026/11/02 | \n＜以下，メーカー発表文の内容をそのまま掲載しています＞\n11月4日（水）19時より猫又おかゆさん、戌神ころねさんによる実況配信が決定！\n同日より配信の大型アップデート「シーズン 2」をいち早くプレイ\n株式会社セガは、2026年11月4日（水）19時より、ホロライブ所属のVTuber・猫又おかゆさん、戌神ころねさんによる『ソニックレーシング クロスワールド』の実況配信を実施することをお知らせいたします。\n本配信では、同日より配信開始となる大型アップデート「シーズン2」の配信に合わせて、新ゲームモード"
+    },
+    {
+      "title": "「マーベル闘魂」，DLC第1弾を実装するアプデを配信。オンライン対戦環境の改善や，アシスト頻度を抑えるシステム調整も同時に実施",
+      "url": "https://www.4gamer.net/games/916/G091618/20261102052/",
+      "summary": "ソニー・インタラクティブエンタテインメントは本日（2026年11月2日），対戦格闘ゲーム「MARVELT&#333;kon:FightingSouls」に，新キャラクター「フェニックス・サイクロップス」を追加する大型アップデートを配信した。今回は，これまで問題となっていたオンライン対戦環境の改善や，共通システムの調整なども行われている。",
+      "source": "4Gamer",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-02T11:50:47",
+      "image_url": "https://www.4gamer.net/games/916/G091618/20261102052/SS/001.jpg",
+      "body_ja": "ソニー・インタラクティブエンタテインメントは本日（2026年11月2日），対戦格闘ゲーム「MARVEL Tōkon: Fighting Souls」（PS5 / PC）に，新キャラクター「フェニックス・サイクロップス」を追加する大型アップデートを配信した。\n「フェニックス・サイクロップス」は，X-Menのリーダーとして知られるサイクロップスが「フェニックス・フォース」を得た姿だ。キャラクターと同時に，専用楽曲や各モードの関連コンテンツ，追加DLCコスチュームも実装されている。キャラクターの特徴や技性能については，先日掲載した記事をチェックしてほしい。\n「マーベル闘魂」，DLC第1弾「フェニックス・サイクロップス」ガイド動画を公開。オプティック・ブラストとフェニックスの火力で敵を焼き尽くせ！\nソニー・インタラクティブエンタテインメントは本日（2026年10月31日），対戦格闘ゲーム「MARVEL Tōkon: Fighting Souls」で，11月2日にリリース予定のDLCキャラクター第"
+    },
+    {
+      "title": "Valve's Portal Prequel Resurfaces Online After Nearly Two Decades",
+      "url": "https://80.lv/articles/valve-s-portal-prequel-resurfaces-online-after-nearly-two-decades/",
+      "summary": "<p>Yes, it's fully playable.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T10:17:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42129/images/6ae863308c3f8/cover_800x800.jpg"
+    },
+    {
+      "title": "Doom & Quake Co-Creator John Romero Says His Shooter Has a New Publisher",
+      "url": "https://80.lv/articles/doom-quake-co-creator-john-romero-says-his-shooter-has-a-new-publisher/",
+      "summary": "<p>The studio kept the rights to its earlier work and is using much of it in a redesigned game, now in development with a team of about 15 people.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T10:14:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42128/images/6ae86285089f2/cover_800x800.jpeg"
+    },
+    {
+      "title": "Unity Invites Developers to Its 2026 Game Jam",
+      "url": "https://80.lv/articles/unity-invites-developers-to-its-2026-game-jam/",
+      "summary": "<p>Join the week-long online challenge and compete for Unity Choice Awards.</p>",
+      "source": "80 Level",
+      "icon": "🔥",
+      "lang": "en",
+      "published": "2026-11-02T08:00:00",
+      "image_url": "https://cdn.80.lv/api/upload/post/42127/images/6ae8432cba474/cover_800x800.jpg"
+    },
+    {
+      "title": "『女神異聞録ペルソナ』のリメイク映像がネット上に流出か",
+      "url": "https://jp.ign.com/persona/84539/",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/news/p/persona-1-/persona-1-remake-footage-seemingly-leaks-online_4xch.640.jpg\" vspace=\"5\" width=\"120\" />「もしも私が悪魔でも、好きと言ってくれますか？」\n<p>正式発表されていない<a href=\"https://jp.ign.com/persona\">『女神異聞録ペルソナ』</a>のリメイク版と思われるゲームプレイ映像が、ネット上に流出した。</p> ",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-11-02T05:08:32",
+      "image_url": "https://sm.ign.com/ign_jp/news/p/persona-1-/persona-1-remake-footage-seemingly-leaks-online_4xch.jpg"
+    },
+    {
+      "title": "Persona 4 Revival Release Date Trailer Xbox Games Showcase 2026 - Screenshots",
+      "url": "https://jp.ign.com/persona-4-revival/84540/persona-4-revival-release-date-trailer-xbox-games-showcase-2026-screenshots",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/gallery/p/persona-4-/persona-4-revival-release-date-trailer-xbox-games-showcase-2_w9j3.640.jpg\" vspace=\"5\" width=\"120\" />",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-11-02T05:08:02",
+      "image_url": "https://sm.ign.com/ign_jp/gallery/p/persona-4-/persona-4-revival-release-date-trailer-xbox-games-showcase-2_w9j3.jpg"
+    },
+    {
+      "title": "『時のオカリナ』リメイク版へのファンの反応に、青沼プロデューサーが「不安」を吐露",
+      "url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time-1/84538/",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/cover/t/the-legend/the-legend-of-zelda-ocarina-of-time_h2pq.640.jpg\" vspace=\"5\" width=\"120\" />プレイするのが待ちきれない！\n<p>任天堂で長年にわたり「ゼルダの伝説」シリーズのプロデューサーを務める青沼英二は、1998年の金字塔『ゼルダの伝説 時のオカリナ』の待望となるリメイク版の発売を控え、準備を進めている。これほど多くの年月を重ね、数々の「ゼルダ」作品を手がけて",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-11-02T04:31:24",
+      "image_url": "https://sm.ign.com/ign_jp/cover/t/the-legend/the-legend-of-zelda-ocarina-of-time_h2pq.jpg"
+    },
+    {
+      "title": "『ファイアーエムブレム 万紫千紅』レビュー、これは「ファイアーエムブレム」の満漢全席！",
+      "url": "https://jp.ign.com/fire-emblem-fortunes-weave/84535/",
+      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/photo/default/screenshot-19824-1789531647050_vyu7.640.jpg\" vspace=\"5\" width=\"120\" />シリーズの可能性を過剰なまでに追求した、巨大でいびつな集大成\n<p>『ファイアーエムブレム 万紫千紅』は、これまでのシリーズが培ってきた要素をあますところなく取り入れた、いわば「ファイアーエムブレム」の満漢全席とでもいうべき集大成である。</p> <p>手強いマップを攻略するシミュレーションR",
+      "source": "IGN Japan",
+      "icon": "⚔️",
+      "lang": "ja",
+      "published": "2026-11-02T04:15:09",
+      "image_url": "https://sm.ign.com/ign_jp/photo/default/screenshot-19824-1789531647050_vyu7.jpg"
     },
     {
       "title": "「ゼルダの伝説」オールタイムベスト10",
@@ -42,174 +401,6 @@
       "image_url": "https://sm.ign.com/ign_jp/lists/t/the-10-bes/the-10-best-legend-of-zelda-games-of-all-time_qfx5.jpg"
     },
     {
-      "title": "【今週のモチベ】リメイク版「ゼルダの伝説 時のオカリナ」が発売される 2026年11月2日〜11月8日",
-      "url": "https://www.4gamer.net/games/954/G095479/20261031009/",
-      "summary": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，NintendoSwitch2向けにフルリメイクされた「ゼルダの伝説時のオカリナ」や，「ArcheAge」の約50年後の世界を描く「ArcheAgeChronicles」が発売される。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-01T23:00:00",
-      "image_url": "https://www.4gamer.net/games/954/G095479/20261031009/SS/002.jpg",
-      "body_ja": "今週も月曜日がやってきた。我々ゲーマーにとって，期待の新作が発売される週ほどワクワクするものはないわけだが，今週は何が発売されるかを抜かりなくキチンと把握している人は，どれくらいいるのだろうか。週刊連載「今週のモチベ」では，「え？あれって今週発売だったの!?」となりがちな人のために，今週発売される期待のタイトルをおさらいしていこう。\nゼルダの伝説 時のオカリナ\n| 発売日：2026年11月5日（木） ストア：My Nintendo Store 価格：7980円 予約特典：オリジナルデジタル壁紙（デジタル） / 『ゼルダの伝説 時のオカリナ』や「ゼルダの伝説40周年」のビジュアルを使用した特製グッズ（パッケージ） |  | \n|---|---|\n1998年にNINTENDO 64で発売された「ゼルダの伝説 時のオカリナ」を，Nintendo Switch 2向けにフルリメイクしたアクションアドベンチャー。コキリの森で育った少年リンクが，妖精ナビィとともにガノンドロフの野望に立ち向かう。シリ"
-    },
-    {
-      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年10月26日〜11月1日",
-      "url": "https://www.4gamer.net/games/040/G004099/20261101010/",
-      "summary": "2026年10月26日〜11月1日，4Gamerに掲載された記事は315本でした。タイのバンコクで開催されたゲームイベント「gamescomasiaxThailandGameShow2026」の現地レポートなど，調子に乗ってたくさんの記事を掲載した4Gamerと世界のゲーム業界の1週間を振り返りましょう。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-01T22:00:00",
-      "image_url": "https://www.4gamer.net/games/040/G004099/20261101010/SS/036.jpg",
-      "body_ja": "富士山の初冠雪が確認された2026年10月26日〜11月1日，4Gamerに掲載された記事は315本でした。海王星の先に新たな天体が存在するらしいことが発表されて，天文ファンの話題になっています。謎の惑星は，地球と太陽の平均距離の46倍の距離にある軌道を公転していて，サイズ的に「準惑星」に分類される可能性が高いのだとか。そういえば2005年ごろに「第10の惑星発見」みたいな話がニュースになった記憶がありますが，それとは別件なんですかね。深宇宙に比べて身近な雰囲気のある太陽系ですが，まだまだいろんな発見があるようで，宇宙ヤバい。\n| 主人公レトラの魅力がバクハツする，ローグライト3Dアクション「夢幻桜楼閣」。電猫遊戯のほーせんか氏が語る，本作に込めた思いとは［プレイレポ］ | \n|---|\nさて，先週の10月29日，タイ・バンコクのコンベンションセンター，Queen Sirikit National Convention Centerでゲームイベント「gamescom asia x Tha"
-    },
-    {
-      "title": "5 Classic Nintendo Games That Are So Good They Never Need a Remake",
-      "url": "https://www.polygon.com/classic-nintendo-games-no-remake-needed/",
-      "summary": "Remakes and remasters are all the rage, but five classics from Nintendo are good enough that no one ever needs to bother trying to improve them.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-01T21:00:17",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/mario-sports.jpg"
-    },
-    {
-      "title": "How to get the Pirate Shop Access Token in Fortnite Chapter 7 mini season",
-      "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-shop-access-token-free-how-to-get/",
-      "summary": "The Pirate Shop Access Token lets you get anything for free in Fortnite Chapter 7 mini season. Here's how to get it and what you can buy.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-01T20:18:04",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/treasure-chest_fn.jpg"
-    },
-    {
-      "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-      "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations/",
-      "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-01T20:11:49",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg"
-    },
-    {
-      "title": "Pokémon Go 'Halloween 2026 Part 2' event guide",
-      "url": "https://www.polygon.com/pokemon-go-halloween-2026-part-2-event-shiny-greavard/",
-      "summary": "Here's all the bonuses and perks for Pokémon Go's \"Halloween 2026 Part 2\" event, which includes the debut of shiny Greavard.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-01T19:09:33",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/unnamed.png"
-    },
-    {
-      "title": "All map and weapon loot pool changes in the Fortnite Chapter 7 mini season",
-      "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-map-weapons-loot-pool-poi/",
-      "summary": "The Fortnite Chapter 7 mini season, \"Treasure Hunters,\" completely changes the map. Here's everything different in the new season.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-01T18:55:45",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/fortnite-treasure-hunters-key-art_en.jpg"
-    },
-    {
-      "title": "All sprites in the Fortnite Chapter 7 mini season",
-      "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities/",
-      "summary": "Here's a list of the currently available sprite in Fortnite's Chapter 7 \"Treasure Hunters\" mini season, along with what they do.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-01T18:51:48",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_sprites.jpg"
-    },
-    {
-      "title": "All battle pass skins in the Fortnite Chapter 7 mini season",
-      "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-battle-pass-skins-outfits/",
-      "summary": "Here's a look at all of the Fortnite Chapter 7 mini season's battle pass skins, and the various styles they come in.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-01T18:47:50",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/hvuc5u1amaatzos.jpg"
-    },
-    {
-      "title": "Fable Is Ditching the One Feature That Made Fable 3 An Instant Classic",
-      "url": "https://www.polygon.com/fable-reboot-no-co-op/",
-      "summary": "Playground Games' Fable reboot will be a purely single-player game, ditching an important part of what made the originals so great.",
-      "source": "Polygon",
-      "icon": "🕹",
-      "lang": "en",
-      "published": "2026-11-01T18:00:02",
-      "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/assets_2026_08_1787724859_fable_gamescom2026_officialquestgameplay_screenshot_bowerstone_4k_nologo.png"
-    },
-    {
-      "title": "十数年ぶりにインディーへ“帰還”したグラスホッパー・マニファクチュア。須田剛一氏が語る独立の経緯とゲーム作りの考え，“面白いこと”への意欲",
-      "url": "https://www.4gamer.net/games/916/G091623/20261027003/",
-      "summary": "グラスホッパー・マニファクチュアが再独立。“インディーゲーム”という言葉が使われる前から独自性のあるゲームを送り出してきた同スタジオは，十数年ぶりの独立で何を目指すのだろうか。代表の須田剛一氏に話を聞いた。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-01T15:00:00",
-      "image_url": "https://www.4gamer.net/games/916/G091623/20261027003/SS/028.jpg",
-      "body_ja": "2026年10月1日，グラスホッパー・マニファクチュア（以下，GhM）がNetEase Gamesからの独立を発表した。\nGhMといえば，今の“インディーゲーム”という言葉が広く使われる以前から，独自の作家性を持ったゲームを送り出してきたスタジオだ。代表の須田剛一氏が「GhMはバンド」と表現することもあるように，さまざまなパブリッシャと組みながらも，スタジオとしての個性を大切にしてきた。\nそんな“アーリーインディー”なGhMが，十数年ぶりに独立系スタジオへと戻った――今回の独立によって何が変わるのだろうか。ゲーム作りの自由度だけでなく，会社として取り組める仕事の幅も広がるのか。そして，再びインディペンデントな立場となったGhMは，これからどんなゲームを作り，どんな活動を展開していくのか。こうした話を聞きに須田氏のもとを訪ねた。\n須田剛一氏率いるグラスホッパー・マニファクチュアがNetEase Gamesの傘下から独立。今後も機会があれば相互に協力へ\n須田剛一氏が率いるグラスホッパー・マニ"
-    },
-    {
-      "title": "ケンカシーンを流せば視聴率は上がるが練習生の心は折れる。アイドル番組を裏から仕切る「The Last Debut」",
-      "url": "https://www.4gamer.net/games/999/G999901/20261101009/",
-      "summary": "タイのGAMEINDYがパブリッシングを手がける「TheLastDebut」は，アイドルのサバイバルオーディション番組を舞台にしたPC向けゲームだ。プレイヤーは歌も踊りも担当せず，番組の総責任者としてカメラを切り替え，5人の練習生をデビューへ導く。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-01T06:23:56",
-      "image_url": "https://www.4gamer.net/games/999/G999901/20261101009/SS/005.jpg",
-      "body_ja": "「The Last Debut」は，タイのアイドルサバイバル番組を裏方として仕切るゲームだ。バンコクで開かれていたイベント「gamescom asia x Thailand Game Show 2026」会場の「Thai Pavilion」に本作を出展していたパブリッシャGAMEINDYのNichaphat Direkwattanachai氏に話を聞いた。\n開発はDebuzが手がけ，GAMEINDYが販売を担当する。GAMEINDYは開発者やゲームデザイナー，マーケティングや管理の担当者を含めて約70人の会社で，Direkwattanachai氏はビジネスチームに所属しているという。\nプレイヤーが就くのは，ショーランナー（番組制作の総責任者）という立場だ。会場で配られていたチラシにも「You Are Not the Idol. You Are the Showrunner.」と大きく書かれていた。\n舞台はYINDYレーベルが次のT-POP（タイのポップス）グループを探すオーディション番組"
-    },
-    {
-      "title": "ムエタイのリングもあったタイのゲームショウ。「gamescom asia x Thailand Game Show 2026」会場フォトレポート",
-      "url": "https://www.4gamer.net/games/991/G999110/20261101008/",
-      "summary": "タイ・バンコクのQueenSirikitNationalConventionCenterで2026年10月29日から11月1日まで開催された「gamescomasiaxThailandGameShow2026」の会場を歩き回った。日本のパブリッシャの大型ブースから，タイのインディーゲームや食品メーカーのガチャまで写真で紹介したい。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-01T05:32:22",
-      "image_url": "https://www.4gamer.net/games/991/G999110/20261101008/SS/002.jpg",
-      "body_ja": "2026年10月29日から11月1日まで，タイ・バンコクのQueen Sirikit National Convention Centerで「gamescom asia x Thailand Game Show 2026」が開催された。一般来場者向けのエンターテイメントエリアは10月30日に開場し，Hall 1から4までの4ホールが，試遊の列と，買い物袋を提げた来場者でいっぱいになっていた。\ngamescom asiaは，Koelnmesse（ケルンメッセ）とgame（ドイツゲーム産業協会）が開くgamescomのアジア版で，2021年にシンガポールで始まったイベントだ。2007年から続くタイのゲームイベント，Thailand Game Showと2025年に統合して会場をバンコクへ移し，今回は統合後2回目の開催となる。\n前回は4日間で20万6159人が来場し，出展者数は294にのぼったという。今回は会場面積が2割ほど広がって3万5000平方メートルを超え，出展者の国と地域も過去最多の2"
-    },
-    {
-      "title": "山田涼介さんが初心者目線で魅力を届ける「FFXIV」公式レポーターに就任！ 新CM制作の発表やゲーマーっぷりが語られたステージレポート",
-      "url": "https://www.4gamer.net/games/199/G019924/20261101006/",
-      "summary": "千葉・幕張メッセで開催中の「ファイナルファンタジーXIVファンフェスティバル2026in東京」の1日目，基調講演が終わったあとのステージに，スペシャルゲストとしてタレント・俳優の山田涼介さんが登壇し，FFXIV公式レポーターに就任したことが発表された。その模様をお届けしよう。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-01T05:07:38",
-      "image_url": "https://www.4gamer.net/games/199/G019924/20261101006/SS/006.jpg",
-      "body_ja": "千葉・幕張メッセで開催中の「ファイナルファンタジーXIV ファンフェスティバル 2026 in 東京」の1日目（2026年10月31日），基調講演が終わったあとのステージで，スペシャルゲストとしてタレント・俳優の山田涼介さんが登壇。2027年2月23日（アーリーアクセスは2月19日）に発売される次期拡張パッケージ「白銀のワンダラー」を盛り上げる「ファイナルファンタジーXIV 公式レポーター」に就任したことが発表された。\nステージに迎えられた山田さんは，「ファンの皆さんにお集まりいただいているなか，すごく心苦しいことを正直に言うと，まだ僕は『FFXIV』をプレイしたことがないんです」と率直に告白。そのうえで，「これから新しく皆様の仲間になる冒険者の方々の目線で，この『FFXIV』をたくさんの方に知っていただければと思いますので，頑張ります！」と力強く意気込みを語った。\nプロデューサー兼ディレクターの吉田直樹氏も，今回山田さんへ公式レポーターを依頼した最大の理由について，「『FFXIV』を知"
-    },
-    {
-      "title": "「池ハロ2026」，コスプレイヤーに彩られた秋の池袋。豪華ゲストのセレモニーや「NTE」「鳴潮」「Delta Force」のブース，パレードをパシャリ",
-      "url": "https://www.4gamer.net/games/817/G081722/20261101004/",
-      "summary": "「池袋ハロウィンコスプレフェス2026Poweredbydwango」が10月30日から11月1日まで開催された。「NTE」「鳴潮」「DeltaForce」のブースや，約400人のコスプレイヤーが練り歩いたパレードなど，会場の様子をレポートする。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-01T04:10:38",
-      "image_url": "https://www.4gamer.net/games/817/G081722/20261101004/SS/036.jpg",
-      "body_ja": "2026年10月30日から11月1日まで，池袋駅東口エリアで「池袋ハロウィンコスプレフェス2026 Powered by dwango」が開催されている。\n今年は「名場面は，キミから生まれる。」をキャッチコピーに数多くのコスプレイヤーが集った。また，「NTE: Neverness to Everness」がゴールド協賛として参加。ゲーム関連ではほかにも，2年連続となる「鳴潮」や，初出展の「Delta Force」がブースを構えた。\n| 「NTE」ブース | \n| 「鳴潮」ブース | \n| 「Delta Force」ブース | \n池袋ハロウィンコスプレフェス，通称「池ハロ」は2014年から池袋駅東口エリアで開催されているイベントで，今年で13年目を迎えた。\n昨年は3日間で16万1000人が来場するほどの盛り上がりを見せたが，今回はちょうどハロウィン当日を含む日程での開催となった。\n筆者が取材に向かったのは10月31日。当日は気持ちのいい晴天……というか，10月末とは思えないくらい本当に日差"
-    },
-    {
-      "title": "自然言語でゲームを作れるRobloxのAIツールの利用状況などが語られた講演レポート",
-      "url": "https://www.4gamer.net/games/612/G061218/20261101007/",
-      "summary": "タイ・バンコクで開催中の「gamescomasiaxThailandGameShow2026」で，RobloxのZhenFang氏による講演「TheNextGenerationWon'tJustPlayGames」が行われた。テキストで指示するだけでゲームを作れる「Build」や，クリエイターの収益の受け取り方を変える「RobloxWallet」などが紹介された。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-01T04:08:53",
-      "image_url": "https://www.4gamer.net/games/612/G061218/20261101007/SS/002.jpg",
-      "body_ja": "| 直近の四半期にRobloxで遊ばれた時間は340億時間 | \n|---|\nタイ・バンコクのQueen Sirikit National Convention Centerで開催中のイベント「gamescom asia x Thailand Game Show 2026」。2日目となる2026年10月30日，「Roblox」（PC / PS5 / Xbox Series X|S / PS4 / Xbox One / Meta Quest / iOS / Android）でインターナショナル担当バイスプレジデントを務めるZhen Fang氏が講演「The Next Generation Won't Just Play Games」を行った。Fang氏はアメリカを拠点にしながら1年の多くをアジアで過ごしているという。\n講演はRobloxで遊ばれているゲームを紹介する映像から始まった。2026年9月30日までの四半期に，世界のプレイヤーがRobloxで過ごした時間は340億時間に達したそうだ"
-    },
-    {
       "title": "『STRANGER THAN HEAVEN』には戦闘を簡単にする任意の「チート」衣装が登場！",
       "url": "https://jp.ign.com/project-century-rgg/84534/stranger-than-heaven",
       "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/gallery/s/stranger-t/stranger-than-heaven-xbox-presents-showcase-images_wqk1.640.jpg\" vspace=\"5\" width=\"120\" />アクション苦手でもなんとかなる\n<p>「龍が如く」シリーズの開発元であるRGGスタジオが手掛ける新作『STRANGER THAN HEAVEN』には、難易度が高いとされる、新しい戦闘システムをより遊びやすくするための、任意で使用できる補助ア",
@@ -218,17 +409,6 @@
       "lang": "ja",
       "published": "2026-11-01T03:11:52",
       "image_url": "https://sm.ign.com/ign_jp/gallery/s/stranger-t/stranger-than-heaven-xbox-presents-showcase-images_wqk1.jpg"
-    },
-    {
-      "title": "アメリカ人コンテンツクリエイターがタイの森で迷い，夜ごとの怪異に襲われる。サバイバルホラー「The Twilight Project」の話を聞く",
-      "url": "https://www.4gamer.net/games/054/G105473/20261101005/",
-      "summary": "タイのバンコクで開催されている「gamescomasiaxThailandGameShow2026」会場で，TeapotStudioが開発中のサバイバルホラー「TheTwilightProject」のデモをプレイした。昼は村を探索して夜に備え，夜は異界から現れる怪物の襲撃をしのぐという三人称視点のゲームだ。",
-      "source": "4Gamer",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-01T02:41:23",
-      "image_url": "https://www.4gamer.net/games/054/G105473/20261101005/SS/008.jpg",
-      "body_ja": "「The Twilight Project」は，タイの民間伝承をもとにした三人称視点のサバイバルホラーだ。\n2026年10月29日，開催中のイベント「gamescom asia x Thailand Game Show 2026」のタイパビリオン「Thai Playvilion」に出展していたデベロッパTeapot StudioのNayos Mungkalodom氏に話を聞いた。\n対応プラットフォームはPC（Steam）で，ストアページはすでに公開されている。発売日は未定だが，Mungkalodom氏によれば2028年ごろを目指しているとのことだった。\n主人公は，タイを訪れたアメリカ人コンテンツクリエイターだ。いわゆるYouTuberで，旅の途中で森に迷い込み，外の世界から切り離された謎の村に閉じ込められてしまう。\nSteamのストアページでは主人公を単に「旅行者」と紹介しているのだが，会場では，はっきりとYouTuberという設定が語られた。\n村には呪われた村人のほか，タイの民間伝承や"
     },
     {
       "title": "『Phantom Blade Zero』が解消した、高難度ゲームにおけるボス戦最大の不満「ヘタクソ税」とは",
@@ -251,36 +431,6 @@
       "image_url": "https://sm.ign.com/ign_jp/screenshot/default/01_7vux.jpg"
     },
     {
-      "title": "This New Retro Fantasy Indie RPG Channels Dark Souls and King's Field",
-      "url": "https://80.lv/articles/this-new-retro-fantasy-indie-rpg-channels-dark-souls-and-king-s-field/",
-      "summary": "<p>This new retro fantasy RPG blends King’s Field-style first-person exploration with Dark Souls-inspired combat, more than 50 weapons, 100 enemies, hidden secrets, and an unusual flying sword.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-31T00:13:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42125/images/6ae532b808a76/cover_800x800.jpg"
-    },
-    {
-      "title": "New Halloween Game Put Original Michael Myers Actor in a Mocap Suit",
-      "url": "https://80.lv/articles/new-halloween-game-put-original-michael-myers-actor-in-a-mocap-suit/",
-      "summary": "<p>IllFonic CCO Jared Gerritzen discusses recreating 1978 Haddonfield, capturing Nick Castle’s original Michael Myers movements, using UE5 lighting, and building reactive NPC systems for Halloween: The Game.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-30T21:03:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42123/images/6ae5060c8848c/cover_800x800.jpg"
-    },
-    {
-      "title": "GAOMON PD1561 V2: Affordable Entry-Level 16-Inch Pen Display",
-      "url": "https://80.lv/articles/gaomon-pd1561-v2-affordable-entry-level-16-inch-pen-display/",
-      "summary": "<p>Is it really \"the wisest way to start\"?</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-30T19:22:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42077/images/6ae4ef60e4b97/cover_800x800.jpg"
-    },
-    {
       "title": "Anthropic orders AI tool Claude to stop remaking video games",
       "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
       "summary": "Update: Anthropic has confirmed it's released an update to Opus 5.5 to &quot;steer&quot; Claude Code away from &quot;recreating someone else's specific game.&quot;",
@@ -299,36 +449,6 @@
       "lang": "en",
       "published": "2026-10-30T18:30:00",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2b056c274c017acb/689362ff4c8a423e5710e8e5/robloxx.jpeg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Inside Six Very Different Indie Games Supporting a Shared Cause",
-      "url": "https://80.lv/articles/inside-six-very-different-indie-games-supporting-a-shared-cause/",
-      "summary": "<p>The teams behind GigaBash, HELLCARD, Gordian Quest, Winion Virus, Monstrum, and UNYIELDER discuss the creative ideas and development decisions that shaped their games.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-30T17:20:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42070/images/6adfacdb3a959/cover_800x800.jpg"
-    },
-    {
-      "title": "Hideo Kojima & Billie Eilish Make Voice Cameos In My Chemical Romance's Animated Short",
-      "url": "https://80.lv/articles/hideo-kojima-billie-eilish-make-voice-cameos-in-my-chemical-romance-s-animated-short/",
-      "summary": "<p>A collaboration straight out of a fever dream.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-30T17:08:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42121/images/6ae4cf1a914bf/cover_800x800.jpg"
-    },
-    {
-      "title": "You Can Now Play The Mortuary Assistant Dev's Canceled Paranormal Activity Game For Free",
-      "url": "https://80.lv/articles/you-can-now-play-the-mortuary-assistant-dev-s-canceled-paranormal-activity-game-for-free/",
-      "summary": "<p>The next P.T. might have just arrived.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-30T15:53:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42120/images/6ae4bd5e0445f/cover_800x800.jpg"
     },
     {
       "title": "John Romero's canceled game finds a new publisher amidst an overall scope change",
@@ -351,36 +471,6 @@
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2a7d98b6e3d980b9/6ae4b35420628a0c3467cb2d/starwarsbattlefrontII.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Sculpting & Texturing a Semi-Realistic Lobo Bust with ZBrush & Substance 3D",
-      "url": "https://80.lv/articles/sculpting-texturing-a-semi-realistic-lobo-bust-with-zbrush-substance-3d/",
-      "summary": "<p>Eric Liu showed his process of creating a semi-realistic version of DC's antihero Lobo, from sculpting in ZBrush to texturing in Substance 3D Painter and lighting in Marmoset Toolbag.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-30T14:47:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42096/images/6ae2e4cc0a2b6/cover_800x800.jpg"
-    },
-    {
-      "title": "Fun Morning Routine Animation Reference For Sony's GOAT Movie",
-      "url": "https://80.lv/articles/fun-morning-routine-animation-reference-for-sony-s-goat-movie/",
-      "summary": "<p>Daniel Ceballos is back with another gem.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-30T14:24:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42119/images/6ae4a88bcd09e/cover_800x800.jpg"
-    },
-    {
-      "title": "Diablo-Style PvP by Former Blizzard CCO Is Coming to Early Access in November",
-      "url": "https://80.lv/articles/diablo-style-pvp-by-former-blizzard-cco-is-coming-to-early-access-in-november/",
-      "summary": "<p>Arkheron is Bonfire Studios' first game.</p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-30T14:12:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42118/images/6ae4a7bbe0bfe/cover_800x800.jpg"
-    },
-    {
       "title": "GDC Side Quest - An anti-cheat primer with Lucia Suarez",
       "url": "https://www.gamedeveloper.com/programming/gdc-side-quest-an-anti-cheat-primer-with-lucia-suarez",
       "summary": "How do you begin to understand the mind of a cheater?",
@@ -391,16 +481,6 @@
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt2fcd5a46fa8f774d/6ae4a250fd7d52608c112aac/catandmouse.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "FromSoftware Delays Its Vampire RPG The Duskbloods to 2027",
-      "url": "https://80.lv/articles/fromsoftware-delays-the-duskbloods-to-2027/",
-      "summary": "<p>The Bloodborne spiritual successor for Nintendo Switch 2 is in its final adjustment stage, but it won't launch this year.</p>\n<p></p>",
-      "source": "80 Level",
-      "icon": "🔥",
-      "lang": "en",
-      "published": "2026-10-30T12:55:00",
-      "image_url": "https://cdn.80.lv/api/upload/post/42117/images/6ae493d400936/cover_800x800.jpg"
-    },
-    {
       "title": "ロジクールGの安価なエントリー向け有線ゲーミングマウス「G203」がAmazonにて15%オフでセール中",
       "url": "https://jp.ign.com/gaming-device/84516/gg203amazon15",
       "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/1_62yn.640.png\" vspace=\"5\" width=\"120\" />名機G100sを継承した扱いやすいクラシック左右対称デザイン\n<p>ロジクールGの有線ゲーミングマウス「G203」がAmazonにて15%オフでセール中だ。カラーは以下の2種類。</p> <ul> <li><a href=\"https://www.amazon.co.jp/dp/B087BTXHX4?tag=zdintlignjp-22&a",
@@ -409,46 +489,6 @@
       "lang": "ja",
       "published": "2026-10-30T09:32:36",
       "image_url": "https://sm.ign.com/ign_jp/screenshot/default/1_62yn.png"
-    },
-    {
-      "title": "『グランド・セフト・オート』の象徴的ビジュアルはいかにして確立されたか――元ロックスターのアーティスト、スティーブン・ブリスが語る",
-      "url": "https://jp.ign.com/grand-theft-auto-vi/84526/",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/interview/g/grand-thef/grand-theft-auto-artist-stephen-bliss-explains-how-he-define_zgbd.640.jpg\" vspace=\"5\" width=\"120\" />「あの伝統が今も息づいていることには、胸を打たれるものがある」\n<p>スティーブン・ブリスという名前に、すぐには聞き覚えがないかもしれない。だが、現代において最も大きな影響力を持つゲームシリーズで彼が手がけた仕事を目",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-10-30T05:57:30",
-      "image_url": "https://sm.ign.com/ign_jp/interview/g/grand-thef/grand-theft-auto-artist-stephen-bliss-explains-how-he-define_zgbd.jpg"
-    },
-    {
-      "title": "Bethesdaの「The Elder Scrolls VI」、サブタイトルは「Sentinel」と報道 「Skyrim」15周年に合わせて来月発表の可能性も",
-      "url": "https://jp.ign.com/the-elder-scrolls-vi-1/84520/bethesdathe-elder-scrolls-visentinel-skyrim15",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/news/t/the-elder-/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-sto_yb13.640.jpg\" vspace=\"5\" width=\"120\" />XBOXの25周年に合わせて発表される可能性も指摘されている\n<p>新たな報道によると、「The Elder Scrolls」シリーズの次回作は『The Elder Scrolls VI: Sentinel』と題され、ストーリ",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-10-30T03:38:59",
-      "image_url": "https://sm.ign.com/ign_jp/news/t/the-elder-/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-sto_yb13.jpg"
-    },
-    {
-      "title": "フロム・ソフトウェアのSwitch 2専用タイトル『The Duskbloods』、2027年に発売延期",
-      "url": "https://jp.ign.com/the-duskbloods/84519/switch-2the-duskbloods2027",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/news/f/fromsoftwa/fromsoftwares-nintendo-switch-2-exclusive-the-duskbloods-off_qg97.640.jpg\" vspace=\"5\" width=\"120\" />フィードバックを受けて、ゲームルールやバランスの最終調整の期間を設けるため\n<p>フロム・ソフトウェアは『The Duskbloods』の発売を2027年に延期すると発表した。同作はNintendo Switch 2専用タイト",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-10-30T02:29:13",
-      "image_url": "https://sm.ign.com/ign_jp/news/f/fromsoftwa/fromsoftwares-nintendo-switch-2-exclusive-the-duskbloods-off_qg97.jpg"
-    },
-    {
-      "title": "The Elder Scrolls 6 Reveal Could Be As Early As Next Month - IGN Daily Fix",
-      "url": "https://jp.ign.com/the-elder-scrolls-vi-1/84521/the-elder-scrolls-6-reveal-could-be-as-early-as-next-month-ign-daily-fix",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/video/t/the-elder-/the-elder-scrolls-6-reveal-could-be-as-early-as-next-month-i_enn4.640.jpg\" vspace=\"5\" width=\"120\" />In today&#x27;s Daily Fix:Some leaked info surrounding The Elder Scrolls 6 has popped up again, and The Verge is",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-10-30T00:31:51",
-      "image_url": "https://sm.ign.com/ign_jp/video/t/the-elder-/the-elder-scrolls-6-reveal-could-be-as-early-as-next-month-i_enn4.jpg"
     },
     {
       "title": "Donald Glover to direct, star in Netflix adaptation of PUBG Battlegrounds",
@@ -469,48 +509,8 @@
       "lang": "en",
       "published": "2026-10-29T17:35:37",
       "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blte6f842aafbaf99f9/68137fe0c742f41d22d5f313/xbox_consoles.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "LGの34インチウルトラワイドモニター「34SR63QA-W」がAmazonにて24%オフでセール中",
-      "url": "https://jp.ign.com/gaming-device/84511/lg3434sr63qa-wamazon24",
-      "summary": "<img align=\"left\" alt=\"\" hspace=\"5\" src=\"https://sm.ign.com/t/ign_jp/screenshot/default/1_yynv.640.jpg\" vspace=\"5\" width=\"120\" />34インチの21:9ウルトラワイド画面で作業領域を拡大\n<p><a href=\"https://www.amazon.co.jp/dp/B0F6CZX2RC?tag=zdintlignjp-22&amp;ascsubtag=c%7C84511\" rel=\"noopener\" target=\"_blank\">LGの34インチウルトラワイドモニ",
-      "source": "IGN Japan",
-      "icon": "⚔️",
-      "lang": "ja",
-      "published": "2026-10-29T09:33:49",
-      "image_url": "https://sm.ign.com/ign_jp/screenshot/default/1_yynv.jpg"
-    },
-    {
-      "title": "Epic VP says AI code tools have stomped out decade-old 'non-deterministic cooking bugs' in Unreal Engine",
-      "url": "https://www.gamedeveloper.com/programming/unreal-engine-will-be-developed-with-ai-code-confirms-epic",
-      "summary": "After an AI-first pivot, Epic has confirmed that AI is shaping the Unreal Engine in the near future.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-10-28T16:28:55",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt7995cdd00f8872de/682c4d0d08576d0f8460d2f7/Vader_Fortnite.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Roblox confirms no adult content used in AI training after scraping Open3DLab data",
-      "url": "https://www.gamedeveloper.com/business/roblox-confirms-no-adult-content-used-in-ai-training-after-scraping-open3dlab-data",
-      "summary": "Roblox says an AI agent failed to operate 'as intended' when it mass-downloaded adult content from Open3DLab, Smutlab, and SFMLab.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-10-28T15:45:59",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt05086ee04717e6e7/6ae2082619e29ebc009130b6/robloxphonefeatured.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Valve weighs in on Next Fest AI cloning phenomenon",
-      "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
-      "summary": "The worrying trend of games on Steam getting quick clones for the same storefront has been acknowledged by store owner Valve — and the onus placed on developers to prevent it themselves.",
-      "source": "Game Developer",
-      "icon": "🎮",
-      "lang": "en",
-      "published": "2026-10-28T14:42:21",
-      "image_url": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt34133feb31dcd927/673b2a059175ed6eb9c1da89/Steam_Header.png?width=720&quality=80&disable=upscale"
     }
   ],
-  "last_updated": "2026-11-02T10:13:47.738961+09:00",
+  "last_updated": "2026-11-03T12:17:40.962149+09:00",
   "count": 50
 }
