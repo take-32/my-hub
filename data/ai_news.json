@@ -1,44 +1,145 @@
 {
   "articles": [
     {
-      "title": "DVDドライブ、まだ付いてます！ Ryzen 5に16GBメモリ、Officeも備えた富士通の15.6型ノートPCが13万4700円",
-      "url": "https://ascii.jp/elem/000/004/449/4449075/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/06/4548482/s/a857001bd70184b1.jpg\" width=\"60\" />富士通の15.6型ノートPC「FMV WA1-L1」がAmazonスマイルSALE対象。参考価格149,800円から10％オフの134,700円で販売中。Ryzen 5 5625Uと16GBメモリ、512GB SSDを搭載し、DVDスーパーマルチドライブやOfficeも備える。DVDドライブを内蔵したノートPCが欲しい人には、気になる選択肢だ。</p><br clea",
-      "source": "ASCII AI",
-      "icon": "📡",
+      "title": "【図解あり】マルチエージェント設計「15のパターン」　GitHub、Google、Siemensの知見を一気に整理",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+      "summary": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-11-07T01:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/06/4548482/s/a857001bd70184b1.jpg"
+      "published": "2026-11-07T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2611/08/cover_news001.jpg",
+      "body_ja": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nAIエージェントを活用する動きが一般化しています。開発現場でも、生成AIに実装を任せるAIコーディングにとどまらず、開発ライフサイクルの各工程を複数のAIエージェントに委ね、タスクを並行させるマルチエージェントのAI駆動開発へと開発手法が進化しつつあります。\nそうした中で課題となるのが、マルチエージェントシステムをいかに設計するかです。本稿ではGitHubやGoogle、Siemensが公開した知見を基に、マルチエージェントシステムの設計に役立つ15のデザインパターンとマルチエージェントの信頼性を高める6つの基本原則を紹介します。\nGitHubは2026年2月24日（米国時間、以下"
     },
     {
-      "title": "登場モンスターは500種以上！ 発売1ヵ月前の『ドラゴンクエストモンスターズ４』Switch 2版が14％オフ",
-      "url": "https://ascii.jp/elem/000/004/449/4449391/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/06/4548868/s/325ec2ebaa21742a.jpg\" width=\"60\" />Amazon.co.jpにて、スクウェア・エニックスが12月3日に発売する「ドラゴンクエストモンスターズ４　枯れ木の国のビアンカ・フローラ」が予約受付中です。いまならなんと14％オフでお買い得！</p><br clear=\"left\" />",
+      "title": "ショート動画屋さん、飲食店向けPOS・予約システムの成果報酬型SNS動画広告の企画シートを公開へ",
+      "url": "https://ascii.jp/elem/000/004/449/4449543/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />ショート動画屋さん、飲食店向けPOS・予約システムの成果報酬型SNS動画広告の企画シートを公開へ</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-11-07T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/06/4548868/s/325ec2ebaa21742a.jpg"
+      "published": "2026-11-07T23:00:00",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
     },
     {
-      "title": "Amazonを騙るフィッシング詐欺だけで3万件超！ 報告件数も増えて9万4661件に",
-      "url": "https://ascii.jp/elem/000/004/447/4447998/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/03/4547262/s/ae485bd7c9e132e4.png\" width=\"60\" />フィッシング対策協議会が発表した、2026年9月分の「フィッシング報告状況」によれば、「報告件数」は前月から1万2323件増加して、9万4661件でした（約15.0％増）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-07T00:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/03/4547262/s/ae485bd7c9e132e4.png"
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-07T22:07:22",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765"
     },
     {
-      "title": "ファーウェイ、8000円台で高性能ノイキャン＆LDAC対応＆80時間バッテリーのイヤホン「HUAWEI FreeBuds SE 5 MAX」発売",
-      "url": "https://ascii.jp/elem/000/004/449/4449490/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/07/4549073/s/53489cb321a29dd2.jpg\" width=\"60\" />ファーウェイ・ジャパンは、ケース込みで最大80時間の長時間バッテリーが特長の完全ワイヤレスイヤホン「HUAWEI FreeBuds SE 5 MAX」を発表した。価格は8580円。</p><br clear=\"left\" />",
+      "title": "「悪事は割に合わない」をAIにも、逆ゲーム理論で探る安全対策",
+      "url": "https://ascii.jp/elem/000/004/449/4449539/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />ケーキを切る人と先に選ぶ人を分ければ、切る側は均等に切ろうとする。こうした仕組みを設計する「逆ゲーム理論」を、AIの安全対策に応用する研究が出てきた。AIの内部が分からなくても、ルールを守るほうが得になる仕組みを作ればよいという発想だ。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-11-06T23:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/07/4549073/s/53489cb321a29dd2.jpg"
+      "published": "2026-11-07T21:43:28",
+      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
+    },
+    {
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-07T21:17:08",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "title": "ERPC、Solana Stream SDK v4.0.0を公開。UDP Shreds処理とgRPC再接続を高速化",
+      "url": "https://ascii.jp/elem/000/004/449/4449544/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />ERPC、Solana Stream SDK v4.0.0を公開。UDP Shreds処理とgRPC再接続を高速化</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-07T17:59:06",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "RTX 5080搭載PCが7万2000円引き！ パソコンショップSEVEN、11月8日限定セール",
+      "url": "https://ascii.jp/elem/000/004/448/4448584/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/05/4547962/s/3d71c510d86745fc.png\" width=\"60\" />パソコンショップSEVENが11月8日、全10商品を対象に24時間限定セールを開催。Ryzen 9 9950X3DとRTX 5080搭載PCが7万2000円引き、RTX 5070搭載PCが4万8000円引きに。対象モデルの構成や価格を紹介する。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-07T15:00:00",
+      "image_url": "https://ascii.jp/img/2026/11/05/4547962/s/3d71c510d86745fc.png"
+    },
+    {
+      "title": "RTX 5060 Ti＆水冷搭載のGALLERIA、メモリ32GB化が9696円！ ドスパラのブラックフライデー先取りキャンペーン",
+      "url": "https://ascii.jp/elem/000/004/449/4449121/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546176/s/c1205eae805c10a0.jpg\" width=\"60\" />ドスパラでは現在、「ブラックフライデー先取りキャンペーン」を開催中。対象の新品パソコンで、指定カスタマイズを特別価格で利用できる。16GBから32GBへのメモリ変更は9,696円、ナノダイヤモンドグリスへの変更は960円。対象となるカスタマイズはPCによって異なる。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-07T13:30:00",
+      "image_url": "https://ascii.jp/img/2026/10/30/4546176/s/c1205eae805c10a0.jpg"
+    },
+    {
+      "title": "iPhone Duoは最初から完成度高くて驚いた！ 実際に使うとわかったアップル製品ならではの体験",
+      "url": "https://ascii.jp/elem/000/004/448/4448575/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/04/4547872/s/4f92816dcdb2a473.jpg\" width=\"60\" />アップル初となる折りたたみスマホ「iPhone Duo」の実機レビューです。5.4型から7.6型の大画面へ展開し、2台持ちの煩わしさを解消します。約36万円からと高価ですが、初代らしからぬ圧倒的な完成度を誇る1台です。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-07T13:30:00",
+      "image_url": "https://ascii.jp/img/2026/11/04/4547872/s/4f92816dcdb2a473.jpg"
+    },
+    {
+      "title": "家具ブランド「ARIAKE」が、京都にて新作ポップアップイベント「宵 - YOI」を開催",
+      "url": "https://ascii.jp/elem/000/004/449/4449546/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />家具ブランド「ARIAKE」が、京都にて新作ポップアップイベント「宵 - YOI」を開催</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-07T12:19:46",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "VTuber事務所「全力ドリーマーズ」２期生タレントオーディションを11月7日(土)20:00より開催！",
+      "url": "https://ascii.jp/elem/000/004/449/4449547/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />VTuber事務所「全力ドリーマーズ」２期生タレントオーディションを11月7日(土)20:00より開催！</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-07T11:00:00",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "『ゼルダの伝説 時のオカリナ』を外出先で！ Switch 2をドック不要で出力できる14型モバイルディスプレーが30％オフ",
+      "url": "https://ascii.jp/elem/000/004/449/4449456/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/06/4548954/s/80130b916efe0f6e.jpg\" width=\"60\" />Amazon.co.jpにて、cocoparの14型モバイルディスプレー「C-14QH」が販売中だ。参考価格は2万2999円だが、スマイルセールにより30％オフの1万5999円で購入できる（11月6日時点）。Switch 2をType-Cケーブル一本、ドック不要で画面出力できるのが魅力。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-07T10:30:00",
+      "image_url": "https://ascii.jp/img/2026/11/06/4548954/s/80130b916efe0f6e.jpg"
+    },
+    {
+      "title": "失敗しない軽量ワイヤレスゲーミングマウスと言えば1ヵ月で400点以上購入されたRazerのアイツがスマイルセールで36％オフ",
+      "url": "https://ascii.jp/elem/000/004/449/4449453/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/06/4548924/s/265296f57092ce50.jpg\" width=\"60\" />Amazon.co.jpにて、Razerのワイヤレスゲーミングマウス「Razer DeathAdder V3 HyperSpeed」が販売中だ。参考価格は1万7280円だが、スマイルセールにより36％オフの1万980円で購入できる（11月6日時点）。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-07T10:00:00",
+      "image_url": "https://ascii.jp/img/2026/11/06/4548924/s/265296f57092ce50.jpg"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-07T01:40:28",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800"
     },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -156,16 +257,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/ara-stripe-5.png?resize=1200,779"
     },
     {
-      "title": "RTX 5090搭載PCも対象！ パソコンショップSEVEN、最大17万8000円オフの24時間限定セール",
-      "url": "https://ascii.jp/elem/000/004/448/4448583/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/05/4547961/s/49f028c18bebc3dc.png\" width=\"60\" />パソコンショップSEVENが11月7日、24時間限定セールを開催。ゲーミングPCなど全10商品が最大17万8000円オフに。GeForce RTX 5090やRyzen 7 9800X3D搭載モデルなど、注目機種の価格とスペックを紹介する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-06T15:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/05/4547961/s/49f028c18bebc3dc.png"
-    },
-    {
       "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
       "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
       "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
@@ -176,36 +267,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Alexa-Shopping-Text-Hero.jpeg?resize=1200,725"
     },
     {
-      "title": "XBOX版『GTA6』を遊ぶ前に用意しよう！ PowerAの公認有線コントローラーがスマイルセールで3980円",
-      "url": "https://ascii.jp/elem/000/004/449/4449392/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/06/4548870/s/f5b7f1e486a0d1c5.jpg\" width=\"60\" />Amazon.co.jpにて、PowerAのXBOXコントローラー「PowerA Wired Controller for Xbox Series X|S」が販売中だ。参考価格は5500円だが、スマイルセールにより28％オフの3980円で購入できる（11月6日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-06T14:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/06/4548870/s/f5b7f1e486a0d1c5.jpg"
-    },
-    {
-      "title": "眼精疲労や睡眠不足に悩むゲーマーに。プロeスポーツチーム開発監修のアイマスクがスマイルセールで20％オフ",
-      "url": "https://ascii.jp/elem/000/004/449/4449384/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/06/4548862/s/caa6e2070b8f84b2.jpg\" width=\"60\" />Amazon.co.jpにて、REJECTのアイマスク「BLACKOUT」が販売中だ。参考価格は2480円だが、スマイルセールにより20％オフの1980円で購入できる（11月6日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-06T13:45:00",
-      "image_url": "https://ascii.jp/img/2026/11/06/4548862/s/caa6e2070b8f84b2.jpg"
-    },
-    {
-      "title": "ポケットに入るSwitch 2・PC対応の多機能ゲームコントローラーがスマイルセールで14％オフ",
-      "url": "https://ascii.jp/elem/000/004/449/4449358/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/06/4548858/s/25a1b6a42b06ca58.jpg\" width=\"60\" />Amazon.co.jpにて、「AceGamer ポケットコントローラー」が販売中だ。過去価格は2899円だが、スマイルセールにより14％オフの2499円で購入できる（11月6日時点）。持ち運べるゲームコントローラーを探している人、いかが？</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-06T13:15:00",
-      "image_url": "https://ascii.jp/img/2026/11/06/4548858/s/25a1b6a42b06ca58.jpg"
-    },
-    {
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
       "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot clea",
@@ -213,46 +274,6 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-11-06T13:10:00"
-    },
-    {
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-06T13:02:16",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-7.02.34-PM.jpg?resize=1200,542"
-    },
-    {
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-06T13:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675"
-    },
-    {
-      "title": "「アミューズメント エキスポ 2026」がいよいよ開催！会場の模様をレポート",
-      "url": "https://ascii.jp/elem/000/004/449/4449485/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/06/4548992/s/1ec2bd71e58f844f.jpg\" width=\"60\" />一般社団法人日本アミューズメント産業協会は本日11月6日より東京ビッグサイトにて、「アミューズメント エキスポ 2026」を開催。本日はビジネスデーとなり、ユーザーデーは明日の11月7日となる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-06T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/06/4548992/s/1ec2bd71e58f844f.jpg"
-    },
-    {
-      "title": "過去1ヵ月で2000点以上購入されたゲーム実況の友、HyperX製コンデンサーマイクがスマイルセールで10％オフ",
-      "url": "https://ascii.jp/elem/000/004/449/4449354/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/06/4548852/s/ba4af32316deb2fa.jpg\" width=\"60\" />Amazon.co.jpにて、HyperXのコンデンサーマイク「SoloCast 2」が販売中だ。参考価格は8980円だが、スマイルセールにより10％オフの8080円で購入できる（11月6日時点）。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-06T13:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/06/4548852/s/ba4af32316deb2fa.jpg"
     },
     {
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -273,16 +294,6 @@
       "published": "2026-11-06T07:00:00",
       "image_url": "https://image.itmedia.co.jp/mn/articles/2611/06/cover_news072.jpg",
       "body_ja": "WOGOは、機械設計における図面や3D CAD作業を自律実行する「Hacadly AIエージェント」の提供を開始した。大規模言語モデルと独自の図面／3D形状処理技術を組み合わせ、2D図面からの3Dモデル生成や、履歴のないCADデータからのフィーチャー再構築などを支援する。\nWOGOは2026年11月5日、機械設計における図面や3D CAD作業を自律実行する「Hacadly AIエージェント」の提供を開始したと発表した。\n同製品は、大規模言語モデル（LLM）と、同社独自の2D図面処理／3D形状処理技術を組み合わせた設計支援サービスだ。会話による指示を基に、図面やCADデータの読み取りから、モデルの生成、照合、修正までを実行できる。主な用途として、「2D図面からの3Dモデル生成」と「履歴のないCADデータからのフィーチャー再構築」を想定している。\n2D図面からの3Dモデル生成では、DXF／PDF形式の図面をアップロードすると、複数の投影図に記載された形状や寸法、注釈などを読み取り、STEP形"
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-06T06:28:32",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800"
     },
     {
       "title": "国内GPUサーバでオープンモデルを利用可能に　フィックスターズが新サービス　まずは「DeepSeek-V4.1-Flash-1017」から",
@@ -338,17 +349,6 @@
       "published": "2026-11-06T01:31:59",
       "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/06/2000002938/10011468/2048",
       "body_ja": "根拠の大半は「黒塗り」 AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査（1/2 ページ）\nAIのリスク評価を手掛ける米国の非営利研究機関METRは11月5日、米Anthropicの協力を得て「AIがAI開発を加速させているかどうか」を評価したレポートを公開した。これによると、AIの能力向上のペースはAIによって加速している可能性が高いという。METRはその結論の証拠として「最も有益」な部分の多くは、公開前にAnthropicによって「黒塗りされた」としている。\nMETRは今回の調査で、（1）加速は発生しているか、（2）それがAIに起因するか、（3）近未来の加速の阻害要因はあるか、の3点について検討した。同機関によると、Anthropicは事前学習から強化学習まで、同社のAI開発パイプライン全体にわたる広範な証拠を共有し、協力したという。\n（1）についてMETRは、明確に定義されたタスクにおけるAIの能力向上ペースが、10月時点で24年3月～25年10月の約2倍に"
-    },
-    {
-      "title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html",
-      "summary": "空研工業とRecursiveは、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発した。過去の図面や技術資料から必要な情報を検索する「図面検索」と、複数の資料の整合性を確認する「図面チェック」の2機能を備える。試用段階では、従来数十分から半日を要していた図面探しが平均4.5分で完了したという。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-06T00:00:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/06/cover_news005.jpg",
-      "body_ja": "空研工業とRecursiveは、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発した。過去の図面や技術資料から必要な情報を検索する「図面検索」と、複数の資料の整合性を確認する「図面チェック」の2機能を備える。試用段階では、従来数十分から半日を要していた図面探しが平均4.5分で完了したという。\n空研工業とRecursiveは2026年11月4日、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発したと発表した。空研工業が70年以上にわたり蓄積してきた図面や技術資料をAI（人工知能）で読み取り、必要な情報の検索や資料間の整合確認を支援することで、空調機器の設計やメンテナンスに伴う業務の効率化を図る。\n空研工業は、冷却塔をはじめとする空調機器の設計／製造を手掛けている。同社では、長年蓄積してきた紙資料のデジタル化を進めてきたものの、図面や技術資料は年代や形式が多岐にわたり、表記にもばらつきがあった。そのため、過去に納入した設備のメンテナンスに必要な図面や技"
     },
     {
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
@@ -511,6 +511,6 @@
       "body_ja": "「MCP対応」という言葉を見かけるものの、APIと何が違うのか説明できない。本記事では、MCPの仕組みとAPIとの違い、業務で使うときの注意点を、2026年10月時点の最新情報をもとに解説します。\nMCP（Model Context Protocol）とは、AIと外部のツールやデータをつなぐための共通規格です。ベンダーから「MCPで社内システムとAIを連携しましょう」と提案され、判断に迷っている担当者も多いでしょう。\nMCPを理解しないまま社内ツールの権限をAIに渡すと、情報漏洩や誤操作を招くおそれがあります。一方で正しく使えば、AIがSlackや会計ソフトのデータを使って作業まで進められるようになります。\n本記事では、MCPの仕組みとAPI・RAG・A2Aとの違いを中心に、対応ツールとセキュリティ上の注意点まで解説します。\n読み終えるころには、MCPを自分の言葉で上長に説明し、自社で取り入れるべきかを判断できる状態になっているはずです。\nMCPとはAIと外部ツールをつなぐ共通規格\nMC"
     }
   ],
-  "last_updated": "2026-11-07T10:34:35.625964+09:00",
+  "last_updated": "2026-11-08T10:01:50.723167+09:00",
   "count": 50
 }
