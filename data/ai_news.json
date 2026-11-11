@@ -1,264 +1,354 @@
 {
   "articles": [
     {
-      "title": "ロイホのステーキ、安くなったの知ってた？ 米国産→豪州産に変更、225gで550円安く",
-      "url": "https://ascii.jp/elem/000/004/449/4449905/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/09/4549794/s/ee3333d837afb965.jpg\" width=\"60\" />ロイヤルホストは10月下旬から、店舗ごとにステーキ商品の使用肉を順次切り替えています。11月30日まで「ステーキ感謝キャンペーン」も実施。</p><br clear=\"left\" />",
+      "title": "USB Type-C 1本で4K・2画面に拡張　サンワサプライのドッキングステーション2機種",
+      "url": "https://ascii.jp/elem/000/004/450/4450366/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/11/4550379/s/f8fa07949d188a26.jpg\" width=\"60\" />サンワサプライのドッキングステーション「USB-CVDK15N」「USB-CVDK17N」は、USB Type-Cケーブル1本で最大4K・30Hzの2画面出力に対応。専用ソフト不要で、有線LAN端子の有無を選べる2機種の特徴と価格を紹介する。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-11-10T03:50:00",
-      "image_url": "https://ascii.jp/img/2026/11/09/4549794/s/ee3333d837afb965.jpg"
+      "published": "2026-11-11T01:30:00",
+      "image_url": "https://ascii.jp/img/2026/11/11/4550379/s/f8fa07949d188a26.jpg"
     },
     {
-      "title": "アップル「iOS 27.2.1」配信開始　iMessageやBluetoothの脆弱性など9件を修正",
-      "url": "https://ascii.jp/elem/000/004/450/4450066/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/10/4550020/s/353ec3bc01b005ec.png\" width=\"60\" />アップルは11月9日、「iOS 27.2.1」の配信を開始した。CVEベースで9件の脆弱性に対処している。</p><br clear=\"left\" />",
+      "title": "【本日】丸亀製麺、390円→190円の半額に！「釜揚げうどんの日」開催",
+      "url": "https://ascii.jp/elem/000/004/450/4450387/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/11/4550422/s/1d3c9c2f78d725ac.jpg\" width=\"60\" />讃岐うどんチェーン「丸亀製麺」では本日11月11日、「釜揚げうどん」を通常価格の半額で提供する「釜揚げうどんの日」を実施します。イレギュラーの半額デー。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-11-10T03:40:00",
-      "image_url": "https://ascii.jp/img/2026/11/10/4550020/s/353ec3bc01b005ec.png"
+      "published": "2026-11-11T01:15:00",
+      "image_url": "https://ascii.jp/img/2026/11/11/4550422/s/1d3c9c2f78d725ac.jpg"
     },
     {
-      "title": "スタバから「飲むポテトスープ」登場！ ふわふわ泡、芋の甘み、おいしそうだね",
-      "url": "https://ascii.jp/elem/000/004/449/4449903/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/09/4549781/s/99ad1251a249aa38.jpg\" width=\"60\" />スターバックス コーヒーは11月13日から、カプチーノ仕立ての温かいスープ「ポテト スープチーノ」を発売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-10T03:40:00",
-      "image_url": "https://ascii.jp/img/2026/11/09/4549781/s/99ad1251a249aa38.jpg"
-    },
-    {
-      "title": "ハーゲンダッツの本気きた！約500円の「じゅわっと苺」、贅沢すぎる",
-      "url": "https://ascii.jp/elem/000/004/449/4449792/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/10/4550016/s/08c7fd57f98d14d0.jpg\" width=\"60\" />ハーゲンダッツ ジャパンはハーゲンダッツ「じゅわっと苺」（497円）を12月8日より期間限定にて全国で発売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-10T03:35:00",
-      "image_url": "https://ascii.jp/img/2026/11/10/4550016/s/08c7fd57f98d14d0.jpg"
-    },
-    {
-      "title": "ロボットの通信から更新まで一括支援　ソラコム「SORACOM フィジカルAI Suite」",
-      "url": "https://ascii.jp/elem/000/004/449/4449980/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/10/4549991/s/709c6a6f7bca8734.png\" width=\"60\" />ソラコムの「SORACOM フィジカルAI Suite」は、ロボットや自律走行モビリティの通信・セキュリティ・運用を一括支援。閉域網接続や証明書の自動更新、遠隔でのモデル更新を支え、有線・Wi-Fi・衛星通信にも対応する。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-10T03:30:00",
-      "image_url": "https://ascii.jp/img/2026/11/10/4549991/s/709c6a6f7bca8734.png"
-    },
-    {
-      "title": "ソラコム、IoT・フィジカルAIのセキュリティ診断開始　対策実装・再検証まで支援",
-      "url": "https://ascii.jp/elem/000/004/449/4449979/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/10/4549988/s/42a8adf84110ee5e.png\" width=\"60\" />ソラコムがIoT・フィジカルAI向けのセキュリティ診断・堅牢化サービスを11月10日に開始。脆弱性診断から対策の設計・実装・再検証までを支援し、料金は個別見積もりとなる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-10T03:30:00",
-      "image_url": "https://ascii.jp/img/2026/11/10/4549988/s/42a8adf84110ee5e.png"
-    },
-    {
-      "title": "RTX 5070が26万円台、RTX 5080も！ ドスパラのブラックフライデー注目PC",
-      "url": "https://ascii.jp/elem/000/004/449/4449880/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/10/30/4546176/s/c1205eae805c10a0.jpg\" width=\"60\" />ドスパラでは現在、「ブラックフライデー先取りキャンペーン」を開催中。対象の新品パソコンで、メモリやSSD、CPUグリスなどの指定カスタマイズを特別価格で利用できる。また、Ryzen 7とGeForce RTX 5070を搭載したモデルをはじめ、GeForce RTX 5080搭載モデルなど、ブラックフライデー2026モデルもラインアップしている。</p><br cle",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-10T03:30:00",
-      "image_url": "https://ascii.jp/img/2026/10/30/4546176/s/c1205eae805c10a0.jpg"
-    },
-    {
-      "title": "てんやの「たれづけ天丼」に冬の新作！ 海鮮4種で990円、うまそ！",
-      "url": "https://ascii.jp/elem/000/004/449/4449457/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/10/4549999/s/6a50f0e78d6e18e7.jpg\" width=\"60\" />てんやは11月12日から、海老、大いか、鹿児島県産「白姫えび」、きす半身の4種類を盛り合わせた冬限定メニュー「たれづけ海鮮づくし天丼」を販売します。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-10T03:15:00",
-      "image_url": "https://ascii.jp/img/2026/11/10/4549999/s/6a50f0e78d6e18e7.jpg"
-    },
-    {
-      "title": "なぜ、三井化学は1.8兆円で「半導体材料メーカー」を買ったのか　JSR買収の狙い、市村社長が語る",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/10/news029.html",
-      "summary": "三井化学が、半導体材料大手JSRを約1.8兆円で買収する。市村社長は「単なるM＆Aではない」と説明する。巨額を投じた買収の狙いは。",
+      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
+      "summary": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。",
       "source": "ITmedia AI+",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-11-10T03:00:00",
-      "image_url": "https://image.itmedia.co.jp/business/articles/2611/10/cover_news029.jpg",
-      "body_ja": "三井化学は11月9日、半導体材料大手のJSR（東京都港区）を買収すると発表した。買収価格は、有利子負債を含め1兆8400億円に上る。買収によって半導体・電子部品材料を扱うICT事業のポートフォリオを強化し、収益性の向上や半導体市場におけるプレゼンスの確立を狙う。\nJSRは、半導体に回路を形成する際に使う材料「フォトレジスト」で世界トップクラスのシェアを誇る。2024年に政府系ファンド「産業革新投資機構」がJSRを買収し、半導体材料事業の競争力強化や業績回復に取り組んできた。\n三井化学の市村聡社長は同日の記者会見で、今回の買収について「単なるM＆Aではない」と強調。巨額を投じた買収の狙いについて語った。\n三井化学は、社会のニーズに応じて事業を変化させてきた。1912年、前身となる三井鉱山が化学事業を開始。当時の課題だった食料不足を前に、肥料を作る石炭化学からスタートした。その後、国内産業が発展すると、日本初の石油化学メーカーとして成長し、自動車向け材料や、ライフ＆ヘルスケア領域など事業を拡"
+      "published": "2026-11-11T00:33:03",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/11/2000003089/10011820/2048",
+      "body_ja": "「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に\n米Anthropicは11月10日（現地時間）、AIアシスタント「Claude」に2つの新機能をβ版として追加した。チームで共同編集できるスプレッドシート「Claude Sheets」とホワイトボード「Claude Whiteboards」だ。10月にβ版として公開したダッシュボード作成機能「Claude Dashboards」は「Claude Data」に名称を変え、一般提供を始めた。3機能とも全有料プランが対象で、Web、デスクトップ、モバイルで利用できる。順次提供を開始する。\nClaude Whiteboards\nClaude Whiteboardsは、Claudeと一緒にブレインストーミングするための共有ボードだ。会話の中で話した計画を、Claudeがタイムライン、担当者、期日を含むボードに整理する。メモをテーマ別にまとめたり、アクションアイテムの案を作ったりもす"
     },
     {
-      "title": "「探す」という呪縛から設計者が解放される日",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news008.html",
-      "summary": "設計を始める前の“付帯業務”の負担が軽減されることを願います。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-10T03:00:00",
-      "image_url": "https://image.itmedia.co.jp/ee/articles/1407/02/tt140702kobore_icon120.jpg",
-      "body_ja": "設計を始める前の“付帯業務”の負担が軽減されることを願います。\n最近、MONOistでは、AI（人工知能）を活用した過去の設計図面の検索や、ナレッジデータの構築／活用、ベテラン設計者が持つ知見の形式知化などに関するニュースを多く取り上げています。新たなソリューションの登場だけでなく、企業内での具体的な取り組みを紹介する機会も増えてきた印象です。\nこうした動きの背景には、熟練技術者の高齢化や人材不足などに伴う、技術伝承の問題があると考えられます。\n実際、MONOist編集部が実施した「CAD利用動向調査 2026」で、設計業務における現場課題を尋ねたところ、「人材／リソース不足」（52.7％）、「設計スキルの低下」（42.4％）、「設計品質の低下」（21.9％）といった回答が見られました。\nこれらの結果を少し深読みすると、ベテラン設計者の退職による人材不足だけでなく、技術やノウハウの継承が十分に進まず、設計スキルや品質の維持が難しくなっている現場の姿も浮かんできます。また、せっかく若手人材"
-    },
-    {
-      "title": "任天堂「マリオパーティ」ソフト1本で最大4人遊べるように！ Switch 2の無料アプデで「おすそわけ通信」が大幅進化",
-      "url": "https://ascii.jp/elem/000/004/449/4449977/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/10/4549983/s/c5d14c85f212916d.jpg\" width=\"60\" />任天堂はNintendo Switch 2用ソフト「スーパー マリオパーティ ジャンボリー Nintendo Switch 2 Edition ＋ ジャンボリーTV」の無料アップデートを配信。「おすそわけ」機能を強化している。</p><br clear=\"left\" />",
+      "title": "レノボ、7色から選べる「IdeaPad Vibe Gen 12」とRTX Spark搭載「Yoga 9n 2-in-1 Gen 11」を発表",
+      "url": "https://ascii.jp/elem/000/004/450/4450364/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/11/4550373/s/c73322144e540a15.png\" width=\"60\" />レノボが7色展開の「IdeaPad Vibe Gen 12」と、RTX Spark N1X・64GBメモリ搭載の「Yoga 9n 2-in-1 Gen 11」を発表。画面サイズやOLEDディスプレイなどの特徴、発売日、価格を紹介する。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-11-10T03:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/10/4549983/s/c5d14c85f212916d.jpg"
+      "published": "2026-11-11T00:30:00",
+      "image_url": "https://ascii.jp/img/2026/11/11/4550373/s/c73322144e540a15.png"
     },
     {
-      "title": "ABEMA運営のAbemaTV、動画レビュー時間が半分以下に　Dropbox Replayで制作効率化",
-      "url": "https://ascii.jp/elem/000/004/449/4449976/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/10/4549987/s/6ccc8ad6ec4c9dcc.png\" width=\"60\" />ABEMAを運営するAbemaTVがDropboxとDropbox Replayを導入し、動画レビュー時間を半分以下に短縮。4K映像など大容量ファイルの共有や確認・承認作業の一元化、安全性と制作効率を両立する取り組みを紹介する。</p><br clear=\"left\" />",
+      "title": "ChatGPTでビジネスを展開できる新機能　自社サイトのクリック数集計、顧客へのAIチャット提供など　一部機能は米国から",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/",
+      "summary": "OpenAIは、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-11T00:27:17",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/11/2000003088/10011815/2048",
+      "body_ja": "ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から（1/2 ページ）\n米OpenAIは11月10日（現地時間）、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。\n企業は「Business Hub」に自社の情報を登録することで、ChatGPT上での自社への言及数やWebサイトクリック数、Webサイトが引用されているテーマの調査などが可能になる。\nまた、米国のECサイトやオンラインサービス事業者など一部の企業は「Business Agent」を作成し、ChatGPT上で顧客向けのAIチャット機能をリリースできるようになる。ChatGPT上の会話で対象企業が言及され、ユーザーが企業名をクリックすると企業プロフィールが表示される。Business Agentを作成している場合、その企業の製品に関する質問"
+    },
+    {
+      "title": "過去の組立順序をAIが学習、自社ノウハウを生かした組立案を生成",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news018.html",
+      "summary": "Sceneは、3D手順書作成ソリューション「3D Docs」において、過去の組立順序（M-BOM）をAIに学習させる新機能の提供を開始した。自社の組立ノウハウを反映したM-BOMを生成することで、新製品の組立検討や生産準備の前倒し、技術継承を支援する。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-11T00:00:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/11/cover_news018.jpg",
+      "body_ja": "Sceneは、3D手順書作成ソリューション「3D Docs」において、過去の組立順序（M-BOM）をAIに学習させる新機能の提供を開始した。自社の組立ノウハウを反映したM-BOMを生成することで、新製品の組立検討や生産準備の前倒し、技術継承を支援する。\nSceneは2026年11月10日、3D CADデータから組立アニメーション付きの3D手順書を作成できるソリューション「3D Docs」において、過去に生成した組立順序（M-BOM）をAI（人工知能）に学習させる新機能の提供を開始すると発表した。\n3D Docsは、3D CADデータを活用して組立順序の検討や3D手順書の作成ができるソリューションだ。組立順序をM-BOMとして作成する機能を備え、実物の製作前から組立工程を検討できる他、現場への手順書の展開や作業者の教育、技術継承などにも活用できる。\n今回の新機能では、過去に生成したM-BOMを指定してAIに学習させることで、その知見を踏まえた新たなM-BOMを生成できるようになった。例えば"
+    },
+    {
+      "title": "AI時代のAcrobatはPDFツールから企業の知識を活用する文書プラットフォームへ",
+      "url": "https://ascii.jp/elem/000/004/441/4441167/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/10/4550089/s/db6131a6ca72c6bf.jpg\" width=\"60\" />PDFとチャットすることで、要約や文書の分析などを可能にする「Acrobat AIアシスタント」。最新のユーザー事例や利活用のアイデア、そして今後の機能強化についてアドビでDocument Cloud プロダクトマーケティングディレクターを務める山本 晶子氏に話を伺った。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-11-10T03:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/10/4549987/s/6ccc8ad6ec4c9dcc.png"
+      "published": "2026-11-11T00:00:00",
+      "image_url": "https://ascii.jp/img/2026/11/10/4550089/s/db6131a6ca72c6bf.jpg"
     },
     {
-      "title": "AdobeとDisneyが戦略的提携　「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
-      "summary": "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。",
+      "title": "動画や文書を“雑に”入れてAIが知識化、マニュアル自動更新で現場の負担を解消",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news083.html",
+      "summary": "スタディストは、新プロダクト「Teachme Knowledge」と、Teachmeシリーズの新構想「Connect」の発表会を開催した。現場の動画や文書を事前の仕分けなしに投入することででAIが要約／構造化を行う仕組みを提供し、熟練者の暗黙知の形式知化を支援する。",
       "source": "ITmedia AI+",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-11-10T02:10:07",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/10/2000003050/10011711/2048",
-      "body_ja": "AdobeとDisneyが戦略的提携 「Firefly Foundry」でDisney専用の生成AIモデル開発へ\n米Adobeと米The Walt Disney Companyは11月9日（現地時間）、複数年にわたる戦略的提携を発表した。AdobeはDisneyの公式AIイノベーションパートナーとして、最新のAI、クリエイティブ、メディア関連技術への早期アクセスを提供し、Disneyの制作チームを支援する。金額などの条件は明らかにしていない。\nAdobeが米フロリダ州マイアミビーチで開催中の年次イベント「Adobe MAX」で発表した。早期アクセスの対象として挙げたのは、生成AIの「Adobe Firefly」、企業独自のAIモデルを構築する「Adobe Firefly Foundry」、動画編集の「Adobe Premiere」、画像編集の「Adobe Photoshop」だ。専任のエンジニアリングおよび研究のリソースも用意し、Disneyの制作パイプラインを支える。\n提携の柱となるの"
+      "published": "2026-11-10T23:30:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/10/cover_news083.jpg",
+      "body_ja": "スタディストは、新プロダクト「Teachme Knowledge」と、Teachmeシリーズの新構想「Connect」の発表会を開催した。現場の動画や文書を事前の仕分けなしに投入することででAIが要約／構造化を行う仕組みを提供し、熟練者の暗黙知の形式知化を支援する。\nスタディストは2026年10月6日、東京都千代田区の会場およびオンラインにおいて、新プロダクト「Teachme Knowledge」と、Teachmeシリーズの新構想「Connect」の発表会を開催した。熟練者の暗黙知をAI（人工知能）によって形式知化し、企業の継続的な改善を支える「リーンオペレーション」の推進に向けた事業戦略と、新プロダクトの機能詳細を説明した。\n国立社会保障・人口問題研究所の推計によると、日本の生産年齢人口は2025年から2040年にかけて約15％減少すると予測されている。製造業においても34歳以下の若手層の減少が顕著であり、熟練担当者の引退に伴う技能継承への不安や、現場における言語化されていない暗黙知の"
     },
     {
-      "title": "“何でもリバースエンジニアリング”生成AIで広がる　ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000002975/",
-      "summary": "AIを使ってスマート家電のOSに手を加え、AIに生成させたコードに入れ替えて、広告を消したり自分好みの機能を付け加えたりする行為がちょっとしたブームになっている。ソフトウェアの改造が手軽にできるとうたった“何でもリバースエンジニアリング”（REA）というツールもGitHubで注目を集めているが、セキュリティ上のリスクも懸念されている。",
+      "title": "パナソニックEWがお客様価値向上のためFlyleを活用し、高精度AI分析で年間約60万件の顧客の声を商品企画の「使える」データに。",
+      "url": "https://ascii.jp/elem/000/004/450/4450370/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />パナソニックEWがお客様価値向上のためFlyleを活用し、高精度AI分析で年間約60万件の顧客の声を商品企画の「使える」データに。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-10T23:30:00",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "GIGABYTE「神鷹凛」コラボPCが数量限定で受注開始　白基調のRTX 5060搭載モデル",
+      "url": "https://ascii.jp/elem/000/004/450/4450363/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/11/4550369/s/cc673742e83cba8e.png\" width=\"60\" />アークは、GIGABYTE「神鷹凛」デザインの限定BTOゲーミングPCの受注を開始。白基調のピラーレスケースにRyzen 7 9700X、GeForce RTX 5060、32GBメモリー、1TB SSDを搭載する。価格は44万9800円。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-10T23:30:00",
+      "image_url": "https://ascii.jp/img/2026/11/11/4550369/s/cc673742e83cba8e.png"
+    },
+    {
+      "title": "「16タイプ性格診断」を累計1億PVの「就活の教科書」が提供開始",
+      "url": "https://ascii.jp/elem/000/004/450/4450371/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />「16タイプ性格診断」を累計1億PVの「就活の教科書」が提供開始</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-10T23:20:00",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "加工業の技能伝承ガイドを無料公開。標準書では引き継げない、ベテランの「判断」をどう残すか。",
+      "url": "https://ascii.jp/elem/000/004/450/4450372/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />加工業の技能伝承ガイドを無料公開。標準書では引き継げない、ベテランの「判断」をどう残すか。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-10T23:10:00",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "「“できる人”ばかり質問されがち」から脱却し、年4400時間削減――紀陽銀行の「社内知識」集約術とは",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news029.html",
+      "summary": "マニュアルがあっても、必要な情報が見つからなければ社内の問い合わせは減らない。従業員が自力で疑問を解消できるようにするために、情報を見つける仕組みをどう見直せばよいのか。紀陽銀行の取り組みに学ぶ。",
       "source": "ITmedia AI+",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-11-10T02:00:00",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/10/2000002975/10011531/2048",
-      "body_ja": "この頃、セキュリティ界隈で\n“何でもリバースエンジニアリング”生成AIで広がる ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険\nAIを使ってスマート家電のOSに手を加え、AIに生成させたコードに入れ替えて、広告を消したり自分好みの機能を付け加えたりする行為がちょっとしたブームになっている。ソフトウェアの改造が手軽にできるとうたった“何でもリバースエンジニアリング”（REA）というツールもGitHubで注目を集めているが、セキュリティ上のリスクも懸念されている。\nネットで広がる“何でもリバースエンジニアリング”\nAnthropicのAIコーディングアシスタント「Claude Code」を使ってスマートテレビのコードを書き換えたというユーザーは、Xにこう書き込んだ。\n「両親のTVのコードをAIに生成させた。Netflixに行かないうちからスポンサー広告が表示されていた。Claude Codeにモデル番号を教えたら、Wi-Fiでテレビを特定し、25のXiaomiパッケージを削除して"
+      "published": "2026-11-10T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/ait/articles/2611/11/cover_news029.jpg",
+      "body_ja": "マニュアルがあっても、必要な情報が見つからなければ社内の問い合わせは減らない。従業員が自力で疑問を解消できるようにするために、情報を見つける仕組みをどう見直せばよいのか。紀陽銀行の取り組みに学ぶ。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\n紀陽銀行は、和歌山県と大阪府を地盤とする地方銀行だ。2024年に、部門ごとに進めていたIT施策を全行横断で実行する「DX戦略部」を新設し、行内DX（デジタルトランスフォーメーション）に着手した。その一環として、優先的にAI活用に取り組む業務を見極めるために、行内の本部12部署に実態をヒアリングした。\n調査の結果、対象の12部署では、営業店から寄せられる問い合わせへの回答に月間数千時間を費やしていることが分かった。業務ノウハウが特定の経験豊富な行員に属人化し、知識を持つ行員ほど電話での問い合わせを受ける機会が多いことも判明した。本来は銀行業務の高度化に向けた企画など、付加価値の高い業務に力を注ぐべき人材が、他の業務に時間を取ら"
     },
     {
-      "title": "なぜAgodaは「単独で勝てない」と認めたのか？ 　ANAや星野リゾートと組んだ狙い",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/10/news020.html",
-      "summary": "星野リゾートやANAとの提携を加速させるオンライン旅行大手Agoda。「日本では単独で成功できない」と言い切る同社は、なぜ現地企業との連携を急ぐのか。背景には「1人泊不可・夕食付き」というような日本市場特有の旅館文化やポイント経済圏など、グローバル標準とは異なる商慣習があった。外資系メガOTAが挑むローカライズの裏側と日本市場攻略の勝算を、ダミアン・フィルシュCCOに聞いた。",
+      "title": "【新発売】Siri AI対応、ネット障害時も家電操作が可能！リンクジャパン、独自BTメッシュ技術搭載のスマートリモコン「リンクREMO」を発売",
+      "url": "https://ascii.jp/elem/000/004/450/4450386/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />【新発売】Siri AI対応、ネット障害時も家電操作が可能！リンクジャパン、独自BTメッシュ技術搭載のスマートリモコン「リンクREMO」を発売</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-10T23:00:00",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "英高級オーディオ「ruarkaudio」、ブランド初となるブラックフライデーセールを自社サイトで開催",
+      "url": "https://ascii.jp/elem/000/004/450/4450385/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />英高級オーディオ「ruarkaudio」、ブランド初となるブラックフライデーセールを自社サイトで開催</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-10T23:00:00",
+      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
+    },
+    {
+      "title": "SCM変革の「壁」をAIでどう突破するか、o9とTDKが語るレガシー脱却の道",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/11/news024.html",
+      "summary": "o9ソリューションズ・ジャパンは、AI時代の新たなサプライチェーン像を提示する「o9 Connect Japan 2026」を開催した。講演ではTDKが取り組んだ、現場主導でレガシー脱却の壁を越える実践的なプロセスも紹介された。",
       "source": "ITmedia AI+",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-11-10T01:45:00",
-      "image_url": "https://image.itmedia.co.jp/business/articles/2611/10/cover_news020.jpg",
-      "body_ja": "オンライン旅行大手（OTA）のAgodaが、日本の宿泊施設との関係を深めている。2025年11月には星野リゾートと戦略的パートナーシップを結び、全ブランドの宿泊予約の受け付けを始めた。\nAgodaは米Booking Holdings傘下で、シンガポールに本社を置く。2018年にはJTBと包括業務提携を結び、国内宿泊のオンライン販売の拡大に取り組んできた。\n海外発の企業は、日本独自の商慣習にどう対応し、事業を伸ばせばいいのか。日本市場の成長戦略と競争力の源泉を、Agoda Companyのダミアン・フィルシュCCO（最高商務責任者）に聞いた。\n――Agodaは海外の利用者が多い印象があります。現在の利用者の状況はいかがですか。日本のオンライン旅行会社の中で、どのような立ち位置にありますか。\nポジショニングを断言するのは難しい部分もありますが、1つ言えるのは、非常に好ましい成長が見られることです。日本の顧客による国内宿泊の予約が増えているほか、海外、特にシンガポールや欧州の物件の予約数も伸び"
+      "published": "2026-11-10T22:30:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/11/cover_news024.jpg",
+      "body_ja": "o9ソリューションズ・ジャパンは、AI時代の新たなサプライチェーン像を提示する「o9 Connect Japan 2026」を開催した。講演ではTDKが取り組んだ、現場主導でレガシー脱却の壁を越える実践的なプロセスも紹介された。\n日々激化する市場環境において、サプライチェーンの分断や遅延のリスクは企業の持続的成長を左右する優先課題となっている。さらに、近年はAI（人工知能）の進化により、サプライチェーン管理への本格的なテクノロジー実装が急務とされている。o9ソリューションズ・ジャパンは2026年10月7日、東京都内で「o9 Connect Japan 2026」を開催し、ユーザー企業による事例紹介などを交えながら、AI時代において企業が目指すべきサプライチェーン像と、意思決定を高度化するための新たなモデルを提示した。\n本稿では、o9ソリューションズ・ジャパン 日本統括責任者の塩塚英己氏による基調講演と、TDK 電子部品ビジネスカンパニー ビジネスプロセス＆オペレーショングループ Gene"
     },
     {
-      "title": "「オープンなAIモデル」に関する資料を無料公開、NII　「LLM-jp」の開発手法など解説",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/10/2000003046/",
-      "summary": "国立情報学研究所（NII）は、オープンなAIモデルに関する講演資料を公開した。11月5日に開催したイベント「第2回オープン大規模言語モデルシンポジウム」で使われたもの。",
+      "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
+      "url": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
+      "summary": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。",
       "source": "ITmedia AI+",
       "icon": "🇯🇵",
       "lang": "ja",
-      "published": "2026-11-10T01:30:52",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/10/2000003046/10011696/2048",
-      "body_ja": "Share\n「オープンなAIモデル」に関する資料を無料公開、NII 「LLM-jp」の開発手法など解説（1/2 ページ）\n                                公開\n                                    \n                            \n国立情報学研究所（NII）は11月9日、オープンなAIモデルに関する講演資料を公開した。5日に開催したイベント「第2回オープン大規模言語モデルシンポジウム」で使われたもの。講演動画も準備が整い次第公開する予定だ。\nNIIの大規模言語モデル研究開発センターが主宰する研究プロジェクト「LLM-jp」の成果発表や、海外の有識者による基調講演で使われた資料を公開した。例えば、LLM-jpが手掛けるオープンなAIモデル「LLM-jp」の開発手法を解説するものや、EUの24の公用語における性能に注力したオープンなAIモデル「EuroLLM」に関する活動を紹介するものなどがある。\nな"
+      "published": "2026-11-10T22:03:30",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/11/2000003083/10011800/2048",
+      "body_ja": "Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定\n米Googleは11月10日（現地時間）、同社の最上位AIモデル「Gemini 4 Carbon」の提供を開発者、企業、研究者、一般ユーザー向けに開始したと発表した。一般ユーザーは「Gemini」アプリやGoogle検索の「AIモード」で利用できるが、現時点では有料プランの最上位「Google AI Ultra」（月額1万4500円）の契約が必要だ。\nCarbonは、Googleが10月28日に発表したフロンティアAIモデル。特にサイバーセキュリティや長時間にわたる複雑な作業を得意とする。これまでは「Fairwind Program」を通じて一部のサイバー防御組織に限定提供していた。\n9月30日発表の「Gemini 4 Argon」が一般的なプログラミングや知的作業に適しているのに対し、Carbonは複数段階にわたる複雑なコーディングやデバッグ、科学研究など、より高度な推論"
     },
     {
-      "title": "Anthropic reportedly plans to move forward with IPO plans",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "title": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/11/2000003077/",
+      "summary": "「同じ質問に何度も答えている」「引き継ぎに手間がかかる」といったあるあるの悩み。Gemini Notebookなら既存のマニュアルを読み込ませるだけで、根拠付きで回答する専用AIを素早く構築できる。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-10T22:00:00",
+      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2611/11/2000003077/10011784/2048",
+      "body_ja": "Gemini Notebookで規定探しの手間をゼロにする、「問い合わせ効率化」超入門\n「同じ質問に何度も答えている」「引き継ぎに手間がかかる」といったあるあるの悩み。Gemini Notebookなら既存のマニュアルを読み込ませるだけで、根拠付きで回答する専用AIを素早く構築できる。\n総務への備品購入の申請方法や経理への交通費精算、人事への有給休暇の申請期限、管理部門への勤怠システムの操作方法など、同じような問い合わせが繰り返し寄せられていないだろうか。その度に担当者が規定やマニュアルを探して回答する運用は、少なからず負担になる。\n「Gemini Notebook」を使えば、経費精算規定や就業規則、操作マニュアルなど既存の社内資料を読み込ませ、質問するだけで回答とその根拠を確認できる。PDFやドキュメント、Webコンテンツなど幅広い形式に対応し、新たな資料を作る必要もない。\nでは、実際にGemini Notebookはどのように問い合わせ対応に活用できるのか。生成AI・IT研修やAIに"
+    },
+    {
+      "title": "通信大手3社こぞって「フィジカルAI」に参入、なぜ？　ロボットが動くともうかるワケ",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/11/news038.html",
+      "summary": "ソフトバンク、NTT、KDDIがフィジカルAIビジネスに本格参入した。通信大手3社がそろって本腰を入れるのはなぜか。各社の狙いを読み解く。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-10T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2611/11/cover_news038.jpg",
+      "body_ja": "FP技能士センター正会員。中央大学卒業後、フィンテックスタートアップにて金融商品取引業者の設立や事業会社向けサービス構築を手がけたのち、広告DX会社を創業。サム・アルトマン氏創立のWorld財団における日本コミュニティスペシャリストを経てX Capital株式会社へ参画。\n「2030年度までに、1000台以上のロボットを現場に導入する」――KDDIは10月27日、こうした目標とともに、ロボットを動かすためのAIを開発する新会社「ELYZA Robotics」（イライザロボティクス、東京都文京区）の事業開始を発表した。\nロボットなどの機械を通じて物をつかみ、運び、点検するAIは「フィジカルAI」と呼ばれる。文章や画像を作る生成AIを現実世界で稼働させられれば、できることが広がるため、次のビジネスチャンスとして注目を集めている。\nKDDIの発表によって、通信大手3社がそろってフィジカルAIに本腰を入れた形だ。ソフトバンクは2025年12月に、産業用ロボット大手の安川電機との協業を発表している"
+    },
+    {
+      "title": "なぜAgodaは“異常に”安いのか？　商務責任者が明かす「自腹値引き」と社内競争の正体",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/11/news028.html",
+      "summary": "ホテル検索で「Agoda」が示す異常な安さの理由は？　その原資は宿泊施設に負担を強いているのではないか？　最高商務責任者のダミアン・フィルシュ氏は「ホテルに負担させるなら私は東京の街を歩けない」と否定する。自社のマーケティング資金で身銭を切る「自腹値引き」と、1秒に3000万件の価格を計算する基盤、そして自社営業に外部ライバルの在庫をぶつけて戦わせる激しい社内競争から、最安値を追求する裏側に迫る。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-10T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2611/11/cover_news028.jpg",
+      "body_ja": "出張や旅行の手配でホテルを検索したとき、オンライン旅行サイト「Agoda」が信じられないほどの最安値を叩き出しているのを目にしたことはないだろうか。Agodaは、日本で「毎日、おトク」をブランドメッセージに掲げている。日本法人の大尾嘉宏人代表取締役も、競合との違いの筆頭に挙げるのが「値段の安さ」だ。\nただ、安さを打ち出すほど、その原資をどこで賄うのかが問われる。低価格戦略と取引先の収益確保をいかにして両立させるかは、業種を問わず経営の共通課題だ。プラットフォームが安売りをすればするほど、そのしわ寄せは立場の弱いホテルや旅館の利益を削っているのではないか──。こんな疑問がつきまとう。\nだが、シンガポールAgoda Companyの最高商務責任者（CCO）であるダミアン・フィルシュ氏は「ホテル側に負担してもらうことになったら、私は東京の街を歩けない」と断言する。そこには、自社のマーケティング資金を削ってでも最安値を提示する「自腹値引き」の構造と、自社の営業部門にライバル企業の在庫を平然とぶつ"
+    },
+    {
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
-      "published": "2026-11-10T01:27:12",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Dario-Amodei.jpg?w=1024"
+      "published": "2026-11-10T21:08:52",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801"
     },
     {
-      "title": "島津製作所が半導体製造装置向けTMPのめっきライン増設、生産能力2倍に",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/10/news043.html",
-      "summary": "島津製作所は、本社三条工場において半導体製造装置向けターボ分子ポンプのめっき加工ラインを増設し、2026年9月に稼働を開始した。2027年夏にも追加増設を予定しており、サプライチェーン全体で生産体制を強化する。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-10T01:00:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/10/cover_news043.jpg",
-      "body_ja": "島津製作所は、本社三条工場において半導体製造装置向けターボ分子ポンプのめっき加工ラインを増設し、2026年9月に稼働を開始した。2027年夏にも追加増設を予定しており、サプライチェーン全体で生産体制を強化する。\n島津製作所は2026年11月9日、本社のある三条工場（京都市中京区）において、半導体製造装置向けのターボ分子ポンプ（TMP）のめっき加工ラインを増設し、同年9月に稼働を開始したと発表した。\n生成AI（人工知能）の普及や半導体市場の拡大を背景としたTMPの需要増に対応することが目的だ。2027年夏には追加増設を予定しており、サプライチェーン全体で同製品の生産体制を強化していくという。\nターボ分子ポンプは、ポンプ内部の金属製ブレード（羽根）を毎分数万回という超高速で回転させ、気体分子を弾き飛ばすことで高真空状態を作り出す真空ポンプである。島津製作所の同製品は、半導体製造装置をはじめ、太陽光発電パネルや建材ガラスのコーティング装置など、高真空環境を必要とする幅広い分野で使用されている。"
-    },
-    {
-      "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表　「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
-      "summary": "Metaは、AIモデル「Muse」ファミリーの最小モデル「Muse Ember」を発表した。AIエージェントの反復タスクに特化しており、上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現している。同日から開発者向けAPI等で提供を開始しており、大量の反復処理を低コストで担う。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-10T00:06:40",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/10/2000003044/10011689/2048",
-      "body_ja": "Meta、最小・低コストのAIモデル「Muse Ember」発表 「Muse Spark 1.3」に迫る性能を約17分の1のコストで\n米Metaは11月9日（現地時間）、同社のAIモデル「Muse」ファミリーで最小かつ最も効率的な新モデル「Muse Ember」を発表した。AIエージェントが繰り返し実行するタスクに特化したモデルで、既存の「Muse Spark 1.3」に近い性能を約17分の1のコストで実現したという。\nMuse Emberは、ツールの呼び出し、プログラミングの補助、情報の抽出、長文ドキュメントの解析などを大量に処理する用途を想定している。テキストに加え、画像、音声、動画、PDFの入力にも対応する。コンテキストウィンドウは最大100万トークン、出力は最大51万2000トークンだ。\nAIモデルの小型化と低コスト化は競合各社も進めている。米OpenAIは3月に「GPT-5.4 nano」を、米Googleは7月に「Gemini 3.5 Flash-Lite」を、米Anthro"
-    },
-    {
-      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
-      "published": "2026-11-09T23:28:37",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
+      "published": "2026-11-10T20:52:13",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024"
     },
     {
-      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
-      "published": "2026-11-09T22:46:09",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024"
+      "published": "2026-11-10T19:57:52",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/Jared-Kaplan_headshot2.jpg?resize=900,1200"
     },
     {
-      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加　機密データ処理と大規模AIエージェントに特化",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
-      "summary": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-10T19:23:34",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2296609700.jpg?resize=1200,799"
+    },
+    {
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+      "summary": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-10T19:03:52",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-10.00.33-AM.png?w=683"
+    },
+    {
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+      "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-10T18:49:52",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-10-at-8.46.19-AM.png?resize=1200,677"
+    },
+    {
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "summary": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-10T17:30:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Meetings.png?resize=1200,675"
+    },
+    {
+      "title": "求人原稿をAIエージェントで作る5ステップ 応募につながる書き方のコツ！",
+      "url": "https://ainow.ai/2026/11/11/278512/?utm_source=rss&utm_medium=rss&utm_campaign=%25e6%25b1%2582%25e4%25ba%25ba%25e5%258e%259f%25e7%25a8%25bf%25e3%2582%2592ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a7%25e4%25bd%259c%25e3%2582%258b5%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597-%25e5%25bf%259c%25e5%258b%259f%25e3%2581%25ab",
+      "summary": "<p>&#27714;&#20154;&#21407;&#31295;&#12434;&#26360;&#12371;&#12358;&#12392;&#12375;&#12390;&#12418;&#20181;&#20107;&#20869;&#23481;&#12398;&#25972;&#29702;&#12384;&#12369;&#12391;&#26178;&#38291;&#12364;&#36942;&#12366;&#12289;&#26360;&#12365;&#19978;&#12370;&#12390;&#12418;&#24540;&#21215;&#12364;&",
+      "source": "AINOW",
+      "icon": "🌸",
       "lang": "ja",
-      "published": "2026-11-09T22:26:48",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/10/2000003043/10011685/2048",
-      "body_ja": "Google、第8世代TPUに「8tx」と「8i Max」を追加 機密データ処理と大規模AIエージェントに特化\n米Googleは11月9日（現地時間）、独自開発のAI向けプロセッサ「TPU」の第8世代に、新たに「TPU 8tx」と「TPU 8i Max」の2システムを追加すると発表した。\n4月に発表した大規模学習向けの「TPU 8t」とリアルタイム推論向けの「TPU 8i」に続くもので、1年間に同一世代の4種類のシステムを発表するのは初めてという。\n新たな2システムは、自律的に複数のタスクを実行するAIエージェントの普及を背景に、機密データの保護と、膨大な情報を一度に処理するためのメモリ性能という異なる課題に対応するものとしている。\nTPU 8txは、機密性の高いデータを扱う企業や政府機関向けに設計した。TPU 8tと同じ半導体を採用し、米AMDの第5世代EPYCプロセッサと組み合わせることで、処理中の機密データやAIモデルの重みをハードウェアレベルで保護する。低遅延ネットワーク「Boa"
+      "published": "2026-11-10T17:22:27",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/11/thumbnail-7.jpg",
+      "body_ja": "求人原稿を書こうとしても仕事内容の整理だけで時間が過ぎ、書き上げても応募が集まらない。兼務で採用を担う担当者ほど、この悩みを抱えやすいでしょう。\n求人原稿の作成は、AIエージェントに採用要件と過去原稿を渡すことで、初稿づくりから媒体別の書き分けまでを任せられます。ChatGPTに一度だけ依頼する使い方とは違い、複数の工程を段取りして進める点が特徴です。\n一方で、AIが出した原稿をそのまま公開すれば、他社と同じ無個性な表現や、誤った労働条件の掲載につながります。応募が来ないだけでなく、法令違反として信頼を損なうリスクもあります。\n本記事では、求人原稿をAIエージェントで作る5ステップを中心に、職種別のプロンプト例と公開前に押さえる注意点を解説します。\n読み終える頃には、自社の採用要件から媒体別の求人原稿までをAIと分担して作り、人が確認すべき箇所を迷わず判断できるようになります。\n求人原稿をAIエージェントで作る5ステップ\n求人原稿の作成は、次の5ステップで進められます。\n- ステップ1："
     },
     {
-      "title": "The race is on to sue Nvidia",
-      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "title": "AIエージェントとは？仕組みと種類から企業の導入手順まで解説",
+      "url": "https://ainow.ai/2026/11/11/278509/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8%25e7%25a8%25ae%25e9%25a1%259e%25e3%2581%258b%25e3%2582%2589%25e4%25bc%2581%25e6%25a5%25ad%25e3%2581%25ae%25e5%25b0%258e%25e5%2585%25a5",
+      "summary": "<p>&#12300;AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12301;&#12392;&#12356;&#12358;&#35328;&#33865;&#12364;&#31038;&#20869;&#12391;&#39131;&#12403;&#20132;&#12358;&#12418;&#12398;&#12398;&#12289;ChatGPT&#12420;RPA&#12392;&#20309;&#12364;&#36949;&#12358;&#12398;&#12363;&#35500;&#26126;&#123",
+      "source": "AINOW",
+      "icon": "🌸",
+      "lang": "ja",
+      "published": "2026-11-10T17:09:18",
+      "image_url": "https://ainow.ai/wp-content/uploads/2026/11/thumbnail-6.jpg",
+      "body_ja": "「AIエージェント」という言葉が社内で飛び交うものの、ChatGPTやRPAと何が違うのか説明できず困っていないでしょうか。\nAIエージェントとは、目標を与えると自ら手順を計画し、ツールを使って実行するAIです。\n定義をあいまいにしたまま進めると、名ばかりの製品を選んだり、成果の出ない試験導入に予算を使ったりしかねません。理解しておけば、ベンダーの提案を自分の言葉で見極められます。\n本記事では、生成AIやRPAとの違いと仕組みを中心に、種類、できること、リスク、導入の5ステップまで解説します。\n読み終える頃には、自社で最初に任せる業務と、押さえるべきリスクを判断できるようになります。ぜひ最後までお読みください。\nAIエージェントとは？生成AIとの違い\nAIエージェントの理解には、次の3つの視点が欠かせません。\n- AIエージェントの定義\n- 生成AIとの違い\n- RPA・チャットボットとの違い\n最初に線引きを押さえておくと、以降の仕組みや導入判断の話が格段に読みやすくなります。\nAIエー"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
-      "published": "2026-11-09T22:23:42",
+      "published": "2026-11-10T17:04:19",
       "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
     },
     {
-      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表　API料金2割下げ、出力は最大30％高速化",
-      "url": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
-      "summary": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-09T22:03:56",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/10/2000003042/10011681/2048",
-      "body_ja": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化\n米Anthropicは11月9日（現地時間）、最上位AIモデルの新版「Claude Fable 5.2」と「Claude Mythos 5.2」を発表した。Fable 5.2は同日から、有料プランとAPI、主要クラウドで利用できる。\n同社によると、両者は同じ基盤モデルで、適用するセーフガードが異なる。Fableはサイバーセキュリティと生物学分野に強いセーフガードをかけて一般向けに提供し、Mythosはこれらを緩めた構成で、審査制プログラムを通じて提供する。\nClaudeの現行ラインアップは、最上位がFableおよびMythosの5.2、その下が「Claude Opus 5.5」「Claude Sonnet 5.5」「Claude Haiku 5.5」となる。FableとMythosは9月の「5.1」に続く更新で、Opus以下とは別のバージョンで"
-    },
-    {
-      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "summary": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
       "source": "TechCrunch AI",
       "icon": "🤖",
       "lang": "en",
-      "published": "2026-11-09T20:09:06",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
+      "published": "2026-11-10T15:54:08",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800"
+    },
+    {
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+      "summary": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-10T15:29:30",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2025/11/MuseCharm.png?w=1200"
+    },
+    {
+      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing th",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-11-10T13:10:00"
+    },
+    {
+      "title": "Evolving metal extraction processes",
+      "url": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/",
+      "summary": "The metals industry has experienced transformational moments before: the Bessemer process, flash smelting, electric arc furnaces, and modern continuous casting all changed what was possible. Yet, for more than a century, most extraction processes rely on techniques and pathways that would be familia",
+      "source": "MIT Tech Review",
+      "icon": "🔬",
+      "lang": "en",
+      "published": "2026-11-10T13:00:00"
     },
     {
       "title": "The backlash about data centers might really just be about electricity",
@@ -270,36 +360,6 @@
       "published": "2026-11-09T19:35:33"
     },
     {
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-09T19:24:51",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024"
-    },
-    {
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-09T18:09:52",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801"
-    },
-    {
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-09T18:00:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Blog-Header-Visual.png?resize=1200,675"
-    },
-    {
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
       "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with ",
@@ -307,26 +367,6 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-11-09T17:05:43"
-    },
-    {
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-09T16:56:54",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800"
-    },
-    {
-      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-      "summary": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-09T16:12:28",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/tk-logo.webp?resize=1200,675"
     },
     {
       "title": "The Download: empty AI climate claims, and an Nvidia investigation",
@@ -405,24 +445,6 @@
       "published": "2026-11-05T13:10:00"
     },
     {
-      "title": "A new bill could change how the US builds energy infrastructure",
-      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
-      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan th",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-11-05T10:00:00"
-    },
-    {
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for govern",
-      "source": "MIT Tech Review",
-      "icon": "🔬",
-      "lang": "en",
-      "published": "2026-11-04T18:50:55"
-    },
-    {
       "title": "AIエージェントのガバナンスとは？構築6ステップと社内規程・体制の作り方",
       "url": "https://ainow.ai/2026/11/04/278500/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25e3%2582%25a8%25e3%2583%25bc%25e3%2582%25b8%25e3%2582%25a7%25e3%2583%25b3%25e3%2583%2588%25e3%2581%25ae%25e3%2582%25ac%25e3%2583%2590%25e3%2583%258a%25e3%2583%25b3%25e3%2582%25b9%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259f%25e6%25a7%258b%25e7%25af%25896%25e3%2582%25b9%25e3%2583%2586%25e3%2583%2583%25e3%2583%2597",
       "summary": "<p>&#37096;&#32626;&#12372;&#12392;&#12395;AI&#12456;&#12540;&#12472;&#12455;&#12531;&#12488;&#12364;&#22679;&#12360;&#12289;&#30435;&#26619;&#37096;&#38272;&#12363;&#12425;&#12300;&#35504;&#12364;&#27177;&#38480;&#12434;&#25215;&#35469;&#12375;&#12289;&#35504;&#12364;&#27490;&#12417;&#12427;&#12398",
@@ -487,30 +509,8 @@
       "published": "2026-10-28T13:45:59",
       "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-18.jpg",
       "body_ja": "AIエージェントの料金は、月額数千円の既製ツールから数千万円の受託開発まで幅が広く、自社の場合いくらかかるのかを答えにくいテーマです。本記事では、導入形態別の料金相場と4種類の料金体系、主要ツールの価格を中心に、稟議でそのまま使える形で解説します。\n上長から「AIエージェントを入れたらいくらかかるのか」と聞かれ、調べるほど金額の幅が広がって答えに詰まった担当者は多いでしょう。\n料金は導入形態と料金体系の2つで決まります。この2つを押さえずに契約すると、従量課金で想定外の請求が届くおそれがあります。\n本記事では、2026年10月時点の公式料金ページで確認した主要ツールの価格と、見落としやすい隠れコスト、費用対効果の試算方法を紹介します。\n読み終えるころには、自社に当てはまる初期費用と月額の目安を出し、上長に根拠をもって説明できる状態になります。\nAIエージェントの料金相場は導入形態で大きく変わる\nAIエージェントの料金相場は、導入形態によって以下の3つに分かれます。\n- 既製ツールを契約す"
-    },
-    {
-      "title": "国内で公表された生成AIの事案18件から考える、社内ルールで防げるリスクと仕組みで防ぐリスク",
-      "url": "https://ainow.ai/2026/10/28/278461/?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%259b%25bd%25e5%2586%2585%25e3%2581%25a7%25e5%2585%25ac%25e8%25a1%25a8%25e3%2581%2595%25e3%2582%258c%25e3%2581%259f%25e7%2594%259f%25e6%2588%2590ai%25e3%2581%25ae%25e4%25ba%258b%25e6%25a1%258818%25e4%25bb%25b6%25e3%2581%258b%25e3%2582%2589%25e8%2580%2583%25e3%2581%2588%25e3%2582%258b%25e3%2580%2581%25e7%25a4%25be",
-      "summary": "<p>&#29983;&#25104;AI&#12398;&#24773;&#22577;&#28431;&#12360;&#12356;&#12434;&#21462;&#12426;&#19978;&#12370;&#12383;&#35352;&#20107;&#12391;&#12399;&#12289;&#28023;&#22806;&#12398;&#20107;&#20363;&#12364;&#24341;&#12365;&#21512;&#12356;&#12395;&#20986;&#12373;&#12428;&#12427;&#12371;&#12392;&#12364",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-28T13:19:26",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-15.jpg",
-      "body_ja": "生成AIの情報漏えいを取り上げた記事では、海外の事例が引き合いに出されることが多くなっています。一方で、国内ではどのような事案が、どのような形で公表されてきたのでしょうか。\n本稿では、2023年から2026年10月までに国内で公表された、生成AIが関わる事案18件を当事者の公表文と報道で1件ずつ確認しました。そのうえで、18件を「社内ルールで防げる可能性が高いもの」と「システムや運用での対策が必要なもの」に分けて整理し、起きてしまったときの報告手順と、担当者向けのチェックリストをまとめています。\nなお本文では、公表文や報道で確認できる事実と、筆者の考察を書き分けています。考察の部分は「〜と考えます」「〜と思われます」と表記しています。\n1. はじめに：国内で公表された事例はなぜ少ないのか\n生成AIの情報漏えいでよく引用されるサムスン電子の事例は、韓国企業の事案です。国内で「社員が会社の契約していない生成AIに社内情報を入力した」と組織名つきで公表された事案を探すと、筆者が確認できた範囲で"
-    },
-    {
-      "title": "MCPとは？AIと業務ツールをつなぐ仕組みとAPIとの違いをわかりやすく解説",
-      "url": "https://ainow.ai/2026/10/27/278481/?utm_source=rss&utm_medium=rss&utm_campaign=mcp%25e3%2581%25a8%25e3%2581%25af%25ef%25bc%259fai%25e3%2581%25a8%25e6%25a5%25ad%25e5%258b%2599%25e3%2583%2584%25e3%2583%25bc%25e3%2583%25ab%25e3%2582%2592%25e3%2581%25a4%25e3%2581%25aa%25e3%2581%2590%25e4%25bb%2595%25e7%25b5%2584%25e3%2581%25bf%25e3%2581%25a8api%25e3%2581%25a8%25e3%2581%25ae%25e9%2581%2595%25e3%2581%2584",
-      "summary": "<p>&#12300;MCP&#23550;&#24540;&#12301;&#12392;&#12356;&#12358;&#35328;&#33865;&#12434;&#35211;&#12363;&#12369;&#12427;&#12418;&#12398;&#12398;&#12289;API&#12392;&#20309;&#12364;&#36949;&#12358;&#12398;&#12363;&#35500;&#26126;&#12391;&#12365;&#12394;&#12356;&#12290;&#26412;&#35352;&#20107;&#12391;&#1",
-      "source": "AINOW",
-      "icon": "🌸",
-      "lang": "ja",
-      "published": "2026-10-26T19:26:08",
-      "image_url": "https://ainow.ai/wp-content/uploads/2026/10/thumbnail-17.jpg",
-      "body_ja": "「MCP対応」という言葉を見かけるものの、APIと何が違うのか説明できない。本記事では、MCPの仕組みとAPIとの違い、業務で使うときの注意点を、2026年10月時点の最新情報をもとに解説します。\nMCP（Model Context Protocol）とは、AIと外部のツールやデータをつなぐための共通規格です。ベンダーから「MCPで社内システムとAIを連携しましょう」と提案され、判断に迷っている担当者も多いでしょう。\nMCPを理解しないまま社内ツールの権限をAIに渡すと、情報漏洩や誤操作を招くおそれがあります。一方で正しく使えば、AIがSlackや会計ソフトのデータを使って作業まで進められるようになります。\n本記事では、MCPの仕組みとAPI・RAG・A2Aとの違いを中心に、対応ツールとセキュリティ上の注意点まで解説します。\n読み終えるころには、MCPを自分の言葉で上長に説明し、自社で取り入れるべきかを判断できる状態になっているはずです。\nMCPとはAIと外部ツールをつなぐ共通規格\nMC"
     }
   ],
-  "last_updated": "2026-11-10T12:56:53.596621+09:00",
+  "last_updated": "2026-11-11T10:41:13.003185+09:00",
   "count": 50
 }
