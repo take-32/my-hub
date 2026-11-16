@@ -1,14 +1,244 @@
 {
   "articles": [
     {
-      "title": "Windows 11に標準で用意されているバックアップ機能を解説する",
-      "url": "https://ascii.jp/elem/000/004/451/4451572/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/14/4552127/s/1ed8b59d6477f745.png\" width=\"60\" />Windows 11には標準でさまざまなバックアップ機能が用意されており、ユーザーデータや設定情報、あるいは起動ドライブなどを保存し、エラーなどが発生する前の状態を記録してくれる。今回は、このバックアップ機能を整理する。</p><br clear=\"left\" />",
+      "title": "【海老2本】「上天丼」が760円→600円に！ 本日てんやウィークスタート",
+      "url": "https://ascii.jp/elem/000/004/451/4451665/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/16/4552363/s/cfde42e872210af0.jpg\" width=\"60\" />　天丼チェーンの「てんや」は、本日11月16日から「てんやWeek!!」を開催します。「てんやの上天丼弁当」が760円→特別価格600円に！ 1週間限定です。</p><br clear=\"left\" />",
       "source": "ASCII AI",
       "icon": "📡",
       "lang": "ja",
-      "published": "2026-11-15T01:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/14/4552127/s/1ed8b59d6477f745.png"
+      "published": "2026-11-16T01:30:00",
+      "image_url": "https://ascii.jp/img/2026/11/16/4552363/s/cfde42e872210af0.jpg"
+    },
+    {
+      "title": "CrowxisからRadeon RX 9060 XT搭載グラボ　セミファンレス対応で87,800円前後",
+      "url": "https://ascii.jp/elem/000/004/451/4451650/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/16/4552347/s/45cc377d3881fedf.jpg\" width=\"60\" />CFD販売は、CrowxisブランドのRadeon RX 9060 XT搭載グラフィックボード「CXA-RX9060XT-8G/DF/BK」を発売した。8GB GDDR6メモリとデュアルファンを採用し、セミファンレス機能を搭載。想定価格は87,800円前後で、保証期間は2年間。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-16T01:30:00",
+      "image_url": "https://ascii.jp/img/2026/11/16/4552347/s/45cc377d3881fedf.jpg"
+    },
+    {
+      "title": "スノーピーク、個人情報流出か　銀行口座情報も対象",
+      "url": "https://ascii.jp/elem/000/004/451/4451661/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/16/4552362/s/746bbf9434ebf06b.png\" width=\"60\" />アウトドア用品を手がけるスノーピークは11月13日、リユース買取サービス、イベント予約システム、コミュニティアプリで不正アクセスによる個人情報の流出が発生したと発表した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-16T01:05:00",
+      "image_url": "https://ascii.jp/img/2026/11/16/4552362/s/746bbf9434ebf06b.png"
+    },
+    {
+      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
+      "url": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
+      "summary": "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-16T00:49:03",
+      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/16/2000003208/10012165/2048",
+      "body_ja": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証\n米OpenAIは11月13日（現地時間）、AIエージェントがユーザーに代わって決済する新機能「ChatGPT Wallet」を発表した。American Express、Mastercard、Visaと提携して開発した。まず米国の「ChatGPT Pro」加入者向けに、常時稼働型エージェント「dots」で段階的に提供を始めた。日本での提供時期は明らかにしていない。\nChatGPT Walletは、エージェントがユーザーの実際のカード情報にアクセスせずに支払いができ、購入のたびにセキュリティチェックを求める初のウォレットという。ChatGPTは毎週12億人が使っており、商品の下調べや比較、購入する商品選びに使う人も多い。同社は、こうした利用を購入の完了まで広げる狙いとしている。\nWalletはdotとの会話の中で使う機能であり、通常のチャットや「Work」、単独の「Cod"
+    },
+    {
+      "title": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場　OpenAIが決済大手と提携し開発　提供は米国から",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/",
+      "summary": "OpenAIはエージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-16T00:44:05",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/16/2000003211/10012176/2048",
+      "body_ja": "エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から（1/2 ページ）\n米OpenAIは11月13日（現地時間）、エージェントがユーザーのカード情報にアクセスせずに支払いを代行する機能「ChatGPT Wallet」を発表した。OpenAIが決済大手の米American Express Company、米Mastercard Incorporated、米Visa Inc.と提携して開発し、エージェント経由の決済を提供したい企業向けのツールとガイドも提供する。\nユーザーはChatGPT Walletにカードを一度登録すると、その後は再入力なしでエージェントによる購入を承認できるようになる。商品名や金額、利用するカードを確認の上、顔認証や指紋認証で承認すると、エージェントによる決済が完了する。\nユーザーが承認すると、決済事業者は決済トークンを発行。ChatGPT Walletはカード情報の代わりにこのトークンを使用す"
+    },
+    {
+      "title": "「ラヴ上等」あっすん逮捕に波紋　ひろゆき氏は疑問、ホリエモンは「完璧に見せしめ」",
+      "url": "https://ascii.jp/elem/000/004/451/4451656/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/16/4552358/s/3df8ff1485cd8da1.png\" width=\"60\" />愛知県警は11月15日、Netflixの恋愛リアリティー番組「ラヴ上等」に出演した「あっすん」こと小栗彩朱佳容疑者ら男女3人を、風営法違反の疑いで逮捕した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-16T00:40:00",
+      "image_url": "https://ascii.jp/img/2026/11/16/4552358/s/3df8ff1485cd8da1.png"
+    },
+    {
+      "title": "GALLERIA、ガラスパネル×LEDが映えるゲーミングPC全27モデル発売　スペシャルエディション登場",
+      "url": "https://ascii.jp/elem/000/004/451/4451648/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/16/4552344/s/aa20f29c97e3ff4a.jpg\" width=\"60\" />サードウェーブは「GALLERIA スペシャルエディション」全27モデルを発売した。ガラスパネルとLEDファンによる外観に加え、水冷クーラーと最大6基のファンを採用。Ryzen 7 9850X3DとRTX 5080を搭載するモデルも用意し、ドスパラ店舗と通販で販売する。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-16T00:30:00",
+      "image_url": "https://ascii.jp/img/2026/11/16/4552344/s/aa20f29c97e3ff4a.jpg"
+    },
+    {
+      "title": "CAD図面内の品名や注記をAIで検索、DWG／DXF形式に対応",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news016.html",
+      "summary": "StockはAIナレッジツール「ナレカン」において、DWG／DXF形式のCADファイルをキーワード検索とAI検索の対象に追加した。図面内に記載された品名や仕様、注記などのテキストを基に目的の図面を探せる他、AIによる要約記事の自動作成も可能になった。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-16T00:00:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/16/cover_news016.jpg",
+      "body_ja": "StockはAIナレッジツール「ナレカン」において、DWG／DXF形式のCADファイルをキーワード検索とAI検索の対象に追加した。図面内に記載された品名や仕様、注記などのテキストを基に目的の図面を探せる他、AIによる要約記事の自動作成も可能になった。\nStockは2026年11月10日、AI（人工知能）ナレッジツール「ナレカン」において、新たにDWG／DXF形式のCADファイルをキーワード検索とAI検索の対象に追加したと発表した。また、図面内のテキストをAIが読み取り、要約記事を自動作成する「ファイル要約機能（ファイル to ナレカン）」でもCADファイルを扱えるようになった。\n製造業や建設業など、図面を扱う現場では、設計図や施工図そのものが重要な情報資産となっている。一方、CADファイルは専用ソフトウェアがないと内容を確認しにくく、ファイル名や保存先のフォルダを頼りに目的の図面を探すといった課題があった。同社は、CADファイルの検索や活用に関する顧客からの要望を受け、今回の機能アップデ"
+    },
+    {
+      "title": "量子コンピュータに必要なHPCとの統合――HPEが選んだ「自ら作らない」戦略",
+      "url": "https://ascii.jp/elem/000/004/451/4451639/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/15/4552273/s/5c96a2a2f6a778f3.jpg\" width=\"60\" />Hewlett-Packard Enterprise（HPE）が6月に発表した、量子コンピューティング分野における8社との協業拡大。注目すべきは、HPE自身では量子ハードウェアを開発しないという同社の戦略的な選択だ。自らはHPC分野でのノウハウを持つ“統合役”として、量子コンピューティング市場に参入することを選んだ。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-16T00:00:00",
+      "image_url": "https://ascii.jp/img/2026/11/15/4552273/s/5c96a2a2f6a778f3.jpg"
+    },
+    {
+      "title": "ヒューマノイド派遣サービスに掃除を頼んでみた／AIの「断る力」に危うさ",
+      "url": "https://ascii.jp/elem/000/004/451/4451636/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/15/4552264/s/4138f4e6cef414d1.png\" width=\"60\" />世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-16T00:00:00",
+      "image_url": "https://ascii.jp/img/2026/11/15/4552264/s/4138f4e6cef414d1.png"
+    },
+    {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-15T23:30:00",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800"
+    },
+    {
+      "title": "AIが設計データの分析からCAD操作まで支援する「SOLIDWORKS 2027」",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news037.html",
+      "summary": "ダッソー・システムズは、3D設計開発ソリューション「SOLIDWORKS」の最新バージョン「SOLIDWORKS 2027」を発表した。製品バリエーションの検討やボルト締結解析、データ管理に関する機能強化に加え、AIによるアセンブリのパフォーマンス分析やモデルの軽量化、設計変更に伴う影響範囲の確認など、設計業務を支援する機能を拡充した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-15T23:30:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/16/cover_news037.jpg",
+      "body_ja": "ダッソー・システムズは、3D設計開発ソリューション「SOLIDWORKS」の最新バージョン「SOLIDWORKS 2027」を発表した。製品バリエーションの検討やボルト締結解析、データ管理に関する機能強化に加え、AIによるアセンブリのパフォーマンス分析やモデルの軽量化、設計変更に伴う影響範囲の確認など、設計業務を支援する機能を拡充した。\nダッソー・システムズ SOLIDWORKS事業は2026年11月13日、年次ユーザーイベント「3DEXPERIENCE WORLD JAPAN 2026」に併せ、3D設計開発ソリューション「SOLIDWORKS」の最新バージョン「SOLIDWORKS 2027」に関する記者説明会を開催した。発売日は同年11月21日。\nSOLIDWORKSは秋のメジャーリリースに加え、サービスパック（SP）／ファンクションデリバリー（FD）による更新を年間数回実施し、継続的に機能強化や改良を図っている。ダッソー・システムズ プロダクトマーケティングスペシャリストの滝澤直子"
+    },
+    {
+      "title": "Ryzen 9000対応マザーボードが12,480円　ASRock「A620AM-P」11月20日発売",
+      "url": "https://ascii.jp/elem/000/004/451/4451647/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/16/4552341/s/61fd65d76b5fb7a8.png\" width=\"60\" />ASRockは、AMD A620搭載のMicro ATXマザーボード「A620AM-P」を11月20日に発売する。価格は12,480円。Ryzen 9000／8000／7000に対応し、M.2スロット2基や前面USB-C接続、BIOSフラッシュバックを備える。6カ月のCPUソケットピン折れ無償修理保証も付帯する。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-15T23:30:00",
+      "image_url": "https://ascii.jp/img/2026/11/16/4552341/s/61fd65d76b5fb7a8.png"
+    },
+    {
+      "title": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード”　「情報間違えれば区民に影響」の思い",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003196/",
+      "summary": "東京都足立区は2025年にグーグル・クラウド・ジャパンと包括連携協定を結び、議会答弁や区民の声への対応でAIエージェントの実証実験を進めてきた。同社イベントに登壇した担当者が、その仕組みと運用のコツを紹介した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-15T23:00:00",
+      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/16/2000003196/10012131/2048",
+      "body_ja": "自信がなければ「分かりません」──足立区が議会答弁AIにかけた“ガード” 「情報間違えれば区民に影響」の思い\n行政機関には議会の答弁記録や条例、要綱、住民から寄せられた意見など、膨大な情報が蓄積されている。これらと生成AIを組み合わせることで行政を効率化できる余地は大きいが、1つの誤りが多くの住民の生活に影響しかねないというリスクもある。行政の業務をどこまでAIに任せ、どこから人が担えばよいのだろうか。\n東京都足立区は2025年にグーグル・クラウド・ジャパンと包括連携協定を結び、議会答弁や区民の声への対応でAIエージェントの実証実験を進めてきた。同社が10月に開催したイベントに足立区の髙橋皇介氏（ICT戦略推進担当課 CDO補佐官）が登壇。その仕組みと運用のコツを紹介した。\n「議会答弁AI」は担当の割り振りから答弁案まで\n髙橋氏によれば、行政機関が持つ情報は縦割り組織の中に埋もれ、ナレッジとして全く活用できていなかったという。そこで足立区は、生成AIを「ナレッジハブ」として利用する取り組"
+    },
+    {
+      "title": "ガートナーが考えるフィジカルAI実装のロードマップと人の役割",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news050.html",
+      "summary": "製造業でも多くの業務でAIが活用される中、注目を集めるフィジカルAIだが、製造業での使用状況はどうなっているのだろうか。フィジカルAIの現在地と共にAI時代の人の役割について、ガートナージャパン アナリストの鹿内健太郎氏に話を聞いた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-15T23:00:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/16/cover_news050.jpg",
+      "body_ja": "製造業でも多くの業務でAIが活用される中、注目を集めるフィジカルAIだが、製造業での使用状況はどうなっているのだろうか。フィジカルAIの現在地と共にAI時代の人の役割について、ガートナージャパン アナリストの鹿内健太郎氏に話を聞いた。\n製造業でも多くの専門業務でAI（人工知能）活用が進んでいるが、その活用状況はどうなっているのだろうか。また、注目を集めるフィジカルAIは、製造業でどこまで実装が進んでいるのだろうか。産業向けのAI活用に詳しいガートナージャパン ビジネス・アンド・テクノロジ・インサイト インダストリーズ リサーチグループ バイスプレジデントでアナリストの鹿内健太郎氏に話を聞いた。\nMONOist フィジカルAIへの注目度が高まっていますが、製造業では「まだ先」という見られ方をしているように感じます。どのように見ていますか。\n鹿内氏 ガートナージャパンでは、ユーザー企業の中長期の主要ポートフォリオ予測を調査していますが、DX（デジタルトランスフォーメーション）の核となる基幹シ"
+    },
+    {
+      "title": "AI関連の求人・応募はビジネス職で高い伸び／2026年度のIT投資インデックスが過去最高に／世界の中で“働く喜び”が低い日本、ほか",
+      "url": "https://ascii.jp/elem/000/004/451/4451603/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/15/4552205/s/5a01b35c472b656a.jpg\" width=\"60\" />今回（2026年11月7日～11月13日）は、国内企業のIT投資意向指標が過去最高を更新、AI関連求人／応募はエンジニア職よりビジネス職で大きな伸び、サイバーフィジカルシステム（CPS）セキュリティ、IoT/OTセキュリティ運用監視サービス市場、27カ国調査で日本が最下位だった“働く喜び”についてのデータを紹介します。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-15T23:00:00",
+      "image_url": "https://ascii.jp/img/2026/11/15/4552205/s/5a01b35c472b656a.jpg"
+    },
+    {
+      "title": "DMG森精機が進める工作機械部品へのAM活用、自社イベントで最新5軸機も展示",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/17/news012.html",
+      "summary": "DMG森精機は、東京グローバルヘッドクォータにおいて自社イベント「東京テクノロジーウィーク」を開催した。国内初披露を含む最新の5軸加工機や複合加工機、金属積層造形機など17台の機械に加え、DXソリューションなどを展示した。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-15T22:45:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/17/l_mn1116_dmgmori_000.jpg",
+      "body_ja": "DMG森精機は、東京グローバルヘッドクォータにおいて自社イベント「東京テクノロジーウィーク」を開催した。国内初披露を含む最新の5軸加工機や複合加工機、金属積層造形機など17台の機械に加え、DXソリューションなどを展示した。\nDMG森精機は2026年10月26〜31日、同社の東京グローバルヘッドクォータ（東京GHQ、江東区潮見）において自社イベント「東京テクノロジーウィーク」を開催した。国内初披露を含む最新の5軸加工機や複合加工機、金属積層造形（AM）機など17台の機械に加え、DX（デジタルトランスフォーメーション）ソリューションなどを展示した。\n日本初公開となった「DMU 60 eVo 2nd Generation」は金型、半導体、航空宇宙産業向けに開発された高速高精度の5軸加工機となっている。通常のボールねじ駆動の他、X、Y軸にリニアモーターを採用した仕様も展開して高速移動を実現している。4.5秒で工具交換が可能になっており、高速動作に伴う振動を抑えるため、高減衰性能を持つ特殊素材「ミ"
+    },
+    {
+      "title": "10年間作れなかったアプリが、AIでわずか10日で完成して感動　好きなキャラが踊る3Dライブをついに実現",
+      "url": "https://ascii.jp/elem/000/004/451/4451644/?rss",
+      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/16/4552330/s/2472bd0356d049b8.jpg\" width=\"60\" />AIを使って、約10日で自作した3Dコンサートアプリ「百夜ステージ」を紹介。動画から抽出した1242個のモーションや自動演出、VRMモデルを組み合わせ、10年来の構想を実現した。</p><br clear=\"left\" />",
+      "source": "ASCII AI",
+      "icon": "📡",
+      "lang": "ja",
+      "published": "2026-11-15T22:10:00",
+      "image_url": "https://ascii.jp/img/2026/11/16/4552330/s/2472bd0356d049b8.jpg"
+    },
+    {
+      "title": "ライセンス更新を機に「脱マクロ」　オートバックスセブンがGeminiで目指す売上高5000億円",
+      "url": "https://kn.itmedia.co.jp/kn/article/2611/16/2000003181/",
+      "summary": "オートバックスセブンは2032年度の売上高5000億円を目指してGoogle WorkspaceとGeminiを導入した。従来の表計算ソフトからの移行とAI活用の全社展開を図る。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-15T22:00:00",
+      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2611/16/2000003181/10012092/2048",
+      "body_ja": "ライセンス更新を機に「脱マクロ」 オートバックスセブンがGeminiで目指す売上高5000億円\nオートバックスセブンは2032年度の売上高5000億円を目指してGoogle WorkspaceとGeminiを導入した。従来の表計算ソフトからの移行とAI活用の全社展開を図る。\nカー用品総合専門店を展開するオートバックスセブンは、「Google Workspace」と「Gemini」を用いてグループ全体の業務改革に取り組んでいる。2032年度のグループ売上高を5000億円に引き上げる長期経営計画を掲げて従来の働き方を見直し、「AI-Ready」な組織への転換を図る。\nマクロ中心の業務を見直し、Googleスプレッドシートへの移行を計画\n同グループの2022年度の売上高は2362億円だった。2032年度の目標は、その2倍を超える水準となる。従来は既存のオフィスツールを全社の業務基盤として、表計算ソフトのマクロを使った自動化が現場に定着していた。\n複雑な計算や集計を効率化してきた半面、経営目標の"
+    },
+    {
+      "title": "AIモデリングもできる無償3D CAD「SolidCraft」を試してみた！",
+      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/16/news011.html",
+      "summary": "無償で利用できるオープンソースのパラメトリック3D CAD「SolidCraft」を紹介する。Webブラウザとデスクトップアプリに対応し、後者では生成AIとの対話によるモデリングも可能だ。筆者が実際に操作して分かった基本機能の使い勝手や、AI連携の可能性と課題を探る。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-15T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/16/cover_news011.jpg",
+      "body_ja": "無償で利用できるオープンソースのパラメトリック3D CAD「SolidCraft」を紹介する。Webブラウザとデスクトップアプリに対応し、後者では生成AIとの対話によるモデリングも可能だ。筆者が実際に操作して分かった基本機能の使い勝手や、AI連携の可能性と課題を探る。\nオープンソースの3D CAD「SolidCraft」をご存じでしょうか。無償でありながら、Webブラウザとデスクトップアプリから利用できるパラメトリック3D CADです。スケッチからの立体作成や履歴を使った編集に加え、デスクトップ版には生成AI（人工知能）と対話しながらモデリングする機能も搭載されています。\n今回は、SolidCraftの基本機能や開発の背景に触れながら、筆者が実際に操作し、AI機能を試して感じた使い勝手や課題について紹介します。\n※本記事で紹介する機能や提供状況は、原稿執筆時点（2026年11月7日）のものです。基本的な操作は「v0.30.1」で確認しています。今後のバージョンアップに伴う機能の追加や変更"
+    },
+    {
+      "title": "メルカリ、アプリ開発「2日→数十分」へ　直面したAI時代の“意外な課題”とは？",
+      "url": "https://www.itmedia.co.jp/business/articles/2611/16/news031.html",
+      "summary": "生成AIの導入により、1～2日かかっていたアプリの画面や試作品の制作が数十分へ短縮されたメルカリ。専門ごとの縦割りを解き、1～3人の少人数で画面から裏側の仕組みまで一気に作り上げる体制へ移行した。一方、200～300画面に及ぶアプリではAIが生み出す大量の変更案に対し、人間の最終チェックが追いつかない新たな課題が発生している。品質担保の仕組みと人の役割を、開発・デザイン両統括者に聞いた。",
+      "source": "ITmedia AI+",
+      "icon": "🇯🇵",
+      "lang": "ja",
+      "published": "2026-11-15T22:00:00",
+      "image_url": "https://image.itmedia.co.jp/business/articles/2611/16/cover_news031.jpg",
+      "body_ja": "これまで1日、2日と時間を要していたUIやプロトタイプの作成が、いまでは数十分で完了する──。\n生成AIの急速な浸透は、メルカリのアプリ開発現場に革新をもたらした。これまではフロントエンド（画面デザイン担当）からバックエンド（裏側のシステム担当）と専門ごとに役割を分けていたが、いまは1〜3人の少人数チームで、利用者が触れる画面の見た目から裏側の仕組みまでを一気に組み上げる「フルスタック開発」へと体制を切り替えている。\nデザイナーやエンジニアといった従来の職能別の分業は解体。誰もがアイデアをそのまま形にできる「プロダクトビルダー」へと変わる「AIネイティブな組織改編」を進めている。\n一方で開発のスピードが速くなったことによって、現場には“新たな壁”が立ちはだかった。200〜300の画面で構成され、毎週のように改修が加えられるアプリにおいて、AIによって増えたコードやデザインの変更に対して「人間によるレビューと品質担保」が追いつかなくなっている。生成AI時代の新たなボトルネックが発生している"
+    },
+    {
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-15T21:56:35",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800"
+    },
+    {
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+      "source": "TechCrunch AI",
+      "icon": "🤖",
+      "lang": "en",
+      "published": "2026-11-15T20:20:57",
+      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525"
     },
     {
       "title": "Where was Nvidia’s security team?",
@@ -19,16 +249,6 @@
       "lang": "en",
       "published": "2026-11-15T00:08:07",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024"
-    },
-    {
-      "title": "密輸対策のチップ位置確認は可能、エヌビディアが議員に非公開で説明",
-      "url": "https://ascii.jp/elem/000/004/451/4451604/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png\" width=\"60\" />中国への高性能AI半導体の密輸対策としてチップの所在地確認を義務付ける米法案をめぐり、エヌビディアの担当者が非公開の場で技術的に対応可能との見解を米下院議員に伝えていたという。取材に応じた議員が明らかにした。ジェンスンCEOの辞任とスパイ疑惑を受け、この法案が改めて注目を浴びている。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-14T22:14:28",
-      "image_url": "https://ascii.jp/img/2019/11/06/1510916/s/ed8de61ce6796246.png"
     },
     {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -61,97 +281,6 @@
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024"
     },
     {
-      "title": "4Kで、最大10倍ズームで、バッテリー式。それで1万5980円？ Ringの新型屋外カメラ",
-      "url": "https://ascii.jp/elem/000/004/450/4450961/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/12/4551121/s/492bf2e175a6ff38.jpg\" width=\"60\" />Amazonの新型屋外カメラ「Ring Outdoor Cam 4K Plus Battery」が予約受付中。価格は15,980円で、11月17日発売予定。高精細なRetinal 4K映像と最大10倍ズームに対応し、Ringの4Kカメラとして初めてバッテリー給電を採用した。玄関の軒下から裏庭のフェンスまで、設置場所の自由度が広がる新モデルだ。</p><br clear",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-14T12:50:00",
-      "image_url": "https://ascii.jp/img/2026/11/12/4551121/s/492bf2e175a6ff38.jpg"
-    },
-    {
-      "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
-      "summary": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-14T11:35:45",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/13/2000003164/10012056/2048",
-      "body_ja": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」（1/2 ページ）\n日本時間の2026年11月13日午前8時55分現在、「Microsoft Outlook」や「Microsoft Teams」「Microsoft 365 Copilot」など「Microsoft 365」の複数サービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。\nこの影響で、米OpenAIの「ChatGPT」と米Anthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。Anthropicは「メール、カレンダー、検索ツールのほとんどのリクエストで動作しない」とし、「Claude for Outlook」も影響を受けているという。\nMicrosoftは現在、影響を受けたサーバの一部を順次復旧させており、安定した状態を維持しているという。また、代替経路でトラフィックを接続するこ"
-    },
-    {
-      "title": "タブレットに変形する「VAIO T」が発売記念で3万3000円オフに。手に入れるなら、いまだ！",
-      "url": "https://ascii.jp/elem/000/004/451/4451456/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/13/4551915/s/1324b55423732982.png\" width=\"60\" />VAIO直販に注目。「VAIO T ;Copilot+ PC」が「発売記念特別価格」として、3万3000円の値引きが適用され、34万1000円で購入できる。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-14T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/13/4551915/s/1324b55423732982.png"
-    },
-    {
-      "title": "4K動画編集にも使えるRTX 5070 Ti搭載デスクトップPCが、なんと11万円オフ！",
-      "url": "https://ascii.jp/elem/000/004/451/4451453/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/13/4551896/s/81b413a0b65f5619.png\" width=\"60\" />マウスコンピューターがハロウィンセールを実施中。4K動画編集にも使えるRTX 5070 Ti搭載デスクトップPC「DAIV FM-A9G7T」が、なんと11万円オフ！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-14T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/13/4551896/s/81b413a0b65f5619.png"
-    },
-    {
-      "title": "レノボ「ThinkPad X1 Carbon Gen 13」が、まさかの“49%オフ”に！",
-      "url": "https://ascii.jp/elem/000/004/451/4451429/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/13/4551886/s/cec61043c3643c4a.png\" width=\"60\" />レノボ・ジャパンが「BLACK FRIDAY ThinkPadセール」を開催中。 対象モデルの「ThinkPad X1 Carbon Gen 13」は、まさかの“49%オフ”に！</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-14T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/13/4551886/s/cec61043c3643c4a.png"
-    },
-    {
-      "title": "買うしかねえ。ゲーミングPCの「32GBメモリー」へのアップグレードが、わずか1万6500円だ！",
-      "url": "https://ascii.jp/elem/000/004/449/4449765/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/04/4547761/s/c044861c7a539006.png\" width=\"60\" />BTOパソコンメーカーのSTORM（ストーム）では、対象パソコンのメモリカスタマイズ費用を25%オフにするキャンペーンを実施している。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-14T11:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/04/4547761/s/c044861c7a539006.png"
-    },
-    {
-      "title": "23.8型の一体型デスクトップPCがFMV直販で24万4200円！ さらにクーポン利用で2200円オフ",
-      "url": "https://ascii.jp/elem/000/004/451/4451424/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png\" width=\"60\" />FMVパソコン通販サイト「FMV Store」では、複数のモデルを対象にセールを開催中。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-14T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/04/24/4457952/s/de9ac1662f82d96a.png"
-    },
-    {
-      "title": "夏コミでもバズった千葉心羽（みうちゃん）が念願の「Cream」に初掲載。こだわりのポイントも熱く語る！",
-      "url": "https://ascii.jp/elem/000/004/450/4450557/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2026/11/11/4550591/s/84fe6166a6a08e43.jpg\" width=\"60\" />「フィギュア体型のアニメおたく」を掲げて活動中。2.5次元グラドルの千葉心羽さんが、制服美少女誌「Cream 2026年12月号」の掲載記念イベントを11月6日、神保町の書泉グランデで開催した。</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-14T10:00:00",
-      "image_url": "https://ascii.jp/img/2026/11/11/4550591/s/84fe6166a6a08e43.jpg"
-    },
-    {
-      "title": "失敗しないオープンイヤー型集音器の選び方＆人気おすすめモデル7選を徹底比較",
-      "url": "https://ascii.jp/elem/000/004/451/4451605/?rss",
-      "summary": "<p><img align=\"left\" height=\"60\" src=\"https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg\" width=\"60\" />失敗しないオープンイヤー型集音器の選び方＆人気おすすめモデル7選を徹底比較</p><br clear=\"left\" />",
-      "source": "ASCII AI",
-      "icon": "📡",
-      "lang": "ja",
-      "published": "2026-11-14T09:30:00",
-      "image_url": "https://ascii.jp/img/2019/05/13/1510511/s/5e76a3dd2752b473.jpg"
-    },
-    {
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
@@ -160,17 +289,6 @@
       "lang": "en",
       "published": "2026-11-13T22:43:00",
       "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024"
-    },
-    {
-      "title": "NVIDIAをつくった男、ジェンスン・フアン　“デニーズの皿洗い“から“AI時代の主役“へ、激動の半生",
-      "url": "https://www.itmedia.co.jp/business/articles/2611/14/news008.html",
-      "summary": "ダイナーの一角から、AI時代の主役「NVIDIA」を生み出したジェンスン・フアン氏。“皿洗い”から億万長者へと至った半生を振り返る。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-13T22:30:00",
-      "image_url": "https://image.itmedia.co.jp/business/articles/2611/14/cover_news008.jpg",
-      "body_ja": "米NVIDIAを、道端のダイナーから世界的なAIブームの中心へと導いた、共同創業者のジェンスン・フアン氏（63歳）。同氏は11月12日、NVIDIAのCEOの職を辞し、33年間にわたる半導体メーカーの経営トップとしてのキャリアに幕を下ろした。\nNVIDIAの取締役会によると、フアン氏は取締役の職も辞任した。取締役会は、最高財務責任者（CFO）のコレット・クレス氏を暫定CEOに任命し、正式なCEOについては社内外の候補者から検討すると発表した。\n同社は、フアン氏が辞任した理由を明らかにしていない。辞任の発表は、中国のスパイ疑惑がある女性とフアン氏が不倫関係にあると報道があった数日後の出来事だった。さらに、フアン氏直属のNVIDIA上級幹部とも不倫関係にあったと報じられていた。\n発表を受け、NVIDIAの株価は10％を超える下落を記録した。\nフアン氏は、1963年2月17日に台湾で生まれた。父親の仕事の都合で家族ごとタイへ移住したため、幼少期はタイで過ごした。\n両親はその後、米ワシントン州タ"
     },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
@@ -226,36 +344,6 @@
       "body_ja": "応募数が増えるたびに一次面接の日程調整と実施が人事に積み上がり、面接官ごとの評価のばらつきにも悩んでいないでしょうか。\n解決策の一つが、質問と評価の一部をAIが担うAI面接官です。ただし、AIに任せる範囲と運用ルールを決めないまま導入すると、候補者への説明や個人情報の扱いで社内の合意が止まります。\n本記事では、AI面接官の仕組みを押さえたうえで、サービスの選び方、料金の目安、導入手順、人事が守るべき運用ルールを公式情報に基づいて解説します。\n読み終える頃には、自社の選考のどこにAI面接官を入れるかを決め、稟議と運用設計に進める状態になります。ぜひ最後までお読みください。\nAI面接官とは何か\nAI面接官を理解するには、次の3つを押さえます。\n- AI面接官の仕組みと評価される項目\n- オンライン面接との違い\n- AI面接官が使われる選考フェーズ\n3つを順に確認すると、自社のどの業務を任せられるかが具体的に見えてきます。\nAI面接官の仕組みと評価される項目\nAI面接官とは、質問の提示から回答"
     },
     {
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-13T16:00:12",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/chatgpt-wallet.jpg?resize=1200,729"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-13T15:58:00",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024"
-    },
-    {
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "source": "TechCrunch AI",
-      "icon": "🤖",
-      "lang": "en",
-      "published": "2026-11-13T14:44:48",
-      "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-13-at-7.19.18-PM.jpg?resize=1200,774"
-    },
-    {
       "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
       "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former execut",
@@ -281,94 +369,6 @@
       "icon": "🔬",
       "lang": "en",
       "published": "2026-11-13T10:00:00"
-    },
-    {
-      "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
-      "summary": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-13T03:00:00",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/13/2000003110/10011881/2048",
-      "body_ja": "Innovative Tech\nGoogleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も\nInnovative Tech：\n2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shiropen2\n米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。\nGoogleではすでにコードの75%以上がAI"
-    },
-    {
-      "title": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか　“新たな一手”のねらいを聞いた",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/",
-      "summary": "既存モデルの活用に注力してきたSakana AIが、自社で一からAIモデルの開発を始めた。なぜ今なのか。背景や狙いを聞いた。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-13T01:44:00",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/13/2000003141/10011983/2048",
-      "body_ja": "「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか “新たな一手”のねらいを聞いた\n「好機が来た」――Sakana AIは、自社で一からAIモデルを開発しはじめた理由についてこのように表現する。モデルの名前は「Sakana Sawara（仮称）」。同社が10月26日に開催したシンポジウムで発表した。\n日本のAI開発には、大きく分けて2つの方向性がある。海外企業のオープンなAIモデルをベースに、応答や振る舞いを調整する事後学習によって日本向けにするものと、既存のモデルを基にせず、大量のデータによって言語や知識を学ばせる事前学習から手掛けるものだ。\nSakana AIはこれまで、さまざまな研究開発に取り組みながら、主に前者に注力する姿勢を見せてきた。なぜ今、Sakana Sawara（仮称）の開発に乗り出したのか。背景や狙いをSakana AIに聞いた。回答は書面で得た。\n数千億パラメータ以上のモデルも視野\nSakana Sawara（仮称）は、自律的にタスクをこなす"
-    },
-    {
-      "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
-      "summary": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした可能性があることを明らかにした。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-13T01:22:05",
-      "image_url": "https://www.itmedia.co.jp/aiplus/article/ogp/2611/13/2000003172/10012075/2048",
-      "body_ja": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り（1/2 ページ）\nクラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした可能性があることを明らかにした。11月12日（日本時間）までに、Notionのヘルプページで公表した。\n同事案はNotion Labsが11月9日（現地時間、以下同）に発表したもの。一部のAI処理を委託している米Fireworks.aiへの不正アクセスが原因で、Notion AIの利用状況を分析する機能「Insights」のチャット記録が漏えいした恐れがある。\nZDRとは、ユーザーがAIサービスに入出力した情報を、サービスの提供側で保存しないとする取り決めのことだ。主にデータの保護のために利用される。\nNotion Labsによると、Insigh"
-    },
-    {
-      "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
-      "url": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
-      "summary": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-12T23:04:46",
-      "image_url": "https://www.itmedia.co.jp/news/article/ogp/2611/13/2000003162/10012050/2048",
-      "body_ja": "Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能\n米Googleは11月12日（現地時間）、AIモデル「Gemini 4 Hydrogen」を発表し、同日から世界で順次提供を始めた。日常的なコーディングやAIエージェントによる作業に向けて、速度と効率を重視したモデル。長く深い推論を担う「Gemini 4 Argon」「Gemini 4 Carbon」に続く、Gemini 4シリーズで3つ目のモデルになる（それぞれ元素名のアルゴン、炭素、水素に由来）。同社はHydrogenを、エージェントを使った作業で日常的に使う主力モデルと位置付けている。\n第三者機関のAI性能指標「Artificial Analysis Intelligence Index」では、標準の思考レベルで51ポイントとなり、Argon（50ポイント）を上回った。前世代の軽量モデル「Gemini 3.8 Flash」と比べると、タスクを約2.5倍の速さで終えるという。思考レベルはl"
-    },
-    {
-      "title": "NECがデータカタログ1435個を1年で整備　AIによる意思決定支援への挑戦",
-      "url": "https://www.itmedia.co.jp/enterprise/articles/2610/30/news006.html",
-      "summary": "NECは5年間でデータ基盤を整え、従業員から経営トップまでが同じダッシュボードで判断する文化を定着させた。だが、AIで経営の意思決定を支援する段階に進もうとしたとき、人の利用を前提に整備したデータカタログだけでは「足りない」ことに気付いたという。何が足りず、どう補おうとしているのか。同社の関徳昭氏が講演で語った。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-12T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/enterprise/articles/2610/30/cover_news006.jpg",
-      "body_ja": "NECは5年間でデータ基盤を整え、従業員から経営トップまでが同じダッシュボードで判断する文化を定着させた。だが、AIで経営の意思決定を支援する段階に進もうとしたとき、人の利用を前提に整備したデータカタログだけでは「足りない」ことに気付いたという。何が足りず、どう補おうとしているのか。同社の関徳昭氏が講演で語った。\nこの記事は会員限定です。会員登録すると全てご覧いただけます。\n本稿は、アイティメディアが主催したオンラインイベント「Enterprise IT Summit 2026 春 DXを『事業の力』に変えるために」（開催日：2026年5月18〜21日）でNECの関徳昭氏（コーポレートIT・AIイノベーション部門 AIプラットフォーム統括部 シニアディレクター）が「経営意思決定のためのAIとデータ活用」というテーマで講演した内容を編集部で再構成したものだ。本稿に記載している情報の一部は講演当時のもので、現在は変更している可能性がある。\nNECは過去5年間、「社内のDX」「お客さまのDX」"
-    },
-    {
-      "title": "設計／製造から工場運用へ、オートデスクが描く工場全体の最適化戦略",
-      "url": "https://monoist.itmedia.co.jp/mn/articles/2611/13/news012.html",
-      "summary": "オートデスクは、製品の設計／製造から工場の計画／設計、シミュレーション、設備保全まで支援領域を広げている。「JIMTOF2026」の開催にあわせて来日した米国本社の幹部2人に、M&amp;Aを通じた事業領域の拡大や、工場全体の最適化に向けた構想、AI活用の方向性などについて話を聞いた。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-12T23:00:00",
-      "image_url": "https://image.itmedia.co.jp/mn/articles/2611/13/cover_news012.jpg",
-      "body_ja": "オートデスクは、製品の設計／製造から工場の計画／設計、シミュレーション、設備保全まで支援領域を広げている。「JIMTOF2026」の開催にあわせて来日した米国本社の幹部2人に、M&Aを通じた事業領域の拡大や、工場全体の最適化に向けた構想、AI活用の方向性などについて話を聞いた。\nオートデスクは「JIMTOF2026（第33回日本国際工作機械見本市）」（2026年10月26〜31日、東京ビッグサイト）に出展し、製造業向けクラウドおよび製品開発プラットフォームである「Autodesk Fusion」（以下、Fusion）を中心に、AI（人工知能）を活用した設計／製造業務の効率化や、製品ライフサイクル全体にわたるデータ連携などを紹介した。\n同社が現在、力を入れているのが、従来の設計／製造領域にとどまらない、工場の計画／設計からシミュレーション、運用、設備保全までを視野に入れた事業の拡大だ。その実現に向け、M&Aや外部企業との連携を進めるとともに、設計／製造データを基盤としたAI活用にも取り組ん"
-    },
-    {
-      "title": "AIエージェントを「追えない、止められない」　約半数が経験する“暴走”、浮上する3つの盲点",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news036.html",
-      "summary": "APIセキュリティベンダーSalt Securityの調査では、約半数の組織がAIエージェントによる意図しない行動を確認していることが分かった。一方で組織は、AIエージェントの想定外の行動を自動的に止められていない。対策として何が求められるのか。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-12T22:45:00",
-      "image_url": "https://image.itmedia.co.jp/ait/articles/2611/13/cover_news036.jpg",
-      "body_ja": "APIセキュリティベンダーSalt Securityの調査では、約半数の組織がAIエージェントによる意図しない行動を確認していることが分かった。一方で組織は、AIエージェントの想定外の行動を自動的に止められていない。対策として何が求められるのか。\nこの記事は会員限定です。会員登録（無料）すると全てご覧いただけます。\nAPIセキュリティベンダーSalt Securityは2026年10月13日（米国時間）、AIエージェントとAPIのセキュリティに関する調査レポート「The State of Agentic AI and API Security 2H 2026」を公開した。調査は、380を超える組織のセキュリティとテクノロジーの専門家を対象に、AIエージェントに関する過去12カ月の経験を聞いたものだ。\n調査では、回答者の86.4％が、自組織で少なくとも1つのAIエージェントを稼働させていると回答。半数超は10以上のAIエージェントを稼働させている。\nAIエージェントの普及と同時に、その稼働"
-    },
-    {
-      "title": "JR九州の非IT部門がGeminiでPythonアプリを内製開発　2?3カ月で完成させた方法",
-      "url": "https://kn.itmedia.co.jp/kn/article/2611/13/2000003142/",
-      "summary": "JR九州は「Google Workspace with Gemini」を導入して非エンジニアによる業務アプリの内製化を進めている。IT人材不足や外部ベンダー依存といった課題の解決だけではない、同社が内製開発に取り組む理由とは。",
-      "source": "ITmedia AI+",
-      "icon": "🇯🇵",
-      "lang": "ja",
-      "published": "2026-11-12T22:00:00",
-      "image_url": "https://kn.itmedia.co.jp/kn/article/ogp/2611/13/2000003142/10011985/2048",
-      "body_ja": "JR九州の非IT部門がGeminiでPythonアプリを内製開発 2～3カ月で完成させた方法\nJR九州は「Google Workspace with Gemini」を導入して非エンジニアによる業務アプリの内製化を進めている。IT人材不足や外部ベンダー依存といった課題の解決だけではない、同社が内製開発に取り組む理由とは。\n人口減少や人手不足が進む中、九州旅客鉄道（JR九州）は事業の持続性を高めるため、DXを通じたオペレーション変革と新たな価値創造を急いでいた。しかし、現場から上がる業務改善の要望を全て社内のIT部門で引き受けるにはリソースが足りない。かといって外部ベンダーに委託すれば多額のコストと時間がかかる。この「IT人材不足」と「ベンダー依存」は、多くの企業が直面する共通の課題だ。\nそこで同社は、現場の担当者が自ら業務アプリを開発する武器として生成AIに着目した。2025年秋から「Google Workspace with Gemini」を導入して、運輸部門や営業部門など、非IT部門に"
     },
     {
       "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
@@ -511,6 +511,6 @@
       "body_ja": "AIエージェントを本番に出したものの、誤った操作が起きたとき誰が何を見て止めるのか決まっていない。本記事では、AIエージェントの運用で管理すべき7つの項目と、運用を始める5つのステップを、運用設計書や稟議にそのまま使える形で解説します。\nPoCではうまく動いたAIエージェントも、本番では誤回答や想定外のツール実行が起こります。従来のシステム監視だけでは判断の正しさを確かめられず、運用担当が不安を抱えたまま利用だけが広がりがちです。\nGartnerは、2027年末までにエージェント型AIプロジェクトの40%超が中止されると予測しています。理由として挙げられているのは、コストの高騰、ビジネス価値の不明確さ、不十分なリスク管理です。運用の仕組みがないまま広げると、原因を追えずにプロジェクトごと止まる側に入るでしょう。\n出典：Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027（Gartn"
     }
   ],
-  "last_updated": "2026-11-15T10:29:45.252309+09:00",
+  "last_updated": "2026-11-16T10:32:44.877886+09:00",
   "count": 50
 }
